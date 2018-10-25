@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+41 Q0 CACM-3128 1  36.131425557253735 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+SYNCHRONIZATION with Eventcounts and Sequencers SYNCHRONIZATION of concurrent processes requires controlling the relative ordering of events in the processes A new SYNCHRONIZATION mechanism is proposed , using abstract objects called eventcounts and sequencers , that allows processesto control the ordering of events directly , rather than using mutualexclusion to protect manipulations of shared variables that controlordering of events Process SYNCHRONIZATION , interprocess communication , distributedsystems , security models , mutual exclusion , semaphores 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3043 2  34.32678006994803 BM25
+
+
+Distributed Processes: A Concurrent Programming Concept
+
+
+CA781108 DH January 26, 1979  10:40 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2578 3  33.8753410306831 BM25
+
+
+Self-stabilizing Systems in Spite of Distributed Control
+multiprocessing , networks , self-stabilization , SYNCHRONIZATION , mutual exclusion , robustness , sharing , error recovery , distributed control , harmonious cooperation , self-repair 
+
+CA741106 JB January 16,1978  10:18 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3082 4  31.97123665177861 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+The use of the total ordering is illustrated with a method for solving synchronizationproblems Distributed systems , computer networks , clock SYNCHRONIZATION , multiprocess systems 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3148 5  29.570078508390857 BM25
+
+
+High Level Programming for Distributed Computing
+Programming for distributed and other loosely coupled systemsis a problem of growing INTEREST 
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3137 6  24.703735932125287 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3141 7  23.960807461741364 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2128 8  23.61863973606985 BM25
+
+
+A Processor Allocation Method for Time-Sharing
+
+
+CA700103 JB February 14, 1978  2:15 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2849 9  23.342779860480036 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Ethernet is a branching broadcast communicationsystem for carrying digital data packets among locally distributed computing stations Coordination of access to the Ether for packetbroadcasts is distributed among the contending transmitting stations using controlled statistical arbitration Switching of packets to their destinations on the Ether is distributed among the receiving stationsusing packet address recognition 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2371 10  22.508575236312264 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2969 11  22.347191476374547 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+computer networks , DATABASES , distributeddatabases , optimal file location 
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1747 12  21.880722571598575 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+Three possible criteria of thiskind are input recordability , input specifiability , and ASYNCHRONOUS reproducibility of output computer design , computer design criteria , computersystems , computer systems design , input equipment , input equipment design , operating systems , operatingsystems design , multiprogramming , multiprogrammed systems , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , information security , information privacy , computing RELIABILITY , debugging , program debugging , program testing , parallel processing , parallel programming , multiprocessing Examples of applicationsof the criteria concern the reading of a time-of-day clock , the SYNCHRONIZATION of parallelprocesses , protection in multiprogrammed systems , and the assignment of capability indexes 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2080 13  21.34675881256613 BM25
+
+
+The Nucleus of a Multiprogramming System
+
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1751 14  20.917497129368247 BM25
+
+
+The Working Set Model for Program Behavior
+`` Process '' and `` working set '' are shown tobe manifestations of the same ongoing computational activity ; then `` processor demand '' and `` memory demand '' are defined ; and resource allocation is formulated as the problem of balancing demands against available equipment 
+
+CA680505 JB February 23, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2949 15  20.740322912653543 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2912 16  19.468650566928112 BM25
+
+
+Concurrent Reading and Writing
+The problem of sharing data among asynchronousprocess is considered ASYNCHRONOUS multiprocessing , multiprocess SYNCHRONIZATION , readers/writers problem , shared data 
+
+CA771104 JB December 27, 1977  7:47 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2276 17  19.06633121935048 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+For the exponential distribution a definite recommendationcan be made , whereas in the case of the normal distribution there remains a choice between slower andshorter algorithms and faster but space consuming methods 
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2522 18  18.738737820052194 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-0052 19  18.56406855143768 BM25
+
+
+An Efficient Method for Generating Uniformly DistributedPoints on the Surface on an n-Dimensional Sphere (Corrigendum)
+
+
+CA591007 JB March 22, 1978  4:12 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2740 20  17.97197691485494 BM25
+
+
+A Large Semaphore Based Operating System
+cooperating processes , operating system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , operating system structure , ASYNCHRONOUS structuring , buffering , parallel processes , synchronizingprimitives , reentrant code , RC 4000 , project management , time schedule , debugging , project planning , project scheduling , RELIABILITY , program proving , coroutines , correctness , program maintenance , software paging 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1780 21  17.924272849746288 BM25
+
+
+Harmonic Analysis for SymmetricallyDistributed Data (Algorithm 320 [C6])
+
+
+CA680202 JB February 23, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2376 22  17.698748125346143 BM25
+
+
+Synchronization of Communicating Processes
+SYNCHRONIZATION of COMMUNICATING Processes Formalization of a well-defined synchronizationmechanism can be used to prove that concurrently running processes of a system communicate correctly The formal description of the synchronizationmechanism makes it very easy to prove that the buffer will neither overflow nor underflow , that senders and receivers will never operate on the same message frame in the buffer nor will they run into a deadlock 
+
+CA720305 JB January 31, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1960 23  17.452083675581747 BM25
+
+
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+
+CA701203 JB February 9, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2406 24  17.36255109184566 BM25
+
+
+A Data Definition and Mapping Language
+
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2342 25  16.94905207497636 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference Between COMMUNICATING Parallel Processes Various kinds of interference between communicatingparallel processes have been examined by Dijkstra , Knuth , and others 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2596 26  16.9234690571761 BM25
+
+
+A Weighted Buddy Method for Dynamic Storage Allocation
+
+
+CA741002 JB January 16, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2323 27  16.76319636402541 BM25
+
+
+Toward a General Theory of Special Functions
+
+
+CA720705 JB January 30, 1978  3:07 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2895 28  16.572213305404183 BM25
+
+
+A Language for Formal Problem Specification
+A language for specifying the in tended behaviorof COMMUNICATING parallel processes is described formal specifications , program correctness , parallelprocessing , SYNCHRONIZATION , readers/writers problem 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2504 29  16.412713900822663 BM25
+
+
+Concerning Music and Computer Composition in Computational Linguistics
+
+
+CA730516 JB January 23, 1978  4:27 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2672 30  16.394981405819983 BM25
+
+
+Emotional Content Considered Dangerous
+
+
+CA740311 JB January 18, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2482 31  16.295199302745466 BM25
+
+
+Mixed Solutions for the Deadlock Problem
+
+
+CA730704 JB January 23, 1978  12:46 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1153 32  16.264196000843057 BM25
+
+
+A Fast Procedure for Generating Normal Random Variables*
+
+
+CA640101 JB March 10, 1978  5:43 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2255 33  16.1438369808873 BM25
+
+
+Comments on Moorer's Music and Computer Composition
+
+
+CA721114 JB January 27, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-0088 34  15.940685101051931 BM25
+
+
+An Efficient Method for Generating Uniformly DistributedPoints on the Surface of an n-DimensionalSphere
+
+
+CA590404 JB March 22, 1978  7:10 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2597 35  15.789793956978059 BM25
+
+
+Monitors: An Operating System Structuring Concept
+It introduces a form of SYNCHRONIZATION , describesa possible method of implementation in terms of semaphores and gives a suitable proof rule monitors , operating systems , scheduling , mutualexclusion , SYNCHRONIZATION , system implementation languages , structured multiprogramming 
+
+CA741001 JB January 16, 1978  1:23 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3072 36  15.577096557155322 BM25
+
+
+Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor Computer System
+
+
+CA780806 DH February 5, 1979  4:01 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2454 37  15.396127298542156 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1948 38  15.209582448551442 BM25
+
+
+Computers in Group Theory: a Survey
+
+
+CA690101 JB February 20, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2435 39  15.169683962633622 BM25
+
+
+A Class of Dynamic Memory Allocation Algorithms
+
+
+CA731005 JB January 20, 1978  11:38 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2900 40  15.074625143735144 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3119 41  14.977048391238718 BM25
+
+
+The Impact of Distributions and Disciplineson Multiple Processor Systems
+
+
+CA790104 DH April 10, 1979  12:10 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1828 42  14.315551457495891 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+SYNCHRONIZATION in a Parallel-Accessed Data Base The following problem is considered : Givena data base which can be manipulated simultaneously by more than one process , what are the rules for synchronizationwhich will maximize the amount of parallel activity allowed Methods for SYNCHRONIZATION of processes are examined ; their validity isdiscussed and their performance compared parallel accessing , parallel search , file search , data base , SYNCHRONIZATION , locking , deadlock 
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1924 43  14.007980157808941 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1951 44  13.97489075934293 BM25
+
+
+Estimates of Distributions of Random Variablesfor Certain Computer Communications Traffic Models
+The model used iselementary in the sense that many of the random variables thatgenerally are of INTEREST in computer communications studies can bedecomposed into the elements of this model 
+
+CA701212 JB February 9, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1380 45  13.951861162943972 BM25
+
+
+SIMULA-an ALGOL-Based Simulation Language
+
+
+CA660907 JB March 2, 1978  6:21 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2950 46  13.77843722408116 BM25
+
+
+A Unifying Approach to Scheduling
+
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3076 47  13.556645839779133 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+The value positions implicit in EFT proposalshelp to organize analyses of market arrangements , system RELIABILITY , and privacy of TRANSACTIONS Electronic funds transfer systems , social impactsof computing , privacy , social choice , computer networks , network RELIABILITY , security , social values 
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2816 48  13.484419224654662 BM25
+
+
+Optimal Reorganization of Distributed Space Disk Files
+
+
+CA761107 JB January 3, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2955 49  13.474072622122069 BM25
+
+
+Buddy Systems
+
+
+CA770608 JB December 28, 1977  1:20 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3156 50  13.42411153185665 BM25
+
+
+Computing Connected Components on Parallel Computers
+
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1846 51  13.42395966190219 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3086 52  13.351040548544342 BM25
+
+
+On the Complexity of Computing the Measure of U[ai, bi]
+The existence of an ( n log n ) LOWER boundto determine whether any two of n real numbers are within of each other is also demonstrated Analysis of algorithms , combinatorial problems , computational complexity , computational models , decision tree programs , LOWER BOUNDS 
+
+CA780702 DH February 8, 1979  3:46 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3073 53  13.27840238519018 BM25
+
+
+Communicating Sequential Processes
+COMMUNICATING Sequential Processes This paper suggests that input and output arebasic primitives of programming and that parallel composition of COMMUNICATING sequential processes isa fundamental program structuring method 
+
+CA780805 DH February 7, 1979  10:07 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3124 54  13.247279079818659 BM25
+
+
+Recursive Data Structures in APL
+
+
+CA790203 DH April 10, 1979  3:41 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3153 55  13.174141430833119 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+Numerical solutions and economical LOWER BOUNDS for theexpected response times as functions of the control parametersare obtained 
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1877 56  13.137785235750991 BM25
+
+
+Prevention of System Deadlocks
+
+
+CA690703 JB February 17, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2890 57  13.125375911112574 BM25
+
+
+On Quadratic Adaptive Routing Algorithms
+Two analytic models of a store-and-forward communicationsnetwork are constructed , one to find the optimal message routing and the other to illustratethe equilibrium ( stationary state ) maintained by an adaptive routing algorithm 
+
+CA760103 JB January 5, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2616 58  12.936782812429023 BM25
+
+
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+
+CA740808 JB January 17, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2327 59  12.9046937028622 BM25
+
+
+Toward an Automata Theory of Brains
+
+
+CA720701 JB January 30, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2320 60  12.890834157334007 BM25
+
+
+Structured Multiprogramming
+
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3059 61  12.862626505887942 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2111 62  12.795267624900971 BM25
+
+
+Spelling Correction in Systems Programs
+
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1959 63  12.656357980215569 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1935 64  12.625410529827494 BM25
+
+
+Randomized Binary Search Technique
+
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2738 65  12.615878109137022 BM25
+
+
+Use of the Concept of Transparency in theDesign of Hierarchically Structured Systems
+hierarchical systems , bottom up design , levelsof abstraction , SYNCHRONIZATION primitives 
+
+CA750704 DMM January 31, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1752 66  12.573694925608793 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2317 67  12.489511445433815 BM25
+
+
+Programming Systems and Languages 1965-1975
+There is a great deal of theoretical INTEREST in Algol 68and in extensible languages , but so far at least they have had little practical impact Important trends include the increased INTEREST in the development ofsystem measurement and evaluation techniques , and increased use of microprogramming for some programming system functions 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1928 68  12.48161499366673 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+The passage oftime is simulated in a precise , quantitative fashion and systems to be simulated may be combinations of synchronousand ASYNCHRONOUS logic 
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2541 69  12.472314625610215 BM25
+
+
+An Overview of the ISPL Computer System Design
+
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2020 70  12.407878854996152 BM25
+
+
+The Allocation of Computer Resources-Is Pricing the Answer?
+
+
+CA700801 JB February 10, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1967 71  12.352950942185942 BM25
+
+
+An Improved Algorithm to Produce Complex Primes (Algorithm 401 $A1))
+
+
+CA701112 JB February 9, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2927 72  12.301832066488865 BM25
+
+
+Some New Upper Bounds on the Generation of Prime Numbers
+This upper bound is shown to be equivalentto the theoretical LOWER bound for sieve methods without preprocessing Some New Upper BOUNDS on the Generation of Prime Numbers 
+
+CA770907 JB December 27, 1977  12:55 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1247 73  12.171076323459332 BM25
+
+
+An Operating Environment for Dynamic-RecursiveComputer Programming Systems
+
+
+CA650608 JB March 6, 1978  10:18 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2373 74  12.168292807718071 BM25
+
+
+Properties of the Working-Set Model
+
+
+CA720308 JB January 31, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2016 75  12.146962542026735 BM25
+
+
+The Instrumentation of Multics
+Someparticular measurements of INTEREST in a system which combines demand paging with multiprogramming are described in detail 
+
+CA700805 JB February 10, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2476 76  12.123057059181953 BM25
+
+
+Equivalence Between AND/OR Graphs and Context-Free Grammars
+
+
+CA730710 JB January 23, 1978  11:21 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1341 77  12.089004297727014 BM25
+
+
+Levels of Computer Systems
+
+
+CA661208 JB March 2, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1745 78  12.044379498889548 BM25
+
+
+A Position Paper on Computing and Communications
+
+
+CA680511 JB February 23, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2784 79  11.965667465138718 BM25
+
+
+Expected Time Bounds for Selection
+A LOWER bound within 9percent of the above formula is also derived Expected Time BOUNDS for Selection 
+
+CA750304 JB January 9, 1978  4:52 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2995 80  11.925407179270342 BM25
+
+
+Decomposability, Instabilities, and Saturationin Multiprogramming Systems (Corrigendum)
+
+
+CA770205 JB December 30, 1977  2:20 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3089 81  11.88222168661472 BM25
+
+
+Performance of Rollback Recovery Systems under Intermittent Failures
+Database RELIABILITY , file systems , checkpoints , recoveryprocedures , checking techniques , RELIABILITY and system performance evaluation 
+
+CA780608 DH February 9, 1979  10:26 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2069 82  11.864602602103052 BM25
+
+
+Comments on a Paper by Wallace and Mason
+
+
+CA700415 JB February 13, 1978  2:36 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2580 83  11.800419382859836 BM25
+
+
+A Method for Composing Simple Traditional Music by Computer
+
+
+CA741104 JB January 16, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3025 84  11.727007009212874 BM25
+
+
+The Evolution of the DEC system 10
+
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-0618 85  11.704816354416174 BM25
+
+
+Computers- The Key to Total Systems Control: An Industrial Viewpoint
+
+
+CA620314 JB March 20, 1978  2:53 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1572 86  11.65362209544497 BM25
+
+
+The Simulation of Time sharing Systems
+
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1006 87  11.636208185392078 BM25
+
+
+A Storage Allocation and Reference Structure
+
+
+CA640905 JB March 9, 1978  6:11 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2499 88  11.50772434180513 BM25
+
+
+Efficient Multiprogramming Resource Allocation and Accounting
+
+
+CA730601 JB January 23, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2030 89  11.50302089590586 BM25
+
+
+Context-Sensitive Parsing
+
+
+CA700707 JB February 10, 1978  4:43 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2095 90  11.495211030949303 BM25
+
+
+Measurements of Segment Size
+
+
+CA700303 JB February 13, 1978  4:58 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2290 91  11.48153033861881 BM25
+
+
+Immediate Predominators in a Directed Graph [H] (Algorithm A430)
+
+
+CA720812 JB January 30, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2519 92  11.480688955973145 BM25
+
+
+On the Problem of Communicating Complex Information
+On the Problem of COMMUNICATING Complex Information The nature of the difficulty involved in communicatingmathematical results between scientists using a computer based information retrieval systemis examined These include ways of augmenting writtennatural language by various notational and linguistic devices , the exhibition of the structure inherent in theinformation we are COMMUNICATING , and a sophisticated interactive system controlled by computer 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1978 93  11.441465018690204 BM25
+
+
+The Use of Interactive Graphics To Solve Numerical Problems
+
+
+CA701012 JB February 10, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2346 94  11.4214583165716 BM25
+
+
+Hu-Tucker Minimum Redundancy AlphabeticCoding Method [Z] (Algorithm A428)
+
+
+CA720514 JB January 31, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1754 95  11.303518674452086 BM25
+
+
+Dynamic Storage Allocation Systems
+
+
+CA680502 JB February 23, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3078 96  11.233642245857443 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+Computer-aided algebra , symbol manipulation , Markovprocess , RELIABILITY , redundant structures , on-line computer system 
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2345 97  11.154041756371257 BM25
+
+
+Curriculum Recommendations for GraduateProfessional Programs in Information Systems
+
+
+CA720515 JB January 31, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-3038 98  11.043178908689342 BM25
+
+
+Using Encryption for Authentication in Large Networks of Computers
+Example PROTOCOLS are presented for the establishmentof authenticated connections , for the management of authenticated mail , and for signature verificationand document integrity guarantee Both conventional and public-key encryption algorithms are considered as the basis for PROTOCOLS Encryption , security , authentication , networks , PROTOCOLS , public-key cryptosystems , data encryption standard 
+
+CA781201 DH January 22, 1979  11:18 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-2228 99  11.031071843638255 BM25
+
+
+Comments on Prevention of System Deadlocks
+
+
+CA710106 JB February 8, 1978  10:45 AM
+
+
+--------------------------------------------------------------
+41 Q0 CACM-1552 100  10.971570568135395 BM25
+
+
+The AED Free Storage Package
+
+
+CA670803 JB February 27, 1978  4:40 PM
+
+

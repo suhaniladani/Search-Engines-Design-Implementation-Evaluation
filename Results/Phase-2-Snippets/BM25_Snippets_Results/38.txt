@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+38 Q0 CACM-3105 1  52.653165347529395 BM25
+
+
+A Language Extension for Expressing Constraints on Data Access
+The constraints are stated declaratively , and can be enforced by static checking similar to type checking Programming languages , access control , data types , abstract data types , type checking , capabilities 
+
+CA780502 DH February 26, 1979  3:19 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3031 2  52.136964140477396 BM25
+
+
+Abstract Data Types and Software Validation
+
+
+CA781208 DH January 18, 1979  2:51 PM   
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2958 3  50.48144201393339 BM25
+
+
+Abstract Data Types and the Development of Data Structures
+
+
+CA770605 JB December 29, 1977  1:17 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2956 4  48.6850405903484 BM25
+
+
+Some Ideas on Data Types in High-Level Languages
+
+
+CA770607 JB December 28, 1977  1:27 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3103 5  46.32617181809162 BM25
+
+
+Automatic Data Structure Selection: An Example and Overview
+
+
+CA780504 DH February 26, 1979  1:51 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2470 6  46.305651105006525 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2867 7  44.685763189266844 BM25
+
+
+Modularization and Hierarchy in a Family of Operating Systems
+It is shown that the concepts of MODULE andlevel do not coincide in a hierarchy of functions Family members can share much software as a resultof the implementation of run-time modules at the lowest system level incremental machine design , MODULE , data type , address space , virtual memory 
+
+CA760504 JB January 4, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2939 8  44.21013346474404 BM25
+
+
+Abstraction Mechanisms in CLU
+The CLU library , which permits incremental program developmentwith complete type checking performed at compile time , is also discussed 
+
+CA770804 JB December 28, 1977  7:49 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2651 9  43.99992038130917 BM25
+
+
+The Treatment of Data Types in EL1
+
+
+CA740502 JB January 17, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2082 10  43.65495442856546 BM25
+
+
+Syntax-Directed Documentation For PL 360
+This idea is ( 1 ) to use the PHRASE structure of a program to define the structure of a formal documentation for that program ; ( 2 ) to use the syntactic types and identifiers in the resulting structure to trigger the automaticformation of questions to the programmer , whose answers willbecome part of that documentation ; and ( 3 ) to provide automatic storageand retrieval facilities so that other programmers who wantto understand or modify the program can access the resulting documentation , which is cross-indexed in various ways by syntactic typesand objects The language PL 360 , together with its PHRASE structure grammar , is used as a concrete basis for illustrating an idea called syntax-directed documentation A small PL 360 program , already foundin the LITERATURE , is worked out as an example 
+
+CA700402 JB February 13, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0497 11  43.41165835823909 BM25
+
+
+Further Remarks on Line Segment Curve-Fitting Using Dynamic Programming
+
+
+CA620831 JB March 17, 1978  9:19 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2940 12  43.385580394279444 BM25
+
+
+Abstraction and Verification in Alphard: Definingand Specifying Iteration and Generators
+
+
+CA770803 JB December 28, 1977  7:59 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2905 13  42.19833505486592 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1359 14  41.26286682486328 BM25
+
+
+Data Filtering Applied to Information Storage and Retrieval Applications
+This results in the implementation of a two-part data filter MODULE that satisfies internal processingfunctions by filtering data strings through format declarations associated with its input and output ports 
+
+CA661101 JB March 2, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1727 15  41.121390940112036 BM25
+
+
+One Way of Estimating Frequencies of Jumps in a Program
+In the second part a variant of this algorithm is derived , avoiding the necessity of computation involving large matrices 
+
+CA680702 JB February 22, 1978  3:05 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0867 16  40.955445345834086 BM25
+
+
+Least Squares Fitting of Planes to Surfaces Using Dynamic Programming
+
+
+CA630424 JB March 14, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2184 17  40.90772040656997 BM25
+
+
+On the Meaning of Names in Programming Systems
+Manipulations with CONTEXTS are then discussed at length 
+
+CA710606 JB February 3, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2931 18  40.60657133626387 BM25
+
+
+Logic and Programming Languages
+
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1638 19  40.49682896826661 BM25
+
+
+Sorting by Replacement Selecting
+
+
+CA670204 JB February 28, 1978  3:56 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2265 20  40.34824616554847 BM25
+
+
+A Model for Type Checking
+A Model for Type Checking For correctcompilation and execution , the following question then arises : is a program properly constructed so thatits operations and operands are compatible ? The activity of answering this question is usually calledtype checking This paper attempts to isolate the notion of type checking and presents a partialsolution to the type checking problem based on the notions of abstraction and application of functions An application to type checking in Algol 60 is made , and the attendantproblems faced for any notion of type checking are discussed type checking , types , Lambda calculus , models forprogramming languages , syntax , semantics , compiler writing , language implementation , formal definition 
+
+CA721104 JB January 27, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3057 21  40.232661515005184 BM25
+
+
+Optimal His togram Matching by Monotone Gray Level Transformation
+This is equivalent to placing k1 linearly ordered objects of different sized one by one into k2 linearly orderedboxes of assorted sizes , such that the accumulated error of space under packed or overpackedin the boxes is minimized ; the placement function is monotonic , which ensures a polynomial time solutionto this problem 
+
+CA781004 DH January 29, 1979  6:08 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2957 22  40.203441290523145 BM25
+
+
+Database Abstractions: Aggregation
+
+
+CA770606 JB December 29, 1977  12:33 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2247 23  40.00690296426984 BM25
+
+
+On the Criteria To Be Used in Decomposing Systems into Modules
+On the Criteria To Be Used in Decomposing Systems into Modules The effectiveness of a `` modularization '' is dependent upon the criteria used in dividing thesystem into modules Theunconventional decomposition , if implemented with the conventional assumption that a MODULE consists ofone or more subroutines , will be less efficient in most cases software , modules , modularity , softwareengineering , KWIC index , software design 
+
+CA721208 JB January 27, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1847 24  39.97167865398811 BM25
+
+
+An Algorithm for Finding a Fundamental Set of Cycles of a Graph
+
+
+CA690909 JB February 15, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2941 25  39.96629670425791 BM25
+
+
+Early Experience with Mesa
+The specific topics addressed are : MODULE structure and its use in defining abstractions , data-structuringfacilities in Mesa , an equivalence algorithm for types and type coercions , the benefits of the type systemand why it is breached occasionally , and the difficulty of making the treatment of variant records safe programming languages , types , modules , data structures , systems programming 
+
+CA770802 JB December 28, 1977  8:07 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2876 26  39.733826896979075 BM25
+
+
+Intentional Resolution of Privacy Protection in Database Systems
+
+
+CA760304 JB January 4, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1625 27  39.61483143507096 BM25
+
+
+On the Automatic Simplification of Source-Language Programs
+These methods have been implemented in a processor called SURE that acceptsa program written in JOVIAL and outputs an equivalent JOVIAL program that may be shorter and may be executedfaster than the original SURE is described , some of the problems encountered in automatic improvementat the source-language level are discussed , and further types of automatic program improvement are suggested 
+
+CA670304 JB February 28, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2582 28  39.580853967645346 BM25
+
+
+Improving Locality by Critical Working Sets
+However , the experimental results obtained by using the method to restructure aninteractive text editor and the file system MODULE of an operating system have shown its substantial superiorityover the other methods proposed in the LITERATURE 
+
+CA741102 JB January 16, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3002 29  39.54945311507731 BM25
+
+
+A Record and File Partitioning Model
+
+
+CA770103 JB January 3, 1978  12:28 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1698 30  39.2352082376452 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+It is quite difficult to characterize a particular user , but rather easy to characterize the ENTIRE user community `` No claim is made that a virtual console behaves like any actual console , but the ENTIRE collection ofvirtual consoles models the collection of actual consoles 
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1768 31  39.12826484775187 BM25
+
+
+A Global Parser for Context-Free Phrase Structure Grammars
+A Global Parser for Context-Free PHRASE Structure Grammars An algorithm for analyzing any context-free phrasestructure grammar and for generating a program which can then parse any sentence in the language ( orindicate that the given sentence is invalid ) is described 
+
+CA680402 JB February 23, 1978  11:27 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1062 32  39.058940976755146 BM25
+
+
+Symbol Manipulation in FORTRAN-SASP I Subroutines
+
+
+CA640605 JB March 9, 1978  9:43 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1474 33  39.0568240429352 BM25
+
+
+Tests of Probabilistic Models for Propagation of Roundoff Errors
+
+
+CA660210 JB March 3, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1408 34  38.89503054657429 BM25
+
+
+The Eschenbach Drum Scheme
+
+
+CA660706 JB March 2, 1978  9:29 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3069 35  38.746145936327935 BM25
+
+
+A Practical Interprocedural Data Flow Analysis Algorithm
+
+
+CA780903 DH February 5, 1979  3:07 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2341 36  38.744701070872495 BM25
+
+
+Blocks-A New Data type for SNOBOL4
+
+
+CA720604 JB January 30, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2741 37  38.479635982314406 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2622 38  37.99030886026741 BM25
+
+
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+
+
+CA740802 JB January 17, 1978  10:19 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1433 39  37.939781776676384 BM25
+
+
+A Note on Linear Programming Algorithm Design: A Combinatorial Problem
+
+
+CA660504 JB March 3, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2451 40  37.87083896477326 BM25
+
+
+Design of Tree Structures for Efficient Querying
+
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1327 41  37.82178733853225 BM25
+
+
+Use of Decision Tables in Computer Programming
+
+
+CA650110 JB March 8, 1978  2:36 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1806 42  37.76707323494048 BM25
+
+
+On the Downhill Method
+To AVOID this difficulty and to improve the rate ofconvergence toward a root , some modifications of the original method are proposed and a program ( FORTRAN ) based on the modified method is given in Algorithm 365 An introduction to this method is given and a critical review of relating LITERATURE ispresented 
+
+CA691206 JB February 15, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2568 43  37.75302706712439 BM25
+
+
+A Graph Formulation of a School Scheduling Algorithm
+The problem classically titled `` The ExaminationSchedule Problem '' takes various forms in the LITERATURE 
+
+CA741206 JB January 13, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2051 44  37.65844962720744 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1014 45  37.64101964846361 BM25
+
+
+Machine Controls for Analysis of Variance
+Eventhough the experimenter may not be INTERESTED in these interactions it is impossible to ignore them inmost experimental designs because of the problem of getting error terms 
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2832 46  37.63465148570907 BM25
+
+
+Faster Retrieval from Context Trees (Corrigendum)
+Context trees provide a convenient way ofstoring data which is to be viewed as a hierarchy of CONTEXTS 
+
+CA760907 JB January 4, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0321 47  37.47356306954894 BM25
+
+
+ALGOL 60 Confidential
+
+
+CA610604 JB March 16, 1978  10:48 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1543 48  37.25729423759271 BM25
+
+
+Computer Formulation of the Equations of Motion Using Tensor Notation
+
+
+CA670903 JB February 27, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2356 49  37.2005391066714 BM25
+
+
+A Technique for Software Module Specification with Examples
+A Technique for Software MODULE Specification with Examples software , specification , modules , software engineering , software design 
+
+CA720504 JB January 31, 1978  10:47 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2305 50  37.11099146321443 BM25
+
+
+The "Plankalkul" of Konrad Zuse: A Forerunnerof Today's Programming Languages
+Using modern programming terminology , the Plankalkul is presented to the extent it has possibleto reconstruct it from the published LITERATURE 
+
+CA720723 JB January 30, 1978  10:46 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2937 51  37.019578127890945 BM25
+
+
+An Experimental Evaluation of Data Type Conventions
+
+
+CA770806JB December 28, 1977  7:32 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0670 52  37.01104057355335 BM25
+
+
+Some Legal Implications of the Use of Computers in the Banking Business
+More challenging are questionsrelating to off-premises processors , particularly with respect to the obligation not to disclose informationconcerning a bank 's customers , the adequacy of fidelity bond coverage , the extent of liability forimproper refusal to pay a CHECK , and susceptibility to regulation by government agencies It is essential to identify and provide for many legal aspects rightnow , before systems and practices crystallize , in order to AVOID the later impact of unanticipated physicalcomplications and expense 
+
+CA631204 JB March 13, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1572 53  37.00796782366842 BM25
+
+
+The Simulation of Time sharing Systems
+
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1003 54  36.94570093420964 BM25
+
+
+A Computer Analysis Method For Thermal Diffusion in Biochemical Systems
+
+
+CA640908 JB March 9, 1978  5:13 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2232 55  36.92900708249382 BM25
+
+
+Pattern Width at a Given Angle
+feature extraction , pattern recognition , figureproperties , picture processing , integral geometry , width-at-angle , extent , integral projections , linear pattern measures , width functions 
+
+CA710102 JB February 8, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1398 56  36.92470078695658 BM25
+
+
+Robot Data Screening: A Solution to MultivariateType Problems in the Biological and Social Sciences
+
+
+CA660714JB March 2, 1978  8:26 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2846 57  36.89495279285898 BM25
+
+
+Compressed Tries
+In the analysis part of the paper it will be shown that for a collection of n keys theretrieval time , measured in terms of bit inspections of one key , is of the order logm ( n ) and the storagerequirement of the order n* ( m+log2 n ) bits 
+
+CA760707 JB January 4, 1978  12:26 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1469 58  36.78993960151654 BM25
+
+
+The Next 700 Programming Languages 
+
+
+CA660303 JB March 3, 1978  2:05 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0616 59  36.782149838297194 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+It is hoped that this report will be read ( a ) with avid interest by programming languagedesigners and implementors , and all those INTERESTED in developing a theoretical approach to dataprocessing ; ( b ) with interest and understanding by professional programmers and systems analysts ; and ( c ) with appreciation by the businessman-analyst-manager 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0981 60  36.78070983542787 BM25
+
+
+Rounding Problems in Commercial Data Processing
+
+
+CA641102 JB March 9, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3124 61  36.68486424548246 BM25
+
+
+Recursive Data Structures in APL
+
+
+CA790203 DH April 10, 1979  3:41 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1890 62  36.67805724086226 BM25
+
+
+Simulation of Traffic Flows in a Network
+
+
+CA690603 JB February 17, 1978  1:26 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2794 63  36.65427759134134 BM25
+
+
+State-Space, Problem-Reduction, and Theorem Proving-Some Relationships
+
+
+CA750205 JB January 12, 1978  8:27 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2718 64  36.651138217949644 BM25
+
+
+A Preliminary System for the Design of DBTG Data Structures
+
+
+CA751001 JB January 6, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2424 65  36.64430443809007 BM25
+
+
+Dynamic Verification of Operating System Decisions
+On PRIME , dynamic verification is used to ensure that one user 's information can not become available to anotheruser gratuitously even in the presence of a single hardware or software fault Dynamic verification of a decision impliesthat every time the decision is made there is a consistency CHECK performed on the decision using independenthardware and software 
+
+CA731102 JB January 20, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1637 66  36.62566709712105 BM25
+
+
+Problems in the Statistical Analysis of SimulationExperiments: The Comparison of Means and the Length of Sample Records
+
+
+CA670205 JB February 28, 1978  3:34 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0595 67  36.60208113680297 BM25
+
+
+Guides to Teaching COBOL
+Unfortunately , historical data concerning students ' programming proficiency is almost non-existentand , at best , difficult to measure 
+
+CA620510 JB March 20, 1978  1:44 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1307 68  36.59035364815708 BM25
+
+
+A Lightpen-Controlled Program For On-Line Data Analysis
+
+
+CA650217 JB March 7, 1978  10:40 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3096 69  36.56977967472084 BM25
+
+
+An Optimal Method for Deletion in One-Sided Height-Balanced Trees
+
+
+CA780601 DH February 26, 1979  12:48 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2254 70  36.46969984537387 BM25
+
+
+Dynamic Partitioning for Array Languages
+
+
+CA721201 JB January 27, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0106 71  36.403577191732936 BM25
+
+
+A Method for Overlapping and Erasure of Lists
+A Method for Overlapping and Erasure of Lists `` Unfortunately , overlappingposes a problem for subsequent erasure The present paper describes a general method which enables efficient erasure 
+
+CA601210 JB March 20, 1978  6:33 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2354 72  36.397661263490896 BM25
+
+
+Implementing Clenshaw-Curtis Quadrature,II Computing the Cosine Transformation
+
+
+CA720506 JB January 31, 1978  9:56 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0982 73  36.38817088292489 BM25
+
+
+An Inductive Approach to Language Translation
+The conception of sentence translationwhich motivates the work is informally presented , and the measurement of physical similarity in pairs ofstrings is discussed , a notion which plays a central role in the proposed type of translator 
+
+CA641101 JB March 9, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1641 74  36.375078357392965 BM25
+
+
+A Use of Fast and Slow Memories in List-Processing Languages
+
+
+CA670202 JB February 28, 1978  4:06 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0492 75  36.34608405376516 BM25
+
+
+Analysis of a File Addressing Method
+For the reader not interestedin the mathematics , the introduction and the summary should be sufficient 
+
+CA620836 JB March 17, 1978  9:02 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2289 76  36.32643907120547 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+A cellular array is a two-dimensional , checkerboardtype interconnection of identical modules ( or cells ) , where each cell contains a few bits ofmemory and a small amount of combinational logic , and communicates mainly with its immediate neighborsin the array 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1323 77  36.317532044902435 BM25
+
+
+A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I*
+
+
+CA650201 JB March 7, 1978  11:26 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1549 78  36.276338936764326 BM25
+
+
+An Efficient Machine-Independent Procedure forGarbage Collection in Various List Structures
+Finally , the application of thealgorithm to a number of different list structures appearing in the LITERATURE is indicated 
+
+CA670806 JB February 27, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3177 79  36.21820167172326 BM25
+
+
+How to Share a Secret
+
+
+CA791105 DB January 23, 1980  11:48 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1497 80  36.18301302240385 BM25
+
+
+On the Normalization Requirement ofDivisor in Divide- and- Correct Methods
+
+
+CA671210 JB February 26, 1978  2:15 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0615 81  36.181593973176255 BM25
+
+
+Addressing Multidimensional Arrays
+
+
+CA620402 JB March 20, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0605 82  36.16529662871992 BM25
+
+
+Computer Simulation Of City Traffic
+
+
+CA620412 JB March 20, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2851 83  36.165090865864485 BM25
+
+
+Formal Verification of Parallel Programs
+
+
+CA760702 JB January 4, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0794 84  36.08294187169496 BM25
+
+
+A List-Type Storage Technique for Alphameric Information
+
+
+CA630804 JB March 13, 1978  8:45 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1421 85  36.04343480565525 BM25
+
+
+A Contribution to the Development of ALGOL
+
+
+CA660601 JB March 3, 1978  9:07 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2750 86  36.02403049417983 BM25
+
+
+A Cost Oriented Algorithm for Data Set Allocation in Storage Hierarchies
+
+
+CA750603 JB January 9, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2485 87  35.99884923907937 BM25
+
+
+Managing the Computer Resource: A Stage Hypothesis
+
+
+CA730701 JB January 23,1978  1:23 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2990 88  35.94614067846084 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Among these are inverse document frequencyweighting , thesaurus construction , and PHRASE generation information retrieval , automatic indexing , contentanalysis , term accuracy , frequency weighting , thesaurus and PHRASE transformations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1956 89  35.91687792791586 BM25
+
+
+Optimum Merging from Mass Storage
+
+
+CA701207 JB February 9, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1527 90  35.88522743253154 BM25
+
+
+A Grammar Base Question Answering Procedure
+
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-0849 91  35.86471988376437 BM25
+
+
+Use of Tree Structures for Processing Files
+
+
+CA630518 JB March 14, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3082 92  35.79496137933981 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2178 93  35.714511283401144 BM25
+
+
+A Language Extension for Graph Processing and Its Formal Semantics
+
+
+CA710704 JB February 3, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2020 94  35.70957120416609 BM25
+
+
+The Allocation of Computer Resources-Is Pricing the Answer?
+
+
+CA700801 JB February 10, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2002 95  35.59770490236916 BM25
+
+
+AMESPLOT-A Higher Level Data Plotting Software System
+The elements common to all types of data plots are outlined and the way in which these elements may be combined into a system based on simple modules is demonstrated These modules are specified independently and are independent of the axissystems or other attributes of the plot This enables plots of anycomplexity to be constructed by adding or replacing modules Transformation , projection , scaling , rotation , or shifting of ENTIRE plots or subplots by the action of one or more simple modules is possible 
+
+CA700903 JB February 10, 1978 2:08 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2527 96  35.59055215502317 BM25
+
+
+Implementation of High Level Language Machine
+The machine automatically allocates memory , executes statements , calls functions , converts numbers from onetype to another , checks subscripts , and automatically detects many types of programmer errors 
+
+CA730401 JB January 24, 1978  10:21 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-3111 97  35.5872315217039 BM25
+
+
+Secure Communications Over Insecure Channels
+
+
+CA780405 DH February 26, 1979  4:18 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1931 98  35.57751081619225 BM25
+
+
+Interval Arithmetic Determinant Evaluationand Its Use in Testing for a Chebyshev System
+
+
+CA690207 JB February 20, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-1827 99  35.537392607991485 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+A software measurement facility which is part ofa general purpose time-sharing system is described performance monitoring , performance measurement , program behavior , performance data , multiprogramming performance , software measurement , time-sharing performance , system evaluation , software monitor , software instrumentation 
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+38 Q0 CACM-2046 100  35.51680840699507 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+
+
+CA700609 JB February 13, 1978  10:57 AM
+
+

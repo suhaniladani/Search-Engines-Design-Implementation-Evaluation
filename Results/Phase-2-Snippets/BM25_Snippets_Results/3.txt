@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+3 Q0 CACM-1988 1  8.544101473990487 BM25
+
+
+A Formalism for Translator Interactions
+A formalism is presented for describing the actionsof processors for programming languages-compilers , interpreters , assemblers-and their interactions IN complex systemssuch as compiler-compilers or extendible LANGUAGES 
+
+CA701002 JB February 10, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0637 2  8.377870538294275 BM25
+
+
+A NELIAC-Generated 7090-1401 Compiler
+This experience hasshown there is no inherent difficulty IN `` building COMPILERS with COMPILERS '' ; indeed , it pointed out many advantagesin using a POL for constructing programming systems 
+
+CA620206 JB March 20, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1387 3  8.319819852843297 BM25
+
+
+Solution of Systems of Polynomial Equations By Elimination
+The method , by itself , appears IN appropriate , however , IN the solutionof large systems OF equation due to the explosive growth IN the INTERMEDIATE equations and the hazardswhich arise when the coefficients are truncated 
+
+CA660811 JB March 2, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1787 4  8.212645294356168 BM25
+
+
+Use of Transition Matrices in Compiling
+The type OF recognizer , USED IN a number OF COMPILERS , operates with a pushdown stack and witha transition matrix 
+
+CA680107 JB February 23, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0252 5  7.709402016720341 BM25
+
+
+Programming a Duplex Computer System
+After achieving the required level OF integration , both computers do similar processingon the same inputs and continually cross-check the INTERMEDIATE and final results 
+
+CA611116 JB March 15, 1978  10:40 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3115 6  7.697465422028841 BM25
+
+
+Orderly Enumeration of Nonsingular BinaryMatrices Applied to Text Encryption
+Each natural number corresponds to two INTERMEDIATE vectors Examples OF complete enumeration OF all 2 x 2 and 3 x 3 nonsingularbinary matrices were produced by mapping the INTERMEDIATE vectors to the matrices 
+
+CA780401 DH February 27, 1979  11:05 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1533 7  7.697052441148337 BM25
+
+
+A Marovian Model of the University of Michigan Executive System
+The model is USED to study the effects OF changes IN the executive system andin one OF its COMPILERS 
+
+CA670911 JB February 27, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1134 8  7.675008331863674 BM25
+
+
+Some Effects of the 6600 Computer on Language Structures*
+The problem OF compiling efficient 6600 codesprompted the development OF an INTERMEDIATE language reflecting the structure OF the machine , that is moreeasily manipulated IN improving object program efficiency The subject OF this paper is the intermediatelanguage and methods OF manipulating it 
+
+CA640209 JB March 10, 1978  3:54 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1807 9  7.329517003954415 BM25
+
+
+Optimization of Expressions in Fortran
+Ithas been USED IN the development OF several FORTRAN COMPILERS that have proved to produce excellent objectcode without significantly reducing the compilation speed FORTRAN , optimization , expressions , COMPILERS , compilation , subscripts , register allocation , DO loops , common subexpressions , invariant calculations 
+
+CA691205 JB February 15, 1978  4:16 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1572 10  7.153578771088002 BM25
+
+
+The Simulation of Time sharing Systems
+For the sake OF efficiency and greater applicability , the model wasimplemented IN a limited FORTRAN subset that is compatible with most FORTRAN IV COMPILERS 
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2411 11  7.078992131924136 BM25
+
+
+Tree-Structured Programs
+control structures , flowcharts , goto statements , inductive assertion , least fix points , optimization IN COMPILERS , program documentation , program flow graphs , programming language design , proof OF programs , semantics OF programming LANGUAGES , structured programming 
+
+CA731115 JB January 19, 1978  4:19 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1783 12  7.048049848475835 BM25
+
+
+In-and-Out Conversions
+For all combinations OF rounding and truncationconversions the question is considered OF how many significant digits are needed IN the intermediatebase to allow such in-and-out conversions to return the original number ( when possible ) , or at least significant digit 
+
+CA680111 JB February 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3130 13  7.042869337561504 BM25
+
+
+CURRICULUM '78 - Recommendations for theUndergraduate Program in Computer Science
+The core curriculum common to allcomputer science undergraduate programs is presented IN terms ofelementary level topics and courses , and INTERMEDIATE level courses 
+
+CA790301 DH April 12, 1979  11:02 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2111 14  6.993083460384311 BM25
+
+
+Spelling Correction in Systems Programs
+Several specialized techniques are shown for efficientlyincorporating spelling correction algorithms into COMPILERS and operating systems spelling correction , error correction , debugging , COMPILERS , operating systems , diagnostics , error detection , misspelling , lexical analysis systems programming 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2061 15  6.982359254700954 BM25
+
+
+An Algorithm for the Construction Of Bounded-Context Parsers
+An Algorithm for the CONSTRUCTION OF Bounded-Context Parsers bounded-context parsing , bounded-context syntactic analysis , parser CONSTRUCTION , syntactical analyzer CONSTRUCTION , generators , compiler COMPILERS , compiler writing systems , translator writing systems metacompilers , context-free grammars , formal LANGUAGES , pushdown automata 
+
+CA700505 JB February 13, 1978  1:58 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1402 16  6.9178379915163335 BM25
+
+
+Partial Step Integration
+This methodof obtaining functional values at points INTERMEDIATE to the integration points yields accuracy comparableto the integration and does not require storing OF additional information as IN interpolation methods 
+
+CA660710 JB March 2, 1978  9:08 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1007 17  6.915701410980008 BM25
+
+
+Extension of Existing Compilers By Sophisticated Use of Macros
+Extension OF Existing COMPILERS By Sophisticated Use OF Macros 
+
+CA640904 JB March 9, 1978  6:13 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0205 18  6.841144661938204 BM25
+
+
+Macro Instruction Extensions of Compiler Languages
+Macroinstruction COMPILERS constructed froma small set OF functions can be made extremely powerful Macro Instruction Extensions OF Compiler LANGUAGES 
+
+CA600406 JB March 22, 1978  1:49 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1392 19  6.723863612060776 BM25
+
+
+Experience with FORMAC Algorithm Design
+One recurrent theme is the need to avoid excessiveintermediate expression swell IN order to minimize core storage requirements 
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2886 20  6.714106993397433 BM25
+
+
+Semantic Evaluation from Left to Right
+This paper describes attribute grammars and theiruse for the definition OF programming LANGUAGES and COMPILERS ; a formal definition OF attribute grammarsand a discussion OF some OF its important aspects are included attribute grammars , semantics OF programming LANGUAGES , semantic attributes , left-to-right parsing , multipass COMPILERS , semantic evaluation , semantic conditions 
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2112 21  6.688312344562378 BM25
+
+
+Translation Equations
+automata , Turing machines , regular expression , transductionexpression , context-free LANGUAGES , translation , recognizers , parsing , meta-compilers , pushdown transducer , syntaxdirected COMPILERS , finite state automata Input limited transduction expressions , or translation equations , are USED to describe the syntax and left-context sensitive semantics for context-free LANGUAGES 
+
+CA700203 JB February 14, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1947 22  6.680699651025017 BM25
+
+
+Object code Optimization
+COMPILERS , data flow analysis , dominance , efficiency , FORTRAN , graph theory , loop structure , machine instructions , object code , optimization , redundancyelimination , register assignment , System/360 
+
+CA690102 JB February 20, 1978  12:15 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1062 23  6.527647746440682 BM25
+
+
+Symbol Manipulation in FORTRAN-SASP I Subroutines
+Function-type subroutines are included for INTERMEDIATE manipulations , which are performedon the strings which are stored IN an abbreviated internal representation 
+
+CA640605 JB March 9, 1978  9:43 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1029 24  6.522512010087695 BM25
+
+
+A Simple Automatic Derivative Evaluation Program
+The keyto the method is the decomposition OF the given function , by introduction OF INTERMEDIATE variables , into a series OF elementary functional steps 
+
+CA640801 JB March 9, 1978  7:38 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2551 25  6.496313872127038 BM25
+
+
+Mutual Recursion in Algol 60 Using Restricted Compilers
+Mutual Recursion IN Algol 60 Using Restricted COMPILERS 
+
+CA730110 JB January 24, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1565 26  6.490755549472577 BM25
+
+
+A Language-Independent Macro Processor
+The program is USED at theBasser Computing Department , University OF Sydney , Sydney , Australia , to process text for eight different COMPILERS 
+
+CA670708 JB February 28, 1978  8:35 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2658 27  6.359143245182312 BM25
+
+
+An Alternative Approach to Mutual Recursionin Algol 60 Using Restricted Compilers
+An Alternative Approach to Mutual Recursionin Algol 60 Using Restricted COMPILERS 
+
+CA740412 JB February 1, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2423 28  6.255882231710668 BM25
+
+
+A Parser-Generating System for Constructing Compressed Compilers
+A Parser-Generating System for Constructing Compressed COMPILERS Typical one-pass COMPILERS constructed by thePGS translate source programs at speeds approaching 14,000 cards per minute 
+
+CA731103 JB January 20, 197810:41 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2449 29  6.2217848834512655 BM25
+
+
+A Simple Technique for Structured Variable Lookup
+The technique offers a deterministicsolution to a problem which is currently handled IN a nondeterministic manner IN PL/I and COBOL COMPILERS 
+
+CA730906 JB January 23, 1978  9:17 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1223 30  6.176689589689129 BM25
+
+
+High Speed Compilation of Efficient Object Code
+A three-pass compiler with the following propertiesis briefly described : The last two passes scan an INTERMEDIATE language produced by the precedingpass IN essentially the reverse OF the order IN which it was generated , so that the first pass is theonly one which hasto read the bulky problem-oriented input The discussion is IN termsof a FORTRAN-like language , although the technique is applicable to most algebraic LANGUAGES 
+
+CA650801 JB March 6, 1978  8:45 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2867 31  6.161698908373312 BM25
+
+
+Modularization and Hierarchy in a Family of Operating Systems
+This paper describes the design philosophyused IN the CONSTRUCTION OF a family OF operating systems 
+
+CA760504 JB January 4, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2053 32  6.036045399961595 BM25
+
+
+On the Conversion of Decision Tables to Computer Programs
+The second algorithm programsa mixed entry decision table directly without going throughthe INTERMEDIATE step OF conversion to a limited entry form , therebyresulting IN storage economy 
+
+CA700602 JB February 13, 1978  12:03 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1682 33  6.035896403203136 BM25
+
+
+The Implementation of a BASIC System in a Multiprogramming Environment
+multiprogramming , incremental compilation , COMPILERS , interpreters 
+
+CA681005 JB February 21, 1978  4:04 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1194 34  6.034672883327136 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+The first contributionto the ACM Repository consisted OF 315 documents , relating primarily to early research on COMPILERS 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1723 35  6.01488741963141 BM25
+
+
+Computer Construction of Project Networks
+Computer CONSTRUCTION OF Project Networks project networks , PERT , CPM , topologicalordering , network CONSTRUCTION by computer 
+
+CA680706 JB February 22, 1978  12:07 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3080 36  5.968097082550667 BM25
+
+
+Proving the Correctness of Heuristically Optimized Code 
+COMPILERS , correctness , code optimization , debugging , program verification , Lisp 
+
+CA780708 DH February 7, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2064 37  5.964632811928428 BM25
+
+
+Operations on Generalized Arrays with the Genie Compiler
+Operations on vectors , matrices , and higher dimensional storage arrays are standard features OF most COMPILERS today multidimensional arrays , matrix operations , storage control , subscripting , COMPILERS 
+
+CA700502 JB February 13, 1978  2:18 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3093 38  5.961500395509364 BM25
+
+
+Automatic Error Recovery for LR Parsers
+Programming LANGUAGES , error correction , automaticcorrection , parsing , LR , syntax errors , COMPILERS 
+
+CA780604 DH February 26, 1979  12:22 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1154 39  5.941412898769686 BM25
+
+
+Multi-Tape and Infinite-State Automata -- A Survey
+INTERMEDIATE machines can be created by adjoining on infinite-state memoryto a finite-state machine and then performing any or all OF the following : ( 1 ) restrict the manner inwhich the unbounded portion OF the memory can be accessed , ( 2 ) bound the number OF steps allowed for acomputation by some increasing recursive function OF the length OF the input , ( 3 ) restrict the total amountof memory available IN the same manner 
+
+CA651215 JB March 6, 1978  3:24 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3103 40  5.9346224007484825 BM25
+
+
+Automatic Data Structure Selection: An Example and Overview
+Abstract data types , automatic programming , datastructures , optimizing COMPILERS , sets , lists 
+
+CA780504 DH February 26, 1979  1:51 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0799 41  5.915342423605599 BM25
+
+
+Design of a Separable Transition-Diagram Compiler*
+The methods given are largely applicable to the CONSTRUCTION OF ALGOL COMPILERS 
+
+CA630725 JB March 14, 1978  8:11 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2904 42  5.89442093273987 BM25
+
+
+An Algorithm for Reduction of Operator Strength
+COMPILERS , optimization OF compiled code , program analysis , operator strength reduction , test replacement , strongly connected region 
+
+CA771112 JB December 27, 1977  6:34 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2175 43  5.839491025554937 BM25
+
+
+Subexpression Ordering in the Execution of Arithmetic Expressions
+parallel processing , cache , arithmetic expressions , subexpression ordering , computational trees , COMPILERS 
+
+CA710707 JB February 2, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3028 44  5.837095861123779 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+architecture , index registers , paging , virtualstorage , extra codes , COMPILERS , operating systems , Ferranti , Manchester Mark I , Atlas , ICL 
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1159 45  5.772639552471705 BM25
+
+
+Machine Independence: Its Technology and Economics
+A survey is offered OF techniques for transferringprograms , and especially COMPILERS , from one computer to another 
+
+CA651210 JB March 6, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2871 46  5.763846408694944 BM25
+
+
+Logical Analysis of Programs
+Most present systems for verification OF computerprograms are incomplete IN that INTERMEDIATE inductive assertions must be provided manually by theuser , termination is not proven , and incorrect programs are not treated 
+
+CA760405 JB January 4, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2439 47  5.758948381280918 BM25
+
+
+Multiple Terminals Under User ProgramControl in a Time-Sharing Environment
+This paper describes how this multiple-terminal facilitywas implemented without requiring any changes IN the system executive or IN any OF the system 's COMPILERS or interpreters 
+
+CA731001 JB January 23, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2877 48  5.737073982181265 BM25
+
+
+A Program Data Flow Analysis Procedure
+program optimization , data flow analysis , flow graphs , algorithms , COMPILERS 
+
+CA760303 JB January 5, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2684 49  5.700687569137072 BM25
+
+
+Production Systems: or Can We Do Better than BNF?
+syntax , translation , context-sensitive grammars , COMPILERS , formal definition , PL/I standards Since the development OF BNF , the definitionof the syntax OF programming LANGUAGES has been almost universally associated with context-free requirements Amore detailed presentation , as well as the application to define abstract syntax and translations between LANGUAGES , is given IN a previous paper by the author 
+
+CA740205 JB January 18, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3124 50  5.690533594247098 BM25
+
+
+Recursive Data Structures in APL
+An extension OF APL is proposed thatincludes new primitive functions to manipulate the nestinglevel OF arrays and new operators to assist IN theconstruction OF data-driven algorithms 
+
+CA790203 DH April 10, 1979  3:41 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2534 51  5.680339485758281 BM25
+
+
+Design and Implementation of a Diagnostic Compiler for PL/I
+To accommodate these extensions to PL/I without abandoning compatibility with IBM compiler PL/C permits '' pseudo comments '' -constructions whose contents can optionally be considered either source test or comment It effectively demonstratesthat COMPILERS can provide better diagnostic assistance than is customarily offered , even when a sophisticatedsource language is employed , and that this assistance need not be prohibitively costly COMPILERS , debugging , PL/I , programming LANGUAGES 
+
+CA730305 JB January 24, 1978  10:45 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2897 52  5.658016635443555 BM25
+
+
+A Case Study of a New Code Generation Technique for Compilers
+A Case Study OF a New Code Generation Technique for COMPILERS Recent developments IN optimizing techniqueshave allowed a new design for COMPILERS to emerge 
+
+CA771203 JB February 1, 1980  3:54 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2929 53  5.632243055698973 BM25
+
+
+An Analysis of Inline Substitution for a Structured Programming Language
+inline substitution , open coding , open compilation , program optimization , COMPILERS , structured programming LANGUAGES , run-time statistics 
+
+CA770905 JB December 27, 1977  1:23 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2542 54  5.574323266392144 BM25
+
+
+A Software Design and Evaluation System
+operating system development , language processingsoftware evaluation , COMPILERS , system programming , supervisory systems , debugging , program maintenance , modeling , system integration , simulation 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1365 55  5.499258470036199 BM25
+
+
+Eliminating Monotonous Mathematics with FORMAC
+
+
+CA661002 JB March 2, 1978  4:14 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1916 56  5.494064564509201 BM25
+
+
+Analysis of Boolean Program Models for Time-Shared, Paged Environments
+
+
+CA690401 JB February 17, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2138 57  5.492511082836831 BM25
+
+
+BLISS: A Language for Systems Programming
+This languageis designed so as to be especially suitable for use IN writing production software systems for aspecific machine ( the PDP-10 ) : COMPILERS , operating systems , etc programming LANGUAGES , implementation language , systems programming , data structures 
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1003 58  5.490672233304936 BM25
+
+
+A Computer Analysis Method For Thermal Diffusion in Biochemical Systems
+The CONSTRUCTION OF computer programs based on the directstatement OF the physical laws is a principle OF general applicability which has been appliedto several other physical phenomena 
+
+CA640908 JB March 9, 1978  5:13 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3056 59  5.485777181349154 BM25
+
+
+Counting Large Numbers of Events in Small Registers
+
+
+CA781005 DH January 29, 1979  5:52 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0254 60  5.482778985334084 BM25
+
+
+SMALGOL-61
+This is to be an ALGOL language for use with COMPILERS on relatively small size computers 
+
+CA611114 JB March 15, 1978  10:44 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2990 61  5.450455031113035 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Among these are inverse document frequencyweighting , thesaurus CONSTRUCTION , and phrase generation 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1315 62  5.431111034882839 BM25
+
+
+Automation of the Radioisotope Accountability System
+
+
+CA650209 JB March 7, 1978  11:10 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2921 63  5.410813113078563 BM25
+
+
+Regular Right Part Grammars and Their Parsers
+finite state machines ( automata ) , regular expressions , syntax diagrams , LR ( k ) grammars , parser CONSTRUCTION , parsing , programming LANGUAGES , language generation , formal definition , COMPILERS , translators , scanners RRP grammarsdescribe the syntax OF programming LANGUAGES more concisely and more understandably than is possible withCF grammars 
+
+CA771005 JB December 27, 1977  11:01 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2887 64  5.403501646718146 BM25
+
+
+A Study of Errors, Error-Proneness, and Error Diagnosis in Cobol
+This paper provides data on Cobol error frequencyfor correction OF errors IN student-oriented COMPILERS , improvement OF teaching , and changes IN programminglanguage 
+
+CA760106 JB January 5, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2808 65  5.391482401470537 BM25
+
+
+The Lemniscate Constants
+
+
+CA750103 JB January 12, 1978  10:51 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0464 66  5.3760597109653645 BM25
+
+
+Syntactic Analysis by Digital Computer
+Thepresent account OF the language and the subroutine contains a summary OF material that has been describedpreviously IN unpublished reports and also some additional discussion OF the work IN relation to the moregeneral questions OF problem-oriented LANGUAGES and string transformations 
+
+CA621016 JB March 17, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2659 67  5.351340643323317 BM25
+
+
+Some Remarks on Lookup of Structured Variables
+PL/1 , symbol table , structured variables , qualified references , COMPILERS 
+
+CA740411 JB February 1, 1978  10:34 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1386 68  5.3480271067788365 BM25
+
+
+Symbolic Factoring of Polynomials in Several Variables
+
+
+CA660812 JB March 2, 1978  7:06 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2110 69  5.326919609494837 BM25
+
+
+An Efficient Context-free Parsing Algorithm
+syntax analysis , parsing , context-free grammar , COMPILERS , computational complexity 
+
+CA700205 JB February 14, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3099 70  5.3217749439908655 BM25
+
+
+New Sufficient Optimality Conditions forInteger Programming and their Application
+These sufficient conditions are particularlyuseful for the CONSTRUCTION OF difficult integer programming problems with known optimal solutions Integer programming , optimality conditions , testproblem CONSTRUCTION , Kuhn-Tucker conditions , greatest common divisor 
+
+CA780508 DH February 26, 1979  1:19 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2843 71  5.3047343454441105 BM25
+
+
+Tools and Philosophy for Software Education 
+The tools include programs such as simulators , graders , COMPILERS , and monitor 
+
+CA760801 JB January 4, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2939 72  5.294469162626601 BM25
+
+
+Abstraction Mechanisms in CLU
+CLU is a new programming language designed to supportthe use OF abstractions IN program CONSTRUCTION By means OF programming examples , the utility OF the threekinds OF abstractions IN program CONSTRUCTION is illustrated , and it is shown how CLU programs maybe written to use and implement abstractions OF these , only the procedural abstraction is supported well by conventionallanguages , through the procedure or subroutine programming LANGUAGES , data types , data abstractions , control abstractions , programming methodology , separate compilation 
+
+CA770804 JB December 28, 1977  7:49 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0303 73  5.288620940267073 BM25
+
+
+Some Basic Terminology Connected WithMechanical Languages and Their Processors
+Some Basic Terminology Connected WithMechanical LANGUAGES and Their Processors 
+
+CA610801 JB March 16, 1978  10:16 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1671 74  5.280646031468746 BM25
+
+
+A Phonological Rule Tester
+This made the system CONSTRUCTION easy while providingsophisticated capabilities for the linguist 
+
+CA681108 JB February 21, 1978  2:41 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0596 75  5.268297299011357 BM25
+
+
+Floating-Point Arithmetic in COBOL
+
+
+CA620509 JB March 20, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2130 76  5.266011631851674 BM25
+
+
+Automatic Segmentation of Cyclic Program StructuresBased on Connectivity and Processor Timing
+automatic segmentation , cyclic program structures , loops , paging , multiprogramming , loaders , assemblers , COMPILERS , time-sharing , program connectivity 
+
+CA700101 JB February 14, 1978, 2:20 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2918 77  5.26372879861981 BM25
+
+
+Multiprocessor Memory Organization and Memory Interference
+
+
+CA771008 JB December 27, 1977  10:28 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1206 78  5.246283623917206 BM25
+
+
+The Self-Judgment Method of Curve Fitting
+
+
+CA650818 JB March 6, 1978  7:50 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1185 79  5.2151294281571685 BM25
+
+
+A program to Solve the Pentomino Problem by the Recursive Use of Macros
+
+
+CA651010 JB March 6, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-0605 80  5.185199357838297 BM25
+
+
+Computer Simulation Of City Traffic
+
+
+CA620412 JB March 20, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2746 81  5.182804871831193 BM25
+
+
+Efficient String Matching: An Aid to Bibliographic Search
+CONSTRUCTION OF the pattern matchingmachine takes time proportional to the sum OF the lengths OF the keywords 
+
+CA750607 JB January 9, 1978  1:03 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2247 82  5.182687664199365 BM25
+
+
+On the Criteria To Be Used in Decomposing Systems into Modules
+
+
+CA721208 JB January 27, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2579 83  5.165129642691483 BM25
+
+
+Register Allocation Via Usage Counts
+optimization , redundant computations , common subexpressions , register allocation , COMPILERS , programming LANGUAGES , virtual memory , demand paging 
+
+CA741105 JB January 16, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2598 84  5.162662297736491 BM25
+
+
+Extending the Information Theory Approach to ConvertingLimited-Entry Decision Tables to Computer Programs
+
+
+CA740910 JB January 17, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1728 85  5.1485853255280265 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-3045 86  5.145654433259841 BM25
+
+
+A Simple Recovery-Only Procedure For SImple Precedence Parsers
+Syntax errors , error recovery , parsing , simple precedence , COMPILERS , debugging 
+
+CA781106 DH January 26, 1979  10:52 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2864 87  5.137079251357869 BM25
+
+
+Characteristics of Program Localities
+
+
+CA760507 JB January 4, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1457 88  5.123292641318784 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+A variety OF data representations which have been USED to describestructured information are then examined , and the characteristics OF various processing LANGUAGES areoutlined IN the light OF the procedures requiring implementation Advantages OF these programming languagesfor the retrieval application are examined , and suggestions are made for the design OF programmingfacilities to aid IN information retrieval 
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2945 89  5.05154237452536 BM25
+
+
+Certification of Programs for Secure Information Flow
+Because it exploits the propertiesof a lattice structure among security classes , the procedure is sufficiently simple that it can easilybe included IN the analysis phase OF most existing COMPILERS 
+
+CA770707 JB December 28, 1977  8:48 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2572 90  4.985336000848616 BM25
+
+
+Arguments for a Moratorium on the Constructionof a Community Information Utility
+Arguments for a Moratorium on the Constructionof a Community Information Utility Current proposals for community information utilities are examined IN thisframework , and the conclusion is drawn that society is not yet IN a position to justify either the constructionof an information utility IN a prototype community or the acceptance OF a policy infavor OF its widespread implementation 
+
+CA741202 JB January 16, 1978  10:02 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1012 91  4.973226427699828 BM25
+
+
+Formal Parsing Systems
+Automatic syntactic analysis has recently becomeimportant for both natural language data processing and syntax-directed COMPILERS 
+
+CA640818 JB March 9, 1978  6:30 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1109 92  4.961972344839615 BM25
+
+
+Conversion of a Power to a Series of Chebyshev Polynomials*
+
+
+CA640323 JB March 10, 1978  2:05 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1236 93  4.956881990904752 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2217 94  4.955327079421314 BM25
+
+
+Experiments in Automatic Learning for a Multipurpose Heuristic Program
+
+
+CA710204 JB February 8, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2341 95  4.9434433982005 BM25
+
+
+Blocks-A New Data type for SNOBOL4
+The concept OF a block is largelylanguage independenthat is , blocks require little IN the way OF specialized syntax and could readilybe absorbed into the external structure OF most programming LANGUAGES 
+
+CA720604 JB January 30, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1809 96  4.937634267597962 BM25
+
+
+Numerical Analysis in a Ph. Computer Science Program
+
+
+CA691203 JB February 15, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-2424 97  4.933849448936291 BM25
+
+
+Dynamic Verification of Operating System Decisions
+The technique OF dynamic verification allows the CONSTRUCTION OF an operating system which does not make certaindecisions improperly even IN the presence OF a single hardware or software fault 
+
+CA731102 JB January 20, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1612 98  4.927927016661435 BM25
+
+
+Top-to-bottom Parsing Rehabilitated?
+
+
+CA670403 JB February 28, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1684 99  4.92446087680801 BM25
+
+
+Ambiguity in Limited Entry Decision Tables
+
+
+CA681003 JB February 21, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+3 Q0 CACM-1620 100  4.917466640397109 BM25
+
+
+Methods of Evaluating Polynomial Approximationsin Function Evaluation Routines
+
+
+CA670309 JB February 28, 1978  1:08 PM
+
+

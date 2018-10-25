@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+8 Q0 CACM-2625 1  28.29262939363847 BM25
+
+
+Capability-Based Addressing
+Various ADDRESSING SCHEMES making use of segmenttables are examined The inadequacies of these SCHEMES when dealing with shared addresses areexplained Capability-Based ADDRESSING Implementation of capability-based ADDRESSING is discussed A computer using capability-based ADDRESSING may be substantially superior to presentsystems on the basis of protection , simplicity of programming conventions , and efficient implementation ADDRESSING , capabilities , ADDRESSING hardware , protection , protection hardware , shared addresses , information sharing , OPERATING SYSTEMS , computerutility , segmentation , tagged architecture These inadequacies are traced to the lack of an efficient absolute address FOR objects inthese SYSTEMS 
+
+CA740706 JB January 17, 1978  12:39 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3032 2  20.85722858183304 BM25
+
+
+Reverse Path Forwarding of Broadcast Packets
+( 2 ) multidestinationaddressing , ( 3 ) hot potato forwarding , ( 4 ) spanning tree forwarding , and ( 5 ) source based forwarding Reverse path forwardingis a practical algorithm FOR broadcast routing IN store-and-forward packet switching computer NETWORKS The algorithm is described as being practical because it is not optimal according to metrics developedfor its analysis IN this paper , and also because it can be implemented IN existing NETWORKS with less complexitythan that required FOR the known alternatives Reverse path forwarding , broadcast packets , routing , computer NETWORKS , store-and-forward packet switching , broadcast protocols A broadcast packet is FOR delivery to allnodes of a NETWORK Algorithms FOR accomplishing this delivery through a store-and-forward packet switching computer NETWORK include ( 1 ) transmission of separately addressed packets 
+
+CA781207 DH  January 18, 1979  3:10 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2951 3  20.803098767678428 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+This research is a first step toward assisting the user IN participatingin the vast store of RESOURCES available on a NETWORK If the ultimate aim of a computing networkis RESOURCE sharing , then the human component as well as the technical component of networking mustbe fully investigated to achieve this goal Dynamic Response Time Prediction FOR Computer NETWORKS response time monitor , computer NETWORKS , time-sharingsystems , comparative response time , ARPA NETWORK , anlytic modeling , simulation , benchmark jobs , system measurement Analytical , simulation , and statistical performanceevaluation tools are employed to investigate the feasibility of a dynamic response time monitorthat is capable of providing comparative response time information FOR users wishing to process variouscomputing applications at some NETWORK computing node The research clearly reveals that sufficientsystem data are currently obtainable , at least FOR the five diverse ARPA NETWORK SYSTEMS studied IN detail , to describe and predict the response time FOR NETWORK time-sharing SYSTEMS as it depends on somemeasure of system activity or load level 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2541 4  20.549179672054322 BM25
+
+
+An Overview of the ISPL Computer System Design
+This freedom simplified both incremental compilation and the system 's ADDRESSING structure , and centralized thecommunication mechanisms enabling the construction of hierarchical subsystems concurrent design , operating-system , scheduling , interprogram communication , incremental compilation , virtual ADDRESSING , debugging , hierarchical subsystems It also suggested an importantnew concept FOR OPERATING SYSTEMS : separation of the scheduling from the maintenance functions IN resourceallocation This paper explores the advantages of the concurrentdesign of the language , OPERATING system , and machine ( via microcode ) to create an interactive programminglaboratory 
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2776 5  19.681724339032524 BM25
+
+
+Computer Networks in Higher Education: Socio-Economic-Political Factors
+Computer NETWORKS IN Higher Education : Socio-Economic-Political Factors This study presents the results of a nationwidesurvey of computer NETWORKS IN higher education conducted during 1971-73 Five major and 18 minor networkswere identified The five major NETWORKS included : the ARPA Net , the California State College NETWORK , the University of Iowa/Iowa State University NETWORK , the Michigan Educational Research Information Triad , Inc Based on the experiences of these OPERATING NETWORKS , a number of factorsare identified FOR consideration IN developing NETWORKS Finally , recommendations are advanced regardingthe development of NETWORKS IN higher education IN the future NETWORKS , higher education , and the Triangle Universities Computation Center NETWORK IN North Carolina 
+
+CA750401 JB January 9, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1685 6  19.019844291615293 BM25
+
+
+GAN, a System for Generating and Analyzing Activity Networks
+GAN , a System FOR Generating and Analyzing Activity NETWORKS GAN , a system FOR generating activity NETWORKS , is designed to save time IN the preparation of activity NETWORKS and to deal conveniently with networkprograms A defining description of a programming language designed FOR generating activity NETWORK froma set of standard NETWORKS is presented Also , a general idea of a language FOR performing calculationson activity NETWORKS ( scheduling activity NETWORKS ) is given activity NETWORK , management project , standard NETWORK , NETWORK generator , NETWORK assembler , activity NETWORK analysis , NETWORK calculation , NETWORK program 
+
+CA681002 JB February 21, 1978  4:22 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2858 7  18.610222723120458 BM25
+
+
+A Process for the Determination ofAddresses in Variable Length Addressing
+A Process FOR the Determination ofAddresses IN Variable Length ADDRESSING An algorithm is presented FOR the assignmentof instruction addresses and formats under the following conditions : ( 1 ) the length of the instruction variesas a function of the distance of the instruction from its target ; ( 2 ) there exists an optimality criterionwhich implies some preferential choices subject to the ADDRESSING constraints variable length ADDRESSING , assembler , paging 
+
+CA760604 JB January 4, 1978  2:09 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1869 8  18.583720074185283 BM25
+
+
+Block Structures, Indirect Addressing, and Garbage Collection
+Block Structures , Indirect ADDRESSING , and Garbage Collection However , when indirectaddressing is used , as IN SNOBOL , naming constraints may be introduced Two modifications to SNOBOL are described , resulting IN two desirable consequences : ( 1 ) naming constraints disappear even when there isindirect ADDRESSING within function definitions ; and ( 2 ) there is a significant saving IN the number ofcalls to the garbage collector , because some garbage is collected , at little expense , each time a functionreturns to its calling program block structures , indirect ADDRESSING , garbage collection , local names , SNOBOL 
+
+CA690711 JB February 15, 1978  6:49 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0912 9  18.342643952908386 BM25
+
+
+Addressing an Array Yi in k-Dimensionsby Fortran for Analysis of Variance
+ADDRESSING an Array Yi IN k-Dimensionsby Fortran FOR Analysis of Variance 
+
+CA630309 JB March 14, 1978  1:44 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2371 10  17.04434830595966 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+A System FOR Interprocess Communicationin a RESOURCE Sharing Computer NETWORK interprocess communication , time-sharing , computer NETWORKS , RESOURCE sharing A system of communication between processes IN atime-sharing system is described and the communication system is extended so that it may be used between processesdistributed throughout a computer NETWORK The hypothetical application of the system to an existing NETWORK is discussed 
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2991 11  16.705013184993188 BM25
+
+
+Improving the Access Time for Random Access Files
+hashing , hashing techniques , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct ADDRESSING , direct access , directaccess method , randomizing , random access , file ADDRESSING , file organizations , file structures , scatterstorage , search method , collisions , synonyms , clustering , information retrieval , open ADDRESSING , openchaining , buckets , bucket size , shadow buckets , combinatorics 
+
+CA770301 JB December 30, 1977  2:00 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2194 12  16.574977784069354 BM25
+
+
+How To Keep the Addresses Short
+FOR example , some computers permit either 8-bit ADDRESSING ( interpreted relative to the location counter ) or full16-bit ADDRESSING of all of memory ADDRESSING , assembler , covering problem , integerprogramming , variable-length ADDRESSING 
+
+CA710505 JB February 3, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1928 13  16.494337415664376 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+Exclusive Simulation of Activity IN Digital NETWORKS A technique FOR simulating the detailed logicnetworks of large and active digital SYSTEMS is described Certain aspects of the techniques described may be used FOR the simulationof NETWORK structures other than digital NETWORKS simulation , logical simulation , digital simulation , large SYSTEMS simulation , NETWORK structures , scheduling , queuing , simultaneous activities , parallel events The passage oftime is simulated IN a precise , quantitative fashion and SYSTEMS to be simulated may be combinations of synchronousand asynchronous logic 
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1677 14  16.486085241659804 BM25
+
+
+Storage Organization in Programming Systems
+This storage arrangementis discussed with its realized advantages or programming SYSTEMS : simplicity of programmed ADDRESSING , flexibility of data structures , efficiency of memory utilization , variability of system compositionduring execution , means of linkage between programs and from programs to data , and basis FOR storage protection storage allocation , storage organization , storagecontrol , codewords , data representation , program representation , data structures , storage protection , ADDRESSING mechanisms , paging , segmentation , file handling Storage Organization IN Programming SYSTEMS 
+
+CA681102 JB February 21, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2949 15  16.426597849324473 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+distributed computer NETWORK , correctness proofs , computer NETWORKS , distributed control , NETWORK topology , routing problem IN NETWORKS , distributed operatingsystem , store and forward packet switching , store and forward message switching , traffic control A Correctness Proof of a Topology InformationMain tenance Protocol FOR a Distributed Computer NETWORK IN order FOR the nodes of a distributed computernetwork to communicate , each node must have information about the NETWORK 's topology The TopologyInformation Protocol that was implemented on the MERIT Computer NETWORK is presented and explained ; thisprotocol is quite general and could be implemented on any computer NETWORK 
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1785 16  16.260395949510603 BM25
+
+
+Scatter Storage Techniques
+scatter storage , hash ADDRESSING , searching , file searching , file ADDRESSING , storage layout 
+
+CA680109 JB February 23, 1978  2:26 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0492 17  15.93592174820439 BM25
+
+
+Analysis of a File Addressing Method
+Analysis of a File ADDRESSING Method This paper presents a new file ADDRESSING methodbased on the calculation of an address from the identification of a record 
+
+CA620836 JB March 17, 1978  9:02 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2860 18  15.749956878323207 BM25
+
+
+A Practitioner's Guide To Addressing Algorithms
+A Practitioner 's Guide To ADDRESSING Algorithms This paper consolidates a number of popularrules of thumb which have been suggested FOR thedesign of record ADDRESSING algorithms , and discussesthe applicability of these rules to large commercial databases data management , file retrieval , searching , addressingtechniques , hashing functions , synonym resolution , loading factor , bucket size , heuristic design , rules of thumb 
+
+CA760602 JB January 4, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1723 19  15.679946994730322 BM25
+
+
+Computer Construction of Project Networks
+Computer Construction of Project NETWORKS Project NETWORKS are used IN PERT and CPM An algorithm is given FOR constructing project NETWORKS directly from the project precedence relations project NETWORKS , PERT , CPM , topologicalordering , NETWORK construction by computer 
+
+CA680706 JB February 22, 1978  12:07 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2543 20  15.565908544477471 BM25
+
+
+Reducing the Retrieval Time of Scatter Storage Techniques
+address calculation , content ADDRESSING , file searching , hash ADDRESSING , hash code , linear probing , linear quotient method , scatter storage , searching , symbol table 
+
+CA730205 JB January 24, 1978  2:12 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3068 21  15.205660112418434 BM25
+
+
+A Model for Verification of Data Security in Operating Systems
+A Model FOR Verification of Data Security IN OPERATING SYSTEMS Aprecise definition of data security is developed here IN terms of a general model FOR OPERATING SYSTEMS This model is suitable as a basis FOR verifying many of those properties of an OPERATING system whichare necessary to assure reliable enforcement of security The application of this approach to theUCLA secure OPERATING system is also discussed OPERATING SYSTEMS , security , protection , program verification Program verification applied to kernel architecturesforms a promising method FOR providing uncircumventably secure , shared computer SYSTEMS 
+
+CA780904 DH February 5, 1979  2:40 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1754 22  15.15555886600321 BM25
+
+
+Dynamic Storage Allocation Systems
+segmentation , paging , multiprogramming , storageallocation , storage management , virtual memories , storage fragmentation , storage hierarchies , ADDRESSING mechanisms Dynamic Storage Allocation SYSTEMS A method of characterizingdynamic storage allocation systems-according to the functional capabilities provided and the underlyingtechniques used-is presented A brief survey of storage allocationfacilities IN several representative computer SYSTEMS is included as an appendix 
+
+CA680502 JB February 23, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3083 23  14.838166096546875 BM25
+
+
+Pseudochaining in Hash Tables
+Pseudochaining is half way between open ADDRESSING and chaining Hash code , scatter storage , open ADDRESSING , chaining , pseudochaining , collision resolution , searching , uniform probing 
+
+CA780705 DH February 7, 1979  4:37 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1752 24  14.795149589239568 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+Throughout the discussion particular emphasis is placed on balancingthe system performance relative to the characteristics of all the system RESOURCES RESOURCE Management FOR a Medium Scale Time-Sharing OPERATING system Task scheduling and RESOURCE balancing fora medium size virtual memory paging machine are discussed IN relation to a combined batch processingand time-sharing environment time-sharing , OPERATING SYSTEMS , RESOURCE management , task scheduling , paging , system simulation , memory management , virtual memories 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2482 25  14.751609993432597 BM25
+
+
+Mixed Solutions for the Deadlock Problem
+Theindividual techniques can be tailored FOR subproblems of RESOURCE allocation and still operate together toprevent deadlocks This paper presents a method , based on the concept of the hierarchical operatingsystem , FOR constructing appropriate mixtures and suggests appropriate subsystems FOR the most frequentlyoccurring RESOURCE allocation problems deadlocks , RESOURCE allocation , OPERATING SYSTEMS , multiprogramming , hierarchical SYSTEMS 
+
+CA730704 JB January 23, 1978  12:46 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3053 26  14.684838366252993 BM25
+
+
+Packed Scatter Tables
+Scatter tables FOR open ADDRESSING benefitfrom recursive entry displacements , cutoffs FOR unsuccessful searches , and auxiliary cost functions Assignment problem , backtrack programming , hashing , openaddressing , recursion , scatter table rearrangements 
+
+CA781008 DH January 29, 1979  5:30 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0332 27  14.631188976750481 BM25
+
+
+An Indirect Chaining Method for Addressing on Secondary Keys
+An Indirect Chaining Method FOR ADDRESSING on Secondary Keys 
+
+CA610502 JB March 16, 1978  11:13 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2501 28  14.589853825169973 BM25
+
+
+WYLBUR: An Interactive Text Editing and Remote Job Entry System
+A powerful method FOR ADDRESSING text by content is provided text editing , time-sharing , on-line text editing , interactive text editing , terminal , remote terminal , terminal system , interactive terminal , remote job entry , remote job retrieval , program preparation , document preparation , data entry , content ADDRESSING 
+
+CA730519 JB January 23, 1978  4:11 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1695 29  14.50826020124609 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+PLEXUS-An On-Line System FOR Modeling Neural NETWORKS A description is presented of PLEXUS , a systemwhich enables a user to construct and specify a neural NETWORK , to analyze the output data producedby the NETWORK , and to store and retrieve NETWORKS and data from a library PLEXUSnetworks are built up from components representing individual neurons , external stimuli , and interconnectingfibers , each component being of a relatively detailed nature biological modeling , data analysis , discrete systemsimulation , library SYSTEMS , modeling , NETWORK simulation , neural NETWORKS , neurophysiologicalmodels , on-line simulation , simulation Provision is also made FOR the use ofexperimental data as input to a NETWORK Convenient means FOR specification and modification of a NETWORK andextensive error-checking capabilities are provided Data resulting from the simulation of a NETWORK may beanalyzed by a variety of techniques ranging from examinations of the gross characteristics of the data tothe determination of detailed statistical properties 
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2197 30  14.314147599791838 BM25
+
+
+The Merit of Regional Computing Networks
+The Merit of Regional Computing NETWORKS One of the suggested means FOR stimulating thespread of computing capabilities IN institutions of higher learning is through the construction of regionalcomputing NETWORKS computer sharing , computer utility , cooperative NETWORKS , curriculum development , educational computing , NETWORK computing , regional computing NETWORKS , remote computing , shared computing One such NETWORK has been constructed IN the San Francisco Bay Area by StanfordUniversity This paper reports upon the lessons learned from the operation of the NETWORK over the pasttwo years A major impact of the NETWORK was not so much the computer power delivered to the schoolsas the awakening of computing awareness and the fostering of capability development at these schools Both the quality and variety of services provided by the central facilitywere found to play a key role IN the effectiveness of the NETWORK A regional NETWORK brings many benefitsand should not be judged as a purveyor of raw computer power alone 
+
+CA710502 JB February 3, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3040 31  14.294910169702465 BM25
+
+
+Synthesizing Constraint Expressions
+A theory of consistency levels IN such NETWORKS is formulated , which is related to problemsof backtrack tree search efficiency Backtrack , combinatorial algorithms , constraintnetworks , constraint satisfaction , graph coloring , NETWORK consistency , relaxation , scene labeling , search A constraint NETWORK representation is presentedfor a combinatorial search problem : finding values FOR a set of variables subject to a set of constraints 
+
+CA781111 DH January 22, 1979  3:43 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0828 32  14.259508718617113 BM25
+
+
+Incompressible flow Network Calculations
+A general method FOR the calculation of flowsand pressures IN fluid flow NETWORKS is presented Incompressible flow NETWORK Calculations 
+
+CA630621 JB March 14, 1978  10:03 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2892 33  14.133761138050051 BM25
+
+
+A Study of Line Overhead in the Arpanet
+ARPANET , computer communication NETWORKS , interprocesscommunication , measurement , packet switching , performance evaluation and efficiency , RESOURCE sharing Some measurements of line efficiency FOR the ARPANET arepresented and by extrapolation these measurements are used to anticipate overhead IN a heavily loaded NETWORK Similar results are derived FOR a recently proposed NETWORK protocol and compared with those FOR the current system 
+
+CA760101 JB January 5, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2358 34  14.06471126662369 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+Through the use of segmentation , however , Multics provides direct hardware ADDRESSING by user andsystem programs of all information , independent of its physical storage location As experience with use of on-line operatingsystems has grown , the need to share information among system users has become increasingly apparent OPERATING system , Multics , virtual memory , segmentation , information sharing , paging , memory management , memory hierarchy Many contemporary SYSTEMS permit some degree of sharing Since the size of main memory on contemporary SYSTEMS is rather limited , it is then shown how the Multicssoftware achieves the effect of a large segmented main memory through the use of the Honeywell645 segmentation and paging hardware 
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2969 35  14.056235538792137 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+Optimal Program and Data Locations IN Computer NETWORKS This algorithm takes into account thedependencies between files and programs such as occur IN real heterogeneous computer NETWORKS computer NETWORKS , databases , distributeddatabases , optimal file location An optimization procedure FOR the allocationof program and data files IN a computer NETWORK is presented 
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1751 36  13.879263876622154 BM25
+
+
+The Working Set Model for Program Behavior
+Probably the most basic reason behind the absenceof a general treatment of RESOURCE allocation IN modern computer SYSTEMS is an adequate model forprogram behavior `` Process '' and `` working set '' are shown tobe manifestations of the same ongoing computational activity ; then `` processor demand '' and `` memory demand '' are defined ; and RESOURCE allocation is formulated as the problem of balancing demands against available equipment general OPERATING system concepts , multiprocessing , multiprogramming , OPERATING SYSTEMS , program behavior , program models , RESOURCE allocation , scheduling , storage allocation 
+
+CA680505 JB February 23, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2522 37  13.851910943661654 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+The behavior of a computer system is largelydependent upon the algorithms employed to allocate the system RESOURCES to the processes competing FOR them working set , dispatcher , scheduler , time-sharingsystems , RESOURCE allocation , software evaluation , OPERATING SYSTEMS , supervisory SYSTEMS Recent research IN time-sharing paging SYSTEMS has developed the working set model FOR program behavior , and are source allocation strategy based on this model has been proposed 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3126 38  13.848371332926748 BM25
+
+
+Comments on Perfect Hashing Functions: A SingleProbe Retrieving  Method for Static Sets
+Hashing , hashing methods , hash coding , direct ADDRESSING , identifier-to-address transformations , perfect hashing functions , perfecthash coding , reduction , retrieving , scatter storage , searching 
+
+CA790205 DH April 10, 1979  4:25 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2830 39  13.797041480616937 BM25
+
+
+A Practitioner's Guide to Addressing Algorithms (Corrigendum)
+A Practitioner 's Guide to ADDRESSING Algorithms ( Corrigendum ) 
+
+CA760909 JB January 4, 1978  8:43 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3158 40  13.67582767135837 BM25
+
+
+Secure Personal Computing in an Insecure Network
+Personal computing , security , privacy , NETWORKS , public-key encryption Secure Personal Computing IN an Insecure NETWORK A method FOR implementing secure personal computing IN a networkwith one or more central facilities is proposed A user can safelystore confidential files IN the central facility or transmit confidential data to other users on the NETWORK 
+
+CA790804 DB January 14, 1980  9:26 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3133 41  13.559720547244023 BM25
+
+
+Logic and Semantic Networks
+Logic and Semantic NETWORKS Onthe other hand , by regarding semantic NETWORKS as an abstract data structure FOR the representation of clauses , we provide atheorem-prover with a potentially useful indexing scheme and path-followingstrategy FOR guiding the search FOR a proof Logic , semantic NETWORKS , theorem-proving , indexing , resolution , deduction , logic programming An extended form of semantic NETWORK is defined , which canbe regarded as a syntactic variant of the clausal form of logic By virtue of its relationship with logic , the extendedsemantic NETWORK is provided with a precise semantics , inference rules , and a procedural interpretation 
+
+CA790304 DH April 12, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0040 42  13.163727963938468 BM25
+
+
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+Less obvious and perhaps more important is the way binary ADDRESSING and instruction formats canincrease the overall performance A careful review of the significance of decimal and binary addressingand both binary and decimal data arithmetic , supplemented by efficient conversion instructions 
+
+CA591202 JB March 22, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1879 43  13.160473272279102 BM25
+
+
+A Note on Storage Fragmentation and Program Segmentation
+Described also area method of segment allocation and an accompanying technique FOR segment ADDRESSING which take advantageof the above result storage allocation , storage fragmentation , paging , segmentation , ADDRESSING 
+
+CA690701 JB February 17, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2109 44  13.047663568662042 BM25
+
+
+The Use of Quadratic Residue Research
+quadratic residue , search method , hash ADDRESSING , addressclustering , scatter storage , file searching , fileaddressing , hash coding , quadratic search , random search , storage layout , searching 
+
+CA700206 JB February 14, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1247 45  12.971522336691443 BM25
+
+
+An Operating Environment for Dynamic-RecursiveComputer Programming Systems
+An OPERATING Environment FOR Dynamic-RecursiveComputer Programming SYSTEMS Presented IN this paper is a brief nontechnicalintroduction to OEDIPUS , a computer programming system which can serve as an OPERATING environment fordynamic and/or recursive programs and programming SYSTEMS 
+
+CA650608 JB March 6, 1978  10:18 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2849 46  12.90898479311321 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Ethernet : Distributed Packet Switching FOR Local Computer NETWORKS The packettransport mechanism provided by Ethernet has been used to build SYSTEMS which can be viewed as either localcomputer NETWORKS or loosely coupled multiprocessors computer NETWORKS , packet switching , multiprocessing , distributed control , distributed computing , broadcast communication , statistical arbitration Design principles and implementation are described , based on experiencewith an OPERATING Ethernet of 100 nodes along a kilometer of coaxial cable 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1611 47  12.865560873600144 BM25
+
+
+Scheduling Project Networks
+The Critical Path Algorithm incorporated IN the C-E-I-R proprietaryscheduling system RAMPS ( RESOURCE Allocation and Multi-Project Scheduling ) is described Scheduling Project NETWORKS Some of the basic concepts and terminologyof project networking are developed The error detectionand NETWORK analysis features of the algorithm are also described 
+
+CA670404 JB February 28, 1978  11:31 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2111 48  12.810405691828858 BM25
+
+
+Spelling Correction in Systems Programs
+Several specialized techniques are shown FOR efficientlyincorporating spelling correction algorithms into compilers and OPERATING SYSTEMS spelling correction , error correction , debugging , compilers , OPERATING SYSTEMS , diagnostics , error detection , misspelling , lexical analysis SYSTEMS programming Spelling Correction IN SYSTEMS Programs By using SYSTEMS which perform spelling correction , the number of debugging runs per program has been decreased , saving both programmer and machine time 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3038 49  12.67232873490337 BM25
+
+
+Using Encryption for Authentication in Large Networks of Computers
+Using Encryption FOR Authentication IN Large NETWORKS of Computers Use of encryption to achieve authenticatedcommunication IN computer NETWORKS is discussed Encryption , security , authentication , NETWORKS , protocols , public-key cryptosystems , data encryption standard 
+
+CA781201 DH January 22, 1979  11:18 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0441 50  12.607785446366355 BM25
+
+
+Topological Sorting of Large Networks
+Topological Sorting of Large NETWORKS Topological Sorting is a procedure requiredfor many problems involving analysis of NETWORKS It permits treatment of larger networksthan can be handled on present procedures and achieves this with greater efficiency A PERT NETWORK of30,000 activities can be ordered IN less than one hour of machine time 
+
+CA621120 JB March 17, 1978  5:58 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2203 51  12.589971628536537 BM25
+
+
+Key-to-Address Transform Techniques: A FundamentalPerformance Study on Large Existing Formatted Files
+hashing , hashing techniques , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct ADDRESSING , direct access method , randomizing , random access , file ADDRESSING , file organizations , file structures , scatter storage , search , collisions , clusters , information retrieval 
+
+CA710402 JB February 3, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1728 52  12.536384176973147 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+Results are summarized from an empirical studydirected at the measurement of program OPERATING behavior IN those multiprogramming SYSTEMS IN whichprograms are organized into fixed length pages paging SYSTEMS , paging , dynamic program behavior , programbehavior , virtual memory SYSTEMS , single-level storage , one-level storage , OPERATING system simulation , OPERATING SYSTEMS , supervisor simulation , machine language program interpretation 
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2712 53  12.513894212919485 BM25
+
+
+Horner's Rule for the Evaluation of General Closed Queueing Networks
+Horner 's Rule FOR the Evaluation of General Closed Queueing NETWORKS The solution of separable closed queueing networksrequires the evaluation of homogeneous multinomial expressions Queueing NETWORKS , queueing theory Horner 's rule , evaluation of multinomial sums , load-dependent service rate The number of terms IN those expressionsgrows combinatorially with the size of the NETWORK such that a direct summation may become impractical 
+
+CA751007 JB January 6, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2614 54  12.368930445681183 BM25
+
+
+Arrow to Precedence Network Transformation [H] (Algorithm A481)
+critical path , NETWORKS , precedence NETWORKS Arrow to Precedence NETWORK Transformation [ H ] ( Algorithm A481 ) 
+
+CA740810 JB January 17, 1978  9:37 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1680 55  12.256810294067515 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+Adept is a cataloged program that controls the standard operatingsystem by terminating and rescheduling itself automatically , relinquishing computer RESOURCES allocatedto it , and surrendering control to the OPERATING system to perform other jobs It expands the powerand flexibility of computer-assisted instruction by making immediately available to students , teachers , and other users , the full RESOURCES ( system-cataloged programs ) of the OPERATING system It is written IN FORTRAN IV ( G ) FOR the IBM System/360 , Model 40 , and the IBM 2250display Unit under OPERATING System/360 computer-assisted instruction , tutorial SYSTEMS , programming , simulation , modeling , information retrieval OPERATING SYSTEMS , graphics , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2320 56  12.24143794771011 BM25
+
+
+Structured Multiprogramming
+A combination ofcritical regions and event variables enables the programmer to control scheduling of RESOURCES amongcompeting processes to any degree desired These concepts are sufficiently safe to use not only withinoperating SYSTEMS but also within user programs structured multiprogramming , programming languages , OPERATING SYSTEMS , concurrent processes , shared data , mutual exclusion , critical regions , processcommunication , synchronizing events 
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3076 57  12.219489336661606 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+Electronic funds transfer SYSTEMS , social impactsof computing , privacy , social choice , computer NETWORKS , NETWORK reliability , security , social values During the last few years , computer-basedsystems which automate the transfer and recording of debits and credits have begun to be implemented ona large scale These SYSTEMS promise both financial benefits FOR the institutions that use them and potentialconveniences to their customers However , they also raise significant social , legal , and technicalquestions that must be resolved if full scale SYSTEMS FOR Electronic Funds Transfer ( EFT ) are notto cause more problems FOR the larger public than they solve 
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3127 58  12.054161388500608 BM25
+
+
+Thoth, a Portable Real-Time Operating System 
+Thothencourages structuring programs as NETWORKS of communicating processes by providing efficient interprocess communication primitives Thoth , a Portable Real-Time OPERATING System Thoth isa real-time OPERATING system which is designed to be portableover a large set of machines Portability , real time , OPERATING SYSTEMS , minicomputer 
+
+CA790206 DH April 12, 1979  9:10 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1877 59  12.047070250238939 BM25
+
+
+Prevention of System Deadlocks
+Deadlock is thesituation IN which RESOURCES have been allocated to various tasks IN such a way that none of the taskscan continue Algorithms are presented which examine a request IN the light ofthe current allocation of RESOURCES and determine whether or not the granting of the request will introducethe possibility of a deadlock A well-known problem IN the design of operatingsystems is the selection of a RESOURCE allocation policy that will prevent deadlock multiprogramming , time-sharing , scheduling , RESOURCE allocation 
+
+CA690703 JB February 17, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2454 60  11.954794899362614 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+Computational Algorithms FOR Closed QueueingNetworks with Exponential Servers Methods are presented FOR computing the equilibriumdistribution of customers IN closed queueing NETWORKS with exponential servers queueing theory , queueing NETWORKS , equilibriumdistributions , steady state distributions 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2500 61  11.927600776903027 BM25
+
+
+A Practical Approach to Managing Resources and Avoiding Deadlocks
+A Practical Approach to Managing RESOURCES and Avoiding Deadlocks RESOURCE scheduling and allocation can be expensivewith regard to time and space IN multiprogramming or time-sharing environments involving large numbers oftasks and RESOURCES with conflicting requirements Detection and/or prevention of deadlocks can requiremassive amounts of additional overhead if efficient usage of RESOURCES is to be maintained The program , which is currently running as part of a large scale general purposeoperating system , keeps RESOURCES relatively active but does not detect or prevent all deadlocksin its implemented state A resourcemanagement program is described which uses linked lists along with other techniques to overcome a largeportion of this overhead deadlock , RESOURCE allocation , scheduling , resourcemanagement , multiprogramming , time-sharing , multiprocessing , deadly embrace 
+
+CA730520 JB January 23, 1978  4:03 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0820 62  11.891435758507964 BM25
+
+
+Checking for Loops in Networks
+Checking FOR Loops IN NETWORKS 
+
+CA630704 JB March 14, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2632 63  11.886997137335115 BM25
+
+
+HYDRA: The Kernel of a Multiprocessor Operating System
+This philosophyis realized through the introduction of a generalized notion of `` RESOURCE '' , both physical and virtual , called an `` object '' HYDRA : The Kernel of a Multiprocessor OPERATING System This paper describes the design philosophy ofHYDRA-the kernel of an OPERATING system FOR C OPERATING system , kernel , nucleus , protection , security The mechanisms provide a coherent basis FOR extension of the system IN two directions : theintroduction of new facilities , and the creation of highly secure SYSTEMS 
+
+CA740614 JB January 17, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2515 64  11.74001732994386 BM25
+
+
+Minimal Event-Node Network of Project Precedence Relations
+Nemhauser ( 1968 ) produces event-node networkswhich are not minimal Minimal Event-Node NETWORK of Project Precedence Relations A procedure FOR constructing a minimal event-nodenetwork to represent a set of precedence relations without parallel activities is presented Aminimal event-node NETWORK is an event-node NETWORK IN which both the number of nodes and the number of arcsare the minima to preserve the given precedence relations Counterexamples are given to show that thealgorithm presented by A NETWORK , project , event-node NETWORK , activity-nodenetwork , minimal event-node NETWORK , dummy activity , project precedence relations 
+
+CA730505 JB January 24, 1978  8:42 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2840 65  11.72747555760201 BM25
+
+
+Protection in Operating Systems
+Protection IN OPERATING SYSTEMS protection , protection system , operatingsystem , decidability , Turing machine A model of protection mechanisms IN computingsystems is presented and its appropriateness is argued The `` safety '' problem FOR protection systemsunder this model is to determine IN a given situation whether a subject can acquire a particular right toan object 
+
+CA760804 JB January 4, 1978  10:12 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1735 66  11.712556598750425 BM25
+
+
+A Futures Market in Computer time
+This auction is free of theperiodic fluctuation IN computer use often associated with monthly time allocation SCHEMES computer scheduling , auction , time allocation , OPERATING efficiency 
+
+CA680610 JB February 22, 1978  4:04 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2297 67  11.655323226971337 BM25
+
+
+A Model of Memory Contention in a Paging Machine
+This paper is concerned with certain aspects of contentionfor main memory RESOURCES IN a multiprogrammed computer system OPERATING under demand paging paging machines , demand paging , OPERATING systemsstudies , queuing analysis , memory contention , memory management 
+
+CA720805 JB January 30, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2317 68  11.59183225743071 BM25
+
+
+Programming Systems and Languages 1965-1975
+IN the OPERATING system area all major computer manufacturers set out to produce very ambitious multiprogrammingsystems , and they all ran into similar problems A number of university projects , though notdirectly comparable to those of the manufacturers , have contributed greatly to a better understandingof OPERATING system principles languages , OPERATING SYSTEMS , programmingsystems , multiprogramming , history Programming SYSTEMS and Languages 1965-1975 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3110 69  11.524856561558696 BM25
+
+
+Assembling Code for Machines with Span-Dependent Instructions
+Span-dependent instructions , variable-length ADDRESSING , code generation , assemblers , compilers , NP-complete , computational complexity 
+
+CA780406 DH February 26, 1979  3:49 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1591 70  11.440301959707533 BM25
+
+
+A Model for a Multifunctional Teaching System
+During the latter , the full RESOURCES of the OPERATING system ( language processors , compilers , library and user 's programs ) were at his disposal A teaching system model that was incorporatedinto an OPERATING system of a large computer is described The model transferred control to theoperating system to execute functions other than teaching , and then recovered control IN order to resumeteaching The teaching system ( ABAC-II ) was written to run under the OPERATING system ( IBSYS ) forthe IBM 7044 Graphic System He could FOR example , write , assemble , debug , and execute at the terminal a program written IN any language processed by the OPERATING system 
+
+CA670601 JB February 28, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1261 71  11.436016259446232 BM25
+
+
+Modeling and Simulation of Digital Networks
+Modeling and Simulation of Digital NETWORKS The simulation of digital NETWORKS on a digitalcomputer provides the engineer with an effective means of analyzing time-quantized logical behavior This simplicity is derived from a common modeling technique applicable to combinationaland sequential digital NETWORKS and a systematic programming approach Thedigital NETWORK is modeled as a set of time-dependent or time-independent Boolean transformations ; each transformationdescribing the input-output relationship of a model element comprising the NETWORK mode Thesimplicity of utilizing the FORTRAN IV Programming System as a digital NETWORK Simulator is discussed anillustrated 
+
+CA650510 JB March 7, 1978  1:15 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2950 72  11.404565710844881 BM25
+
+
+A Unifying Approach to Scheduling
+The abstract model providesa framework FOR implementing flexible schedulers IN real OPERATING SYSTEMS scheduling algorithms , scheduling models , priority , OPERATING SYSTEMS , processor sharing , implementation efficiency 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3082 73  11.39266426871072 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+Distributed SYSTEMS , computer NETWORKS , clock synchronization , multiprocess SYSTEMS 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1462 74  11.329155093406465 BM25
+
+
+Multilevel Operating Systems
+Multilevel OPERATING SYSTEMS The Basic software FOR all newer computersis built on the well-established need FOR standard OPERATING SYSTEMS Large applications require supervisory monitors which handle problems similar to those ofthe OPERATING SYSTEMS , but at a different level This leads naturally to the concept of multilevel systems-similar vertically , but different horizontally 
+
+CA660310 JB March 3, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2151 75  11.318468805488727 BM25
+
+
+User Program Measurement in a Time-Shared Environment
+OPERATING SYSTEMS , multiprogramming SYSTEMS , time-sharingsystems , software measurement , user program measurement , measurement technology , TX-2 computer , virtual computers , performance improvement A general discussion of the measurement ofsoftware SYSTEMS is followed by a description of a hardware and software scheme FOR measuring user programsin a time-shared environment Finally , it is shown how other time-sharing SYSTEMS may provide similar measuring facilities 
+
+CA711005 JB February 2, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2499 76  11.255688182824603 BM25
+
+
+Efficient Multiprogramming Resource Allocation and Accounting
+Allocation of RESOURCES is closely connectedto accounting FOR those RESOURCES , raising the problems of repeatability , minimal uncharged overhead , and relative weighting of charges FOR dependent RESOURCES Multiprogramming turns on allocation of the memory RESOURCE essential to control of otherresources Efficient Multiprogramming RESOURCE Allocation and Accounting Although sometimes thought of as only a componentof time-sharing operation , multiprogramming can involve broader questions of RESOURCE allocation , since fairness is not required to meet a response criterion IN a multiprogrammed system , it may servemaximal RESOURCE use to be unfair , FOR example by holding an input/output channel idle FOR a programwhile it completes a small amount of processor usage , enabling further use of the channel monitor , executive , multiprogramming , efficiency , RESOURCE allocation , RESOURCE accounting 
+
+CA730601 JB January 23, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2138 77  11.190466107977585 BM25
+
+
+BLISS: A Language for Systems Programming
+This languageis designed so as to be especially suitable FOR use IN writing production software SYSTEMS FOR aspecific machine ( the PDP-10 ) : compilers , OPERATING SYSTEMS , etc BLISS : A Language FOR SYSTEMS Programming Prime design goals of the design are theability to produce highly efficient object code , to allow access to all relevant hardware features ofthe host machine , and to provide a rational means by which to cope with the evolutionary nature of systemsprograms programming languages , implementation language , SYSTEMS programming , data structures 
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2274 78  11.177823622098757 BM25
+
+
+Generating English Discourse from Semantic Networks
+Generating English Discourse from Semantic NETWORKS The grammar used by the system is IN the form of a NETWORK that imposesan ordering on a set of syntactic transformations that are expressed as LISP functions The generationalgorithm uses the information IN the semantic NETWORK to select appropriate generation paths throughthe grammar 
+
+CA721004 JB January 27, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2095 79  11.169125387985586 BM25
+
+
+Measurements of Segment Size
+Althoughthe results are certainly not installation independent , and although they are particularly influenced by features of the B5500 ALGOL system , they should be relevant to the design of new computer SYSTEMS , especially with respect to the organization of paging SCHEMES storage allocation , segmentation , segment sizes , page sizes , paging , RESOURCE allocation , memory allocation , core utilization Distributions of segment sizes measured under routine OPERATING conditions on a computer system which utilizes variable sized segments ( the Burroughs B5500 ) are discussed 
+
+CA700303 JB February 13, 1978  4:58 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0144 80  11.158562568807042 BM25
+
+
+Do It by the Numbers-Digital Shorthand
+Other benefits accrue IN code and language translationschemes Present communications SYSTEMS transmit singlecharacters IN groups of coded pulses between simple terminal equipments Since English words form onlya sparse set of all possible alphabetic combinations , present methods are inefficient when computer systemsare substituted FOR these terminals 
+
+CA601004 JB March 20, 1978  8:27 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3141 81  11.085808883918393 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+Decentralized algorithms , distributed SYSTEMS , OPERATING SYSTEMS 
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1846 82  11.071876605150734 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+On Simulating NETWORKS of Parallel Processesin Which Simultaneous Events May Occur Thesystems are assumed to be described as a NETWORK of interconnected sequential processes Some of the problems of simulating discreteevent SYSTEMS , particularly computer SYSTEMS , on a conventional digital computer are dealt with 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2798 83  11.034592510821387 BM25
+
+
+Analysis of Interleaved Memory Systems Using Blockage Buffers
+SCHEMES FOR sending instruction and data requeststo the memory system Analysis of Interleaved Memory SYSTEMS Using Blockage Buffers A model of interleaved memory SYSTEMS is presented , and the analysis of the model by Monte Carlo simulation is discussed interleaved memory SYSTEMS , modular memory SYSTEMS , memory performance analysis , blockage buffer , conflict buffer , simulation , Monte Carolo simulation 
+
+CA750201 JB January 12,1978  8:54 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2372 84  10.98885111172513 BM25
+
+
+On the Implementation of Security Measures in Information Systems
+The model is used to explain security features of several existing SYSTEMS , and servesas a framework FOR a proposal FOR general security system implementation within today 's languages and OPERATING SYSTEMS security , privacy , access control confidentiality , OPERATING SYSTEMS , access management , data banks , management information SYSTEMS On the Implementation of Security Measures IN Information SYSTEMS 
+
+CA720401 JB January 31, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2597 85  10.94988916636052 BM25
+
+
+Monitors: An Operating System Structuring Concept
+Illustrativeexamples include a single RESOURCE scheduler , a bounded buffer , an alarm clock , a buffer pool , adisk head optimizer , and a version of the problem of readers and writers Monitors : An OPERATING System Structuring Concept This paper develops Brinch-Hansen 's concept ofa monitor as a method of structuring an OPERATING system monitors , OPERATING SYSTEMS , scheduling , mutualexclusion , synchronization , system implementation languages , structured multiprogramming 
+
+CA741001 JB January 16, 1978  1:23 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3059 86  10.920657438981488 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+The solution techniqueis developed by NETWORK decomposition Multiprogramming , parallel processing , queueingnetwork models , multiprocessing of computation and I/O The percentage performance improvement from CPU : I/Ooverlap is found to be greatest FOR SYSTEMS which are IN approximate CPU : I/O utilization balance and forlow degrees of multiprogramming 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2988 87  10.919851764059203 BM25
+
+
+Memory Management and Response Time
+This paper presents a computationally tractablemethodology FOR including accurately the effects of finite memory size and workload memory requirementsin queueing NETWORK models of computer SYSTEMS memory management , system performance , queueingnetwork models , IN teractive computer SYSTEMS A multiphase , analytically soluble model isproposed as being broadly applicable to the analysis of IN teractive computer SYSTEMS which use nonpaged memories 
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2377 88  10.866767133697303 BM25
+
+
+A Hardware Architecture for Implementing Protection Rings
+IN a system which uses segmentation as a memory addressingscheme , protection can be achieved IN part by associating concentric rings of decreasing access privilegewith a computation 
+
+CA720304 JB January 31, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2578 89  10.833388699584184 BM25
+
+
+Self-stabilizing Systems in Spite of Distributed Control
+multiprocessing , NETWORKS , self-stabilization , synchronization , mutual exclusion , robustness , sharing , error recovery , distributed control , harmonious cooperation , self-repair Self-stabilizing SYSTEMS IN Spite of Distributed Control 
+
+CA741106 JB January 16,1978  10:18 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2080 90  10.700639549192859 BM25
+
+
+The Nucleus of a Multiprogramming System
+This paper describes the philosophy and structure of a multiprogramming system that can be extended with a hierarchy of OPERATING SYSTEMS to suit diverse requirements of program scheduling and RESOURCE allocation The systemnucleus simulates an environment IN which program execution and input/outputare handled uniformly as parallel , cooperating processes multiprogramming , OPERATING SYSTEMS , parallel processes , process concept , process communication , message buffering , processhierarchy , process creation , process removal 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2621 91  10.696649967537372 BM25
+
+
+A High Security Log-in Procedure
+OPERATING SYSTEMS , time sharing SYSTEMS , security , cryptography The protection of time sharing SYSTEMS fromunauthorized users is often achieved by the use of passwords 
+
+CA740803 JB January 17, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-0071 92  10.64691129177123 BM25
+
+
+Proposal for a Feasible Programming System
+Among the computer characteristicswhich are advocated are a program interrupt scheme , a large set of characters , and indirect ADDRESSING 
+
+CA590802 JB March 22, 1978  6:16 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2920 93  10.620138553186603 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+The deadlock avoidance problem may be definedinformally as the determination , from some a priori information about the processes , RESOURCES , operatingsystem , etc OPERATING system , multiprogramming , time-sharing , RESOURCE allocation , deadlock , IN terlock , deadly embrace , deadlock avoidance , flowchart When each process specifies its future needs by a flowchart of need-defined steps , a globalapproach to the phenomenon and its IN terpretation as a game between the OPERATING system and the processesallows formalization of risk and safety concepts 
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2319 94  10.511482192864259 BM25
+
+
+Operating System Performance
+OPERATING System Performance An overview of the current and future positionswith respect to OPERATING system performance is given Because of thesevere interactions between the various subsystems of an OPERATING system , an overall model of the totalsystem must be developed to be able to analyze and design the performance aspects of an OPERATING systemalthough such total system designs are exceptional today , it is projected that they will become increasinglymore common and necessary IN the near future Such a design philosophy will clearly have a severe impacton the way we go about modularizing OPERATING and computer SYSTEMS computer system , OPERATING system , performanceevaluation , performance measurement , measurement , techniques , modularity , layering , structured programming , paging , virtual memory , input/output , disk storage facility , drum storage facility , sector queueing While a great deal of information and a largenumber of models FOR subsystems have been developed , gaps still exist IN out knowledge 
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2258 95  10.388032534676077 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+hashing , hashing techniques , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct ADDRESSING , direct access method , randomizing , random access file organization , file search , scatter storage , information retrieval 
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2905 96  10.376324686558371 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+hashing , hashing methods , hash coding , direct ADDRESSING , identifier-to-address transformations , perfect hashing functions , perfect hash coding , reduction , scatter storage 
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-1226 97  10.330225738778605 BM25
+
+
+The Organization of Structured Files
+IN many SYSTEMS , the selection of an organization FOR the data within the file canbe critical to the system 's OPERATING efficiency This paper provides the SYSTEMS designer with an informationsource which describes ten techniques that may be employed FOR organizing structured data 
+
+CA650709 JB March 6, 1978  8:57 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2379 98  10.265039175025203 BM25
+
+
+The Design of the Venus Operating System
+OPERATING SYSTEMS , system design , levels of abstraction , machine architecture , microprogramming , segments , semaphores , multiprogramming , virtual machines , processes , process communication , virtual devices , data sharing , RESOURCE management , deadlock The Design of the Venus OPERATING System The Venus OPERATING System is an experimentalmultiprogramming system which supports five or six concurrent users on a small computer The microprogram defines a machine with some unusual architecturalfeature ; the software exploits these features to define the OPERATING system as simply as possible 
+
+CA720302 JB January 31, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-3072 99  10.169661395591747 BM25
+
+
+Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor Computer System
+Feedback Coupled RESOURCE Allocation Policiesin the Multiprogramming- Multiprocessor Computer System Attention is given to theamount of memory RESOURCE required FOR effective processing of the I/O activity ( buffer space assignment ) Model studies of some integrated , feedback-drivenscheduling SYSTEMS FOR multiprogrammed- multiprocessor computer SYSTEMS are presented The model SYSTEMS feature simulatedcontinuous-flow and preempt-resume scheduling of input-output activity Integrated schedulers , feedback scheduling , multiprogramming SYSTEMS , I/O system scheduling 
+
+CA780806 DH February 5, 1979  4:01 PM
+
+
+--------------------------------------------------------------
+8 Q0 CACM-2867 100  10.148154782067712 BM25
+
+
+Modularization and Hierarchy in a Family of Operating Systems
+Modularization and Hierarchy IN a Family of OPERATING SYSTEMS This paper describes the design philosophyused IN the construction of a family of OPERATING SYSTEMS 
+
+CA760504 JB January 4, 1978  3:33 PM
+
+

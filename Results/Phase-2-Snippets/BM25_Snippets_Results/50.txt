@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+50 Q0 CACM-1811 1  12.804165338276617 BM25
+
+
+A Case Study in Programming for Parallel-Processors
+A Case Study IN Programming for Parallel-Processors Parallel-processor systems are multiprocessor systems IN which several ofthe PROCESSORS can simultaneously execute separate tasks of a single job , thus cooperating to decreasethe solution time of a computational problem The PROCESSORS have independent instruction counters , meaningthat each processor executes its own task program relatively independently of the other PROCESSORS Communicationbetween cooperating PROCESSORS is by means of data IN storage shared by all PROCESSORS It is shown that , with proper programming , solution time when N PROCESSORS are applied approaches1/N times the solution time for a single processor , while improper programming can actually lead to an increaseof solution time with the number of PROCESSORS An affirmative partial answer is provided tothe question of whether it is possible to program parallel-processor computing systems to efficiently decreaseexecution time for useful problems Aprogram for the determination of the distribution of current IN an electrical network was written for aparallel-processor computing system , and execution of this program was simulated parallel-processor , parallelism , PARALLEL programming , multiprocessor , multiprogramming , tasking , storage interference , electrical network , simulation , relaxation , Jacobi , Gauss-Seidel , convergence 
+
+CA691201 JB February 15, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2714 2  12.367043706469953 BM25
+
+
+Merging with Parallel Processors
+Merging with PARALLEL PROCESSORS Consider two linearly ordered sets A , B , |A|=m , |B|=n , m < =n , and p , p < =m , PARALLEL PROCESSORS working synchronously The paper presents an algorithmfor merging A and B with the p PARALLEL PROCESSORS , which requires at most 2 [ log2 ( 2m+1 ) ] + [ 3m/p ] + [ m/p ] [ log2 ( n/m ) ] steps These performances compare very favorably withthe previous best PARALLEL merging algorithm , Batcher 's algorithm , which requires n/p + ( ( m+n ) /2p ) log2 msteps IN the general case and km/p + ( ( k+1 ) /2 ) ( m/p ) log2 m IN the special case where n=km PARALLEL processing , PARALLEL merging , PARALLEL binary insertion 
+
+CA751005 JB January 6, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3075 3  11.845124421070697 BM25
+
+
+Fast Parallel Sorting Algorithms
+A PARALLEL bucket-sort algorithm is presentedthat requires time O ( log n ) and the use of n PROCESSORS The algorithm makes use of a technique thatrequires more space than the product of PROCESSORS and time A procedure is also presented to sort n numbers IN time O ( k logn ) using n 1 + 1/k PROCESSORS , for k an arbitrary integer Fast PARALLEL Sorting Algorithms PARALLEL processing , sorting , algorithms , bucket sort 
+
+CA780803 DH February 7, 1979  10:25 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3156 4  11.825390747779313 BM25
+
+
+Computing Connected Components on Parallel Computers
+We present a PARALLEL algorithm which uses n2 PROCESSORS to find the connectedcomponents of an undirected graph with n vertices IN time O ( log2n ) AnO ( log2n ) time bound also can be achieved using only n $ n/ $ log2n ) ) PROCESSORS We assume that the PROCESSORS haveaccess to a common memory Computing Connected Components on PARALLEL Computers Graph theory , PARALLEL processing , algorithms , transitive closure , connected component 
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2278 5  9.250606402031483 BM25
+
+
+On Foster's Information Storage and Retrieval Using AVL Trees
+On Foster 's INFORMATION Storage and RETRIEVAL Using AVL Trees binary trees , search trees , INFORMATION storage , INFORMATION RETRIEVAL 
+
+CA720912 JB January 27, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2288 6  9.225506734935545 BM25
+
+
+File Organization: The Consecutive Retrieval Property
+File Organization : The Consecutive RETRIEVAL Property The consecutive RETRIEVAL property is an importantrelation between a query set and record set Its existence enables the design of an informationretrieval system with a minimal search time and no redundant storage Some important theorems onthe consecutive RETRIEVAL property are proved IN this paper Conditions under which the consecutive retrievalproperty exists and remain invariant have been established An outline for designing an informationretrieval system based on the consecutive RETRIEVAL property is also discussed file organization , consecutive storage , consecutiveretrieval , INFORMATION RETRIEVAL , record organization , query structure , record structure , storage ontapes , storage space , minimum access time 
+
+CA720902 JB January 27,1978  4:52 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0891 7  9.091252446834588 BM25
+
+
+Everyman's Information Retrieval System
+Everyman 's INFORMATION RETRIEVAL System The INFORMATION RETRIEVAL problem whose solutionis presented here was posed by a technical library with limited bubget and personnel The solution , however , is quite general and is applicable to many different types of RETRIEVAL problems Further , themethod of solution makes it possible for many groups who have previously dismissed an informationretrieval program as expensive and difficult ( from a programming stand-point ) to reconsider their position , for the present solution makes it possible to install an INFORMATION RETRIEVAL program IN less thanthree months , and with relatively little equipment 
+
+CA630329 JB March 14, 1978  12:37 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1699 8  9.083930615635115 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter Experiments designed to evaluate the capabilitiesof mechanized INFORMATION RETRIEVAL systems , with emphasis on interactive ( man-machine ) language and onsome of the mechanical and psychological limitations IN their design , were conducted at the Moore School informationSystems Laboratory The basic assumption of the research is that an INFORMATION RETRIEVAL systemthat provides for man-machine dialogue at a remote inquiry terminal should provide a searcher with manyof the tools which would be available to him were he actually performing his search at a library or repositoryof documents Factors involved IN evaluation of such a system include ease of use , learning time , andeffectiveness of actual RETRIEVAL INFORMATION RETRIEVAL testing , INFORMATION systemevaluation , experimental document RETRIEVAL , document RETRIEVAL , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , symbolic command language , interactive systems , user learning factors , on-line searching 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3134 9  9.010091883539562 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+The Use of Normal Multiplication Tablesfor INFORMATION Storage and RETRIEVAL This paper describes a method for the organization and RETRIEVAL of attribute based INFORMATION systems , using the normal multiplication table as a directoryfor the INFORMATION system Algorithms for the organization and RETRIEVAL of INFORMATION are described For a certain class of INFORMATION systems , the normal multiplication table method yields far more rapid retrievalwith a more economical space requirement than conventional systems INFORMATION RETRIEVAL , inverted files , multiattribute RETRIEVAL , multilist file , normal multiplication table , queries , rapid RETRIEVAL , space economy This method is particularlysuitable for queries requesting a group of INFORMATION items , all of which possess a particular set of attributes ( and possiblysome other attributes as well ) Algorithms evaluatingthe appropriateness of the above approach to a given INFORMATION systemare described 
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1457 10  8.98715468562192 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+Data Manipulation and Programming Problemsin Automatic INFORMATION RETRIEVAL Automatic INFORMATION RETRIEVAL programs requirethe manipulation of a variety of different data structures , including linear text , sparse matrices , and tree or list structures Advantages of these programming languagesfor the RETRIEVAL application are examined , and suggestions are made for the design of programmingfacilities to aid IN INFORMATION RETRIEVAL The main data manipulations to be performed IN automatic informationsystems are first briefly reviewed A variety of data representations which have been used to describestructured INFORMATION are then examined , and the characteristics of various processing languages areoutlined IN the light of the procedures requiring implementation 
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1927 11  8.682166839839226 BM25
+
+
+Information Science in a Ph. Computer Science Program
+course curriculum , graduate courses , universitycourses , computer science curriculum , INFORMATION science , INFORMATION organization , INFORMATION RETRIEVAL , data RETRIEVAL , language analysis , INFORMATION processing INFORMATION Science IN a Ph This report contains recommendations on a sample coursecurriculum IN the general area of INFORMATION organization and INFORMATION system design IN a Ph 
+
+CA690211 JB February 20, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2114 12  8.60816624346668 BM25
+
+
+A Formal System for Information Retrieval from Files
+attribute-value pair , index , keyword , record , record address , K-pointer , K-list , file , directory , generalized filestructure , inverted file , index-sequential-file , multilist file , description , file search , directory search , serial processing oflists , prime keyword , PARALLEL processing of lists A Formal System for INFORMATION RETRIEVAL from Files A generalized file structure is providedby which the concepts of keyword , index , record , file , directory , file structure , directory decoding , and record RETRIEVAL are definedand from which some of the frequently used file structures suchas inverted files , index-sequential files , and multilist files arederived 
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1681 13  8.468715440858462 BM25
+
+
+Easy English,a Language for InformationRetrieval Through a Remote Typewriter Console
+Easy English , a Language for InformationRetrieval Through a Remote Typewriter Console It has been developedfor RETRIEVAL of documents from a computerized data base , the Moore School INFORMATION Systems Laboratoryfiles Requests are formulated IN a standardized syntactical form ( examples of which are presented ) , andthis form is then transformed into an equivalent query expressed IN the RETRIEVAL system 's original SymbolicCommand Language , which is briefly described A macro flowchart of Easy English is included , and an Appendix providesthe printout of a RETRIEVAL demonstration natural language communication , on-line searching , remote console communication , INFORMATION RETRIEVAL , man-machine communication , remote terminal communication , translator , document RETRIEVAL , conversational mode , INFORMATION RETRIEVAL language , symbolic command language 
+
+CA681006 JB February 21, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1830 14  8.146544642957501 BM25
+
+
+Retrieval Times for a Packed Direct Access Inverted File
+RETRIEVAL Times for a Packed Direct Access Inverted File INFORMATION RETRIEVAL , direct access memory , data base , inverted list 
+
+CA691016 JB February 15, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2497 15  8.135200748736512 BM25
+
+
+Synchronizing Processors with Memory-Content-Generated Interrupts
+Synchronizing PROCESSORS with Memory-Content-Generated Interrupts Implementations of the `` Lock-Unlock '' methodof synchronizing PROCESSORS IN a multiprocessor system usually require uninterruptable , memory-pause type instructions The read-interlock method doesrequire a special '' read-interlock '' instruction IN the repertoire of the PROCESSORS and a special `` read-interlock '' cycle IN the repertoire of the memory modules interrupts , supervisors , monitors , debugging , parallelprocessing , associative memories , microprogramming 
+
+CA730603 JB January 23, 1978  3:29 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2723 16  8.050279104310063 BM25
+
+
+Multiprocessing Compactifying Garbage Collection
+The simple case of two PROCESSORS , one performing LISP-likelist operations and the other performing garbage collection continuously , is thoroughly examined The morecomplex cases involving several list PROCESSORS and one or more garbage collection PROCESSORS are also briefly discussed garbage collection , storage reclamation , reclaimer , storage allocation , multiprocessing , synchronization , semaphores , PARALLEL processing , compactification , relocation , LISP , list processing , free storage , pointers , data structures , gc processor 
+
+CA750901 JB January 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2570 17  7.949622485000987 BM25
+
+
+A Comparison of List Schedules for Parallel Processing Systems
+The problem of scheduling two or more processorsto minimize the execution time of a program which consists of a set of partially ordered tasksis studied A Comparison of List Schedules for PARALLEL Processing Systems PARALLEL processing , precedence graphs , scheduling , list scheduling , optimization , dynamic programming 
+
+CA741204 JB January 16, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2175 18  7.771791300364025 BM25
+
+
+Subexpression Ordering in the Execution of Arithmetic Expressions
+If thenumber of subexpressions which can be executed IN PARALLEL exceeds the number of available PROCESSORS , then execution of some of these subexpressions must be postponed Depending on the hardware environment IN which the expression isto be executed , these subexpressions can be evaluated IN serials , IN PARALLEL , or IN a combination of thesemodes PARALLEL processing , cache , arithmetic expressions , subexpression ordering , computational trees , compilers 
+
+CA710707 JB February 2, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2516 19  7.771225639194453 BM25
+
+
+Hierarchical Storage in Information Retrieval
+Hierarchical Storage IN INFORMATION RETRIEVAL A probabilistic analysis is employed to determinethe effect of hierarchical storage organizations on INFORMATION RETRIEVAL operations INFORMATION RETRIEVAL , hierarchical storage 
+
+CA730504 JB January 24, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2990 20  7.730458593510895 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Effective INFORMATION RETRIEVAL Using Term Accuracy The performance of INFORMATION RETRIEVAL systemscan be evaluated IN a number of different ways Much of the published evaluation work is basedon measuring the RETRIEVAL performance of an average user query IN the present study , RETRIEVAL evaluation is based on optimizing theperformance of a specific user query INFORMATION RETRIEVAL , automatic indexing , contentanalysis , term accuracy , frequency weighting , thesaurus and phrase transformations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0275 21  7.729485432747574 BM25
+
+
+Dynamic Storage Allocation for an Information Retrieval System
+Dynamic Storage Allocation for an INFORMATION RETRIEVAL System 
+
+CA611006 JB March 16, 1978  12:58 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0651 22  7.729485432747574 BM25
+
+
+A Survey of Languages and Systems for Information Retrieval
+A Survey of Languages and Systems for INFORMATION RETRIEVAL 
+
+CA620108 JB March 20, 1978  4:36 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2070 23  7.670963349081561 BM25
+
+
+A Formal System for Information Retrieval from Files
+A Formal System for INFORMATION RETRIEVAL from Files 
+
+CA700414 JB February 13, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1680 24  7.663683682197526 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+Language processorsand compilers , simulation models , mathematical solution techniques , stored data , and all other library anduser programs can be incorporated into instructional material without reprogramming This system was designed to improve man-computer communications by employinga display unit to interleave tutoring with other computer operations such as simulation , programming , andinformation RETRIEVAL computer-assisted instruction , tutorial systems , programming , simulation , modeling , INFORMATION RETRIEVAL operating systems , graphics , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1935 25  7.573895722703012 BM25
+
+
+Randomized Binary Search Technique
+The search method described is binary IN nature and offers new potential for INFORMATION RETRIEVAL systems binary pattern , file examination , graph theory , informationretrieval , mathematical model , partitioning , probabilistic method , random sequencing , search techniques , tree structures 
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3012 26  7.558024066451189 BM25
+
+
+The Use of an Interactive Information Storageand Retrieval System in Medical Research
+The Use of an Interactive INFORMATION Storageand RETRIEVAL System IN Medical Research This paper presents the results of a studyof the use of an interactive computerized storage and RETRIEVAL system implementation , system use , INFORMATION storage and RETRIEVAL system 
+
+CA780301 JB March 28, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1601 27  7.5362700756161125 BM25
+
+
+Parallel Numerical Methods for the Solution of Equations
+PARALLEL Numerical Methods for the Solution of Equations The s8everal approximations obtained IN any iteration are computationallyindependent , making the methods of interest IN a PARALLEL processing environment Several families of numerical procedureswhich use the technique of the procedures IN a PARALLEL processing environment are developed and measurementsof these statistics are reported These measurements are interpreted IN a PARALLEL processingenvironment Convergence isinsured by extracting the `` best INFORMATION '' at each iteration 
+
+CA670505 JB February 28, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2631 28  7.509648911617117 BM25
+
+
+An Information-Theoretic Approach toText Searching in Direct Access Systems
+Using direct access computer files of bibliographicinformation , an attempt is made to overcome one of the problems often associated with informationretrieval , namely , the maintenance and use of large dictionaries , the greater part of which is used onlyinfrequently The members of this subset are then used as index keys for RETRIEVAL text searching , INFORMATION theory , file organization , direct access , INFORMATION RETRIEVAL , character string , bit vector An Information-Theoretic Approach toText Searching IN Direct Access Systems 
+
+CA740615 JB January 17, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2140 29  7.506587723833003 BM25
+
+
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+Retrieval-Update Speed Tradeoffs Using Combined Indices This techniquepermitted decreased RETRIEVAL time at the cost of increased storage space This paper examines combinedindices under conditions of file usage with different fractions of RETRIEVAL and update file organization , combined index files , invertedfiles , INFORMATION RETRIEVAL , query , multi-attribute RETRIEVAL , file update 
+
+CA711203 JB February 2, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1032 30  7.480611552629845 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+Theoretical Considerations IN INFORMATION RETRIEVAL Systems INFORMATION storage and RETRIEVAL systems are composedof three major components : ( a ) identification of INFORMATION and tagging it for effective RETRIEVAL , ( b ) searching strategy , how to enter the file to circumvent the scanning of nonrelevant material , and ( c ) file organization to make access to INFORMATION efficient For identification of INFORMATION the papersuggests that a metalanguage ( recently discussed IN a paper by Goffman , Verhoeff and Belzer ) associatedwith an object language be used 
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0239 31  7.391160684511329 BM25
+
+
+Inefficiency of the Use of Boolean Functionsfor Information Retrieval Systems
+Inefficiency of the Use of Boolean Functionsfor INFORMATION RETRIEVAL Systems 
+
+CA611211 JB March 15, 1978  10:10 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0082 32  7.376318531611632 BM25
+
+
+Handling Identifiers as Internal Symbols in Language Processors
+Handling Identifiers as Internal Symbols IN Language PROCESSORS Substitution of computer-oriented symbols forprogrammer-oriented symbols IN language PROCESSORS is examined and a feasible method for doing so is presented 
+
+CA590602 JB March 22, 1978  6:38 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2530 33  7.357605174969164 BM25
+
+
+An Algorithm for Extracting Phrases ina Space-Optimal Fashion [Z] (Algorithm A444)
+INFORMATION RETRIEVAL , coding , text compression 
+
+CA730309 JB January 24, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2532 34  7.337631842105835 BM25
+
+
+On Harrison's Substring Testing Technique
+string , substring , hashing , INFORMATION storage and RETRIEVAL 
+
+CA730307 JB January 24, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2965 35  7.306538390099101 BM25
+
+
+An Optimal Evaluation of Boolean Expressions in an Online Query System
+query , Boolean expression , INFORMATION RETRIEVAL , file organization 
+
+CA770507 JB December 29, 1977  1:51 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2976 36  7.306538390099101 BM25
+
+
+Approximating Block Accesses in Database Organizations
+database , inverted file organization , database performanceand measurement , INFORMATION RETRIEVAL , query answering 
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3168 37  7.256175595507218 BM25
+
+
+Comment on "An Optimal Evaluation of BooleanExpressions in an Online Query System."
+Query , Boolean expression , INFORMATION RETRIEVAL , file organization 
+
+CA791001 DB January 16, 1980  4:50 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0292 38  7.232866971530019 BM25
+
+
+An Information Retrieval Language for Legal Studies
+An INFORMATION RETRIEVAL Language for Legal Studies 
+
+CA610902 JB March 16, 1978  9:51 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1831 39  7.232866971530019 BM25
+
+
+A Comment on Optimal Tree Structures
+INFORMATION RETRIEVAL , file searching , tree structures , double chaining 
+
+CA691015 JB February 15, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2882 40  7.19547480785985 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+A Stochastic Evaluation Model for DatabaseOrganization IN Data RETRIEVAL Systems Experimental work IN the valuation of largescale data RETRIEVAL systems has been scarce due to its difficulty and prohibitive cost This paperdiscusses a simulation model of a data RETRIEVAL system which has the effect of significantly reducingthe cost of experimentation and enabling research never attempted before The model is designed to estimatethe RETRIEVAL workload of alternative data RETRIEVAL systems These data RETRIEVAL systems canbe organized under several database organizations , including inverted list , threaded list , and cellularlist organizations and hybrid combinations of these systems Effectiveness of the methodology is demonstratedby using the model to study the effect of database organizations IN data RETRIEVAL systems database architecture , database performance andevaluation , invented list , threaded list , cellular list , INFORMATION RETRIEVAL , database organizations , query complexity , stochastic model , Monte Carlo simulation 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3169 41  7.1575045390790235 BM25
+
+
+Note on "An Optimal Evaluation of Boolean Expressions in an Online Query System."
+Query , Boolean expression , optimal evaluation , INFORMATION RETRIEVAL 
+
+CA791002 DB January 16, 1980  4:52 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2552 42  6.983592024797926 BM25
+
+
+A Note on When To Chain Overflow Items Within a Direct-Access Table
+hash code , open hash , chaining , INFORMATION RETRIEVAL , collision 
+
+CA730109 JB January 24, 1978  4:07 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1846 43  6.944066428397288 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+On Simulating Networks of PARALLEL Processesin Which Simultaneous Events May Occur The technique will either find a method ofsimulating the PARALLEL events or report that none can be found simulation , PARALLEL processes , simultaneous events , picture processing , computer system simulation IN some of the latter cases it is shownto be possible to find a solution by extending the INFORMATION available to the solution technique , butin many cases the technique becomes computationally unfeasible when the additional INFORMATION is provided 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1514 44  6.933267982212573 BM25
+
+
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+On the Expected Gain From Adjust ing Matched Term RETRIEVAL Systems A file adjustment procedure based on maximizingthe Bayes expected gain proposed for matched term RETRIEVAL systems Anexample evaluates the gain parameters for a typical INFORMATION RETRIEVAL system 
+
+CA671106 JB February 26, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2781 45  6.888627619143662 BM25
+
+
+The Algorithm Sequential Access Method:An Alternative to Index Sequential
+keys , direct access method , sequential accessmethod , randomizing INFORMATION RETRIEVAL 
+
+CA750307 JB January 9, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2412 46  6.842107385787623 BM25
+
+
+Comment on Brent's Scatter Storage Algorithm
+Hashing , INFORMATION storage and RETRIEVAL , scatter storage , searching , symbol table 
+
+CA731114 JB January 19, 1978  4:40 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2519 47  6.814835682146072 BM25
+
+
+On the Problem of Communicating Complex Information
+The nature of the difficulty involved IN communicatingmathematical results between scientists using a computer based INFORMATION RETRIEVAL systemis examined On the Problem of Communicating Complex INFORMATION The problem is analyzed IN terms of psychological and information-processing processes , andwhat turns out to be a vicious circle of effects is described These include ways of augmenting writtennatural language by various notational and linguistic devices , the exhibition of the structure inherent IN theinformation we are communicating , and a sophisticated interactive system controlled by computer complex INFORMATION , INFORMATION , communication , mathematics , proof , interactive system , language 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2865 48  6.78036417300454 BM25
+
+
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+Verifying Properties of PARALLEL Programs : An Axiomatic Approach An axiomatic method for proving a numberof properties of PARALLEL programs is presented A crucial axiom provides for the use of auxiliary variables , which are added to a PARALLEL program as an aid to proving it correct The INFORMATION IN a partialcorrectness proof can be used to prove such properties as mutual exclusion , freedom from deadlock , and program termination 
+
+CA760506 JB January 4, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1937 49  6.707957117869229 BM25
+
+
+CODAS: A Data Display System
+CODAS , a Customer Oriented Data System , isa user-oriented data RETRIEVAL and display system The command language of the system provides the userwith an easy means for specifying data RETRIEVAL and display requests data display , INFORMATION RETRIEVAL , graphic display , command languages , report program generation , management data processing 
+
+CA690201 JB February 20, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2967 50  6.597271564480132 BM25
+
+
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer Graphics
+associative memory , associative processor , content-addressablememory , graphics , INFORMATION RETRIEVAL , data structures , software evaluation , hardware evaluation , PARALLEL processing , database management 
+
+CA770505 JB December 29, 1977  2:07 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2307 51  6.5433727163507545 BM25
+
+
+Dynamic Document Processing
+The proposed procedures provide powerful toolsfor INFORMATION RETRIEVAL and for the control of dynamic library collections IN which new itemsare continually added and old ones are retired automatic indexing , automatic search and RETRIEVAL , iterative searching , mechanized library processing , collection growth , collection retirement , feedback search A new dynamic documentenvironment is then outlined IN which clusteredfiles are searched and INFORMATION is retrieved followingan interactive user-controlled search process Methods are described for an automatic query modificationbased on user needs , and for a continuous reorganization of the stored INFORMATION as a function ofearlier file processing and of normal collection growth 
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1747 52  6.519317743134956 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+Examples of applicationsof the criteria concern the reading of a time-of-day clock , the synchronization of parallelprocesses , protection IN multiprogrammed systems , and the assignment of capability indexes computer design , computer design criteria , computersystems , computer systems design , input equipment , input equipment design , operating systems , operatingsystems design , multiprogramming , multiprogrammed systems , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , INFORMATION security , INFORMATION privacy , computing reliability , debugging , program debugging , program testing , PARALLEL processing , PARALLEL programming , multiprocessing 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2455 53  6.482464012665417 BM25
+
+
+A Generalization of AVL Trees
+An experiment is performed to compare thesetrees with standard AVL trees and with balanced trees on the basis of mean RETRIEVAL time , of amountof restructuring expected , and on the worst case of RETRIEVAL time It is shown that , by permittingimbalances of up to five units , the RETRIEVAL time is increased a small amount while the amount of restructuringrequired is decreased by a factor of ten AVL trees , balanced trees , INFORMATION storage and RETRIEVAL 
+
+CA730819 JB January 23, 1978  10:13 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1825 54  6.36047798909869 BM25
+
+
+A Practical Method for Constructing LR(k) Processors
+A Practical Method for Constructing LR ( k ) PROCESSORS A practical method for constructing LR ( k ) processorsis developed These PROCESSORS are capable of recognizing and parsing an input during a singleno-backup scan IN a number of steps equal to the length of the input plus the number of steps IN itsderivation If an LR ( k ) processor can beconstructed for each part ( using Knuth 's algorithm ) and if certain conditions relating these individualprocessors are satisfied , then an LR ( k ) processor for the entire grammar can be constructed for them 
+
+CA691105 JB February 15, 1978  12:52 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1262 55  6.3354696039892335 BM25
+
+
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+Procedure-Oriented Language Statements to Facilitate PARALLEL Processing Two statements are suggested which allow a programmerwriting IN a procedure-oriented language to indicate sections of program which are to be executedin PARALLEL These serve partly as brackets IN establishinga range of PARALLEL operation and partly to define each PARALLEL path within this range 
+
+CA650509 JB March 7, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2973 56  6.27663323233466 BM25
+
+
+Sorting on a Mesh-Connected Parallel Computer
+Sorting on a Mesh-Connected PARALLEL Computer PARALLEL computer , PARALLEL sorting , PARALLEL merge , routing and comparison steps , perfect shuffle 
+
+CA770409 JB December 29, 1977  4:58 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1359 57  6.2050644323515955 BM25
+
+
+Data Filtering Applied to Information Storage and Retrieval Applications
+Data Filtering Applied to INFORMATION Storage and RETRIEVAL Applications Manipulation of data strings is the most complexprocessing function IN INFORMATION storage and RETRIEVAL applications 
+
+CA661101 JB March 2, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2896 58  6.158803057347265 BM25
+
+
+An Exercise in Proving Parallel Programs Correct
+An Exercise IN Proving PARALLEL Programs Correct A PARALLEL program , Dijkstra 's on-the-fly garbagecollector , is proved correct using a proof method developed by Owicki Difficultieswith proving such PARALLEL programs correct are discussed 
+
+CA771204 JB February 1, 1980  3:37 AM 
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2561 59  6.147679560113163 BM25
+
+
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+A Heuristic Approach to Inductive Inference IN Fact RETRIEVAL Systems Theyare implemented IN a model fact RETRIEVAL system which uses a formal query language and a property-list datastructure inference , inductive inference , clustering , fact RETRIEVAL , heuristics Heuristic procedures are presented which havebeen developed to perform inferences by generalizing from available INFORMATION 
+
+CA741213 JB January 13, 1978  3:40 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1959 60  6.120518047087343 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+management INFORMATION systems , integrated data processing , supervisors , interrupts monitoring systems , supervisorysystems , interrupt scheduling , PARALLEL processing An Interrupt Based Organization for Management INFORMATION Systems DPL , a programming language and supervisorysystem IN which these concepts are implemented , is used to illustratedthe new organization which is proposed for management INFORMATION systems 
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2160 61  6.107991539765707 BM25
+
+
+Canonical Structure in Attribute Based File Organization
+A new file structure for attribute based retrievalis proposed IN this paper Thus , for example , the structure for RETRIEVAL on the basis of ranges of values of a given attribute wouldbe very different from one where only RETRIEVAL on the basis of a single value is permitted address calculation , atoms of Boolean algebra , attributes , Boolean functions , Boolean queries , file organization , INFORMATION RETRIEVAL , invertedfile , key words , multilist , queries , searches 
+
+CA710904 JB February 2, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2685 62  6.100021473973017 BM25
+
+
+The Parallel Execution of DO Loops
+The PARALLEL Execution of DO Loops Methods are developed for the PARALLEL executionof different iterations of a DO loop PARALLEL computing , multiprocessor computers , array computers , vector computers , loops 
+
+CA740204 JB January 18, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2711 63  6.091186741607625 BM25
+
+
+A Vector Space Model for Automatic Indexing
+IN a document RETRIEVAL , or other pattern matchingenvironment where stored entities ( documents ) are compared with each other or with incoming patterns ( search requests ) , it appears that the best indexing ( property ) space is one where each entity lies as far awayfrom the others as possible ; IN these circumstances the value of an indexing system may be expressibleas a function of the density of the object space ; IN particular , RETRIEVAL performance may correlate inverselywith space density automatic INFORMATION RETRIEVAL , automaticindexing , content analysis , document space 
+
+CA751101 JB January 6, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1665 64  6.0886760670776585 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques The practical application of the theory offinite-state automata to automatically generate lexical PROCESSORS is dealt with IN this tutorial articleby the use of the AED RWORD system , developed at M The PROCESSORS produced by the system are based on finite-state machines The system has been IN operationsince 1966 , and PROCESSORS generated have compared favorably IN speed to carefully hand-coded programsto accomplish the same task Lexical PROCESSORS for AED-O and MAD are among the many which have beenproduced If theword `` events '' is substituted for character string , these PROCESSORS may be described as generalized decision-makingmechanisms based upon an ordered sequence of events IN designing a system for automatic generation of alexical processor , the goal was a processor which completely eliminated backup or rereading , which was nearlyas fast as hand-coded PROCESSORS , which would analyze the language and detect errors , andwhich would be convenient and easy to use 
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0763 65  6.087697803833842 BM25
+
+
+A Syntax Controlled Generator of Formal Language Processors
+A Syntax Controlled Generator of Formal Language PROCESSORS 
+
+CA630835 JB March 13, 1978  8:08 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2139 66  6.0165791276964145 BM25
+
+
+Implementation of the Substring Test by Hashing
+substring , hashing , subset , signature , informationcompression , INFORMATION RETRIEVAL , searching 
+
+CA711204 JB February 2, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1828 67  5.99480078747371 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+Synchronization IN a Parallel-Accessed Data Base The following problem is considered : Givena data base which can be manipulated simultaneously by more than one process , what are the rules for synchronizationwhich will maximize the amount of PARALLEL activity allowed PARALLEL accessing , PARALLEL search , file search , data base , synchronization , locking , deadlock 
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1236 68  5.9912189972202725 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+The SMART Automatic Document RETRIEVAL System-An Illustration A fully automatic document RETRIEVAL systemoperating on the IBM 7094 is described This feature is used IN the retrievalprocess by leaving the exact sequence of operations initially unspecified , and adapting thesearch strategy to the needs of individual users Results obtainedso far seem to indicate that some combination of analysis procedures can IN general be relied upon toretrieve the wanted INFORMATION 
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1675 69  5.978666083995899 BM25
+
+
+A Note on a Relevance Estimate and Its Improvement
+INFORMATION RETRIEVAL , relevance , indexing , classification 
+
+CA681104 JB February 21, 1978  2:57 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1725 70  5.977123509692242 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+A Simple Proof of Lewin 's Ordered-RetrievalTheorem for Associative Memories An efficient method of ordered RETRIEVAL of binarywords from an associative memory , as describedby Lewin , is based on the use of special readout circuitswhich indicate the digit values present IN the individual digit columns of the memory associative memories , content-addressed memories , ordered lists , ordered INFORMATION RETRIEVAL , ordered RETRIEVAL theorem , column digit values , digitvalue variety , column sensing arrangement , digit value readout , digit variety readout , memory access , memoryaccess frequency , ordered RETRIEVAL efficiency , access frequency proof , RETRIEVAL theorem proof 
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2700 71  5.893892733465615 BM25
+
+
+Reduction: A Method of Proving Properties of Parallel Programs
+Reduction : A Method of Proving Properties of PARALLEL Programs When proving that a PARALLEL program has agiven property it is often convenient to assume that a statement is indivisible , i Thus correctness proofs of a PARALLEL system can often be greatly simplified deadlock free , reduction , interruptible , indivisible , PARALLEL program , semaphore , verification method , process , computation sequence 
+
+CA751207 JB January 5, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2846 72  5.857829208915984 BM25
+
+
+Compressed Tries
+This paper presents a new data structure , called a compressed trie or C-trie , to be used IN INFORMATION RETRIEVAL systems IN the analysis part of the paper it will be shown that for a collection of n keys theretrieval time , measured IN terms of bit inspections of one key , is of the order logm ( n ) and the storagerequirement of the order n* ( m+log2 n ) bits This improvement IN storage requirements and RETRIEVAL timeis achieved at the cost of decreasing the flexibility of the structure , and therefore updating costs are increased data structure , database , m-ary tree , trie , RETRIEVAL time , storage requirement , keys 
+
+CA760707 JB January 4, 1978  12:26 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1988 73  5.827210699858986 BM25
+
+
+A Formalism for Translator Interactions
+A formalism is presented for describing the actionsof PROCESSORS for programming languages-compilers , interpreters , assemblers-and their interactions IN complex systemssuch as compiler-compilers or extendible languages The formalism here might be used to define and answer such aquestion as `` Can one do bootstrapping using a meta-compiler whose metaphase is interpretive ? '' IN addition an algorithmis presented for deciding whether or not a given system canbe produced from a given set of component PROCESSORS 
+
+CA701002 JB February 10, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2947 74  5.788305755820499 BM25
+
+
+SITAR: An Interactive Text Processing System for Small Computers
+SITAR , a low-cost IN teractive text handlingand text analysis system for nontechnical users , is IN many ways comparable to IN teractive bibliographicalsearch and RETRIEVAL systems , but has several additional features INFORMATION RETRIEVAL , text editing , minicomputers , CRTs , time sharing , bibliographic search and RETRIEVAL , literary analysis , linguistic analysis , command languages 
+
+CA770705 JB December 28, 1977  10:20 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0655 75  5.78693884804305 BM25
+
+
+COMIT as an IR Language
+Many of the features that make COMIT a goodall around symbol manipulation language also render it well suited to various types of INFORMATION retrievalprograms 
+
+CA620104 JB March 20, 1978  4:46 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1158 76  5.76950310400044 BM25
+
+
+Program Structures for Parallel Processing
+Program Structures for PARALLEL Processing Constructs for organizing and explicating parallelprogram segments are discussed as extensions to ALGOL 60 
+
+CA651211 JB March 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1627 77  5.768499256613758 BM25
+
+
+Application of Level Changing to a Multilevel Storage Organization
+This technique , called the multilevel store , provides a means for economicallysatisfying the requirements for very large storage capacities of certain data management and informationretrieval systems A possible means for physically organizing the INFORMATION for efficientuse of the multilevel store is presented 
+
+CA670302 JB February 28, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2258 78  5.689448944153608 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+hashing , hashing techniques , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access method , randomizing , random access file organization , file search , scatter storage , INFORMATION RETRIEVAL 
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2493 79  5.687934789048006 BM25
+
+
+Optimum Data Base Reorganization Points
+data base , reorganization , files , INFORMATION RETRIEVAL 
+
+CA730607 JB January 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1652 80  5.685648607230744 BM25
+
+
+A Code for Non-numeric Information ProcessingApplications in Online Systems
+The code has direct application to problems IN area such as INFORMATION RETRIEVAL , documentclassification , computer-aided teaching and text editing A Code for Non-numeric INFORMATION ProcessingApplications IN Online Systems A code has been specifically designed to simplifythe internal INFORMATION processing operations within an online computer system with respect to non-numericapplications , and to maximize the transfer rate of the INFORMATION channel linking the system andthe system user This code , called IPC ( INFORMATION ProcessingCode ) , is an 8-bit code set constructed so that 7 , 6 , 5 and 4-bit subsets can be easily derivedfrom the basic set 
+
+CA670103 JB March 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2266 81  5.661023887001296 BM25
+
+
+A Highly Parallel Algorithm for ApproximatingAll Zeros of a Polynomial with Only Real Zeros
+A Highly PARALLEL Algorithm for ApproximatingAll Zeros of a Polynomial with Only Real Zeros The algorithm , whichis conceptually suitable for PARALLEL computation , determines its own starting values so that convergenceto the zeros is guaranteed PARALLEL numerical algorithms , real polynomials , real zeros , Newton 's method , starting values , guaranteed convergence 
+
+CA721103 JB January 27, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2785 82  5.60070027474447 BM25
+
+
+Glypnir-A Programming Language for Illiac IV
+The syntax of the language is based on ALGOL 60 , but hasbeen extended to allow the programmer explicitly to specify the parallelism of his algorithm IN terms of 64-wordvectors This paper describes the characteristics , goals and philosophy of the language , and discusses someof the problems associated with PARALLEL computer architectures GLYPNIR , Illiac IV , Programming language , PARALLEL computation , PARALLEL architecture 
+
+CA750303JB January 9, 1978  4:57 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2032 83  5.509329238220131 BM25
+
+
+File Structures Using Hashing Functions
+Data structures , tree structures , file structures , scattertables , hashing functions , INFORMATION RETRIEVAL 
+
+CA700705 JB February 13, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0950 84  5.498202479033654 BM25
+
+
+Parallel Methods for Integrating Ordinary Differential Equations
+PARALLEL Methods for Integrating Ordinary Differential Equations This paper is dedicated to the proposition that , IN order to take full advantage for real-time computations of highly PARALLEL computers as can beexpected to be available IN the near future , much of numerical analysis will have to be recast IN a more '' PARALLEL '' form As an example , a method is proposed for `` parallelizing '' the numerical integration of an ordinary differentialequation , which process , by all standard methods , is entirely serial 
+
+CA641221 JB March 9, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2484 85  5.451575838462408 BM25
+
+
+A Note on Information Organization and Storage
+data base , data-base management , INFORMATION RETRIEVAL , INFORMATION structure , file organization , storage allocation , tree , graph A Note on INFORMATION Organization and Storage The use of different relations and algorithms results IN differentinformation structures , as list , tree , ring , etc Thus the problem of INFORMATION organization andstorage is reduced to that of defining relations and formulating algorithms under a given set of constraints 
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2451 86  5.438337367585644 BM25
+
+
+Design of Tree Structures for Efficient Querying
+A standard INFORMATION RETRIEVAL operation isto determine which records IN a data collection satisfy a given query expressed IN terms of data values tree file , INFORMATION storage and RETRIEVAL , clustering , search , data structure , data management , query answering 
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0440 87  5.428973010695348 BM25
+
+
+Record Linkage
+Rules that can be applied generally to name retrievalsystems have been developed IN a methodological study of the linkage of vital and health records intofamily groupings for demographic research purposes The underlying problem is that of making nearlymaximum use of items of identifying INFORMATION that are individually unreliable but that may collectivelybe of considerable discriminating power These rules are described , and the ways IN which informationutilization for matching may be optimized are discussed 
+
+CA621121 JB March 17, 1978  5:51 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0141 88  5.427781355465572 BM25
+
+
+Some Thoughts on Parallel Processing
+Some Thoughts on PARALLEL Processing 
+
+CA601007 JB March 20, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1367 89  5.399295175320651 BM25
+
+
+Character Structure and Character Parity Sensefor Parallel-by-Bit Data Communication in ASCII* (Proposed American Standard)
+Character Structure and Character Parity Sensefor Parallel-by-Bit Data Communication IN ASCII* ( Proposed American Standard ) 
+
+CA660912 JB March 2, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2895 90  5.363268947926848 BM25
+
+
+A Language for Formal Problem Specification
+A language for specifying the IN tended behaviorof communicating PARALLEL processes is described formal specifications , program correctness , parallelprocessing , synchronization , readers/writers problem 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1960 91  5.358365419439564 BM25
+
+
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+The main features of the systeminclude the ability given to any user to schedule his own parallelprocesses using system primitive operations , the file-memory relationship , and the allocation-scheduling policy , which dynamicallytakes into account recent INFORMATION about user behavior 
+
+CA701203 JB February 9, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2575 92  5.35548395579959 BM25
+
+
+The Best-Match Problem in Document Retrieval
+The Best-Match Problem IN Document RETRIEVAL document RETRIEVAL , best match , clustering , filesearching , matching , dissimilarity , hierarchy , classification 
+
+CA741109 JB January 16, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-0392 93  5.344327161592579 BM25
+
+
+Comment on A Paper on Parallel Processing
+Comment on A Paper on PARALLEL Processing 
+
+CA610206 JB March 17, 1978  12:58 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1302 94  5.344327161592579 BM25
+
+
+Parallel Signaling Speeds for Data Transmission(Proposed American Stand ard)
+PARALLEL Signaling Speeds for Data Transmission ( Proposed American Stand ard ) 
+
+CA650305 JB March 7, 1978  6:08 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2623 95  5.3436763780509455 BM25
+
+
+A New Technique for Compression and Storage of Data
+file maintenance , INFORMATION RETRIEVAL , utilityprograms , text compression , coding techniques , data storage , data management The efficiency of thesystem is considered and pertinent statistics are given and compared with statistics for other INFORMATION coding techniques 
+
+CA740801 JB January 17, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2832 96  5.310385380417628 BM25
+
+
+Faster Retrieval from Context Trees (Corrigendum)
+Faster RETRIEVAL from Context Trees ( Corrigendum ) This note presents an algorithm which improveson previous context tree RETRIEVAL algorithms It is based on the observation that IN typical uses contextchanges are infrequent relative to retrievals , so that data can be cached to speed up RETRIEVAL A retrievalis started from the position of the previous RETRIEVAL and auxiliary structures are built up to makethe search rapid 
+
+CA760907 JB January 4, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-3059 97  5.266365888927333 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+Models for PARALLEL Processing WIthin Programs : Application to CPU : I/O and I/O : I/O Overlap Approximate queueing models for internal parallelprocessing by individual programs IN a multiprogrammed system are developed IN this paper Multiprogramming , PARALLEL processing , queueingnetwork models , multiprocessing of computation and I/O 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-2342 98  5.228598141812505 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference Between Communicating PARALLEL Processes Various kinds of interference between communicatingparallel processes have been examined by Dijkstra , Knuth , and others Solutions have been givenfor the mutual exclusion problem and associated subproblems , IN the form of PARALLEL programs , and informalproofs of correctness have been given for these solutions IN this paper a system of parallelprocesses is regarded as a machine which proceeds from one state S ( i concurrent programming control , cooperating processes , formal programs , interference , mutual exclusion , operating systems , PARALLEL processes 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1976 99  5.226543936570483 BM25
+
+
+Multi-attribute Retrieval with Combined Indexes
+Multi-attribute RETRIEVAL with Combined Indexes file organization , secondary index files , inverted files , informationretrieval , data management , access method , secondary keys , storage with buckets , rapid RETRIEVAL , balanced filing scheme , eliminationof false drops , combining indexes , query , multi-attribute RETRIEVAL 
+
+CA701102 JB February 10, 1978  9:00 AM
+
+
+--------------------------------------------------------------
+50 Q0 CACM-1468 100  5.1998739223316095 BM25
+
+
+Syntax-Directed Interpretation of Classes of Pictures
+A descriptive scheme for classes of pictures basedon labeling techniques using PARALLEL processing algorithms was proposed by the author some years ago The PARALLEL processingsimulator , originally written for an IBM 7094system , has now been rewritten for a CDC 3600 system A partial generative grammar for '' handwritten '' English letters is given , as are also a few computer-generated outputs using this grammarand the PARALLEL processing simulator mentioned earlier 
+
+CA660304 JB March 3, 1978  1:56 PM
+
+

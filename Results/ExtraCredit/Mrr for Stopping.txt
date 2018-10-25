@@ -1,0 +1,66 @@
+MRR for the System proximity with stopping is 0.6004565595509866
+
+RR for query id  1 is 0.5
+RR for query id  10 is 1.0
+RR for query id  11 is 1.0
+RR for query id  12 is 1.0
+RR for query id  13 is 1.0
+RR for query id  14 is 1.0
+RR for query id  15 is 0.3333333333333333
+RR for query id  16 is 0.5
+RR for query id  17 is 1.0
+RR for query id  18 is 0.5
+RR for query id  19 is 1.0
+RR for query id  2 is 1.0
+RR for query id  20 is 1.0
+RR for query id  21 is 0.0625
+RR for query id  22 is 0.05263157894736842
+RR for query id  23 is 1.0
+RR for query id  24 is 1.0
+RR for query id  25 is 1.0
+RR for query id  26 is 0.5
+RR for query id  27 is 0.5
+RR for query id  28 is 0.04
+RR for query id  29 is 0.25
+RR for query id  3 is 0.03333333333333333
+RR for query id  30 is 0.045454545454545456
+RR for query id  31 is 0.14285714285714285
+RR for query id  32 is 0.25
+RR for query id  33 is 0.01
+34.txt RR cannot be found
+35.txt RR cannot be found
+RR for query id  36 is 0.14285714285714285
+RR for query id  37 is 0.1
+RR for query id  38 is 0.5
+RR for query id  39 is 0.5
+RR for query id  4 is 1.0
+RR for query id  40 is 0.5
+41.txt RR cannot be found
+RR for query id  42 is 0.07142857142857142
+RR for query id  43 is 0.25
+RR for query id  44 is 1.0
+RR for query id  45 is 1.0
+46.txt RR cannot be found
+47.txt RR cannot be found
+RR for query id  48 is 0.25
+RR for query id  49 is 0.3333333333333333
+RR for query id  5 is 1.0
+50.txt RR cannot be found
+51.txt RR cannot be found
+52.txt RR cannot be found
+53.txt RR cannot be found
+54.txt RR cannot be found
+55.txt RR cannot be found
+56.txt RR cannot be found
+RR for query id  57 is 1.0
+RR for query id  58 is 0.5
+RR for query id  59 is 1.0
+RR for query id  6 is 0.5
+RR for query id  60 is 0.2
+RR for query id  61 is 1.0
+RR for query id  62 is 0.05555555555555555
+RR for query id  63 is 0.5
+RR for query id  64 is 1.0
+RR for query id  7 is 1.0
+RR for query id  8 is 0.5
+RR for query id  9 is 1.0

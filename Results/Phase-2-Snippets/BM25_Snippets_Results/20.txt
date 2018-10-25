@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+20 Q0 CACM-2695 1  19.800870509023543 BM25
+
+
+Tridiagonalization by Permutations
+A GRAPH THEORETIC algorithm which examines an arbitraryn x n matrix and determines whether or not it can be permuted into tridiagonal form is given Consider the class of sparsematrices which can be tridiagonalized using only row and corresponding column permutations tridiagonal matrix , permutation , algorithm , eigenvalues , GRAPH , bandwidth , SPARSE matrix 
+
+CA740104 JB January 18, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1563 2  16.688489631784112 BM25
+
+
+A Method for Finding Hamilton Paths and Knight's Tours
+A graph-theoreticjustification for the method is given The use of Warnsdorff 's rule for finding aknight 's tour is generalized and applied TO the problem of finding a Hamilton path in a GRAPH 
+
+CA670710 JB February 28, 1978  8:28 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2986 3  16.471598921649708 BM25
+
+
+Operations on Sparse Relations
+Operations on SPARSE Relations The heart of the ALGORITHMS is a generaltheorem giving sufficient conditions under which an expression whose operands are SPARSE relations andwhose operators are composition , transitive closure , union , and inverse , can be computed efficiently computational complexity , SPARSE relation , Booleanmatrix , directed GRAPH , Wirth-Weber precedence relation , linear precedence function , SLRgrammar , T-canonical precedence relation Various computations on relations , Boolean MATRICES , or directed graphs , such as the computation of precedence relations for a context-free grammar , can bedone by a practical algorithm that is asymptotically faster than those in common use 
+
+CA770306 JB December 29, 1977  8:05 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2769 4  16.279914755443997 BM25
+
+
+A Modification of Warshall's Algorithm forthe Transitive Closure of Binary Relations
+The algorithm is similar TO Warshall'salthough it executes faster for SPARSE matriceson most computers , particularly in a paging environment Warshall 's algorithm , transitive closure , reachabilitymatrix , directed GRAPH , digraph , Boolean matrix , binary relation 
+
+CA750408 JB January 9, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2630 5  13.043881829090651 BM25
+
+
+On Computing Sets of Shortest Paths in a Graph
+On Computing Sets of Shortest Paths in a GRAPH Two ALGORITHMS are presented that constructthe k shortest paths between every pair of vertices in a directed GRAPH These ALGORITHMS generalize the Floydalgorithm and the Dantzig algorithm for finding the shortest path between every pair of vertices in a directed GRAPH GRAPH , network , shortest path , algorithm 
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2490 6  12.923008655505878 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+Efficient ALGORITHMS for GRAPH Manipulation [ H ] ( Algorithm A447 ) Efficient ALGORITHMS are presented for partitioninga GRAPH into connected components , biconnected components and simple paths The algorithm for partitioningof a GRAPH into simple paths is iterative and each iteration produces a new path between twovertices already on paths graphs , analysis of ALGORITHMS , GRAPH manipulation 
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2524 7  12.584545350859596 BM25
+
+
+Some Approaches to Best-Match File Searching
+These methods are derived using certain inequalities satisfied by metrics and bygraph-theoretic concepts After `` closest , '' in terms ofa metric on the the key space , is suitably defined , three file structures are presented together with theircorresponding search ALGORITHMS , which are intended TO reduce the number of comparisons required TO achievethe desired result 
+
+CA730404 JB January 24, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2368 8  12.323876647730208 BM25
+
+
+An Implemented Graph Algorithm for Winning Shannon Switching games
+An Implemented GRAPH Algorithm for Winning Shannon Switching games Since these games are played on graphs , the programis a good example of the implementation of GRAPH ALGORITHMS GRAPH ALGORITHMS , GRAPH processing , Shannon SwitchingGames , game playing , GRAPH theory , positional games , demonstration programs , game theory , spinning trees 
+
+CA720405 JB January 31, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2780 9  12.010534081897383 BM25
+
+
+On Computing Certain Elements of the Inverse of a Sparse Matrix
+On Computing Certain Elements of the Inverse of a SPARSE Matrix SPARSE MATRICES , triangular factorization , elementsof inverse , tridiagonal matrix , sensitivities 
+
+CA750308 JB January 9, 1978  4:34 PM 
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2289 10  11.355784732386482 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+Cellular Arrays for the Solution of GRAPH Problems In this paper it is shown that cellulararrays are inherently well suited for the solution of many GRAPH problems For example , the adjacencymatrix of a GRAPH is easily mapped onto an array ; each matrix element is stored in one cell of the array , and typical row and column operations are readily implemented by simple cell logic A major challengein the effective use of cellular arrays for the solution of GRAPH problems is the determination of algorithmsthat exploit the possibilities for parallelism , especially for problems whose solutions appear TO be inherentlyserial These ALGORITHMS exhibit a computation time that inmany cases grows at a rate not exceeding log2 n , where n is the number of nodes in the GRAPH GRAPH theory , cellular logic-in-memory arrays , parallel processing , special purpose computers , ALGORITHMS for distance and spanning tree problems In particular , several parallelized ALGORITHMS are presented for the solution of certainspanning tree , distance , and path problems , with direct applications TO wire routing , PERT chart analysis , and the analysis of many types of networks Straightforwardcellular implementations of the well-known serial ALGORITHMS for these problems require about nsteps , and noncellular implementations require from n^2 TO n^3 steps 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3139 11  10.753019522692968 BM25
+
+
+New Methods to Color the Vertices of a Graph
+New Methods TO Color the Vertices of a GRAPH This paper describes efficient new heuristicmethods TO color the vertices of a GRAPH which relyupon the comparison of the degrees and structure of a GRAPH A methodis developed which is exact for bipartite graphs and is animportant part of heuristic procedures TO find maximal cliques in generalgraphs Finally an exact method is given which performs betterthan the Randall-Brown algorithm and is able TO color largergraphs , and the new heuristic methods , the classical methods , andthe exact method are compared NP-complete , GRAPH structure , balancing , graphcoloring , scheduling , comparison of the methods 
+
+CA790405 DH June 5, 1979  2:05 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2484 12  10.703637873643387 BM25
+
+
+A Note on Information Organization and Storage
+Since the logical structure of a data basecan be represented by a tree or GRAPH , it is quite natural for us TO view the process of designing a database as that of constructing a tree or a GRAPH A general method for constructing such a tree or a graphis provided data base , data-base management , information retrieval , information structure , file organization , storage allocation , tree , GRAPH The use of different relations and ALGORITHMS results in differentinformation structures , as list , tree , ring , etc Thus the problem of information organization andstorage is reduced TO that of defining relations and formulating ALGORITHMS under a given set of constraints 
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2177 13  10.33108001670582 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph
+An Algorithm for the Blocks and Cutnodes of a GRAPH An efficient method is presented for findingblocks and cutnodes of an arbitrary undirected GRAPH The GRAPH may be represented either ( i ) as anordered list of edges or ( ii ) as a packed adjacency matrix If w denotes the word length of the machineemployed , the storage ( in machine words ) required for a GRAPH with n nodes and m edges increases essentiallyas 2 ( m+n ) in case ( i ) , or ( n^2 ) /win case ( ii ) For both representationsthe time required TO analyze a GRAPH on n nodes increases as n^G where G depends on the typeof GRAPH , 1 < = G < = 2 , and both bounds are attained Values of G are derived for each of several suitablefamilies of test graphs , generated by an extension of the web grammar approach algorithm , block , block-cutpoint-tree , cutnode , fundamentalcycle set , GRAPH , lobe , lobe decomposition GRAPH , separable , spanning tree , web grammar 
+
+CA710705 JB February 3, 1978  8:58 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2199 14  10.205611762205502 BM25
+
+
+A Sparse Matrix Package (Part I) [F4] (Algorithm 408)
+A SPARSE Matrix Package ( Part I ) [ F4 ] ( Algorithm 408 ) matrix , SPARSE matrix , matrix manipulation 
+
+CA710406 JB February 3, 1978  3:20 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2506 15  10.205611762205502 BM25
+
+
+A Sparse Matrix Package (Algorithm R408)
+A SPARSE Matrix Package ( Algorithm R408 ) matrix , SPARSE matrix , matrix manipulation , Fortran standards 
+
+CA730514 JB January 23, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2290 16  10.17462082482601 BM25
+
+
+Immediate Predominators in a Directed Graph [H] (Algorithm A430)
+Immediate Predominators in a Directed GRAPH [ H ] ( Algorithm A430 ) predominator , immediate predominator , GRAPH theory , directed GRAPH , shortest path , articulation , connectivity , program optimization , optimizing compiler 
+
+CA720812 JB January 30, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2172 17  10.031261338443379 BM25
+
+
+Graph Plotter [J6] (Algorithm 412)
+GRAPH Plotter [ J6 ] ( Algorithm 412 ) plot , GRAPH , line printer plot 
+
+CA710710 JB February 2, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3156 18  9.933594586371452 BM25
+
+
+Computing Connected Components on Parallel Computers
+We present a parallel algorithm which uses n2 processors TO find the connectedcomponents of an undirected GRAPH with n vertices in time O ( log2n ) GRAPH theory , parallel processing , ALGORITHMS , transitive closure , connected component 
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2052 19  9.918692048333352 BM25
+
+
+Scheduling to Reduce Conflict in Meetings
+Conflicts in scheduling can be treated as defining an undirected linear GRAPH independently of the relation of the activities in conflict TO additional constraints of time and space Each connected component of such a GRAPH , which can be found by an algorithm described by Gotlieb and Corneil , corresponds TO a set of events that must be scheduled at different times allocation , conflict matrix , connected component , scheduling , spanningtree , undirected linear GRAPH 
+
+CA700603 JB February 13, 1978  11:55 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1961 20  9.89320661755636 BM25
+
+
+An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+A theoretically most efficient search algorithm is presentedwhich uses an exhaustive search TO find all of the elementarycircuits of a GRAPH An Efficient Search Algorithm TO Find the Elementary Circuits of a GRAPH The speed is also related TO the number of circuitsin the GRAPH TO give a relation between speed and complexity Extensions TO undirected and s-graphs are discussed algorithm , GRAPH theory , circuit searchalgorithm , path search algorithm , searching 
+
+CA701202 JB February 9, 1978 4:12 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2934 21  9.717762483903646 BM25
+
+
+Comment on Computing the k Shortest Paths in a Graph
+Comment on Computing the k Shortest Paths in a GRAPH GRAPH , network , shortest path , algorithm , ranking 
+
+CA770809 JB December 28, 1977  7:00 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1847 22  9.643053164525245 BM25
+
+
+An Algorithm for Finding a Fundamental Set of Cycles of a Graph
+An Algorithm for Finding a Fundamental Set of Cycles of a GRAPH A fast method is presented for finding a fundamentalset of cycles for an undirected finite GRAPH inspect all thoseedges ( v , z ) of the GRAPH for which z has not yet been examined There is exactly one such stagefor each of the n vertices of the GRAPH For large n , the store required in creases as n^2 and the time asn^g where g depends on the type of GRAPH involved Testsshow our algorithm TO be remarkably efficient ( g=2 ) on random graphs fundamental cycle set , GRAPH , algorithm , cycle , spanning tree 
+
+CA690909 JB February 15, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2430 23  9.505569739322217 BM25
+
+
+The Elementary Circuits of a Graph [H] (Algorithm A459)
+The Elementary Circuits of a GRAPH [ H ] ( Algorithm A459 ) algorithm , GRAPH theory , circuit searchalgorithm , path search algorithm , searching 
+
+CA731010 JB January 20, 1978  11:11 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1457 24  9.49277660938533 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+Automatic information retrieval programs requirethe manipulation of a variety of different data structures , including linear text , SPARSE MATRICES , and tree or list structures 
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2752 25  9.464238358441547 BM25
+
+
+Generation of All the Cycles of a Graph froma Set of Basic Cycles [H] (Algorithm 492) 
+Generation of All the Cycles of a GRAPH froma Set of Basic Cycles [ H ] ( Algorithm 492 ) basic cycle , cycle , GRAPH 
+
+CA750601 JB January 9, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3152 26  9.115296485503709 BM25
+
+
+Storage Reorganization Techniques forMatrix Computation in a Paging Environment
+In order TO multiply MATRICES while minimizingthe number of page fetches required , it is often more efficient toreorganize the data into submatrix form and TO use block multiplication rather than TO use the best known ALGORITHMS which leave thematrices stored in row- ( or column- ) oriented form This alsomakes possible the derivation of an asymptotically better boundfor multiplication of MATRICES given in row-oriented form by adaptingthe technique of Strassen TO the reorganized data The reorganization/block multiplication scheme is shown TO be advantageous formatrices and pages of realistic size ; the Strassen adaptation isnot The former scheme is also shown TO be advantageous even ifthe transpose of one of the MATRICES is available at no additional cost 
+
+CA790703 DH August 22, 1979  2:29 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2619 27  9.087832302093164 BM25
+
+
+Graph Coloring Conditions for the Existenceof Solutions to the Timetable Problem
+GRAPH Coloring Conditions for the Existenceof Solutions TO the Timetable Problem Several relationshipsare established between the class-teacher timetable problem and graphs with preconditions These preconditionsplace additional restrictions on the coloration of a GRAPH Using some recentresults that convert graphs with preconditions TO graphs without them , it is shown that the existenceof a coloration of a GRAPH is the required necessary and sufficient condition graphs , coloration , preassignment , preventionof assignment , class-teacher timetables 
+
+CA740805 JB January 17, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2877 28  9.065250837761575 BM25
+
+
+A Program Data Flow Analysis Procedure
+A procedure is givenwhich determines all the definitions which canpossibly `` reach '' each node of the control flow graphof the program and all the definitions that are `` live '' on each edge of the GRAPH The procedure usesan `` interval '' ordered edge listing data structure and handles reducible and irreducible graphs indistinguishably program optimization , data flow analysis , flow graphs , ALGORITHMS , compilers 
+
+CA760303 JB January 5, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1504 29  9.056736702199833 BM25
+
+
+Algorithms for Finding a Fundamental Setof Cycles for an Undirected Linear Graph
+ALGORITHMS for Finding a Fundamental Setof Cycles for an Undirected Linear GRAPH Given the adjacency matrix of the GRAPH , the algorithmpresented in this paper finds a spanning tree and then constructs the set of fundamental cycles For graphs with a large number of nodes and edges , when storage is limited ouralgorithm is superior TO Welch 's ; however , when the graphs are small , or machine storage is very large , Welch 's algorithm is superior 
+
+CA671204 JB February 26, 19782:35 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3176 30  8.965540659144283 BM25
+
+
+Storing a Sparse Table
+Storing a SPARSE Table The problem of storing and searching large SPARSE tables is ubiquitous in computer science Gaussian elimination , parsing , searching , SPARSE matrix , table compression , table lookup 
+
+CA791104 DB January 23, 1980  11:24 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3018 31  8.926357561876 BM25
+
+
+Covering Edges by Cliques with Regard toKeyword Conflicts and Intersection Graphs
+Covering Edges by Cliques with Regard toKeyword Conflicts and Intersection Graphs This optimization problem is here shown TO be equivalentto the problem of covering the edges of a GRAPH by complete subgraphs with the objective of minimizingthe number of complete subgraphs A relationship between this edge-clique-cover problem and the GRAPH coloringproblem is established which allows ALGORITHMS for either one of these problems TO be constructedfrom algorithm for the other keyword conflicts , intersection graphs , node cliquecover , edge clique cover , computational complexity , NP-complete problems , polynomial-time heuristics As consequences of this relationship , the keyword conflict problem and theedge-clique-cover problem are shown TO be NP-complete , and if P=/NP then they do not admit polynomial-time approximationalgorithms which always produce solutions within a factor less than 2 from the optimum 
+
+CA780205 JB March 28, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2059 32  8.842867525387275 BM25
+
+
+A Language for Treating Graphs
+A Language for Treating Graphs A language for the representation of GRAPH is described , and the formulation of GRAPH operations such as node and/or link deletion or insertion , union , intersection , comparison , and traversal of graphs is given Graphsare represented by linked lists graphs , oriented , nonoriented , multiple , colored GRAPH , language extended ALGOL , operator-precedence , syntax-driven compiler , operation research , network , traffic 
+
+CA700507 JB February 13, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2442 33  8.775640079611613 BM25
+
+
+A Sparse Matrix Package (Algorithm R408)
+A SPARSE Matrix Package ( Algorithm R408 ) 
+
+CA730913 JB January 23, 1978  8:37 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2883 34  8.729920382866977 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+This problem can be representedas a shortest path problem on a GRAPH and can be solved using well-known GRAPH search ALGORITHMS The relations between this representation of the minimization problem and a dynamic programming approachare discussed , showing that the GRAPH search method can lead TO substantial improvements in computingtime 
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2015 35  8.682011997562318 BM25
+
+
+A Technique for Generating Almost OptimalFloyd-Evans Productions for Precedence Grammars
+A GRAPH formulation is used for the problem of merging productions The productions generated correspond TO the minimum cost inverse-arborescence of that GRAPH translator writing systems , syntactic analysis , Floyd-Evansproductions , precedence grammars , translator optimization , merger algorithm , minimum cost inverse-arborescence , GRAPH theory 
+
+CA700806 JB February 10, 19783:38 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2980 36  8.614903342297806 BM25
+
+
+The Editing  of Picture Segmentations Using Local Analysis of Graphs
+The Editing of Picture Segmentations Using Local Analysis of Graphs A scheme is presented which performs eliminations on the basis of local propertiesof the region adjacency GRAPH The scheme is based on definitions of GRAPH properties which aresatisfied when a spurious region is present ; then editing is equivalent TO fast GRAPH operations 
+
+CA770402 JB December 29, 1977  6:22 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1481 37  8.564129170667298 BM25
+
+
+Graph Plotter (Algorithm 278 [J6])
+GRAPH Plotter ( Algorithm 278 [ J6 ] ) 
+
+CA660206d JB March 23, 1978  7:30 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2461 38  8.564129170667298 BM25
+
+
+Graph Plotter (Algorithm R412)
+GRAPH Plotter ( Algorithm R412 ) 
+
+CA730813 JB January 23, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2081 39  8.376831823009427 BM25
+
+
+Some Complete Calculi for Matrices
+Some Complete Calculi for MATRICES The paper investigates how the special structure of MATRICES can be describedand utilized for efficient computing by saving memory space andsuperfluous operations Sequences of MATRICES ( and sequences of sequencesof MATRICES ) are considered , and matrix operators areextended TO sequence operators and cumulative operators Algorithmsare given which use symbol manipulation of matrix expressions soas TO find the forms best suited for computation 
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1047 40  8.345884252224723 BM25
+
+
+Generation of Test Matrices by Similarity Transformations
+Generation of Test MATRICES by Similarity Transformations A method for obtaining test MATRICES witha prescribed distribution of characteristic roots is given The process consists of using particularlysimple similarity transformations TO generate full MATRICES from canonical forms The MATRICES generatedalso have known characteristic vectors , inverses and determinants 
+
+CA640620 JB March 9, 1978  8:50 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2790 41  8.302784846078739 BM25
+
+
+The Elementary Circuits of a Graph (Algorithm R459)
+The Elementary Circuits of a GRAPH ( Algorithm R459 ) 
+
+CA750209 JB January 12, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1983 42  8.178004209080362 BM25
+
+
+Spanning Tree $H) (Algorithm 399)
+GRAPH , tree , spanning tree 
+
+CA701007 JB February 10, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2161 43  8.178004209080362 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph (Corrigendum)
+An Algorithm for the Blocks and Cutnodes of a GRAPH ( Corrigendum ) 
+
+CA710903 JB February 2, 1978  2:24 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2178 44  8.158786878931592 BM25
+
+
+A Language Extension for Graph Processing and Its Formal Semantics
+A Language Extension for GRAPH Processing and Its Formal Semantics A simple programming language `` extension , '' Graspe , for processing directed graphs is defined Graspe consists of a type of directed GRAPH data structureand a set of primitive operations for manipulating these structures GRAPH processing , programming language , formal semantics , directed GRAPH , Lisp , network , data structure , flowchart , syntax , language definition 
+
+CA710704 JB February 3, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3124 45  8.116943547034012 BM25
+
+
+Recursive Data Structures in APL
+Theorems exhibiting the relationshipsbetween the definitional systems are given and illustrated through graphrepresentations An extension of APL is proposed thatincludes new primitive functions TO manipulate the nestinglevel of arrays and new operators TO assist in theconstruction of data-driven ALGORITHMS Nested arrays , APL arrays , recursive data structures , trees , data-driven ALGORITHMS , theory of arrays 
+
+CA790203 DH April 10, 1979  3:41 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2232 46  8.044725531593063 BM25
+
+
+Pattern Width at a Given Angle
+The object of the workis TO clarify how the word description can be made precise so that computer ALGORITHMS for feature extractionmay be obtained ; the focus is on the theoretical subject matter The results consist of a set-theoreticdefinition of width-at-angle , a theorem relating it TO the pattern boundary radius vector , and descriptionsof alternate widths The principal conclusion is thatthe set-theoretic width-at-angle is a useful pattern feature when it can be easily computed All widths are calculated for an illustrative example ; graphical and tabular comparisonsare given 
+
+CA710102 JB February 8, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2405 47  8.029190536227489 BM25
+
+
+Linear Systems with Almost Tridiagonal Matrix [F4] (Algorithm A470)
+system of linear equations , almost tridiagonal matrix , SPARSE matrix 
+
+CA731203 JB January 19, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1707 48  8.027167091125762 BM25
+
+
+Generation of Positive Test Matrices with Known Positive Spectra
+Generation of Positive Test MATRICES with Known Positive Spectra test MATRICES , positive MATRICES , similaritytransformation , positive eigenvalues 
+
+CA680807 JB February 22, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3115 49  7.980496840442873 BM25
+
+
+Orderly Enumeration of Nonsingular BinaryMatrices Applied to Text Encryption
+Orderly Enumeration of Nonsingular BinaryMatrices Applied TO Text Encryption Nonsingular binary MATRICES of order N , i Examples of complete enumeration of all 2 x 2 and 3 x 3 nonsingularbinary MATRICES were produced by mapping the intermediate vectors TO the MATRICES Binary MATRICES , combinatorics , combinations , nonsingularmatrices , encryption , Vernam , pseudorandom numbers , feedback shiftregister sequences , random numbers 
+
+CA780401 DH February 27, 1979  11:05 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2805 50  7.940340468954069 BM25
+
+
+Perturbations of Eigenvalues of Non-normal Matrices
+Perturbations of Eigenvalues of Non-normal MATRICES The problem considered is TO give bounds for finiteperturbations of simple and multiple eigenvalues of nonnormal MATRICES , where these bounds are in termsof the eigenvalues , the departure from normality , and the Frobenius norm of the perturbation matrix , butnot in terms of the eigen system The bounds which are derived are shown TO be almost attainable for any set of MATRICES perturbation of eigenvalues , non-normal MATRICES , departure from normality , Gershgorin circles 
+
+CA750106 JB January 12, 1978  10:31 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1963 51  7.896674075374097 BM25
+
+
+Condition Numbers of PEI Matrices
+Condition Numbers of PEI MATRICES MATRICES , condition numbers , Pei MATRICES , eigenvectors , eigenvalues 
+
+CA701116 JB February 9, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3040 52  7.831881241876115 BM25
+
+
+Synthesizing Constraint Expressions
+Backtrack , combinatorial ALGORITHMS , constraintnetworks , constraint satisfaction , GRAPH coloring , network consistency , relaxation , scene labeling , search 
+
+CA781111 DH January 22, 1979  3:43 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1822 53  7.825195058141355 BM25
+
+
+Shortest-Path Forest with Topological Ordering (Algorithm [H])
+shortest path , tree , network , directed GRAPH 
+
+CA691108 JB February 15, 1978  12:21 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2763 54  7.714260827607524 BM25
+
+
+Basic Cycle Generation [H] (Algorithm 491)
+GRAPH , basic cycles , fundamental cycle , spanning tree , vertex adjacency matrix 
+
+CA750504 JB January 9, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0661 55  7.701642490271978 BM25
+
+
+Indexing and the Lambda-Notation
+Some methods of indexing sequentially storedelements of SPARSE multi-dimensional arrays are described in the scheme A notation 
+
+CA631213 JB March 13, 1978  2:51 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2134 56  7.651584521292719 BM25
+
+
+An Extension of the Munkres Algorithm forthe Assignment Problem to Rectangular Matrices
+An Extension of the Munkres Algorithm forthe Assignment Problem TO Rectangular MATRICES The assignment problem , together with Munkresproposed algorithm for its solution in square MATRICES , is presented first Then the authors developan extension of this algorithm which permits a solution for rectangular MATRICES operations research , optimization theory , assignmentproblem , rectangular MATRICES , algorithm 
+
+CA711209 JB February 2, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2189 57  7.541267688423974 BM25
+
+
+Generation of Rosary Permutations Expressed in Hamiltonian Circuits
+In a nonoriented complete GRAPH withn vertices , Hamitonian circuits equivalent TO permutation , GRAPH theory , scheduling , combinatorial algebra Two algorithmstreating the same example for five vertices are presented 
+
+CA710601 JB February 3, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1787 58  7.539658289509296 BM25
+
+
+Use of Transition Matrices in Compiling
+Use of Transition MATRICES in Compiling transition MATRICES , compilation , translation , grammar , context-free language , formal language , parsing An ALGORITHMS is described which constructsfrom a suitable BNF grammar an efficient left-right recognizer for sentences of the corresponding language 
+
+CA680107 JB February 23, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2167 59  7.514640122614438 BM25
+
+
+Algebraic Simplification: A Guide for the Perplexed
+Finally we discusssome of the theoretical results related TO algebraic simplification We describe several positive resultsabout the existence of powerful simplification ALGORITHMS and the number-theoretic conjectures on whichthey rely Results about the nonexistence of ALGORITHMS for certain classes of expressions are included 
+
+CA710805 JB February 2, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2444 60  7.399560229997693 BM25
+
+
+Finding All Cliques of an Undirected Graph (Algorithm A457)
+Finding All Cliques of an Undirected GRAPH ( Algorithm A457 ) cliques , maximal complete subgraphs , clusters , backtrackingalgorithm , branch and bound technique , recursion 
+
+CA730911 JB January 23, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0955 61  7.159996514188854 BM25
+
+
+A Class of Matrices to Test Inversion Procedures
+A Class of MATRICES TO Test Inversion Procedures 
+
+CA641216 JB March 9, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2806 62  7.1287833536619 BM25
+
+
+Two Hadamard Numbers for Matrices
+Two Hadamard Numbers for MATRICES MATRICES , eigenvalues , norms , condition numbers , error analysis , Gram-Schmidt orthogonalization 
+
+CA750105 JB January 12, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2335 63  7.087391472613478 BM25
+
+
+Eigenvalues and Eigenvectors of a Real General matrix (Algorithm R343)
+eigenvalues , eigenvectors , QR-algorithm , nonsymmetric MATRICES , general MATRICES 
+
+CA720610 JB January 30, 1978  4:11 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1876 64  7.037053418660305 BM25
+
+
+Generation of Test Matrices Having CertainSign Patterns and Prescribed Positive Spectra
+Generation of Test MATRICES Having CertainSign Patterns and Prescribed Positive Spectra test MATRICES , positive MATRICES , sign patterns , orthogonal transformations , positive eigenvalues 
+
+CA690704 JB February 17, 1978  9:26 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2557 65  6.9670430768954645 BM25
+
+
+On the Time Required for a Sequence of Matrix Products
+This paper discusses the multiplication of conformablesequences of row vectors , column vectors , and square MATRICES Algorithmsare presented which properly parse such matrix sequences subject TO the constraints of the machine organization 
+
+CA730104 JB January 24, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2701 66  6.9661839142064785 BM25
+
+
+A Fast and Usually Linear Algorithm for GlobalFlow Analysis (Abstract only--Complete paper JACM 23,1 January, 1976)
+A new algorithm for global flow analysis onreducible graphs is presented For a GRAPH of e edges , the algorithm has a worst case time bound of O ( e log e ) function operations The algorithm can be extended TO yet larger classes of function spaces and graphs by relaxingthe time bound global flow analysis , data flow , code optimization , common subexpression elimination , live-dead analysis , information propagation , flow GRAPH , reducibility , go-to-less programming , depth-first search , path compression 
+
+CA751206 JB January 5, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2133 67  6.963585767257916 BM25
+
+
+Algorithm for the Assignment Problem(Rectangular Matrices) [H] (Algorithm 415)
+Algorithm for the Assignment Problem ( Rectangular MATRICES ) [ H ] ( Algorithm 415 ) operations research , optimization theory , assignment problem , rectangular MATRICES 
+
+CA711210 JB February 2, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2758 68  6.963585767257916 BM25
+
+
+A Note on the LU Factorization of a Symmetric Matrix
+symmetric MATRICES , factorization , test MATRICES , matrix inversion , separable systems 
+
+CA750509 JB January 9, 1978  2:26 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2554 69  6.939643646239649 BM25
+
+
+Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+An algorithm is described for reducing thegeneralized eigenvalue problem Ax = lambda Bx TO an ordinary problem , in case A and B are symmetric bandmatrices with B positive definite If n is the order of the matrix and m the bandwidth , the matricesA and B are partitioned into m-by-m blocks ; and the algorithm is described in terms of these blocks The algorithm is similar TO those of Rutishauser andSchwartz for the reduction of symmetric MATRICES TO band form generalized eigenvalues , symmetric band MATRICES 
+
+CA730107 JB January 24, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1924 70  6.9043733465786925 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+Organizing MATRICES and Matrix Operations for Paged Memory Systems It is shown thatcarefully designed matrix ALGORITHMS can lead TO enormous savings in the number of page faults occurringwhen only a small part of the total matrix can be in main memory at one time Examination of addition , multiplication , and inversion ALGORITHMS shows that a partitioned matrix representation ( i The number of page-pulls required by these matrix manipulation ALGORITHMS is also studied as a functionof the number of pages of main memory available TO the algorithm matrix ALGORITHMS , array processing , paging ALGORITHMS , paged memory systems , virtual memory systems , array storage allocation , storage allocation 
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1116 71  6.789688502359734 BM25
+
+
+Tests on a Computer Method for Constructing School Timetables*
+A previously proposed computer method for constructingtimetables , based on an iteration involving Boolean MATRICES , is described References are given which relate thetimetable problem TO theorems on MATRICES of zeros and ones , and TO theorems on bipartite graphs 
+
+CA640316 JB March 10, 1978  2:34 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1501 72  6.743944365617969 BM25
+
+
+Eigenvectors of a 2n x 2n Matrix
+It has been known that the eigenvalues of acertain 2n x 2n matrix can be obtained by use of two smaller MATRICES of order n which can be easilyconstructed An algorithm is given TO obtain the eigenvectors of the 2n x 2n matrix by use ofthe eigenvectors of the smaller MATRICES 
+
+CA671207 JB February 26, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1432 73  6.720037112806277 BM25
+
+
+Incorporation of Nonstandard Input/Output Devices into FORTRAN Systems
+This method was used TO control outputof alphanumeric information on a digital GRAPH plotter 
+
+CA660505 JB March 3, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2568 74  6.701825664014174 BM25
+
+
+A Graph Formulation of a School Scheduling Algorithm
+A GRAPH Formulation of a School Scheduling Algorithm An obvious lower limit TO this number is the size of the largest strongly connectedsubgraph The object of this paper is TO generalize the definition of largest strongly connected subgraphto include the weighting of nodes , TO present an approximate algorithm which usually finds the largeststrongly connected subgraph , and TO discuss the application of this algorithm TO the solution ofschool scheduling and exam scheduling problems scheduling , school scheduling , examination scheduling , nondirected network , GRAPH , subgraph , strongly connected subgraph 
+
+CA741206 JB January 13, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1630 75  6.696549804066357 BM25
+
+
+Computer Representation of Planar Regions by Their Skeletons
+Moreover , the skeleton representationseems TO have advantages when it is necessary TO determine repeatedly whether points are insideor outside the region , or TO perform set-theoretic operations on regions 
+
+CA670212 JB February 28, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0070 76  6.4300515227110475 BM25
+
+
+Construction of a Set of Test Matrices
+Construction of a Set of Test MATRICES This paper develops the equations and propertiesof a set of test MATRICES which are useful in the determination of the accuracy of routines forfinding the inverse , determinant and/or eigenvalues of a matrix 
+
+CA590803 JB March 22, 1978  6:09 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2824 77  6.381090975558144 BM25
+
+
+An Improvement to Martin's Algorithm forComputation of Linear Precedence Functions
+syntax analysis , precedence functions , Boolean MATRICES 
+
+CA761007 JB January 3, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1683 78  6.367819819515438 BM25
+
+
+Boolean matrix Methods for the Detection of Simple Precedence Grammars
+This procedureconsists of elementary operations on suitably defined Boolean MATRICES syntax analysis , precedence analysis , simple precedencegrammar , simple precedence language , operator grammar , operator precedence , compilers , bounded-contextsyntactic analysis , Boolean MATRICES , relations 
+
+CA681004 JB February 21, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1935 79  6.335366940723878 BM25
+
+
+Randomized Binary Search Technique
+binary pattern , file examination , GRAPH theory , informationretrieval , mathematical model , partitioning , probabilistic method , random sequencing , search techniques , tree structures 
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0749 80  6.3236677413004285 BM25
+
+
+Note onStochastic Matrices
+Note onStochastic MATRICES 
+
+CA630909 JB March 13, 1978  7:35 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2888 81  6.306717399443396 BM25
+
+
+Information Reference Coding
+The principles of methodical coding are discussed , and the way inwhich logical connections between data items must be reflected in the reference code framework is shownthrough a set-theoretic information model 
+
+CA760105 JB January 5, 1978  10:11 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1947 82  6.301816050733889 BM25
+
+
+Object code Optimization
+compilers , data flow analysis , dominance , efficiency , FORTRAN , GRAPH theory , loop structure , machine instructions , object code , optimization , redundancyelimination , register assignment , System/360 
+
+CA690102 JB February 20, 1978  12:15 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1347 83  6.278046288039169 BM25
+
+
+General Time-Varying Systems Error Sensitivities Program
+The evaluation , by the propagation of variancetechnique , of the sensitivity of time-varying systems TO initial condition and parameter errors , involvesthe determination of several system-dependent partial derivative MATRICES A new program , through utilization of the Wengert differentiationtechnique , automatically determines the required MATRICES from specific system equations suppliedin subroutine form at execution time , eliminating the need for individualized programs , and presaging thefurther development of extremely general computer programs 
+
+CA661203 JB March 2, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0315 84  6.273905682382535 BM25
+
+
+Solution of Tridiagonal Matrices
+Solution of Tridiagonal MATRICES 
+
+CA610702 JB March 16, 1978  10:28 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-3085 85  6.256626260538269 BM25
+
+
+An O(n) Algorithm for Determining a Near-OptimalComputation Order of Matrix Chain Products
+x Mn where Mi 's are MATRICES The order in which the matricesare computed affects the number of operations A sufficient condition about the association of thematrices in the optimal order is presented 
+
+CA780703 DH February 8, 1979  2:46 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0349 86  6.224920681527687 BM25
+
+
+A Set of Test Matrices
+A Set of Test MATRICES 
+
+CA610419 JB March 16, 1978  11:47 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1934 87  6.197779214104988 BM25
+
+
+On Arithmetic Expressions and Trees
+This representation reducesthe choice of the best order of computation TO a specific problem under the theory of graphs arithmetic expression , compiler design , GRAPH theory , programming , storage minimization , topological ordering , tree 
+
+CA690204 JB February 20, 1978  11:11 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0635 88  6.1766946785518 BM25
+
+
+A Note on Multiplying Boolean Matrices
+A Note on Multiplying Boolean MATRICES 
+
+CA620208 JB March 20, 1978  3:45 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0777 89  6.1766946785518 BM25
+
+
+A Set of Test Matrices (Algorithm 52)
+A Set of Test MATRICES ( Algorithm 52 ) 
+
+CA630821 JB March 13, 1978  8:24 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0936 90  6.1766946785518 BM25
+
+
+A Set of Test Matrices (Algorithm 52)
+A Set of Test MATRICES ( Algorithm 52 ) 
+
+CA630112 JB March 14, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0956 91  6.1766946785518 BM25
+
+
+A Family of Test Matrices
+A Family of Test MATRICES 
+
+CA641215 JB March 9, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1423 92  6.174228807617597 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+The generalized inverse of a matrix is importantin analysis because it provides an extension of the concept of an inverse which applies TO all MATRICES A simple extension hasbeen found TO the conventional orthogonalization method for inverting non-singular MATRICES , which givesthe generalized inverse with little extra effort and with no additional storage requirements It also has many applications in numerical analysis , but it is not widely used because the existingalgorithms are fairly complicated and require considerable storage space 
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1145 93  6.151784761402545 BM25
+
+
+GIT-A Heuristic Program for Testing Pairsof Directed Line Graphs for Isomorphism*
+GIT-A Heuristic Program for Testing Pairsof Directed Line Graphs for Isomorphism* Given a pair of directed line graphs , the problemof ascertaining whether or not they are isomorphic is one for which no efficient algorithmic solution is known Since a straightforward enumerative algorithm might require 40 years of running time on a very highspeed computer in order TO compare two 15-node graphs , a more sophisticated approach seems calledfor Git-Graph Isomorphism Tester-incorporates a variety of processesthat attempt TO narrow down the search for an isomorphism , or TO demonstrate that none exists The situation is similar TO that prevailing in areas such as game-playing and theorem-proving , wherepractical ALGORITHMS are unknown ( for the interesting cases ) , but where various practical though only partiallysuccessful techniques are available 
+
+CA640110 JB March 10, 1978  5:24 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0256 94  6.129210168635139 BM25
+
+
+A Set of Test Matrices (Algorithm 52)
+A Set of Test MATRICES ( Algorithm 52 ) 
+
+CA611112 JB March 15, 1978  10:46 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0285 95  6.129210168635139 BM25
+
+
+Solution of Tridiagonal Matrices
+Solution of Tridiagonal MATRICES 
+
+CA610909 JB March 16, 1978  9:39 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0301 96  6.129210168635139 BM25
+
+
+A Set of Test Matrices (Algorithm 52)
+A Set of Test MATRICES ( Algorithm 52 ) 
+
+CA610803 JB March 16, 1978  10:13 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0511 97  6.129210168635139 BM25
+
+
+A Set of Test Matrices (Algorithm 52)
+A Set of Test MATRICES ( Algorithm 52 ) 
+
+CA620817 JB March 17, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-0896 98  6.129210168635139 BM25
+
+
+Characteristic Values and Vectors of Defective Matrices
+Characteristic Values and Vectors of Defective MATRICES 
+
+CA630324 JB March 14, 1978  12:58 PM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-1151 99  6.129210168635139 BM25
+
+
+A Note on Multiplying Boolean Matrices II
+A Note on Multiplying Boolean MATRICES II 
+
+CA640103 JB March 10, 1978  5:38 AM
+
+
+--------------------------------------------------------------
+20 Q0 CACM-2778 100  6.129210168635139 BM25
+
+
+Perturbations of Eigenvalues of Non-normal Matrices (Corrigendum)
+Perturbations of Eigenvalues of Non-normal MATRICES ( Corrigendum ) 
+
+CA750310 JB January 9, 1978  4:26 PM
+
+

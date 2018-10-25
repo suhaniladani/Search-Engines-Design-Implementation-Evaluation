@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+28 Q0 CACM-3032 1  67.06236201997784 BM25
+
+
+Reverse Path Forwarding of Broadcast Packets
+Reverse Path Forwarding of Broadcast Packets A broadcast PACKET is for delivery to allnodes of a NETWORK Algorithms for accomplishing this delivery through a store-and-forward PACKET switching computer NETWORK include ( 1 ) transmission of separately addressed packets Tothis list of algorithms we add ( 6 ) reverse path forwarding , a broadcast ROUTING method which exploitsrouting procedures and data structures already available for PACKET switching Reverse path forwardingis a practical algorithm for broadcast ROUTING in store-and-forward PACKET switching computer NETWORKS Reverse path forwarding , broadcast packets , ROUTING , computer NETWORKS , store-and-forward PACKET switching , broadcast protocols The algorithm is described as being practical because it is not optimal according to metrics developedfor its analysis in this paper , and also because it can be implemented in existing NETWORKS with less complexitythan that required for the known alternatives 
+
+CA781207 DH  January 18, 1979  3:10 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2949 2  57.08415922727128 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+distributed computer NETWORK , correctness proofs , computer NETWORKS , distributed control , NETWORK topology , ROUTING problem in NETWORKS , distributed operatingsystem , store and forward PACKET switching , store and forward message switching , traffic control It is based on Baran 's `` HotPotato Heuristic ROUTING Doctrine A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer NETWORK In order for the nodes of a distributed computernetwork to communicate , each node must have information about the NETWORK 's topology The TopologyInformation Protocol that was implemented on the MERIT Computer NETWORK is presented and explained ; thisprotocol is quite general and could be implemented on any computer NETWORK 
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2890 3  47.188850234804626 BM25
+
+
+On Quadratic Adaptive Routing Algorithms
+On Quadratic Adaptive ROUTING Algorithms Two analytic models of a store-and-forward communicationsnetwork are constructed , one to find the optimal message ROUTING and the other to illustratethe equilibrium ( stationary state ) maintained by an adaptive ROUTING algorithm These models show thatadaptive ROUTING does not satisfy the necessary conditions for an optimal ROUTING , Adaptive ROUTING tendsto overuse the direct path and underuse alternate routes because it does not consider the impact of itscurrent ROUTING decision on the future state of the NETWORK The modification requiresthe substitution of a quadratic bias term instead of a linear one in the ROUTING table maintained at eachnetwork node ROUTING algorithms , adaptive ROUTING , quadratic ROUTING , alternate ROUTING , store-and-forward NETWORK , distributed NETWORK , computer NETWORK , message switching Simulation results are presented which confirm the theoretical analysis for a simple NETWORK 
+
+CA760103 JB January 5, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2892 4  44.869103512810256 BM25
+
+
+A Study of Line Overhead in the Arpanet
+ARPANET , computer communication NETWORKS , interprocesscommunication , measurement , PACKET switching , performance evaluation and efficiency , resource sharing Some measurements of line efficiency for the ARPANET arepresented and by extrapolation these measurements are used to anticipate overhead in a heavily loaded NETWORK Similar results are derived for a recently proposed NETWORK protocol and compared with those for the current system 
+
+CA760101 JB January 5, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2849 5  44.100679291947245 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Ethernet : Distributed PACKET Switching for Local Computer NETWORKS Ethernet is a branching broadcast communicationsystem for carrying digital data packets among locally distributed computing stations The packettransport mechanism provided by Ethernet has been used to build systems which can be viewed as either localcomputer NETWORKS or loosely coupled multiprocessors Coordination of access to the Ether for packetbroadcasts is distributed among the contending transmitting stations using controlled statistical arbitration Switching of packets to their destinations on the Ether is distributed among the receiving stationsusing PACKET address recognition A model for estimating performanceunder heavy loads and a PACKET protocol for error controlled communication are included for completeness computer NETWORKS , PACKET switching , multiprocessing , distributed control , distributed computing , broadcast communication , statistical arbitration 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1685 6  39.565440654886686 BM25
+
+
+GAN, a System for Generating and Analyzing Activity Networks
+GAN , a System for Generating and Analyzing Activity NETWORKS GAN , a system for generating activity NETWORKS , is designed to save time in the preparation of activity NETWORKS and to deal conveniently with networkprograms A defining description of a programming language designed for generating activity NETWORK froma set of standard NETWORKS is presented Also , a general idea of a language for performing calculationson activity NETWORKS ( scheduling activity NETWORKS ) is given activity NETWORK , management project , standard NETWORK , NETWORK generator , NETWORK assembler , activity NETWORK analysis , NETWORK calculation , NETWORK program 
+
+CA681002 JB February 21, 1978  4:22 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2776 7  38.970453307564604 BM25
+
+
+Computer Networks in Higher Education: Socio-Economic-Political Factors
+Computer NETWORKS in Higher Education : Socio-Economic-Political Factors This study presents the results of a nationwidesurvey of computer NETWORKS in higher education conducted during 1971-73 Five major and 18 minor networkswere identified The five major NETWORKS included : the ARPA Net , the California State College NETWORK , the University of Iowa/Iowa State University NETWORK , the Michigan Educational Research Information Triad , Inc Based on the experiences of these operating NETWORKS , a number of factorsare identified for consideration in developing NETWORKS Finally , recommendations are advanced regardingthe development of NETWORKS in higher education in the future NETWORKS , higher education , and the Triangle Universities Computation Center NETWORK in North Carolina 
+
+CA750401 JB January 9, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3158 8  38.33621166230782 BM25
+
+
+Secure Personal Computing in an Insecure Network
+Personal computing , security , privacy , NETWORKS , public-key encryption The method employs apublic-key encryption device and HARDWARE keys Secure Personal Computing in an Insecure NETWORK A method for implementing secure personal computing in a networkwith one or more central facilities is proposed A user can safelystore confidential files in the central facility or transmit confidential data to other users on the NETWORK 
+
+CA790804 DB January 14, 1980  9:26 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2197 9  36.52078878572829 BM25
+
+
+The Merit of Regional Computing Networks
+The Merit of Regional Computing NETWORKS One of the suggested means for stimulating thespread of computing capabilities in institutions of higher learning is through the construction of regionalcomputing NETWORKS computer sharing , computer utility , cooperative NETWORKS , curriculum development , educational computing , NETWORK computing , regional computing NETWORKS , remote computing , shared computing One such NETWORK has been constructed in the San Francisco Bay Area by StanfordUniversity This paper reports upon the lessons learned from the operation of the NETWORK over the pasttwo years A major impact of the NETWORK was not so much the computer power delivered to the schoolsas the awakening of computing awareness and the fostering of capability development at these schools Both the quality and variety of services provided by the central facilitywere found to play a key role in the effectiveness of the NETWORK A regional NETWORK brings many benefitsand should not be judged as a purveyor of raw computer power alone 
+
+CA710502 JB February 3, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1928 10  36.284963389647636 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+Exclusive Simulation of Activity in Digital NETWORKS A technique for simulating the detailed logicnetworks of large and active digital systems is described Certain aspects of the techniques described may be used for the simulationof NETWORK structures other than digital NETWORKS simulation , logical simulation , digital simulation , large systems simulation , NETWORK structures , scheduling , queuing , simultaneous activities , parallel events 
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2951 11  35.33257879634946 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+Dynamic Response Time Prediction for Computer NETWORKS response time monitor , computer NETWORKS , time-sharingsystems , comparative response time , ARPA NETWORK , anlytic modeling , simulation , benchmark jobs , system measurement If the ultimate aim of a computing networkis resource sharing , then the human component as well as the technical component of networking mustbe fully investigated to achieve this goal This research is a first step toward assisting the user in participatingin the vast store of resources available on a NETWORK Analytical , simulation , and statistical performanceevaluation tools are employed to investigate the feasibility of a dynamic response time monitorthat is capable of providing comparative response time information for users wishing to process variouscomputing applications at some NETWORK computing node The research clearly reveals that sufficientsystem data are currently obtainable , at least for the five diverse ARPA NETWORK systems studied in detail , to describe and predict the response time for NETWORK time-sharing systems as it depends on somemeasure of system activity or load level 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2515 12  33.77078767473438 BM25
+
+
+Minimal Event-Node Network of Project Precedence Relations
+Nemhauser ( 1968 ) produces event-node networkswhich are not minimal Minimal Event-Node NETWORK of Project Precedence Relations A procedure for constructing a minimal event-nodenetwork to represent a set of precedence relations without parallel activities is presented Aminimal event-node NETWORK is an event-node NETWORK in which both the number of nodes and the number of arcsare the minima to preserve the given precedence relations Counterexamples are given to show that thealgorithm presented by A NETWORK , project , event-node NETWORK , activity-nodenetwork , minimal event-node NETWORK , dummy activity , project precedence relations 
+
+CA730505 JB January 24, 1978  8:42 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2969 13  33.597901204013446 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+Optimal Program and Data Locations in Computer NETWORKS This algorithm takes into account thedependencies between files and programs such as occur in real heterogeneous computer NETWORKS computer NETWORKS , databases , distributeddatabases , optimal file location An optimization procedure for the allocationof program and data files in a computer NETWORK is presented 
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1723 14  33.24153453917627 BM25
+
+
+Computer Construction of Project Networks
+Computer Construction of Project NETWORKS Project NETWORKS are used in PERT and CPM An algorithm is given for constructing project NETWORKS directly from the project precedence relations project NETWORKS , PERT , CPM , topologicalordering , NETWORK construction by computer 
+
+CA680706 JB February 22, 1978  12:07 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0441 15  32.96746003015242 BM25
+
+
+Topological Sorting of Large Networks
+Topological Sorting of Large NETWORKS Topological Sorting is a procedure requiredfor many problems involving analysis of NETWORKS It permits treatment of larger networksthan can be handled on present procedures and achieves this with greater efficiency A PERT NETWORK of30,000 activities can be ordered in less than one hour of machine time 
+
+CA621120 JB March 17, 1978  5:58 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2371 16  32.855926262275766 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+interprocess communication , time-sharing , computer NETWORKS , resource sharing A System for Interprocess Communicationin a Resource Sharing Computer NETWORK A system of communication between processes in atime-sharing system is described and the communication system is extended so that it may be used between processesdistributed throughout a computer NETWORK The hypothetical application of the system to an existing NETWORK is discussed 
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1695 17  32.407896348573196 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+PLEXUS-An On-Line System for Modeling Neural NETWORKS A description is presented of PLEXUS , a systemwhich enables a user to construct and specify a neural NETWORK , to analyze the output data producedby the NETWORK , and to store and retrieve NETWORKS and data from a library PLEXUSnetworks are built up from components representing individual neurons , external stimuli , and interconnectingfibers , each component being of a relatively detailed nature biological modeling , data analysis , discrete systemsimulation , library systems , modeling , NETWORK simulation , neural NETWORKS , neurophysiologicalmodels , on-line simulation , simulation Provision is also made for the use ofexperimental data as input to a NETWORK Convenient means for specification and modification of a NETWORK andextensive error-checking capabilities are provided Data resulting from the simulation of a NETWORK may beanalyzed by a variety of techniques ranging from examinations of the gross characteristics of the data tothe determination of detailed statistical properties 
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0828 18  32.28858801185743 BM25
+
+
+Incompressible flow Network Calculations
+A general method for the calculation of flowsand pressures in fluid flow NETWORKS is presented Incompressible flow NETWORK Calculations 
+
+CA630621 JB March 14, 1978  10:03 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3040 19  32.05877814423076 BM25
+
+
+Synthesizing Constraint Expressions
+A theory of consistency levels in such NETWORKS is formulated , which is related to problemsof backtrack tree search efficiency Backtrack , combinatorial algorithms , constraintnetworks , constraint satisfaction , graph coloring , NETWORK consistency , relaxation , scene labeling , search A constraint NETWORK representation is presentedfor a combinatorial search problem : finding values for a set of variables subject to a set of constraints 
+
+CA781111 DH January 22, 1979  3:43 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1989 20  31.017096489453667 BM25
+
+
+Transition Network Grammars for Natural Language Analysis
+Transition NETWORK Grammars for Natural Language Analysis The use of augmented transition NETWORK grammars for the analysisof natural language sentences is described Structure-buildingactions associated with the arcs of the grammar NETWORK allow for the reordering , restructuring , and copying of constituents necessary to producedeep-structure representations of the type normally obtained from atransformational analysis , and conditions on the arcs allow for apowerful selectivity which can rule out meaningless analyses and takeadvantage of semantic information to guide the parsing An implementation of anexperimental parsing system for transition NETWORK grammars is briefly described computational linguistics , grammars , grammar models , linguistics , natural language analysis , parsing , semantic interpretation , transition NETWORK grammars , transformational grammars 
+
+CA701001 JB February 10, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2712 21  31.008471077988908 BM25
+
+
+Horner's Rule for the Evaluation of General Closed Queueing Networks
+Horner 's Rule for the Evaluation of General Closed Queueing NETWORKS The solution of separable closed queueing networksrequires the evaluation of homogeneous multinomial expressions Queueing NETWORKS , queueing theory Horner 's rule , evaluation of multinomial sums , load-dependent service rate The number of terms in those expressionsgrows combinatorially with the size of the NETWORK such that a direct summation may become impractical 
+
+CA751007 JB January 6, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2274 22  30.6983271344259 BM25
+
+
+Generating English Discourse from Semantic Networks
+Generating English Discourse from Semantic NETWORKS The grammar used by the system is in the form of a NETWORK that imposesan ordering on a set of syntactic transformations that are expressed as LISP functions The generationalgorithm uses the information in the semantic NETWORK to select appropriate generation paths throughthe grammar 
+
+CA721004 JB January 27, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3133 23  30.37596015883055 BM25
+
+
+Logic and Semantic Networks
+Logic and Semantic NETWORKS Onthe other hand , by regarding semantic NETWORKS as an abstract data structure for the representation of clauses , we provide atheorem-prover with a potentially useful indexing scheme and path-followingstrategy for guiding the search for a proof Logic , semantic NETWORKS , theorem-proving , indexing , resolution , deduction , logic programming An extended form of semantic NETWORK is defined , which canbe regarded as a syntactic variant of the clausal form of logic By virtue of its relationship with logic , the extendedsemantic NETWORK is provided with a precise semantics , inference rules , and a procedural interpretation 
+
+CA790304 DH April 12, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2046 24  29.56635344013471 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+data bank , data base , data structure , data organization , hierarchies of data , NETWORKS of data , relations , derivability , redundancy , consistency , composition , join , retrievallanguage , predicate calculus , security , data integrity Existing noninferential , formatted data systems provide users with tree-structured files or slightly more general NETWORK models of the data 
+
+CA700609 JB February 13, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2289 25  29.335508454264712 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+In PARTICULAR , several parallelized algorithms are presented for the solution of certainspanning tree , distance , and path problems , with direct applications to wire ROUTING , PERT chart analysis , and the analysis of many types of NETWORKS 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2454 26  29.246581163390886 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers Methods are presented for computing the equilibriumdistribution of customers in closed queueing NETWORKS with exponential servers queueing theory , queueing NETWORKS , equilibriumdistributions , steady state distributions 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1846 27  29.058402563987784 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+Following this , the problem of DEALING with simultaneousevents in separate processes is introduced On Simulating NETWORKS of Parallel Processesin Which Simultaneous Events May Occur Thesystems are assumed to be described as a NETWORK of interconnected sequential processes 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2630 28  29.033932837315184 BM25
+
+
+On Computing Sets of Shortest Paths in a Graph
+graph , NETWORK , shortest path , algorithm 
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1261 29  28.80290906441986 BM25
+
+
+Modeling and Simulation of Digital Networks
+Modeling and Simulation of Digital NETWORKS The simulation of digital NETWORKS on a digitalcomputer provides the engineer with an effective means of analyzing time-quantized logical behavior This simplicity is derived from a common modeling technique applicable to combinationaland sequential digital NETWORKS and a systematic programming approach Thedigital NETWORK is modeled as a set of time-dependent or time-independent Boolean transformations ; each transformationdescribing the input-output relationship of a model element comprising the NETWORK mode Thesimplicity of utilizing the FORTRAN IV Programming System as a digital NETWORK Simulator is discussed anillustrated 
+
+CA650510 JB March 7, 1978  1:15 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1611 30  28.548725433017484 BM25
+
+
+Scheduling Project Networks
+Scheduling Project NETWORKS Some of the basic concepts and terminologyof project networking are developed The error detectionand NETWORK analysis features of the algorithm are also described 
+
+CA670404 JB February 28, 1978  11:31 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3038 31  28.418531958975453 BM25
+
+
+Using Encryption for Authentication in Large Networks of Computers
+Using Encryption for Authentication in Large NETWORKS of Computers Use of encryption to achieve authenticatedcommunication in computer NETWORKS is discussed Encryption , security , authentication , NETWORKS , protocols , public-key cryptosystems , data encryption standard 
+
+CA781201 DH January 22, 1979  11:18 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1890 32  28.17362288530001 BM25
+
+
+Simulation of Traffic Flows in a Network
+Simulation of Traffic Flows in a NETWORK A computer simulation program which dealswith traffic flows in the NETWORK of a large area is described traffic simulation , traffic flow , traffic networktraffic control , traffic density , intersection , signal setting , vehicle , road NETWORK , list structure , computer simulation 
+
+CA690603 JB February 17, 1978  1:26 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2900 33  27.62011214773603 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+File allocation , computer NETWORKS , distributed data management the problemof finding the optimal set of NETWORK sites at which to locate copies of a file-is known to be , in general , polynomial complete 
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3076 34  26.72600194337541 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+Electronic funds transfer systems , social impactsof computing , privacy , social choice , computer NETWORKS , NETWORK reliability , security , social values 
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3059 35  26.704718410919753 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+The solution techniqueis developed by NETWORK decomposition Multiprogramming , parallel processing , queueingnetwork models , multiprocessing of computation and I/O 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2973 36  26.308329820352718 BM25
+
+
+Sorting on a Mesh-Connected Parallel Computer
+Two algorithms are presented for sorting n^2elements on an n X n mesh-connected processor array that require O ( n ) ROUTING and comparison steps parallel computer , parallel sorting , parallel merge , ROUTING and comparison steps , perfect shuffle 
+
+CA770409 JB December 29, 1977  4:58 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3164 37  26.071545422487436 BM25
+
+
+Progressive Acyclic Digraphs-A Tool for Database Integrity
+List processing , data structures , topological sort , acyclic digraph , database integrity , NETWORK , deadlock 
+
+CA790905 DB January 14, 1980  11:56 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1906 38  26.02781514468222 BM25
+
+
+Automated Printed Circuit Routing with a Stepping Aperture
+Automated Printed Circuit ROUTING with a Stepping Aperture A computer program for ROUTING interconnectionson a two-sided printed circuit board with a regular pattern of lines , pins ( terminals ) , and vias ( feed-through holes ) is described In this program , each interconnection is given a planned routing-typically , down from the upper pin , through a via , and horizontally to the lower pin The planned ROUTING is the basis forrerouting interconnections within the aperture to resolve conflicts for lines and vias below the apertureand to maximize the effective line usage ROUTING , printed circuit , interconnections , aperture , stepping aperture , computer program , circuit board , lines , vias , pins 
+
+CA690503 JB February 17, 1978  3:57 PM 
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2988 39  25.707328189386512 BM25
+
+
+Memory Management and Response Time
+This paper presents a computationally tractablemethodology for including accurately the effects of finite memory size and workload memory requirementsin queueing NETWORK models of computer systems memory management , system performance , queueingnetwork models , in teractive computer systems 
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0367 40  25.517546284417193 BM25
+
+
+Topological Ordering of a List ofRandomly-Numbered Elements of a Network
+Topological Ordering of a List ofRandomly-Numbered Elements of a NETWORK A NETWORK of directed line segments free of circularelements is assumed 
+
+CA610401 JB March 17, 1978  12:17 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2572 41  25.51640010742627 BM25
+
+
+Arguments for a Moratorium on the Constructionof a Community Information Utility
+
+
+CA741202 JB January 16, 1978  10:02 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2401 42  25.50399056020688 BM25
+
+
+On Shrinking Binary Picture Patterns
+This proceduremay be used for counting patterns on a matrix , and a HARDWARE implementation of the algorithm using largescale integrated technology is envisioned An analogy with aneural NETWORK description , in terms of McCulloch-Pitts `` neurons '' is presented 
+
+CA720102 JB February 1, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1572 43  25.21431719803702 BM25
+
+
+The Simulation of Time sharing Systems
+Not only is it necessaryto develop an appropriate HARDWARE configuration for these systems , but appropriate software adjustmentsmust be made 
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2894 44  25.18612486189514 BM25
+
+
+A Methodology for Interactive Computer Service Measurement
+The NBS NETWORK Measurement System is employed as the external measurement tool in teractive system , computer service , measurement , performance , external measurement , methodology , measurement model , NETWORK measurement system , measures , figure-of-merit 
+
+CA771206 JB December 22, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3070 45  25.117117611880225 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+In an example based on a simple hypotheticalcomputer system , discrete-event simulation is used to model the arrival and activation of jobs , and acentral-server queueing NETWORK models the use of system processors Performance evaluation , simulation , queueingnetwork models , central server model 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1622 46  24.96930193875992 BM25
+
+
+An Efficient Procedure for the Generation of Closed Subsets
+`` The algorithm has been programmed in the WISP language andsuccessfully run on the IBM 7094 in connection with a routine to detect feedback in multidimensional iterative NETWORKS 
+
+CA670307 JB February 28, 1978  1:18 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1397 47  24.362520950844086 BM25
+
+
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation
+The ACM Symposium on Symbolic and AlgebraicManipulation brought together over four hundred people INTERESTED in programming languages designedfor manipulation of algebraic formulas and symbol strings , in their applications , and in algorithms fortheir implementation Evening meetings were arranged for several INTEREST groups The conference was sponsoredby the ACM Special INTEREST Committee on Symbolic and Algebraic Manipulation 
+
+CA660801 JB March 2, 1978  8:17 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2598 48  24.28832049342228 BM25
+
+
+Extending the Information Theory Approach to ConvertingLimited-Entry Decision Tables to Computer Programs
+
+
+CA740910 JB January 17, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2450 49  24.21994267585464 BM25
+
+
+Empirical Working Set Behavior
+Althoughthe words `` working set '' are now commonly encountered in the literature DEALING with resource allocation , thereis a dearth of published data on program measurements , in the hope that workers in the field might find experimentalevidence upon which to substantiate and base theoretical work 
+
+CA730905 JB January 23, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1362 50  24.21161400065805 BM25
+
+
+Code Extension in ASCII* (An ASA Tutorial)
+
+
+CA661005 JB March 2, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2581 51  24.093187497828843 BM25
+
+
+A Locally-Organized Parser for Spoken Input
+parsing , speech recognition , speech understanding , augmented transition NETWORK , local parsing 
+
+CA741103 JB January 16, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2216 52  23.946794939893344 BM25
+
+
+On the Probability Distribution of the Values of Binary Trees
+
+
+CA710205 JB February 8, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1034 53  23.88601194800465 BM25
+
+
+Autosate
+The analysis is geared to determining workload , relationships and storage characteristics of documents in the information NETWORK automatically 
+
+CA640713 JB March 9, 19788:07 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1889 54  23.875397871474373 BM25
+
+
+Introducing Computing to Smaller Collegesand Universities -- A Progress Report
+The experience of two years with a statewidenetwork involving-41 institutions is discussed regional NETWORK , introducing computing , under-graduateeducation , instructional usage , academic applications , curriculum development , orientation project , regional center , consortium , remote computing 
+
+CA690604 JB February 17, 1978  11:21 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2568 55  23.692022691972266 BM25
+
+
+A Graph Formulation of a School Scheduling Algorithm
+Most of these formulations can be presentedin the terminology of classical NETWORK Theory One such formulation is : Given a nondirected NETWORK , partition its nodes into a minimal number of subsets such that no two members of the same subsetare connected by anarc scheduling , school scheduling , examination scheduling , nondirected NETWORK , graph , subgraph , strongly connected subgraph 
+
+CA741206 JB January 13, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1768 56  23.507506304001723 BM25
+
+
+A Global Parser for Context-Free Phrase Structure Grammars
+Anumber of the routines for extracting data about a grammar , such as minimum lengths of N-derivable stringsand possible prefixes , are given and may be of INTEREST apart from their application in this PARTICULAR context 
+
+CA680402 JB February 23, 1978  11:27 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0616 57  23.497701060707442 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+It is hoped that this report will be read ( a ) with avid INTEREST by programming languagedesigners and implementors , and all those INTERESTED in developing a theoretical approach to dataprocessing ; ( b ) with INTEREST and understanding by professional programmers and systems analysts ; and ( c ) with appreciation by the businessman-analyst-manager 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2178 58  23.4814714429774 BM25
+
+
+A Language Extension for Graph Processing and Its Formal Semantics
+graph processing , programming language , formal semantics , directed graph , Lisp , NETWORK , data structure , flowchart , syntax , language definition 
+
+CA710704 JB February 3, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1601 59  23.3076140545577 BM25
+
+
+Parallel Numerical Methods for the Solution of Equations
+The s8everal approximations obtained in any iteration are computationallyindependent , making the methods of INTEREST in a parallel processing environment 
+
+CA670505 JB February 28, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2828 60  23.06579922893125 BM25
+
+
+Hierarchical Geometric Models for Visible Surface Algorithms
+
+
+CA761003 JB January 3, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1728 61  22.99994874887566 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1811 62  22.936565963137912 BM25
+
+
+A Case Study in Programming for Parallel-Processors
+Aprogram for the determination of the distribution of current in an electrical NETWORK was written for aparallel-processor computing system , and execution of this program was simulated parallel-processor , parallelism , parallel programming , multiprocessor , multiprogramming , tasking , storage interference , electrical NETWORK , simulation , relaxation , Jacobi , Gauss-Seidel , convergence 
+
+CA691201 JB February 15, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1199 63  22.882995394567278 BM25
+
+
+A Computer Center Simulation Project
+Today 's computation centers are based on rapidlychanging technologies of HARDWARE and software systems 
+
+CA650907JB March 6, 1978  7:29 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1423 64  22.849241698574318 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1458 65  22.840337113758416 BM25
+
+
+Online Programming
+
+
+CA660314 JB March 3, 197811:44 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1551 66  22.790624841110194 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+
+
+CA670804 JB February 27, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1614 67  22.6155787328251 BM25
+
+
+A Proposal for Definitions in ALGOL
+
+
+CA670401 JB February 28, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1171 68  22.561739765350037 BM25
+
+
+A Comparison of the Primal-Simplex and Primal-DualAlgorithms for Linear Programming
+
+
+CA651110 JB March 6, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3082 69  22.53596428770647 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+Distributed systems , computer NETWORKS , clock synchronization , multiprocess systems 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1233 70  22.50250592193026 BM25
+
+
+Conventions for the Use of Symbols in the Preparationof Flowcharts for Information Processing Systems (A Standard Working Paper)
+
+
+CA650702 JB March 6, 1978  9:10 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2887 71  22.493938963958858 BM25
+
+
+A Study of Errors, Error-Proneness, and Error Diagnosis in Cobol
+
+
+CA760106 JB January 5, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2196 72  22.466257096226705 BM25
+
+
+A Man-Machine Approach Toward Solving the Traveling Salesman Problem
+The traveling salesman problem belongs to animportant class of scheduling and ROUTING problems 
+
+CA710503 JB February 3, 1978  3:00 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2916 73  22.39888590259239 BM25
+
+
+A Fast String Searching Algorithm
+
+
+CA771010 JB December 27, 1977  9:43 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1770 74  22.352993787344793 BM25
+
+
+Rules of Ethics in Information Processing
+The purpose is to inform about this important aspect of our profession , aswell as to stimulate thought and INTEREST 
+
+CA680302 JB February 23, 1978  11:41 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1516 75  22.270825935130954 BM25
+
+
+Automatic Data Compression
+
+
+CA671104 JB February 26, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1745 76  22.19761249456346 BM25
+
+
+A Position Paper on Computing and Communications
+information NETWORKS , information systems , computingand free enterprise , computing economics , computer installation management , government regulation , communications services , distributed data base , program leasing 
+
+CA680511 JB February 23, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2327 77  22.135639877699454 BM25
+
+
+Toward an Automata Theory of Brains
+automata theory , brain theory , NETWORK complexity , resolution of redundancy of potential command , frog visual system , reticular formation mode selection 
+
+CA720701 JB January 30, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1877 78  22.12018296117868 BM25
+
+
+Prevention of System Deadlocks
+
+
+CA690703 JB February 17, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1032 79  22.020997018201545 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1886 80  21.94601906012228 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1326 81  21.944530698914583 BM25
+
+
+Boundary Networks
+Boundary NETWORKS 
+
+CA650111 JB March 8, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2217 82  21.930057045170013 BM25
+
+
+Experiments in Automatic Learning for a Multipurpose Heuristic Program
+
+
+CA710204 JB February 8, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2200 83  21.919943080878042 BM25
+
+
+On Complement Division
+
+
+CA710405 JB February 3, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1711 84  21.88509929752631 BM25
+
+
+When Your Computer Needs a Lawyer
+
+
+CA680803 JB February 22, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2307 85  21.840041797923362 BM25
+
+
+Dynamic Document Processing
+
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1443 86  21.796849775737993 BM25
+
+
+A Method for Finding the Least Squares Estimateof the Intersection Point of Two Helices in Space
+
+
+CA660406 JB March 3, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2053 87  21.742954549718874 BM25
+
+
+On the Conversion of Decision Tables to Computer Programs
+
+
+CA700602 JB February 13, 1978  12:03 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2147 88  21.668019967896857 BM25
+
+
+Using Computers in Higher Education:Past Recommendations, Status, and Needs
+Quality was lacking in HARDWARE or courses in nearly half of the associateand bachelor 's degree programs in data processing , computer science , etc 
+
+CA711102 JB February 2, 1978  11:44 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2614 89  21.66044421044939 BM25
+
+
+Arrow to Precedence Network Transformation [H] (Algorithm A481)
+critical path , NETWORKS , precedence NETWORKS Arrow to Precedence NETWORK Transformation [ H ] ( Algorithm A481 ) 
+
+CA740810 JB January 17, 1978  9:37 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0383 90  21.594356304841984 BM25
+
+
+On Finding Minimum Routes in a Network With Turn Penalties
+On Finding Minimum Routes in a NETWORK With Turn Penalties 
+
+CA610215 JB March 17, 1978  12:49 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2741 91  21.560133807331663 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+multiprogramming , paging , performance evaluation , saturation , instabilities , thrashing , aggregation , system levels , hierarchy , NETWORKS of queues 
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3153 92  21.5477484993706 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+Queueing NETWORKS , paging , virtual memory , performance control 
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2934 93  21.53414841227475 BM25
+
+
+Comment on Computing the k Shortest Paths in a Graph
+graph , NETWORK , shortest path , algorithm , ranking 
+
+CA770809 JB December 28, 1977  7:00 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2805 94  21.53345760713025 BM25
+
+
+Perturbations of Eigenvalues of Non-normal Matrices
+
+
+CA750106 JB January 12, 1978  10:31 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-1696 95  21.5122559050054 BM25
+
+
+An Algorithm for Identifying the Ergodic Subchainsand Transient States of a Stochastic Matrix
+Applications in Markov renewal programmingand in the construction of variable length codes are reviewed , and an updating procedure for dealingwith certain sequences of stochastic matrices is discussed 
+
+CA680905 JB February 22, 1978  9:04 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2948 96  21.48279278101683 BM25
+
+
+A Terminal-Oriented Communication System
+terminal system , error correction , multiplexing , local echoing , communication system , NETWORK 
+
+CA770704 JB December 28, 1977  11:49 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-2932 97  21.47415296571463 BM25
+
+
+Complexity of Computations
+
+
+CA770901 JB December 28, 1977  6:54 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0531 98  21.43570555991961 BM25
+
+
+Person-Matching by Electronic Methods
+We are interestedin the maintenance of a psychiatric case register in Maryland , where many of the reports from over a hundredpsychiatric agencies refer to the same patient 
+
+CA620730 JB March 17, 1978  7:51 PM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-3202 99  21.359088319853505 BM25
+
+
+   MANIP: A Computer System for Algebra and Analytic Differentiation
+
+
+CA660816 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+28 Q0 CACM-0409 100  21.327026925912353 BM25
+
+
+CL-1, An Environment for a Compiler
+
+
+CA610105 JB March 17, 1978  1:26 AM
+
+

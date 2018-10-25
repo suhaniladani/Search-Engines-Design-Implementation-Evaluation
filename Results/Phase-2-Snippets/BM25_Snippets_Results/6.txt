@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+6 Q0 CACM-2826 1  35.36920850645264 BM25
+
+
+Interactive Skeleton Techniques for EnhancingMotion Dynamics in Key Frame Animation
+Interactive Skeleton Techniques for EnhancingMotion DYNAMICS in Key Frame Animation A significant increase in the capability forcontrolling MOTION DYNAMICS in key frame animation is achieved through skeleton control This techniqueallows an animator to develop a complex MOTION sequence by animating a stick figure representationof an image 
+
+CA761005 JB January 3, 1978  4:24 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2828 2  34.389004429000664 BM25
+
+
+Hierarchical Geometric Models for Visible Surface Algorithms
+The GEOMETRIC structure inherent in the definitionof the shapes of three-dimensional objects and environments is used NOT just to define their relativemotion and placement , but also to assist in solving many other problems of systems for producingpictures by computer Hierarchical GEOMETRIC Models for Visible Surface Algorithms By using an extension of traditional structure information , or a GEOMETRIC hierarchy , five significant improvements to current techniques are possible Finally , the GEOMETRIC structure suggests a recursive descent , visible surface algorithm in which the computation time potentially grows linearly with the visible complexity of the scene visible surface algorithms , hidden surface algorithms , hierarchical data structures , GEOMETRIC models 
+
+CA761003 JB January 3, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1543 3  33.389152131746684 BM25
+
+
+Computer Formulation of the Equations of Motion Using Tensor Notation
+Computer Formulation of the Equations of MOTION Using Tensor Notation To illustrate the techniques involved , a digital computer has been usedto derive the equations of MOTION of a point mass in a general orthogonal curvilinear coordinate system With the programprepared for this purpose the computer will derive the equations of MOTION in any coordinate systemrequested by the user 
+
+CA670903 JB February 27, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1365 4  30.358343703025245 BM25
+
+
+Eliminating Monotonous Mathematics with FORMAC
+Among the areas in which it has been successfully used are : differentiationof complicated expressions , expansion of truncated power series , solution of simultaneous equations withliteral coefficients , nonlinear maximum likelihood estimation , tensor analysis , and generation of the coefficientsof equations in Keplerian MOTION 
+
+CA661002 JB March 2, 1978  4:14 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2230 5  29.509403587722247 BM25
+
+
+A Language for Treating Geometric Patterns in a Two-dimensional space
+A Language for Treating GEOMETRIC Patterns in a Two-dimensional space In this paper CADEP , a problem-oriented languagefor positioning GEOMETRIC patterns in a two-dimensional space , is presented Although the language has beenspecifically designed for the automatic generation of integrated circuit masks , it turns out to be wellsuited also for such other placement problems as architecture design , urban PLANNING , logical and blockdiagram representation graphic language , problem-oriented language , two-dimensionalpatterns , graphic display , Fortran extension , layout problems , integrated circuit , architecture design , urban PLANNING 
+
+CA710104 JB February 8, 1978  11:17 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0605 6  29.24718322102407 BM25
+
+
+Computer Simulation Of City Traffic
+In simulating traffic flow on city streets , the National Bureau of Standards has used data processing techniques to tabulate and make MOTION picturesof vehicle movements in the model 
+
+CA620412 JB March 20, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2721 7  28.76142405194148 BM25
+
+
+The Digital Simulation of River Plankton Population Dynamics
+The Digital Simulation of River Plankton Population DYNAMICS As an investigation of the accuracy of the simulation methods , a simulationof the actual population DYNAMICS of Asterionella in the Columbia River was made based on approximationsof conditions in that river digital simulation , mathematical modeling , planktonpopulation DYNAMICS , phytoplankton , zooplankton , river ecosystems , ecological mechanisms , environmental simulation , modeling ecosystems , pollution , environmental impact , environmental PLANNING In addition , the study demonstrates the usefulness ofdigital simulations in the examinations of certain aquatic ecosystems , as well as in environmentalplanning involving such examinations 
+
+CA750903 JB January 6, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1234 8  28.3786077579988 BM25
+
+
+The Structure of Yet Another ALGOL Compiler
+A technique of simulation at compile time of the use of a conventional run-time stackenables the generation of code for expressions which minimizes stores , fetches and stack-pointer motionat run time , while properly trating recursion and side effects of procedures 
+
+CA650701 JB March 6, 1978  9:29 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0695 9  27.15022890741766 BM25
+
+
+Use of the Disk File on Stretch
+Timing limitations due to ARM MOTION and disk rotation are discussed 
+
+CA631030 JB March 13, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2931 10  26.60488186506814 BM25
+
+
+Logic and Programming Languages
+The definition of the precise meaning of a programthen requires us to explain what are the objects of computation ( in a way , the statics of the problem ) and how they are to be transformed ( the DYNAMICS ) So far the theories of automata and of nets , thoughmost in teresting for DYNAMICS , have formalized only a portion of the field , and there has been perhaps toomuch concentration on the finite-state and algebraic ASPECTS 
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0531 11  26.59766116696491 BM25
+
+
+Person-Matching by Electronic Methods
+WE are interestedin the maintenance of a psychiatric case register in Maryland , where many of the reports from over a hundredpsychiatric agencies refer to the same patient 
+
+CA620730 JB March 17, 1978  7:51 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3035 12  26.428825294574107 BM25
+
+
+A Strategic Planning Methodology for the ComputingEffort in Higher Education: An Empirical Evaluation
+A Strategic PLANNING Methodology for the ComputingEffort in Higher Education : An Empirical Evaluation The findings of a study designed to addressthe pressing problems associated with the strategic PLANNING of the computing effort in higher educationare presented here A PLANNING methodology was developed and tested through implementation at a university Two years after the methodology was implemented , the effectiveness of the PLANNING methodology was assessedin terms of the improvement of the delivery of computing services to the major institutional rolesof instruction , research , and administration The results of the research indicate the PLANNING methodology significantlyenhanced the delivery of computing services Computer management , computer budget , university computing , computer PLANNING 
+
+CA781204 DH January 18, 1979  4:26 PM 
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0670 13  26.250073280634435 BM25
+
+
+Some Legal Implications of the Use of Computers in the Banking Business
+It is essential to identify and provide for many legal ASPECTS rightnow , before systems and practices crystallize , in order to avoid the later impact of unanticipated physicalcomplications and expense The legal ASPECTS of computerization in the banking business are especiallydiverse 
+
+CA631204 JB March 13, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0417 14  24.872776005591685 BM25
+
+
+Legal Implications of Computer Use
+This paper points out a variety of ways computersystems used in business and industry can be involved in legal entanglements and suggests thatcomputer specialists have a responsibility to call for assistance in forestalling or minimizing those entanglementsduring the PLANNING stage Computer specialists also are alerted to potential opportunities to interpret to lawyers the technical aspectsof computer systems involved in legal situations 
+
+CA621222 JB March 17, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1664 15  24.72321282898514 BM25
+
+
+An Algorithm for Deriving the Equations ofMathematical Physics by Symbolic Manipulation
+The effectiveness of the technique is demonstrated by using it to derive the Navier-Stokesequations of fluid MOTION and the continuity equation 
+
+CA681202 JB February 21, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1341 16  24.478020614916773 BM25
+
+
+Levels of Computer Systems
+
+
+CA661208 JB March 2, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1014 17  24.411771122950693 BM25
+
+
+Machine Controls for Analysis of Variance
+Eventhough the experimenter may NOT be INTERESTED in these interactions it is impossible to ignore them inmost experimental designs because of the problem of getting error terms 
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2078 18  24.333578980368394 BM25
+
+
+Representations for Space Planning
+Representations for Space PLANNING Problems involving the arrangement of objects in two- or three-space where the objective function primarily consistsof derivatives of the distance between objects or their arrangementare called space PLANNING problems Four alternative data structuresthat allow automated space PLANNING are described and compared 
+
+CA700406 JB February 13, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1623 19  23.856659565236935 BM25
+
+
+An Application of FORMAC
+This paper is more concerned with the use of programming techniques in FORMAC than withthe actual engineering problem , although readers may be INTERESTED in the problem because it is statedin a general ( mathematical ) sense and could be of interest in areas other than circuit analysis 
+
+CA670306 JB February 28, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2187 20  23.585249101540654 BM25
+
+
+Computer Science: A Conceptual Framework for Curriculum Planning
+Computer Science : A Conceptual Framework for Curriculum PLANNING An approach to curriculum PLANNING in computer science is presentedwhich is guided by the structure of the field , by the fact that change is an important feature of thesituation , and by the expectation that computerscience will continue to increase its working contacts with other disciplines computer science , curriculum PLANNING , education 
+
+CA710603 JB February 3, 1978  10:17 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2389 21  23.554416775364352 BM25
+
+
+Preliminary Report on a System for General Space Planning
+Preliminary Report on a System for General Space PLANNING A computer language and a set of programs withinthat language are described which allow the formulating and solving of a class of space planningproblems automated design , architecture , heuristic programs , space PLANNING 
+
+CA720202 JB January 31, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3135 22  23.550144134826347 BM25
+
+
+Detection of Three-Dimensional Patterns of Atoms in Chemical Structures
+Several applications of this technique in the field of chemistryare : ( 1 ) in pharmacology : searching for a common constellationof atoms in molecules possessing similar biological activities ; ( 2 ) in X-ray crystallography : fitting a structure or a structural fragmentto a set of peaks in the electron-density distribution ofa Fourier map ; ( 3 ) in chemical documentation ; retrieving froma file the structures containing specified substructures The search techniquepresented uses the GEOMETRIC structure of the pattern to definecharacteristics demanded of candidates for matching 
+
+CA790401 DH May 21, 1979  10:50 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2753 23  23.442116689706133 BM25
+
+
+A Heuristic Problem Solving Design Systemfor Equipment or Furniture Layouts
+This task was chosen because it is simple , well defined , and characteristic of many designtasks in architecture , engineering , urban PLANNING , and natural resource management These space planningtasks usually involve manipulating two-dimensional representations of objects to create feasible or optimalsolutions for problems involving topological and metric spatial constraints DPS is a heuristic problem solver with a PLANNING phase prefixedto it It uses the PLANNING process to give it a sense of direction , diagnostic procedures to locatedifficulties , and remedial actions to recover from difficulties It demonstrates the needfor selectivity in controlling search and the methods used to achieve it : task-specific information , PLANNING , diagnostic procedures , remedial actions , and selective alternative generators artificial intelligence , computer-aided design , design synthesis , diagnostic search , heuristics , PLANNING , problem solving , representations , search strategies , space PLANNING , spatial representations 
+
+CA750514 JB January 9, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1184 24  23.413928035013093 BM25
+
+
+A Fast Storage Allocator
+
+
+CA651011 JB March 6, 1978  6:35 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1928 25  23.327886077056327 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+Certain ASPECTS of the techniques described may be used for the simulationof network structures other than digital networks 
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2943 26  23.264554638171415 BM25
+
+
+Lucid, a Nonprocedural Language with Iteration
+
+
+CA770709 JB December 28, 1977  8:30 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3080 27  23.214999870881222 BM25
+
+
+Proving the Correctness of Heuristically Optimized Code 
+
+
+CA780708 DH February 7, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2834 28  23.126947290608765 BM25
+
+
+Efficient Generation of the BinaryReflected Gray Code and Its Applications
+Gray code , combinations , subsets , compositions , COMBINATORIAL computing 
+
+CA760905 JB January 4, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2810 29  23.07476408842485 BM25
+
+
+Professionalism in the Computing Field
+professional ASPECTS , educational programs , industryattitudes , professional societies , licensing and certification 
+
+CA750101 JB January 12, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1379 30  23.020412646323734 BM25
+
+
+A Final Solution to the Dangling Else of ALGOL 60 and Related Languages
+
+
+CA660908 JB March 2, 1978  6:18 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1366 31  22.89649930642622 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1614 32  22.891224838055003 BM25
+
+
+A Proposal for Definitions in ALGOL
+
+
+CA670401 JB February 28, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1148 33  22.72710196853363 BM25
+
+
+An Example in "Significant-Digit" Arithmetic*
+Different methods of handling the summing processfor the GEOMETRIC series are shown to give results indicating widely differing significances when carriedout in a machine incorporating `` significant-digit '' arithmetic 
+
+CA640107 JB March 10, 1978  5:34 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1886 34  22.70164469673435 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1353 35  22.66507127491418 BM25
+
+
+Techniques for Automatic Tolerance Control in Linear Programming
+
+
+CA661105 JB March 2, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2978 36  22.58687535826652 BM25
+
+
+Analysis of Design Alternatives for Virtual Memory Indexes
+
+
+CA770404 JB December 29, 1977  5:22 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2166 37  22.49030961801158 BM25
+
+
+Automated Algebraic Manipulation in Celestial Mechanics
+
+
+CA710806 JB February 2, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1362 38  22.46102286626623 BM25
+
+
+Code Extension in ASCII* (An ASA Tutorial)
+
+
+CA661005 JB March 2, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1867 39  22.445386171972515 BM25
+
+
+On the Expected Lengths of Sequences Generatedin Sorting by Replacement Selecting
+In the replacement-selecting technique of sorting , one is INTERESTED in the ratio L ( j ) of the expected length of the j-th sequence generated by thetechnique to the number of memory cells used 
+
+CA690713 JB February 15, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2893 40  22.4437822281089 BM25
+
+
+Computers as an Innovation in American Local Governments
+
+
+CA771207 JB December 22, 1977  12:17 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2231 41  22.418037885468298 BM25
+
+
+The Reconstruction of Binary Patterns from Their Projections
+
+
+CA710103 JB February 8, 1978  12:33 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0320 42  22.387453640971923 BM25
+
+
+Logic-Structure Tables
+Logic tables are two-dimensional innature , enabling us to fully express and consider both the sequential and parallel ASPECTS of logic 
+
+CA610605 JB March 16, 1978  10:40 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1046 43  22.379877519931625 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number of ARTICLES published during thepast two years , R 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2264 44  22.373522127951382 BM25
+
+
+Derived Semantics for Some Programming Language Constructs
+
+
+CA721105 JB January 27, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1457 45  22.322514448720156 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2805 46  22.307518571592915 BM25
+
+
+Perturbations of Eigenvalues of Non-normal Matrices
+
+
+CA750106 JB January 12, 1978  10:31 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1083 47  22.304238732068523 BM25
+
+
+An Experiment in a User-Oriented Computer System
+While the compiler part is efficient , the system asa whole has much broader ASPECTS as a tool for the study of problem solving and self-teaching systems 
+
+CA640506 JB March 10, 1978  12:03 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2918 48  22.282336777440822 BM25
+
+
+Multiprocessor Memory Organization and Memory Interference
+
+
+CA771008 JB December 27, 1977  10:28 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2046 49  22.27977759590347 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+Activities of users at terminals and most applicationprograms should remain unaffected when the internal representationof data is changed and even when some ASPECTS of the external representation are changed 
+
+CA700609 JB February 13, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2667 50  22.2745296439855 BM25
+
+
+Execution Characteristics of Programs in a Page-on-Demand System
+Empiricaldistributions are compared with simple theoretical distributions ( exponential , hyperexponential , and GEOMETRIC ) 
+
+CA740403 JB January 18, 1978  10:12 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1348 51  22.193877257765763 BM25
+
+
+FLOWTRACE, A Computer Program for Flowcharting Programs
+
+
+CA661202 JB March 2, 1978  2:49 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1783 52  22.161967684350145 BM25
+
+
+In-and-Out Conversions
+
+
+CA680111 JB February 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2873 53  22.14303620665978 BM25
+
+
+LG: A Language for Analytic Geometry
+The language allowsthe flexible definition of GEOMETRIC objects and elements , computes their parameters , and displays the results It also provides the capability of specifying a GEOMETRIC figure via a collection of parameters anddisplaying various loci corresponding to these parameters A conversational programming language for analyticgeometry is described , together with some ASPECTS of its implementation 
+
+CA760403 JB January 4, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1233 54  22.118139659730787 BM25
+
+
+Conventions for the Use of Symbols in the Preparationof Flowcharts for Information Processing Systems (A Standard Working Paper)
+
+
+CA650702 JB March 6, 1978  9:10 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3000 55  22.054564640814643 BM25
+
+
+Segment Sizes and Lifetimes in Algol 60 Programs
+They provide new empirical evidence of certain aspectsof the construction and behavior of real programs , and some of their implications for the design of virtualmemory systems are presented and discussed 
+
+CA770105 JB January 3, 1978  12:05 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3077 56  22.04866783769754 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2297 57  21.99319779982853 BM25
+
+
+A Model of Memory Contention in a Paging Machine
+This paper is concerned with certain ASPECTS of contentionfor main memory resources in a multiprogrammed computer system operating under demand paging 
+
+CA720805 JB January 30, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0321 58  21.98981427289299 BM25
+
+
+ALGOL 60 Confidential
+
+
+CA610604 JB March 16, 1978  10:48 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1099 59  21.97986486033673 BM25
+
+
+Professional Computer Work for the Blind
+Since there are few if any occupations in which theblind can participate without serious disadvantage , the opportunities offered them to gain entrance intovarious occupations through computer use including that of programmer , is important for future rehabilitationplanning 
+
+CA640409 JB March 10, 1978  1:46 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1827 60  21.915996577822018 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1653 61  21.826977562453244 BM25
+
+
+System Performance Evaluation: Survey and Appraisal
+
+
+CA670102 JB March 1, 1978  9:10 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2302 62  21.80416762616941 BM25
+
+
+Computers and Employment
+
+
+CA720726 JB January 30, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1443 63  21.79976618162102 BM25
+
+
+A Method for Finding the Least Squares Estimateof the Intersection Point of Two Helices in Space
+When the helical trajectories of two chargedparticles moving away from a common point in a magnetic field are reconstructed from measurements onthe tracks , the reconstructed tracks are perturbed by measurement and other errors and do NOT , in general , intersect 
+
+CA660406 JB March 3, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1877 64  21.79633175240771 BM25
+
+
+Prevention of System Deadlocks
+
+
+CA690703 JB February 17, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3076 65  21.74816056412112 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2572 66  21.738629053446243 BM25
+
+
+Arguments for a Moratorium on the Constructionof a Community Information Utility
+
+
+CA741202 JB January 16, 1978  10:02 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1199 67  21.686010196093783 BM25
+
+
+A Computer Center Simulation Project
+
+
+CA650907JB March 6, 1978  7:29 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0694 68  21.63804718134926 BM25
+
+
+A Comparison of Disks and Tapes
+
+
+CA631031 JB March 13, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2930 69  21.583166762533683 BM25
+
+
+The GRE Advanced Test in Computer Science
+
+
+CA770903 JB December 27, 1977  1:32 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1445 70  21.561018340946113 BM25
+
+
+Use of the Computer to Teach Introductory Statistics
+
+
+CA660404 JB March 3, 1978  10:48 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2892 71  21.553257010914884 BM25
+
+
+A Study of Line Overhead in the Arpanet
+
+
+CA760101 JB January 5, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1458 72  21.546714997801157 BM25
+
+
+Online Programming
+
+
+CA660314 JB March 3, 197811:44 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2289 73  21.517797064068922 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3008 74  21.51352872726256 BM25
+
+
+Preserving Average Proximity in Arrays
+The COMBINATORIAL problem of storing arrays as variouskinds of list structures is examined 
+
+CA780305 JB March 28, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2932 75  21.43523290801443 BM25
+
+
+Complexity of Computations
+
+
+CA770901 JB December 28, 1977  6:54 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2092 76  21.41974831483128 BM25
+
+
+A Deductive Question-Answer for Natural Language Inference
+The question-answering ASPECTS of the Protosynthex III prototype language processing system are described and exemplified indetail 
+
+CA700306 JB February 13, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1387 77  21.41517717129105 BM25
+
+
+Solution of Systems of Polynomial Equations By Elimination
+
+
+CA660811 JB March 2, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1587 78  21.40047116953827 BM25
+
+
+Storage Allocation in a Certain Iterative Process
+
+
+CA670605 JB February 28, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1392 79  21.39061321831907 BM25
+
+
+Experience with FORMAC Algorithm Design
+
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1459 80  21.384453104129854 BM25
+
+
+Requirements for Real-Time Languages
+
+
+CA660313 JB March 3, 1978  11:48 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0616 81  21.38300344036928 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+It is hoped that this report will be read ( a ) with avid interest by programming languagedesigners and implementors , and all those INTERESTED in developing a theoretical approach to dataprocessing ; ( b ) with interest and understanding by professional programmers and systems analysts ; and ( c ) with appreciation by the businessman-analyst-manager 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1781 82  21.373072557587097 BM25
+
+
+Translator Writing systems
+Various approaches to automating the post syntactic ( semantic ) ASPECTS of translator writing are discussed in Section III , and several related topics in Section IV 
+
+CA680201 JB February 23, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1262 83  21.367104313606948 BM25
+
+
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+
+
+CA650509 JB March 7, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1272 84  21.365049014040416 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1397 85  21.35789652022957 BM25
+
+
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation
+The ACM Symposium on Symbolic and AlgebraicManipulation brought together over four hundred people INTERESTED in programming languages designedfor manipulation of algebraic formulas and symbol strings , in their applications , and in algorithms fortheir implementation 
+
+CA660801 JB March 2, 1978  8:17 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1206 86  21.3435966126021 BM25
+
+
+The Self-Judgment Method of Curve Fitting
+
+
+CA650818 JB March 6, 1978  7:50 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2900 87  21.31760964776342 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2307 88  21.313856232359054 BM25
+
+
+Dynamic Document Processing
+
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2886 89  21.29656139695974 BM25
+
+
+Semantic Evaluation from Left to Right
+This paper describes attribute grammars and theiruse for the definition of programming languages and compilers ; a formal definition of attribute grammarsand a discussion of some of its important ASPECTS are included 
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1572 90  21.29457118467988 BM25
+
+
+The Simulation of Time sharing Systems
+
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0724 91  21.292072874886475 BM25
+
+
+A Profile of the Programmer
+
+
+CA631001 JB March 13, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2061 92  21.274225872928213 BM25
+
+
+An Algorithm for the Construction Of Bounded-Context Parsers
+
+
+CA700505 JB February 13, 1978  1:58 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1601 93  21.1985015923195 BM25
+
+
+Parallel Numerical Methods for the Solution of Equations
+
+
+CA670505 JB February 28, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2317 94  21.174614657953793 BM25
+
+
+Programming Systems and Languages 1965-1975
+
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3033 95  21.17285453214882 BM25
+
+
+Optimizing Decision Trees Through Heuristically Guided Search
+The heuristic search method introduced in this paper combines the positive ASPECTS of the abovetwo techniques 
+
+CA781206 DH January 18, 1979  3:56 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0533 96  21.16895121226984 BM25
+
+
+Digital Synthesis of Correlated Stationary Noise
+In order to simplify discussion of the statistical properties of thenoise generated , the technique is first presented in terms of exact harmonic analysis In practice , discreteharmonic analysis as presented in the third section is used 
+
+CA620728 JB March 17, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-2707 97  21.12193917291097 BM25
+
+
+Backtrack Programming Techniques
+In particular , this technique has allowedthe solution of two previously open COMBINATORIAL problems , the computation of new terms in a well-knownseries , and the substantial reduction in computation time for the solution to another COMBINATORIAL problem backtrack , depth-first search , exhaustive search , macros , COMBINATORIAL computing , non-attacking queen 's problem , difference-preserving codes , pentominoes , tiling problems , squaring the square 
+
+CA751105 JB January 6, 1978  9:03 AM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-0492 98  21.037529723276513 BM25
+
+
+Analysis of a File Addressing Method
+For the reader NOT interestedin the mathematics , the introduction and the summary should be sufficient 
+
+CA620836 JB March 17, 1978  9:02 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-3059 99  21.001406704166346 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+6 Q0 CACM-1948 100  21.001255498048476 BM25
+
+
+Computers in Group Theory: a Survey
+Group theory programs range from simple COMBINATORIAL or numerical programs to largesymbol manipulation systems 
+
+CA690101 JB February 20, 1978  1:27 PM
+
+

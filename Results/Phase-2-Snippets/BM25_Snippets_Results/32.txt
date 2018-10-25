@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+32 Q0 CACM-3139 1  53.678158918167526 BM25
+
+
+New Methods to Color the Vertices of a Graph
+NP-complete , graph structure , balancing , graphcoloring , scheduling , comparison of the methods A methodis developed which is exact for bipartite graphs and is animportant part of HEURISTIC procedures to FIND maximal cliques in generalgraphs This paper describes efficient new heuristicmethods to color the vertices of a graph which relyupon the comparison of the degrees and structure of a graph Finally an exact method is given which performs betterthan the Randall-Brown algorithm and is able to color largergraphs , and the new HEURISTIC methods , the classical methods , andthe exact method are compared 
+
+CA790405 DH June 5, 1979  2:05 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2177 2  49.45033283055008 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph
+algorithm , block , block-cutpoint-tree , cutnode , fundamentalcycle set , graph , lobe , lobe DECOMPOSITION graph , separable , spanning tree , web grammar An efficient method is presented for findingblocks and cutnodes of an arbitrary undirected graph 
+
+CA710705 JB February 3, 1978  8:58 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2630 3  44.35896964389613 BM25
+
+
+On Computing Sets of Shortest Paths in a Graph
+These algorithms generalize the Floydalgorithm and the Dantzig algorithm for finding the shortest path between every pair of vertices in a directed graph 
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2289 4  43.33627295657242 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+A major challengein the effective use of cellular arrays for the solution of graph problems is the determination of algorithmsthat exploit the possibilities for parallelism , ESPECIALLY for problems whose solutions appear to be inherentlyserial 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2368 5  42.141723862283584 BM25
+
+
+An Implemented Graph Algorithm for Winning Shannon Switching games
+
+
+CA720405 JB January 31, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2490 6  41.250635722286 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2484 7  40.06559888355199 BM25
+
+
+A Note on Information Organization and Storage
+
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2883 8  40.00380709715267 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+An Application of HEURISTIC Search Methods to Edge and Contour Detection Moreover , if HEURISTIC search methods are used , the computing time will depend on the amountof noise in the picture picture processing , pattern recognition , edgedetection , contour detection , contour following , optimization problems , dynamic programming , shortestpath , HEURISTIC search methods , problem solving methods 
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3156 9  38.2230800415609 BM25
+
+
+Computing Connected Components on Parallel Computers
+We present a parallel algorithm which uses n2 processors to FIND the connectedcomponents of an undirected graph with n vertices in time O ( log2n ) The algorithm can be used to FIND the transitive closureof a symmetric Boolean matrix 
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1961 10  38.21061103630564 BM25
+
+
+An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+An Efficient Search Algorithm to FIND the Elementary Circuits of a Graph A theoretically most efficient search algorithm is presentedwhich uses an exhaustive search to FIND all of the elementarycircuits of a graph The algorithm can be easily modified to FIND allof the elementary circuits with a particular attribute such aslength 
+
+CA701202 JB February 9, 1978 4:12 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3018 11  37.95218667612332 BM25
+
+
+Covering Edges by Cliques with Regard toKeyword Conflicts and Intersection Graphs
+A relationship between this edge-clique-cover problem and the graph coloringproblem is established which allows algorithms for either one of these problems to be constructedfrom algorithm for the other Kellerman has presented a method for determiningkeyword conflicts and described a HEURISTIC algorithm which solves a certain combinatorial optimizationproblem in connection with this method keyword conflicts , intersection graphs , node cliquecover , edge clique cover , computational complexity , NP-complete problems , polynomial-time heuristics 
+
+CA780205 JB March 28, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2619 12  37.79220722409364 BM25
+
+
+Graph Coloring Conditions for the Existenceof Solutions to the Timetable Problem
+Graph COLORING Conditions for the Existenceof Solutions to the Timetable Problem 
+
+CA740805 JB January 17, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1145 13  37.054846348038595 BM25
+
+
+GIT-A Heuristic Program for Testing Pairsof Directed Line Graphs for Isomorphism*
+GIT-A HEURISTIC Program for Testing Pairsof Directed Line Graphs for Isomorphism* Git-Graph ISOMORPHISM Tester-incorporates a variety of processesthat attempt to narrow down the search for an ISOMORPHISM , or to demonstrate that none exists 
+
+CA640110 JB March 10, 1978  5:24 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1847 14  36.40560476163594 BM25
+
+
+An Algorithm for Finding a Fundamental Set of Cycles of a Graph
+An Algorithm for Finding a Fundamental Set of Cycles of a Graph A fast method is presented for finding a fundamentalset of cycles for an undirected finite graph 
+
+CA690909 JB February 15, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1504 15  35.676793785518015 BM25
+
+
+Algorithms for Finding a Fundamental Setof Cycles for an Undirected Linear Graph
+Algorithms for Finding a Fundamental Setof Cycles for an Undirected Linear Graph Given the adjacency matrix of the graph , the algorithmpresented in this paper finds a spanning tree and then constructs the set of fundamental cycles 
+
+CA671204 JB February 26, 19782:35 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1563 16  35.04963291221549 BM25
+
+
+A Method for Finding Hamilton Paths and Knight's Tours
+A Method for Finding Hamilton Paths and Knight 's Tours The use of Warnsdorff 's rule for finding aknight 's tour is generalized and applied to the problem of finding a Hamilton path in a graph 
+
+CA670710 JB February 28, 1978  8:28 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2052 17  34.8502320580761 BM25
+
+
+Scheduling to Reduce Conflict in Meetings
+
+
+CA700603 JB February 13, 1978  11:55 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2980 18  33.856513511087776 BM25
+
+
+The Editing  of Picture Segmentations Using Local Analysis of Graphs
+
+
+CA770402 JB December 29, 1977  6:22 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2059 19  33.60007761504366 BM25
+
+
+A Language for Treating Graphs
+
+
+CA700507 JB February 13, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2178 20  32.89532481814306 BM25
+
+
+A Language Extension for Graph Processing and Its Formal Semantics
+
+
+CA710704 JB February 3, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2015 21  32.64594975968502 BM25
+
+
+A Technique for Generating Almost OptimalFloyd-Evans Productions for Precedence Grammars
+
+
+CA700806 JB February 10, 19783:38 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2877 22  32.55491001728132 BM25
+
+
+A Program Data Flow Analysis Procedure
+
+
+CA760303 JB January 5, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3040 23  31.79884456336405 BM25
+
+
+Synthesizing Constraint Expressions
+Backtrack , combinatorial algorithms , constraintnetworks , constraint satisfaction , graph COLORING , network consistency , relaxation , scene labeling , search A constraint network representation is presentedfor a combinatorial search problem : finding values for a set of variables subject to a set of constraints 
+
+CA781111 DH January 22, 1979  3:43 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2752 24  31.034090293188015 BM25
+
+
+Generation of All the Cycles of a Graph froma Set of Basic Cycles [H] (Algorithm 492) 
+
+
+CA750601 JB January 9, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2934 25  30.99704146249886 BM25
+
+
+Comment on Computing the k Shortest Paths in a Graph
+
+
+CA770809 JB December 28, 1977  7:00 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2290 26  30.66708848746469 BM25
+
+
+Immediate Predominators in a Directed Graph [H] (Algorithm A430)
+
+
+CA720812 JB January 30, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2430 27  30.507976618642942 BM25
+
+
+The Elementary Circuits of a Graph [H] (Algorithm A459)
+
+
+CA731010 JB January 20, 1978  11:11 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2695 28  29.43365763454691 BM25
+
+
+Tridiagonalization by Permutations
+tridiagonal matrix , permutation , algorithm , eigenvalues , graph , bandwidth , sparse matrix 
+
+CA740104 JB January 18, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2172 29  29.371987466807212 BM25
+
+
+Graph Plotter [J6] (Algorithm 412)
+
+
+CA710710 JB February 2, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2161 30  29.34795860625446 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph (Corrigendum)
+
+
+CA710903 JB February 2, 1978  2:24 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2524 31  28.421931717585593 BM25
+
+
+Some Approaches to Best-Match File Searching
+The problem of searching the set of keys ina file to FIND a key which is closest to a given query key is discussed matching , file structuring , file searching , heuristics , best match 
+
+CA730404 JB January 24, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2568 32  28.270456216618708 BM25
+
+
+A Graph Formulation of a School Scheduling Algorithm
+The object of this paper is to generalize the definition of largest strongly connected subgraphto include the weighting of nodes , to present an approximate algorithm which usually finds the largeststrongly connected subgraph , and to discuss the application of this algorithm to the solution ofschool scheduling and exam scheduling problems 
+
+CA741206 JB January 13, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2769 33  27.902427912837098 BM25
+
+
+A Modification of Warshall's Algorithm forthe Transitive Closure of Binary Relations
+
+
+CA750408 JB January 9, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2790 34  27.27190093404106 BM25
+
+
+The Elementary Circuits of a Graph (Algorithm R459)
+
+
+CA750209 JB January 12, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3124 35  27.074294720995937 BM25
+
+
+Recursive Data Structures in APL
+
+
+CA790203 DH April 10, 1979  3:41 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3164 36  27.031624088799465 BM25
+
+
+Progressive Acyclic Digraphs-A Tool for Database Integrity
+
+
+CA790905 DB January 14, 1980  11:56 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2155 37  26.85247296097125 BM25
+
+
+Toward an Understanding of Data Structures
+This paper presents a notation and formalismfor DESCRIBING the semantics of data structures 
+
+CA711001 JB February 2, 1978  1:35 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2195 38  26.754551845559444 BM25
+
+
+On the Optimal Detection of Curves in Noisy Pictures
+In this technique the HEURISTIC of the problem is not embedded in the recognition algorithmbut is expressed in a figure of merit picture processing , picture recognition , picturedescription , curve detection , line detection , edge detection , optimal detection , HEURISTIC methods , global recognition , parallel processing , dynamic programming , interaction graph , secondary optimization problem 
+
+CA710504 JB February 3, 1978  2:49 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2701 39  26.008894144398393 BM25
+
+
+A Fast and Usually Linear Algorithm for GlobalFlow Analysis (Abstract only--Complete paper JACM 23,1 January, 1976)
+
+
+CA751206 JB January 5, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2763 40  25.829886670095203 BM25
+
+
+Basic Cycle Generation [H] (Algorithm 491)
+
+
+CA750504 JB January 9, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2986 41  25.82389660652906 BM25
+
+
+Operations on Sparse Relations
+
+
+CA770306 JB December 29, 1977  8:05 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1935 42  25.56138383518917 BM25
+
+
+Randomized Binary Search Technique
+
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2189 43  25.557782579396402 BM25
+
+
+Generation of Rosary Permutations Expressed in Hamiltonian Circuits
+
+
+CA710601 JB February 3, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3100 44  25.20695579548692 BM25
+
+
+An Interference Matching Technique for Inducing Abstractions
+The proposed method , interference matching , induces abstractionsby finding relational properties common to two or more exemplars 
+
+CA780507 DH February 26, 1979  1:26 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1481 45  25.076158040160482 BM25
+
+
+Graph Plotter (Algorithm 278 [J6])
+
+
+CA660206d JB March 23, 1978  7:30 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2461 46  25.076158040160482 BM25
+
+
+Graph Plotter (Algorithm R412)
+
+
+CA730813 JB January 23, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1839 47  25.002177554433015 BM25
+
+
+Singular Value Decomposition of a ComplexMatrix (Algorithm 358 [F1, 4,5])
+SINGULAR Value DECOMPOSITION of a ComplexMatrix ( Algorithm 358 [ F1 , 4,5 ] ) SINGULAR values , matrix DECOMPOSITION , least squares solution , pseudoinverse 
+
+CA691007 JB February 15, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1432 48  24.893833356870303 BM25
+
+
+Incorporation of Nonstandard Input/Output Devices into FORTRAN Systems
+
+
+CA660505 JB March 3, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1727 49  24.871543350716536 BM25
+
+
+One Way of Estimating Frequencies of Jumps in a Program
+
+
+CA680702 JB February 22, 1978  3:05 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1456 50  24.37997913908452 BM25
+
+
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+
+
+CA660316 JB March 3, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1934 51  24.32690396509248 BM25
+
+
+On Arithmetic Expressions and Trees
+
+
+CA690204 JB February 20, 1978  11:11 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1529 52  24.281748963740554 BM25
+
+
+Decomposition Programming An Analysis of Matrix Substructure 
+DECOMPOSITION Programming An Analysis of Matrix Substructure A petroleum blending problem was analyzed in orderto compare the primal and primal-dual DECOMPOSITION algorithms In the course of the analysis , a substructurewas discovered which has relevance to the relative performance of the two algorithms and to theirabsolute performance as compared with a standard primal-Simplex solution without DECOMPOSITION 
+
+CA671004 JB February 27, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2444 53  24.026752808558893 BM25
+
+
+Finding All Cliques of an Undirected Graph (Algorithm A457)
+Finding All Cliques of an Undirected Graph ( Algorithm A457 ) 
+
+CA730911 JB January 23, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1983 54  23.945566666881316 BM25
+
+
+Spanning Tree $H) (Algorithm 399)
+
+
+CA701007 JB February 10, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2125 55  22.92208251036346 BM25
+
+
+A Note on Minimal Length Polygonal Approximation to a Digitized Contour
+
+
+CA700106 JB February 14, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1822 56  22.912525495892996 BM25
+
+
+Shortest-Path Forest with Topological Ordering (Algorithm [H])
+
+
+CA691108 JB February 15, 1978  12:21 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1947 57  22.675127472974953 BM25
+
+
+Object code Optimization
+
+
+CA690102 JB February 20, 1978  12:15 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1828 58  22.629800478499046 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3125 59  22.44498177116185 BM25
+
+
+Global Optimization by Suppression of Partial Redundancies
+
+
+CA790204 DH April 10, 1979  4:19 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2408 60  22.093668373846484 BM25
+
+
+Solving the Biharmonic Equation in a Square:A Direct Versus a Semidirect Method
+One method is direct , using eigenvalue-eigenvector DECOMPOSITION biharmonic , direct method , block iterative , eigenvector-eigenvalue DECOMPOSITION 
+
+CA731118 JB January 19, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1905 61  21.981424750904957 BM25
+
+
+The Simplex Method of Linear Programming Using LU Decomposition
+The Simplex Method of Linear Programming Using LU DECOMPOSITION This paper gives the theoretical background for an implementation which is based upon the LU DECOMPOSITION , computed with row interchanges , of the basic matrix simplex method , linear programming , LU DECOMPOSITION , round-off errors , computational stability 
+
+CA690504 JB February 17, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3008 62  21.96597304233478 BM25
+
+
+Preserving Average Proximity in Arrays
+
+
+CA780305 JB March 28, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2819 63  21.93961208596799 BM25
+
+
+Experiments in Text File Compression
+The analysis program attemptsto FIND an optimal set of codes for representing substrings of the file 
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3172 64  21.922471223146005 BM25
+
+
+An Algorithm for Planning Collision-FreePaths Among Polyhedral Obstacles
+Path finding , collision-free paths , polyhedral objects , polyhedral obstacles , graph searching , growing objects 
+
+CA791005 DB January 17, 1980  10:13 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2389 65  21.779634198998878 BM25
+
+
+Preliminary Report on a System for General Space Planning
+The algorithmsused to solve problems expressed in this language rely on HEURISTIC programming automated design , architecture , HEURISTIC programs , space planning 
+
+CA720202 JB January 31, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2923 66  21.744488650640204 BM25
+
+
+High-Level Data Flow Analysis
+
+
+CA771003 JB December 27, 1977  11:41 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2925 67  21.325489151638386 BM25
+
+
+Optimal Surface Reconstruction from Planar Contours
+An illustrated example whichinvolves the construction of a minimum area surface DESCRIBING a human head is included Determining such a surface is reduced to the problemof finding certain minimum cost cycles in a directed toroidal graph A new fast algorithm for finding suchcycles is utilized 
+
+CA771001 JB December 27, 1977  12:40 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1924 68  20.566304480813198 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2697 69  20.36286913069995 BM25
+
+
+A Fast Method for Solving a Class of Tridiagonal Linear Systems
+It isproved that the diagonals of the LU DECOMPOSITION converges when floating-point precision It is alsoproved that the computed LU DECOMPOSITION converges when floating-point arithmetic is used and that the limitsof the LU diagonals using floating point are roughly within machine precision of the limits usingreal arithmetic Theentire LU DECOMPOSITION takes k words of storage , and considerable savings in array subscripting are achieved 
+
+CA740102 JB January 18, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1172 70  20.30214426343528 BM25
+
+
+Conversion of Limited-Entry Decision Tables to Computer Programs
+Decision tables are useful for DESCRIBING aset of complex decision rules based on given sets of conditions 
+
+CA651109 JB March 6, 1978  4:56 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1423 71  20.21482228539249 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+A simple extension hasbeen found to the conventional orthogonalization method for inverting non-singular matrices , which givesthe generalized inverse with little extra effort and with no additional storage requirements The algorithmgives the generalized inverse for any m by n matrix A , including the special case when m+n and Ais non-singular and the case when m > n and rank ( A ) = n 
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2453 72  19.800786204784178 BM25
+
+
+Information Theory Applied to the Conversionof Decision Tables to Computer Programs
+Using ideas from information theory , this paperdevelops a HEURISTIC algorithm that converts a limited entry decision table to a tree structured computerprogram with near minimum average processing time It is thus more general than the previously published HEURISTIC algorithms 
+
+CA730902 JB January 23, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1925 73  19.72024597844122 BM25
+
+
+Concepts of Use in Contour Map Processing
+
+
+CA690302 JB February 20, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3085 74  19.69741299396457 BM25
+
+
+An O(n) Algorithm for Determining a Near-OptimalComputation Order of Matrix Chain Products
+An O ( n ) algorithm to FIND an order of computation whichtakes less than 25 percent longer than the optimal time Topt is also presented Approximate algorithm , HEURISTIC algorithm , matrix multiplication , matrix chain product 
+
+CA780703 DH February 8, 1979  2:46 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2081 75  19.658612035762108 BM25
+
+
+Some Complete Calculi for Matrices
+Algorithmsare given which use symbol manipulation of matrix expressions soas to FIND the forms best suited for computation 
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1721 76  19.61402093392965 BM25
+
+
+Determination of the Intersection Points of TwoPlane Curves by Means of Differential Equations
+plane curves , intersection points , intersectionsplane curves , integration , differential equations , matrix iteration , SINGULAR points , nonlinear differentialequations , eigenvalues , complex roots , roots , stationary points , Runge Kutta , stable singularity , unstable singularity The theory of SINGULAR points off a system of two differential equationsis used in developing the method The intersection point to be determined is identified with such a singularpoint and appropriate modifications are applied to the system to ensure that the SINGULAR point be stable , i all integrals which start in the neighborhood of the SINGULAR point will always approach this pointif the integral parameter tends to infinity 
+
+CA680708 JB February 22, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2920 77  19.546358180065653 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3138 78  19.360889357547432 BM25
+
+
+A Mathematical Programming Updating Method Using ModifiedGivens Transformations and Applied to LP Problems
+An efficient and numerically stable method is presented for the problem ofupdating an orthogonal DECOMPOSITION of a matrix of column ( or row ) vectors 
+
+CA790404 DH May 21, 1979  2:06 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2905 79  19.256366013368176 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1886 80  18.94203526283699 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+finding a set of subexpressions each of which occurs in two or more other expressionsor subexpressions In order to make these techniques computationally feasible , HEURISTIC procedures areapplied , and hence global optimal results are not necessarily generated 
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2275 81  18.757703111220234 BM25
+
+
+Integral Equations of Immunology
+The strategy which yielded success consistedof three essential points : ( 1 ) fit the known experimental data by a curve with properties which derivefrom properties of the ( as yet unknown ) function ; ( 2 ) stabilize the computation for the unknown functionby using SINGULAR value DECOMPOSITION ; ( 3 ) constrain the unknown function approximation ( since it representsa probability distribution ) to be nonnegative integral equations of the first kind , nonnegativeconstraints , SINGULAR value analysis 
+
+CA721003 JB January 27, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3033 82  18.237293561097403 BM25
+
+
+Optimizing Decision Trees Through Heuristically Guided Search
+In this paper we suggest a heuristically guided top-down search algorithm which , LIKE dynamicprogramming , recognizes identical subproblems but which can be used to FIND both optimal and quasi optimalsolutions Optimizing Decision Trees Through Heuristically Guided Search The branch-and-boundtechnique uses a good HEURISTIC to direct the search , but is cluttered up by an enormous searchspace , since the number of solutions increases with the number of test variables according to a double exponential The HEURISTIC search method introduced in this paper combines the positive aspects of the abovetwo techniques Decision table , optimal decision table conversion , decision tree , HEURISTIC search , AND/OR graphs , dynamic programming , branch-and-bound 
+
+CA781206 DH January 18, 1979  3:56 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2094 83  18.087746957004185 BM25
+
+
+On an Algorithm for Nonlinear Minimax Approximation
+
+
+CA700304 JB February 13, 1978  4:52 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2767 84  18.073857576289825 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+The algorithmsare tested with a set of typical stochastic scheduling distributions ESPECIALLY chosen to showthe advantages and limitations of the algorithms 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2273 85  17.947021596381617 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2247 86  17.839722856347837 BM25
+
+
+On the Criteria To Be Used in Decomposing Systems into Modules
+A system design problem ispresented and both a conventional and unconventionaldecomposition are described It is shown that the unconventional decompositions have distinct advantagesfor the goals outlined The criteria used in arriving at the decompositions are discussed Theunconventional DECOMPOSITION , if implemented with the conventional assumption that a module consists ofone or more subroutines , will be less efficient in most cases 
+
+CA721208 JB January 27, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3153 87  17.61807046046835 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+Applying a decompositionapproach and treating the closed system as a single server , the response times in an open system with external arrivals arestudied 
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3132 88  17.593646985648498 BM25
+
+
+Experiments with Some Algorithms that FindCentral Solutions for Pattern Classification
+Experiments with Some Algorithms that FindCentral Solutions for Pattern Classification In two-class pattern recognition , it is a standardtechnique to have an algorithm finding hyperplaneswhich separates the two classes in a linearly separable trainingset The traditional methods FIND a hyperplane which separates allpoints in the other , but such a hyperplane is not necessarily centeredin the empty space between the two classes Six algorithms for finding centralhyperplanes are tested on three data sets 
+
+CA790303 DH April 12, 1979  3:20 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2646 89  17.548453646618018 BM25
+
+
+A Model for Masking Rotational Latency by Dynamic Disk Allocation
+
+
+CA740507 JB January 17, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1433 90  17.516468793402623 BM25
+
+
+A Note on Linear Programming Algorithm Design: A Combinatorial Problem
+It is attempted to FIND some characteristics of the way a pivot columnis found 
+
+CA660504 JB March 3, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2561 91  17.402552214866507 BM25
+
+
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+A HEURISTIC Approach to Inductive Inference in Fact Retrieval Systems HEURISTIC procedures are presented which havebeen developed to perform inferences by generalizing from available information inference , inductive inference , clustering , fact retrieval , heuristics 
+
+CA741213 JB January 13, 1978  3:40 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-1415 92  17.25168744663231 BM25
+
+
+Automatic Derivation of Microsentences
+The DECOMPOSITION of long complex English sentencesinto shorter kernel-like constituent sentences ( microsentences ) has often been suggested as an avenuetoward conducting automatic retrieval of natural language messages 
+
+CA660606 JB March 3, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2950 93  17.204731230691944 BM25
+
+
+A Unifying Approach to Scheduling
+
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-3057 94  17.139933956029598 BM25
+
+
+Optimal His togram Matching by Monotone Gray Level Transformation
+The objectiveis to FIND a transformed digital picture of a given picture such that the sum of absolute errorsbetween the gray level his togram of the transformed picture and that of a reference picture is minimized 
+
+CA781004 DH January 29, 1979  6:08 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2924 95  17.11045917770078 BM25
+
+
+An Interactive Computer Graphics Approach to Surface Representation
+
+
+CA771002 JB December 27, 1977  11:53 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2860 96  17.107979080908066 BM25
+
+
+A Practitioner's Guide To Addressing Algorithms
+Particularattention is focused on the reasonableness of common heuristics for determining primary or secondarybucket sizes data management , file retrieval , searching , addressingtechniques , hashing functions , synonym resolution , loading factor , bucket size , HEURISTIC design , rules of thumb 
+
+CA760602 JB January 4, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2523 97  17.055898177049386 BM25
+
+
+A Region Coloring Technique for Scene Analysis
+A Region COLORING Technique for Scene Analysis 
+
+CA730405 JB January 24, 1978  9:48 AM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2771 98  16.995861229913956 BM25
+
+
+The Synthesis of Solids Bounded by Many Faces
+
+
+CA750406 JB January 9, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2692 99  16.935006703815723 BM25
+
+
+Reentrant Polygon Clipping
+
+
+CA740107 JB January 18, 1978  2:04 PM
+
+
+--------------------------------------------------------------
+32 Q0 CACM-2554 100  16.92590137566323 BM25
+
+
+Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+Reduction of a Band-Symmetric Generalized EIGENVALUE Problem An algorithm is described for reducing thegeneralized EIGENVALUE problem Ax = lambda Bx to an ordinary problem , in case A and B are symmetric bandmatrices with B positive definite The algorithm reduces the generalized problem to an ordinary EIGENVALUE problem for a symmetric bandmatrix C whose bandwidth is the same as A and B generalized eigenvalues , symmetric band matrices 
+
+CA730107 JB January 24, 1978  4:26 PM
+
+

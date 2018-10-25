@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+5 Q0 CACM-2035 1  37.350652139513436 BM25
+
+
+Conversational Access to a 2048-Word Machine
+Its design was strongly influenced by performance criteria established in interviews held with LINC users themselves during the specification period Other features are available through a uniform COMMAND set which itself can be augmented by the user 
+
+CA700702 JB February 13, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1829 2  29.998766437093686 BM25
+
+
+An Interactive Graphical Display Monitor ina Batch-Processing Environment with Remote Entry
+The structure of the monitor program and the human and program interfacesare described It also will respond to commandsfrom a user program through a similar INTERFACE , where routine calls take the place of manual actions graphic monitor , man/machine interaction , graphicinterface , graphic in batch environment , design of graphical system The graphic monitor is a resident auxiliary monitor which provides comprehensive managerial capabilityover the graphical system in response to commands from the human user 
+
+CA691101 JB February 15, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1502 3  29.516475720195693 BM25
+
+
+An Online Editor
+
+
+CA671206 JB February 26, 1978  2:25 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2299 4  29.456532120631397 BM25
+
+
+An Extensible Editor for a Small Machine with Disk Storage
+COMMAND processing , context searching , executiveprogram , garbage collection , interpreter , list processing , macro language , paging , parameter substitution , recursion , state table , storage allocation , string manipulation , text editing , virtual memory 
+
+CA720803 JB January 30, 1978  10:00 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2003 5  28.72136222410453 BM25
+
+
+An Interactive Software System for Computers-AidedDesign:  An Application to Circuit Project
+The characteristics of an interactive software system , intended to constitute an INTERFACE between designer and computer during various steps ofthe design process , are presented The first one is IMOL , an interactive monitor language , which is designed to perform the overall and control functionsof the software system ; its design criteria provide the user withcommands which are both simple and efficient in order to perform allthe functions needed in computer-aided circuit design 
+
+CA700902 JB February 10, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2357 6  28.62491558957485 BM25
+
+
+MUX, a Simple Approach to On-Line Computing
+
+
+CA720503 JB January 31, 1978  11:04 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1671 7  28.4918722674043 BM25
+
+
+A Phonological Rule Tester
+The system is written in BBN LISP on the ScientificData System 940 computer and is designed to be used on-line in interactive fashion , with control returnedto the user after each COMMAND is executed 
+
+CA681108 JB February 21, 1978  2:41 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-0892 8  27.420794288543554 BM25
+
+
+RECOL-A Retrieval Command Language
+RECOL-A Retrieval COMMAND Language 
+
+CA630328 JB March 14, 1978  12:42 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1978 9  27.291028620370433 BM25
+
+
+The Use of Interactive Graphics To Solve Numerical Problems
+The advantage of restricting the problemarea is that the INTERFACE with a user can be greatly simplified 
+
+CA701012 JB February 10, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2629 10  27.146788731780156 BM25
+
+
+The UNIX Time-Sharing system 
+It offersa number of features seldom found even in larger operating systems , including : ( 1 ) a hierarchical file systemincorporating demountable volumes ; ( 2 ) compatible file , device , and inter-process I/O ; ( 3 ) the ability toinitiate asynchronous processes ; ( 4 ) system COMMAND language selectable on a per-user basis ; and ( 5 ) over100 subsystems including a dozen languageshis paper discusses the nature and implementation of thefile system and of the user COMMAND INTERFACE time-sharing , operating system , file system , COMMAND language , PDP-11 
+
+CA740702 JB January 17, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1699 11  27.107898046109327 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+Factors involved in evaluation of such a system include ease of use , learning time , andeffectiveness of actual retrieval information retrieval testing , information systemevaluation , experimental document retrieval , document retrieval , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , symbolic COMMAND language , interactive systems , user learning factors , on-line searching 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1960 12  26.442538567723105 BM25
+
+
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+
+CA701203 JB February 9, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2947 13  26.41597597898936 BM25
+
+
+SITAR: An Interactive Text Processing System for Small Computers
+It uses a simple COMMAND language designatinga function , a file , and a search template consisting of the textual string desired and stringsdelimiting the context in which the hit is to be delivered Extensive experience with SITAR shows thatthe combined powers of simple commands , string orientation , circular file structure , a CRT with localmemory , and conversational computing produce a system much more powerful than the sum of its parts information retrieval , text editing , minicomputers , CRTs , time sharing , bibliographic search and retrieval , literary analysis , linguistic analysis , COMMAND languages 
+
+CA770705 JB December 28, 1977  10:20 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2252 14  26.29020438344182 BM25
+
+
+A Method for Incrementally CompilingLanguages with Nested Statement Structure
+The ESSENTIAL pointsof the method are : ( 1 ) the syntax of the language is restricted insof ar as which constructs may occuron lines ; ( 2 ) an internal data structure ( called the skeleton ) is maintained to represent the statementstructure ; ( 3 ) the recompilation is partially batched in the sense that recompilation of modified linesdoes not occur until the last of a set of editing commands has been received ; and ( 4 ) the parsing andcompilation are factored into two parts , that done on individual lines and that done globally tohandle the relationships between the lines 
+
+CA721203 JB January 27, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1937 15  25.95814912873981 BM25
+
+
+CODAS: A Data Display System
+The COMMAND language of the system provides the userwith an easy means for specifying data retrieval and display requests data display , information retrieval , graphic display , COMMAND languages , report program generation , management data processing 
+
+CA690201 JB February 20, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1188 16  25.91616705853648 BM25
+
+
+An ALGOL-like Computer Design Language
+
+
+CA651007 JB March 6, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1392 17  25.906152278947467 BM25
+
+
+Experience with FORMAC Algorithm Design
+
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2169 18  25.889298119636827 BM25
+
+
+The Altran System for Rational Function Manipulation-A Survey
+symbolic algebra , rational function manipulation , polynomial manipulation , INTERPRETERS , translators 
+
+CA710803 JB February 2, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2321 19  25.808811765059957 BM25
+
+
+On the Interface Between Computers and Data Communications Systems
+Several `` standard '' INTERFACES , by means of which computers and digital terminals connect to the communications systems willbe required When specifying these INTERFACES , consideration must be given to problems of coordination , synchronization , error control , signaling , stream multiplexing , and switch control , in addition to minimizingthe technological interdependence of specific subsystem designs On the INTERFACE Between Computers and Data Communications Systems A focus on some of the problems isobtained in a discussion of a detailed specification for a particular computer-communications system INTERFACE communications , standard INTERFACE communicationsprotocol , virtual channel , multiplexed input/output , coordination of input/output 
+
+CA720707 JB January 30, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2399 20  25.790706673295063 BM25
+
+
+A CRT Editing System
+
+
+CA720104 JB February 1, 1978  9:31 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2820 21  25.191680394003544 BM25
+
+
+The Design and Implementation of a Table Driven,Interactive Diagnostic Programming System
+interactive programming , table driven compilers , error correction , INTERPRETERS , debugging , computer assisted instruction , computer science education 
+
+CA761103 JB January 3, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1698 22  24.963819480798907 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2786 23  24.88644549570573 BM25
+
+
+A System for Typesetting Mathematics
+The system INTERFACES directly with text formatting programs , somixtures of text and mathematics may be handled simply The syntax of the language is specifiedby a small context-free grammar ; a compiler-compiler is used to make a compiler that translates this languageinto typesetting commands 
+
+CA750302 JB January 10, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2873 24  24.811626392810524 BM25
+
+
+LG: A Language for Analytic Geometry
+interactive programming , problem oriented languages , computer graphics , INTERPRETERS , analytic geometry 
+
+CA760403 JB January 4, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1571 25  24.425961462700837 BM25
+
+
+A User-Oriented Time-Shared Online System
+It is anticipated that , with the accumulation of experience using the present system , significant advanceswill be possible in the system design through determination of INTERFACE parameters between thebiological scientist and the digital computer 
+
+CA670702 JB February 28, 1978  9:08 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1750 26  24.411180971426663 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2542 27  24.28894318278637 BM25
+
+
+A Software Design and Evaluation System
+
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1435 28  24.180059879309603 BM25
+
+
+Design of Computer Simulation Experiments for Industrial Systems
+
+
+CA660502 JB March 3, 1978  10:20 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2358 29  24.148298956412432 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2812 30  24.07327200965157 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+This paper describes the use of computer-aidedanalysis for the design and development of an integrated financial management system by the Navy MaterialCommand Support Activity ( NMCSA ) 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2188 31  23.94016140505146 BM25
+
+
+An Approach to the Optimum Design of Computer Graphics Systems
+
+
+CA710602 JB February 3, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1281 32  23.82568368450694 BM25
+
+
+Data Input by Question and Answer
+
+
+CA650410 JB March 7, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1534 33  23.753278873955388 BM25
+
+
+DAD, The C. Operating System
+
+
+CA670910 JB February 27, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-3147 34  23.680960422507805 BM25
+
+
+A Model for Automating File and Program Design in Business Application Systems
+The model VIEWS file and program design as a problemof systematically coordinating the configurations of datasets andcomputations 
+
+CA790603 DH August 21, 1979  4:25 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2522 35  23.579253489157992 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1487 36  23.569549709166814 BM25
+
+
+ELIZA-A Computer Program For the Study ofNaturalLanguage Communication Between Man And Machine
+A discussion of some psychological ISSUES relevant to the ELIZA approach aswell as of future developments concludes the paper 
+
+CA660108 JB March 3, 1978  4:00 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1396 37  23.559978023962636 BM25
+
+
+Survey of Formula Manipulation
+
+
+CA660802 JB March 2, 1978  8:07 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2841 38  23.516119300321343 BM25
+
+
+Designing Surfaces in 3-D
+
+
+CA760803 JB January 4, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2247 39  23.469109559966352 BM25
+
+
+On the Criteria To Be Used in Decomposing Systems into Modules
+The EFFECTIVENESS of a `` modularization '' is dependent upon the criteria used in dividing thesystem into modules 
+
+CA721208 JB January 27, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2145 40  23.425719372102915 BM25
+
+
+Automation of Etching-Pattern Layout
+
+
+CA711104 JB February 2, 1978  10:58 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1605 41  23.39562322196234 BM25
+
+
+An Experimental Comparison of Time Sharing and Batch Processing
+The EFFECTIVENESS for program developmentof the MIT Compatible Time-Sharing System ( CTSS ) was compared with that of the IBM IBSYS batch-processingsystem by means of a statistically designed experiment ) which were considered to be definitive of `` system EFFECTIVENESS , '' and analysis ofvariance techniques were employed to estimate system differences in these variables after differences due tothe design factors had been eliminated 
+
+CA670501 JB February 28, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1742 42  23.387711373533712 BM25
+
+
+On the Design of Display Processors
+As it was found that successive IMPROVEMENTS to the display processor design lie on a circular path , bymaking IMPROVEMENTS one can return to the original simple design plus one new general purpose computer foreach trip around 
+
+CA680603 JB February 22, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2314 43  23.36136835658704 BM25
+
+
+Requirements for Advanced Programming Systems for List Processing
+
+
+CA720714 JB January 30, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2980 44  23.187883486861086 BM25
+
+
+The Editing  of Picture Segmentations Using Local Analysis of Graphs
+
+
+CA770402 JB December 29, 1977  6:22 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1395 45  23.143014008128663 BM25
+
+
+On the Implementation of AMBIT, A Language for Symbol Manipulation
+
+
+CA660803 JB March 2, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1697 46  23.05770499929128 BM25
+
+
+Graphical Input/Output of Nonstandard Characters
+
+
+CA680904 JB February 22, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-3012 47  22.83626496619061 BM25
+
+
+The Use of an Interactive Information Storageand Retrieval System in Medical Research
+
+
+CA780301 JB March 28, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1646 48  22.69789971326781 BM25
+
+
+DITRAN-A Compiler Emphasizing Diagnostics
+
+
+CA670109 JB February 28, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2439 49  22.582362200851822 BM25
+
+
+Multiple Terminals Under User ProgramControl in a Time-Sharing Environment
+This paper describes how this multiple-terminal facilitywas implemented without requiring any changes in the system executive or in any of the system 's compilers or INTERPRETERS 
+
+CA731001 JB January 23, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1764 50  22.575861401940852 BM25
+
+
+Panel Discussion on Computer Appreciation
+After making prepared statements , the panelists were joined in discussion by Andries van Dam and ArthurBohn , who had presented PAPERS in the first half Some remarks referred to PAPERS by vanDam and Kahn or to the discussion during the first half of the session Pertinent PAPERS are included in the references 
+
+CA680406 JB February 23, 1978  10:34 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1159 51  22.565327778070493 BM25
+
+
+Machine Independence: Its Technology and Economics
+
+
+CA651210 JB March 6, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2277 52  22.539765924521205 BM25
+
+
+Demand Paging Through Utilization of Working Sets on the MANIAC II
+
+
+CA721001 JB January 27, 1978  4:06 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2379 53  22.3855584282807 BM25
+
+
+The Design of the Venus Operating System
+
+
+CA720302 JB January 31, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1194 54  22.369432847275096 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+Thesedocuments have been cataloged and indexed and the catalog is scheduled to appear in Computing Reviews 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-0671 55  22.28386580217443 BM25
+
+
+TELEFILE-A Case Study of an On-Line Savings Bank Application
+
+
+CA631203 JB March 13, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1409 56  22.271465884881227 BM25
+
+
+NEBULA: A Digital Computer Using a 20 Mc Glass Delay Line Memory
+An unusual arrangement of information within the 22 Mcmemory allows a simple INTERFACE with the 340 Kc arithmetic unit , which results in an effective zero latencytime and provides possibilities for an associative memory The arithmetic unit has a COMMAND structure similarto large parallel machines , and uses flip-flop arithmetic and control registers throughout 
+
+CA660705 JB March 2, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2534 57  22.24206929569517 BM25
+
+
+Design and Implementation of a Diagnostic Compiler for PL/I
+
+
+CA730305 JB January 24, 1978  10:45 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2155 58  22.190568966673034 BM25
+
+
+Toward an Understanding of Data Structures
+
+
+CA711001 JB February 2, 1978  1:35 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-0972 59  22.120344412228274 BM25
+
+
+An Executive System Implemented as a Finite-State Automaton
+The man-machineinterface is satisfied by several communication consoles from which operators may enter queries andview replies The 473L COMMAND and control system used bythe Air Force permits many operators to access large data files through the use of a computer 
+
+CA641111 JB March 9, 1978  3:56 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-3137 60  22.112759627798706 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1962 61  22.09208218304606 BM25
+
+
+GROOVE-A Program to Compose, Store, and Edit Functions of Time
+
+
+CA701201 JB February 9, 1978  4:19 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2572 62  22.03069130361994 BM25
+
+
+Arguments for a Moratorium on the Constructionof a Community Information Utility
+
+
+CA741202 JB January 16, 1978  10:02 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-0695 63  21.984895004921796 BM25
+
+
+Use of the Disk File on Stretch
+
+
+CA631030 JB March 13, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1272 64  21.975617570595002 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1853 65  21.9496600078626 BM25
+
+
+Compact List Representation: Definition,Garbage Collection, and System Implementation
+Finally , consideration is given to those design factorsessential to the success of a plex processing system implementation 
+
+CA690902 JB February 15, 1978  5:01 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2753 66  21.939191028002192 BM25
+
+
+A Heuristic Problem Solving Design Systemfor Equipment or Furniture Layouts
+
+
+CA750514 JB January 9, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2868 67  21.93676663393083 BM25
+
+
+Reflections on an Operating System Design
+
+
+CA760503 JB January 4, 1978  3:57 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2622 68  21.875497999827502 BM25
+
+
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+This paper discussesissues surrounding selection of a suitable H 
+
+CA740802 JB January 17, 1978  10:19 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2002 69  21.84657034954769 BM25
+
+
+AMESPLOT-A Higher Level Data Plotting Software System
+
+
+CA700903 JB February 10, 1978 2:08 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2105 70  21.838875828899962 BM25
+
+
+An Interactive Computer System Using Graphical Flowchart Input
+
+
+CA700210 JB February 14, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1642 71  21.78034822399732 BM25
+
+
+Time Sharing on a Computer with a Small Memory
+
+
+CA670201 JB February 28, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1827 72  21.77467341327459 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1033 73  21.751203220254 BM25
+
+
+Experimental Personalized Array Translator System
+
+
+CA640714 JB March 9, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2501 74  21.72637927132688 BM25
+
+
+WYLBUR: An Interactive Text Editing and Remote Job Entry System
+
+
+CA730519 JB January 23, 1978  4:11 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-3087 75  21.65006442967973 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+Also included are discussions of important ISSUES in programming natural language systems for limited domains , and the relationship of this system to others 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1589 76  21.63339596070315 BM25
+
+
+DIALOG: A Conversational Programming System with a Graphical Orientation
+
+
+CA670603 JB February 28, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-3023 77  21.59830744923004 BM25
+
+
+Architecture of the IBM System/370
+
+
+CA780107 JB March 28, 1978  5:16 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1252 78  21.456554941456822 BM25
+
+
+Symbolic Notations for Statistical Tablesand an Approach Towards Automatic System Design
+
+
+CA650603 JB March 7, 1978  12:41 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1810 79  21.43480142443241 BM25
+
+
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual?
+and by Nelson on an automatic foldingmechanism of simple design , a demand paging unit built at the IBM Research Center by Belady , Nelson , O'Neil , and others , permitting its quality to be compared with that of manual folding , are discussed , and it is shown that given some care in use the unit performs satisfactorily under the conditions tested , even though it is operating across a memory-to-storage INTERFACE with a very large speed difference 
+
+CA691202 JB February 15, 1978  4:33 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1307 80  21.425539974147416 BM25
+
+
+A Lightpen-Controlled Program For On-Line Data Analysis
+Since such a person isoften unable to spend the time necessary to master a programming language , it is ESSENTIAL that he be aidedin composing commands to the computer By use of a small unordered set of rewriting rules applied as a result of light penselections , the user generates only syntacticallycorrect commands to the system 
+
+CA650217 JB March 7, 1978  10:40 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2181 81  21.4245918040865 BM25
+
+
+The State of Computer Oriented Curricula in Business Schools 1970
+An analysis of the minutes of the meetingsrevealed a common set of experiences which raised similar pedagogic and economic ISSUES This presentationgives a summary of the discussions ; a condensationof the pedagogic and substantive concerns raised ; andconsideration of the resource allocation ISSUES involved 
+
+CA710701 JB February 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2738 82  21.41879760504317 BM25
+
+
+Use of the Concept of Transparency in theDesign of Hierarchically Structured Systems
+
+
+CA750704 DMM January 31, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2389 83  21.396308966393757 BM25
+
+
+Preliminary Report on a System for General Space Planning
+
+
+CA720202 JB January 31, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1748 84  21.358758798978645 BM25
+
+
+A Scheduling Philosophy for Multiprocessing Systems
+
+
+CA680508 JB February 23, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2705 85  21.31816026195364 BM25
+
+
+Programming Languages, Natural Languages, and Mathematics
+
+
+CA751202 JB January 6, 1978  8:30 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1523 86  21.25636382664188 BM25
+
+
+SHARER, a Time Sharing System for the CDC 6600
+
+
+CA671011 JB February 27, 1978 1:53 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1652 87  21.25564924632781 BM25
+
+
+A Code for Non-numeric Information ProcessingApplications in Online Systems
+
+
+CA670103 JB March 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2138 88  21.235866618845247 BM25
+
+
+BLISS: A Language for Systems Programming
+
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1238 89  21.207978013987287 BM25
+
+
+A Technique for Integrated Reports from a Multi-run System
+The simultaneoussatisfaction of the reporting requirement and the accounting requirements posed definite problemsin system design , particularly the handling of the reporting function 
+
+CA650617 JB March 6, 1978  9:49 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1774 90  21.138229060363248 BM25
+
+
+Program Overlay Techniques
+
+
+CA680208 JB February 23, 1978  11:59 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2396 91  21.138080035270967 BM25
+
+
+MUSE: A Model To Understand Simple English
+
+
+CA720107 JB February 1, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1695 92  21.125382001544523 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1341 93  21.017824181475493 BM25
+
+
+Levels of Computer Systems
+In building current computer systems , we tendto break them down into `` levels '' of control , COMMAND and communication ; in using the system , we breakour problems down correspondingly 
+
+CA661208 JB March 2, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-1724 94  21.017265452498613 BM25
+
+
+A Generalized Partial Pass Block Sort
+
+
+CA680705 JB February 22, 1978  12:12 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-3025 95  21.00303609994886 BM25
+
+
+The Evolution of the DEC system 10
+
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2267 96  21.00211881426164 BM25
+
+
+Algorithms To Reveal Properties of Floating-Point Arithmetic
+
+
+CA721102 JB January 27, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2078 97  20.99980219008031 BM25
+
+
+Representations for Space Planning
+
+
+CA700406 JB February 13, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2163 98  20.952631745683238 BM25
+
+
+Education Related to the Use of Computers in Organizations
+
+
+CA710901 JB February 2, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2990 99  20.94136812049805 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+By relating term accuracyto the frequency of occurrence of the term in the documents of a collection it is possible to give formalproofs of the EFFECTIVENESS with respect to a given user query of a number of automatic indexing systemsthat have been used successfully in experimental situations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+5 Q0 CACM-2167 100  20.940233464089367 BM25
+
+
+Algebraic Simplification: A Guide for the Perplexed
+
+
+CA710805 JB February 2, 1978  3:42 PM
+
+

@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+11 Q0 CACM-2699 1  20.18544748506973 BM25
+
+
+Automatic Data Structure Choice in a Language of Very High Level
+SETL is a set-theoretically oriented languageof VERY HIGH LEVEL whose repertoire of semantic objects includes finite sets , ordered n-tuples , andsets of ordered n-tuples usable as mappings Automatic Data Structure Choice in a Language of VERY HIGH LEVEL program optimization , automatic programming , high-levellanguages , set-theoretic LANGUAGES , data structure choice 
+
+CA751208 JB January 5, 1978  3:53 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1923 2  15.816598467110119 BM25
+
+
+Pseudofiles
+An approach to system interfaces for highlevel LANGUAGES using basic input/output support facilities is described operating systems , interfaces input-output , HIGH LEVEL LANGUAGES , command language 
+
+CA690304 JB February 20, 1978  9:12 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2906 3  15.766227720093102 BM25
+
+
+A Very High Level Programming Language for Data Processing Applications
+A VERY HIGH LEVEL Programming Language for Data Processing Applications In recent years , VERY high-level LANGUAGES have been increasingly explored as a solution to thisproblem VERY HIGH LEVEL language , nonprocedural language , data flow language , business application , business data processing , structured programming , modular programming , format specification , and design methodology This results in three different sublanguages or components : one for defining the businessforms , one for describing the business organization , and one for writing calculations 
+
+CA771110 JB December 27, 1977  7:06 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2782 4  15.004917401417107 BM25
+
+
+A Reply to Gentleman and Marovich
+high-level LANGUAGES , philosophy of language design 
+
+CA750306 JB January 9, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2717 5  14.397046203033987 BM25
+
+
+CONVERT: A High Level TranslationDefinition Language for Data Conversion
+CONVERT : A HIGH LEVEL TranslationDefinition Language for Data Conversion This paper describes a HIGH LEVEL and nonproceduraltranslation definition language , CONVERT , which provides VERY powerful and highly flexible datarestructuring capabilities data conversion , data restructuring , data translation , database reorganization , translation definition , utility program , programming LANGUAGES , nonprocedural LANGUAGES 
+
+CA751002 JB January 6, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2647 6  13.897752130779818 BM25
+
+
+More on Algorithms that Reveal Propertiesof Floating Point Arithmetic Units
+floating-point arithmetic , high-levellanguages , philosophy of language design 
+
+CA740506 JB January 17, 1978  4:04 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2923 7  12.95889966729392 BM25
+
+
+High-Level Data Flow Analysis
+High-Level Data Flow Analysis In contrast to the predominant use of low-levelin termediate text , high-level data flow analysis deals with programs essentially at source LEVEL andexploits the control flow information implicit in the parse tree The need for high-level flow analysisarises from several aspects of recent work on advanced methods of program certification and optimization This paper proposes a simple general method of high-level data flow analysis that allows free useof escape and jump statements , avoids large graphs when compiling large programs , facilitates updating ofdata flow information to reflect program changes , and derives new global information helpful in solvingmany familiar global flow analysis problems data flow analysis , high-level language , controlflow graph , structured programming , escapes , exits , jumps , goto statements Many of the graphs involved are constructed and analyzed before any programs are compiled , thus avoidingcertain costs that low-level methods incur repeatedly at compile time 
+
+CA771003 JB December 27, 1977  11:41 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3148 8  12.636644759575844 BM25
+
+
+High Level Programming for Distributed Computing
+HIGH LEVEL Programming for Distributed Computing This paper describes an approachto distributed computing at the LEVEL of general purpose programminglanguages Based on primitive notions of module , message , and transaction key , the methodology is shown to be independentof particular LANGUAGES and machines This is part of an ambitiousprogram of development in advanced programming LANGUAGES , and relationswith other aspects of the project are also discussed 
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3171 9  11.766656246052177 BM25
+
+
+Line Numbers Made Cheap
+A technique is described for run-time line number administrationto be used for implementations of HIGH LEVEL LANGUAGES 
+
+CA791004 DB January 17, 1980  9:57 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2527 10  11.448755659836031 BM25
+
+
+Implementation of High Level Language Machine
+Implementation of HIGH LEVEL Language Machine Computing machines which directly executethe statements of a HIGH LEVEL language have been proposed in the past computer architecture , HIGH LEVEL language machine , emulators , microprogramming , interpreters , execution speed , APL 
+
+CA730401 JB January 24, 1978  10:21 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1835 11  11.333831195809784 BM25
+
+
+The IITRAN Programming Language
+LANGUAGES programming LANGUAGES , student programmingsystems , language design , HIGH school programs , college courses IITRAN is a procedure-oriented languagewith a one-level block structure and a variety of data types 
+
+CA691011 JB February 15, 1978  1:54 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3150 12  11.31995577745112 BM25
+
+
+Beyond Programming Languages
+Justas HIGH LEVEL LANGUAGES enabled the programmer to escape from theintricacies of a machine 's order code , higher LEVEL programming systemscan provide the means to understand and manipulate complexsystems and components Beyond Programming LANGUAGES This paper analyzes some of theshortcomings of programming LANGUAGES as they now exist , and lays out some possible directions for future research Programming , programming LANGUAGES , programming systems , systems development 
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1043 13  11.29025324818905 BM25
+
+
+Talk-A High-Level Source Language DebuggingTechnique With Real-Time Data Extraction
+Talk-A High-Level Source Language DebuggingTechnique With Real-Time Data Extraction The extracted data is later edited , listing the associated data with its high-level source language identification 
+
+CA640704 JB March 9, 1978  8:24 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2267 14  10.675343955301264 BM25
+
+
+Algorithms To Reveal Properties of Floating-Point Arithmetic
+floating-point arithmetic , high-levellanguages , philosophy of language design 
+
+CA721102 JB January 27, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2316 15  10.388278415720023 BM25
+
+
+Programming Languages: History and Future
+This paper discusses both the history and futureof programming LANGUAGES ( = higher LEVEL LANGUAGES ) programming LANGUAGES , higher LEVEL LANGUAGES , LANGUAGES , history , future directions , language interrelationships , programming language tree , programminglanguage history , programming language future Programming LANGUAGES : History and Future A key part of the paper is a tree showing the chronological development of LANGUAGES and theirinterrelationships Reasons for the proliferation of LANGUAGES are given The major LANGUAGES are listedwith the reasons for their importance Key concepts other than specific LANGUAGES are discussed 
+
+CA720712 JB January 30, 1978  1:38 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2956 16  9.667819341297276 BM25
+
+
+Some Ideas on Data Types in High-Level Languages
+Some Ideas on Data Types in High-Level LANGUAGES data types , generic procedures , programming LANGUAGES 
+
+CA770607 JB December 28, 1977  1:27 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2716 17  9.506336279003348 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+The basic idea is to employ automatic programming techniquesso that the interface analyzes and efficiently refines the HIGH LEVEL query specification supplied bythe user relational database , database optimization , invertedfile , automatic programming , query language , data manipulation language , VERY HIGH LEVEL language 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3077 18  9.46569916302563 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+Combining forms canuse HIGH LEVEL programs to build still higher levelones in a style not possible in conventional LANGUAGES This algebra can be used to transform programs andto solve equations whose `` unknowns '' are programs in much the same way one transforms equations in highschool algebra Inherent defects at the most basic LEVEL cause them to be bothfat and weak : their primitive word-at-a-time style of programming inherited from their common ancestor-thevon Neumann computer , their close coupling off semantics to state transitions , their division of programminginto a world of expressions and a world of statements , their inability to effectively use powerfulcombining forms for building new programs from existing ones , and their lack of useful mathematicalproperties for reasoning about programs Conventional programming LANGUAGES are growingever more enormous , but not stronger Unlike von Neumann LANGUAGES , these systems have semantics loosely coupled to states-only onestate transition occurs per major computation Functional programming , algebra of programs , combiningforms , functional forms , programming LANGUAGES , von Neumann computers , von Neumann LANGUAGES , models ofcomputing systems , applicative computing systems , applicative state transition systems , program transformation , program correctness , program termination , metacomposition 
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2815 19  9.374559071152229 BM25
+
+
+High-Level Binding with Low-Level Linkers
+High-Level Binding with Low-Level Linkers 
+
+CA761108 JB January 3, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2198 20  9.270349411420748 BM25
+
+
+Introduction to "Feature Analysis ofGeneralized Data Base Management Systems"
+The problem of HIGH LEVEL interrogationand update functions acting on network structures is mentioned , followed by a discussion of theproblem of catering to a HIGH volume of transactions initiated from terminals by parametric users-the lowestlevel of user After some discussion of the problems of data independence and binding , the four user levelsare identified and described The first ofthese is that of handling existing stored data and the next is that of providing more complex data structuresthan those already available in conventional programming LANGUAGES data base management systems , programming LANGUAGES , data structures , storage structures , information retrieval , transaction processing 
+
+CA710501 JB February 3, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2246 21  9.115400893893748 BM25
+
+
+Levels of Language for Portable Software
+This paper discusses the relative merits of pitchingthis language at a HIGH LEVEL or a low LEVEL , and presents some comparative results Levels of Language for Portable Software portable software , LEVEL of language , machineindependent , macro processor , efficiency 
+
+CA721209 JB January 27, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0724 22  8.809286909896581 BM25
+
+
+A Profile of the Programmer
+A veryhigh percentage of programmers have apparently entered their careers by accident ; it has proven a happychoice for most and they expect to remain in the field during the next five years Their principaljob satisfactions relate to the nature of their work , and mostfind their jobs offer HIGH LEVEL of professionalinterest and good working conditions Four principal problemsfor programming in the immediate future are listed by participants : LANGUAGES , personnel , various specificapplications and techniques , and building programming as a profession 
+
+CA631001 JB March 13, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2320 23  8.702398353414804 BM25
+
+
+Structured Multiprogramming
+This paper presents a proposal for structuredrepresentation of multiprogramming in a HIGH LEVEL language structured multiprogramming , programming LANGUAGES , operating systems , concurrent processes , shared data , mutual exclusion , critical regions , processcommunication , synchronizing events 
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3080 24  8.665651176937622 BM25
+
+
+Proving the Correctness of Heuristically Optimized Code 
+A system for proving that programs writtenin a HIGH LEVEL language are correctly translated to a low LEVEL language is described The low LEVEL language programs need notbe generated by a compiler and in fact could be hand coded Some interesting results are the ability to handle programs that implement recursion bybypassing the start of the program , and the detection and pinpointing of a wide class of errors in the lowlevel language programs 
+
+CA780708 DH February 7, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1860 25  8.575033290975629 BM25
+
+
+An Algol-Based Associative Language
+A HIGH LEVEL programming language for large , complex associative structures has been designed and implemented 
+
+CA690803 JB February 15, 1978  6:02 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1872 26  8.291650156812318 BM25
+
+
+Chebyshev Interpolation and QuadratureFormulas of Very High Degree (Errata)
+Chebyshev Interpolation and QuadratureFormulas of VERY HIGH Degree ( Errata ) 
+
+CA690708 JB February 17, 1978  9:01 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1861 27  7.901687706177358 BM25
+
+
+The MAD Definition Facility
+One of the first definition facilities forhigher LEVEL LANGUAGES is described MAD , definitions , operators , macros , higher LEVEL language 
+
+CA690802 JB February 15, 1978  6:07 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0265 28  7.8788750395768545 BM25
+
+
+Low Level Language Subroutines for Use Within Fortran
+Low LEVEL Language Subroutines for Use Within Fortran This paper describes some subroutines , codedin symbolic LANGUAGES and for use within Fortran coded programs , to deal with `` special arithmetic '' ( e 
+
+CA611103 JB March 15, 1978  10:59 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2091 29  7.839875364235727 BM25
+
+
+PDEL-A Language for Partial Differential Equations
+Aconvenient , easy to learn and to use , HIGH LEVEL problem orientedlanguage to solve and study partial differential equation problemshas been designed ; a practical translator for the language has alsobeen designed , and a working version of it has been constructedfor a significant portion of the language This Partial DifferentialEquation Language , PDEL , is outlined , and the highlightsof the translator are briefly summarized 
+
+CA700307 JB February 13, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2705 30  7.711840983936503 BM25
+
+
+Programming Languages, Natural Languages, and Mathematics
+The most promisingavenues for further work of wide influence are seen to be HIGH quality program literature ( i Programming LANGUAGES , Natural LANGUAGES , and Mathematics Some social aspects of programming are illuminatedthrough analogies with similar aspects of mathematics and natural LANGUAGES The development of natural LANGUAGES towardflexion less , word-order based language types speaks for programming language design based on general , abstract constructs By analogy with incidents of the history of artificial , auxiliary LANGUAGES itis suggested that Fortran and Cobol will remain dominant for a long time to come analogies related to social aspects , pure and appliedmathematics , language quality , language development , artificial auxiliary LANGUAGES , literature , style , descriptive and prescriptive attitudes 
+
+CA751202 JB January 6, 1978  8:30 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2081 31  7.699810806748379 BM25
+
+
+Some Complete Calculi for Matrices
+A matrix calculus is introduced with the intention of developing data structuressuitable for a HIGH LEVEL algorithmic language for mathematical programming complete calculus , data structures , linearprogramming , matrix , matrix concatenation , matrix sequences , programming LANGUAGES , sequence operations , symbol manipulation 
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1358 32  7.4771755256488674 BM25
+
+
+Syntax Macros and Extended Translation
+A translation approach is described which allowsone to extended the syntax and semantics of a given high-level base language by the use of a newformalism called a syntax-macro 
+
+CA661102 JB March 2, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1903 33  7.451723422067051 BM25
+
+
+Chebyshev Interpolation and Quadrature Formulas of Very High Degree
+Chebyshev Interpolation and Quadrature Formulas of VERY HIGH Degree 
+
+CA690506 JB February 17, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2787 34  7.396140515814958 BM25
+
+
+Matrix Reduction-An Efficient Method
+And it is designed as a structuredprogram , which can readily be coded by the reader in the HIGH LEVEL or low LEVEL programming languageof his choice 
+
+CA750301 JB January 10, 1978  9:03 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2398 35  7.211535715764024 BM25
+
+
+Teacher/Student Authored CAI Using the NEWBASIC System
+NEWBASIC/CATALYSTincorporates an advancedimplementation of BASIC , system-level interactive features , and a general capability for extension throughuser oriented function attachment , Application of this last feature to provide a flexible CAI scan capabilityis illustrated An example of interaction at the system LEVEL shows how students can mix the advantagesof independent or `` solo '' mode computing with those of guided or `` dual '' mode interaction CAI , BASIC , CATALYST , NEWBASIC , education , computersin education , extended LANGUAGES , interactive systems 
+
+CA720105 JB February 1, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1627 36  7.108985600053014 BM25
+
+
+Application of Level Changing to a Multilevel Storage Organization
+Application of LEVEL Changing to a Multilevel Storage Organization This technique , called the multilevel store , provides a means for economicallysatisfying the requirements for VERY large storage capacities of certain data management and informationretrieval systems The concept of LEVEL changing is introduced and its application to the multilevelstore is discussed A possible means for physically organizing the information for efficientuse of the multilevel store is presented 
+
+CA670302 JB February 28, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2954 37  6.9949506540892195 BM25
+
+
+A Bounded Storage Algorithm for Copying Cyclic Structures
+Unlike a previous similar algorithm , thisone makes no assumptions about the storage allocation system in use and uses only operations likely to be availablein a high-level language 
+
+CA770609 JB December 28, 1977  12:56 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2003 38  6.94302781506684 BM25
+
+
+An Interactive Software System for Computers-AidedDesign:  An Application to Circuit Project
+The main emphasis is given to thedescription of the features of the two HIGH LEVEL user orientedlanguages , operating at different levels , on which the interactionis based The application to computer-aided circuit designis in particular examined ; on the other hand , the adopted designcriteria provide sufficient generality to extend the use of the two LANGUAGES to different computer-assisted applications 
+
+CA700902 JB February 10, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2208 39  6.888338381094267 BM25
+
+
+Storage Utilization in a Memory Hierarchy When StorageAssignment Is Performed by a Hashing Algorithm
+The utilization of storage is studied in a two-levelmemory hierarchy The first storage LEVEL , which is the fast store , is divided into a number ofstorage areas If this particular area is full , then the entry will be placedinto the slower second-level store , even though other areas in the first-level store may have spaceavailable Given the N entries have been filed in the entire hierarchy , an expression is derived for theexpected number of entries filed in the first-level storehis expression gives a measure of how effectivelythe first-level store is being used By means of examples , storage utilization is then studied as afunction of the hashing algorithm , the number of storage areas into which the first-level store is dividedand the total size of the first-level store 
+
+CA710304 JB February 3, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2938 40  6.686909026475583 BM25
+
+
+Toward a Discipline of Real-Time Programming
+By adhering to a strict programming discipline and by using a suitablehigh-level language molded after this discipline , the complexity of reasoning about concurrency and executiontime constrain ts may be drastically reduced 
+
+CA770805 JB December 28, 19777:39 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0281 41  6.684333316336371 BM25
+
+
+Putting a Hex on e^x
+In this note we produce a particularfamily of VERY fast , HIGH precision and eminently practical exponential evaluation formulas derived from one such formulation 
+
+CA610913 JB March 16, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2034 42  6.527624559111033 BM25
+
+
+The Mobile Programming System: STAGE2
+STAGE2 is the second LEVEL of a bootstrap sequence whichis easily implemented on any computer bootstrapping , macro processing , machine independence , programming LANGUAGES , implementation techniques 
+
+CA700703 JB February 13, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3127 43  6.514771641171418 BM25
+
+
+Thoth, a Portable Real-Time Operating System 
+Both the system and applicationprograms which use it are written in a high-level language Hence , application programs which use Thoth are highly portable 
+
+CA790206 DH April 12, 1979  9:10 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3026 44  6.387530346929449 BM25
+
+
+The Evolution of the Sperry Univac 1100Series: A His tory, Analysis, and Projection
+The 1100 series hardware architecture is based on a 36-bit word , ones complement structurewhich obtains one operand from storage and one from a high-speed register , or two operands from high-speedregisters 1100 computer series , computer architecture , multiprocessinglanguages , data management systems , end user facilities , executive control software 
+
+CA780104 JB March 28, 1978  5:38 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2317 45  6.367395974305319 BM25
+
+
+Programming Systems and Languages 1965-1975
+Programming Systems and LANGUAGES 1965-1975 In spite of impressive gains by PL/I , Fortranand Cobol remain the LANGUAGES in which most of the world 's production programs are written and willremain so into the foreseeable future There is a great deal of theoretical interest in Algol 68and in extensible LANGUAGES , but so far at least they have had little practical impact Problem-orientedlanguages may VERY well become the most important language development area in the next five to ten years LANGUAGES , operating systems , programmingsystems , multiprogramming , history 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3057 46  6.291965901267796 BM25
+
+
+Optimal His togram Matching by Monotone Gray Level Transformation
+Optimal His togram Matching by Monotone Gray LEVEL Transformation This paper investigates the problem of optimalhis togram matching using monotone gray LEVEL transformation , which always assigns all picture pointsof a given gray LEVEL i to another gray LEVEL T ( i ) such that if i > j , then T ( i ) > T ( j ) The objectiveis to find a transformed digital picture of a given picture such that the sum of absolute errorsbetween the gray LEVEL his togram of the transformed picture and that of a reference picture is minimized Optimal his togram matching , gray LEVEL transformation , packing problem , tree searching algorithm , picture processing 
+
+CA781004 DH January 29, 1979  6:08 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1552 47  6.272564908964196 BM25
+
+
+The AED Free Storage Package
+The routines of the package performhigh LEVEL functions automatically , but also allow access and control of fine internal details as well 
+
+CA670803 JB February 27, 1978  4:40 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1642 48  6.265205651852881 BM25
+
+
+Time Sharing on a Computer with a Small Memory
+The techniques depend on having two levels of secondarystorage : LEVEL 1 , several times larger than the main memory and quite fast ; and LEVEL 2 , many times larger and slower than LEVEL 1 
+
+CA670201 JB February 28, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2898 49  6.170604352702817 BM25
+
+
+A Conceptual Framework for a Nonprocedural Programming Language
+This paper describesa conceptual framework for a HIGH LEVEL programming language providing both nonprocedural and sequentialfacilities 
+
+CA771202 JB February 1, 1980  4:05 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0731 50  6.108569435470839 BM25
+
+
+Symmetric List Processor 
+This system is intendedfor imbeding in higher LEVEL LANGUAGES capable of calling functions and subroutines coded in machine language 
+
+CA630927 JB March 13, 1978  7:10 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2826 51  6.023730718766457 BM25
+
+
+Interactive Skeleton Techniques for EnhancingMotion Dynamics in Key Frame Animation
+The simplicity of the stick figure image encourages a HIGH LEVEL of interaction during the design stage 
+
+CA761005 JB January 3, 1978  4:24 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2593 52  5.999928853672736 BM25
+
+
+A Back-end Computer for Data Base Management
+It is proposed that the data base managementfunction be placed on a dedicated back-end computer which accepts commands ( in a relatively HIGH LEVEL languagesuch as the CODASYL Data Base Task Group , April 1971 Report ) from a host computer , accesses thedata base on secondary storage , and returns results 
+
+CA741005 JB January 16,1978  12:35 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3027 53  5.929638630556035 BM25
+
+
+The Development of the MU5 Computer System
+A description is then given of the instructionset , which includes a number of features conducive to the production of efficient compiled codefrom high-level language source programs 
+
+CA780103 JB March 28, 1978  5:44 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0795 54  5.896097484093053 BM25
+
+
+Debugging Systems at the Source Language Level
+Debugging Systems at the Source Language LEVEL 
+
+CA630803 JB March 13, 1978  8:46 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0081 55  5.820871255311069 BM25
+
+
+NORC High-Speed Printer
+NORC High-Speed Printer 
+
+CA590603 JB March 22, 1978  6:36 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0074 56  5.775423427777088 BM25
+
+
+A High-Speed Sorting Procedure
+A High-Speed Sorting Procedure 
+
+CA590704 JB March 22, 1978  6:20 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2922 57  5.728570587319541 BM25
+
+
+Two-Level Control Structure for Nondeterministic Programming
+Two-Level Control Structure for Nondeterministic Programming The proposed attitude aims at retaining the purity ofthe nondeterministic formulation of search processes on one LEVEL ( the attempt LEVEL ) , deferring the coordinationof problem solving efforts to another ( the choice LEVEL ) The feasibility of recognizing these twolevels is discussed , stressing that the structure to be managed at the choice LEVEL is a free of contexts 
+
+CA771004 JB December 27, 1977  11:30 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1676 58  5.72831400843701 BM25
+
+
+The LRLTRAN Compiler
+To maintain cohesion , a system must be developed , written in a HIGH LEVEL language , which minimizes machinedependencies and isolates those which are necessary 
+
+CA681103 JB February 21, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0198 59  5.686624105388209 BM25
+
+
+A High-Speed Multiplication Process for Digital Computers
+A High-Speed Multiplication Process for Digital Computers 
+
+CA600413 JB March 22, 1978  1:36 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0232 60  5.643240624522989 BM25
+
+
+A High-Speed Sorting Procedure
+A High-Speed Sorting Procedure 
+
+CA600104 JB March 22, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3123 61  5.639890412019916 BM25
+
+
+Employment Characteristics of Doctoral Level Computer Scientists
+Employment Characteristics of Doctoral LEVEL Computer Scientists 
+
+CA790202 DH April 10, 1979  2:13 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1641 62  5.569372597332212 BM25
+
+
+A Use of Fast and Slow Memories in List-Processing Languages
+It consists in reducing to onelevel a nonhomogeneous store composed of fast ( core ) and slow ( disk or drum ) memories The reduction to aone-level memory is performed by a program which leaves the most often called pages in the fast memory A Use of Fast and Slow Memories in List-Processing LANGUAGES 
+
+CA670202 JB February 28, 1978  4:06 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1472 63  5.562021300047303 BM25
+
+
+Description of a High Capacity, FastTurnaround University Computing Center
+Description of a HIGH Capacity , FastTurnaround University Computing Center The system is of interest because of the low turnaround times achieved , the highthroughput achieved and the lack of an operating staff 
+
+CA660212 JB March 3, 1978  2:28 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0205 64  5.489239231646532 BM25
+
+
+Macro Instruction Extensions of Compiler Languages
+Macro Instruction Extensions of Compiler LANGUAGES 
+
+CA600406 JB March 22, 1978  1:49 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2603 65  5.4112600763279675 BM25
+
+
+The Equivalence of Reducing TransitionLanguages and Deterministic Languages
+The Equivalence of Reducing TransitionLanguages and Deterministic LANGUAGES The class of reducing transition languagesintroduced by Eickel , Paul , Bauer , and Samelson was shown by Morris to be a proper superclass of thesimple precedence LANGUAGES In this paper this result is extended , showing that , in fact , the first classis equivalent to the class of deterministic context free LANGUAGES reducing transition LANGUAGES , syntax controlledgenerators , deterministic context-free grammars 
+
+CA740905 JB January 17, 1978  8:52 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2867 66  5.4082480633701175 BM25
+
+
+Modularization and Hierarchy in a Family of Operating Systems
+It is shown that the concepts of module andlevel do not coincide in a hierarchy of functions Family members can share much software as a resultof the implementation of run-time modules at the lowest system LEVEL 
+
+CA760504 JB January 4, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3101 67  5.348303258257163 BM25
+
+
+The SL5 Procedure Mechanism
+This integrationis accomplished by treating procedures and their activation records ( called environments ) as data objectsand by decomposing procedure invocation into three separate components at the source-language LEVEL Procedures , coroutines , programming LANGUAGES , interpreters , SNOBOL 4 , backtracking 
+
+CA780506 DH February 26, 1979  1:36 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2489 68  5.331020538457002 BM25
+
+
+Number of Multiply-Restricted Partitions [A1] (Algorithm A448)
+partitions , enumeration , change making , energy-leveldegeneracies , molecular vibrational energy-levels 
+
+CA730611 JB January 23, 1978  1:49 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2301 69  5.251260079374154 BM25
+
+
+Generating Parsers for Affix Grammars
+Affix grammars are two-level grammars whichare similar to van Wijngaarden 's two-level grammars used in the definition of Algol 68 algorithmic language processing , bottom-up parsing , Floyd Production Language , parsing , syntax directed compiling , translator writing systems , two-level grammars 
+
+CA720801 JB January 30, 1978  10:21 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1769 70  5.239653863071874 BM25
+
+
+The Expanding World of Computers
+Online computers and time-sharing also rate highby this measure Problem-orientedlanguages are particularly effective over the entire front barriers , philosophy , developments , computer-aided design , problem-oriented LANGUAGES , data communication , education , computer science , forecast , survey , introduction 
+
+CA680401 JB February 23, 1978  11:36 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3185 71  5.179249496602084 BM25
+
+
+   The Humble Programmer
+We shall do a much better programming job , provided that we approach thetask with a full appreciation if its tremendous difficulty , provided that we stick to modest and elegant programming LANGUAGES , provided that we respectthe intrinsic limitations of the human mind and approach the task as VeryHumble Programmers 
+
+CA721010 ES March 18, 1982 10:00 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2542 72  5.1285474733006495 BM25
+
+
+A Software Design and Evaluation System
+This system is based on a simple , HIGH LEVEL languagewhich is used to describe the evolving system at all stages of its development 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2560 73  5.090099527188664 BM25
+
+
+A Queuing Model of a MultiprogrammedComputer with a Two-Level Storage System
+A Queuing Model of a MultiprogrammedComputer with a Two-Level Storage System The results are presented of an analysis ofa probabilistic model of a multiprogrammed computer system with a two-level storage system in which thereis sequential dependency of accesses between the devices 
+
+CA730101 JB January 24, 1978  4:55 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0249 74  5.077428040188271 BM25
+
+
+Specification Languages for Mechanical Languagesand Their Processors*-A Baker's Dozen
+Specification LANGUAGES for Mechanical Languagesand Their Processors*-A Baker 's Dozen 
+
+CA611201 JB March 15, 1978  10:32 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1713 75  4.981442980922579 BM25
+
+
+On Overcoming High-Priority Paralysisin Multiprogramming Systems: A Case His tory
+On Overcoming High-Priority Paralysisin Multiprogramming Systems : A Case His tory High-priority paralysis is the degradationthat can occur in multiprogramming systems when scheduling is based primarily on preassigned priorities 
+
+CA680801 JB February 22, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1098 76  4.955329519754409 BM25
+
+
+A Comparison of List-Processing Computer Languages(Including a Detailed Comparison of COMIT, IPL-V, LISP 1.5, and SLIP)
+A Comparison of List-Processing Computer LANGUAGES ( Including a Detailed Comparison of COMIT , IPL-V , LISP 1 5 and SLIP - four well-known computer programming LANGUAGES which , among them , exhibit all theprincipal characteristics of existing list-processing LANGUAGES Important common features of list-processinglanguages are reviewed : forms of data structures which are manipulated , necessity for dynamic allocationof storage , use of pushdown stores , and use of recursive operations Principal differences between thefour LANGUAGES under consideration are detailed : representations of data , both by the programmer and withinthe machine ; methods for storage allocation ; programming formalisms and special processes available , including arithmetic facilities ; and usability in terms of availability , documentation , learning aidsand debugging facilities A rough comparison shows that all the LANGUAGES discussed have approximatelythe same speed Finally , the authors give some heuristics to aid in the selection of one of theselanguages for use in particular problem applications , concluding that no one of the LANGUAGES considered isdistinctly superior in all possible list-processing applications 
+
+CA640410 JB March 10, 1978  1:37 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2873 77  4.931269891805231 BM25
+
+
+LG: A Language for Analytic Geometry
+A third characteristic consists of the possibilityof using this language to design other user oriented LANGUAGES interactive programming , problem oriented LANGUAGES , computer graphics , interpreters , analytic geometry 
+
+CA760403 JB January 4, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1703 78  4.907410342338739 BM25
+
+
+Accommodating Standards and Identification of Programming Languages
+Accommodating Standards and Identification of Programming LANGUAGES The user public wants standardization andreliable identification of programming LANGUAGES and related services One way of achieving these goalsillustrated by the methods adopted for TRAC T-64 interactive language , and its related family of LANGUAGES These methods can be usefully applied to other programming LANGUAGES and computer services standardization , programming LANGUAGES , TRAC T-64language , tranemark , public identification of programming LANGUAGES , standards which accommodate 
+
+CA680811 JB February 22, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1462 79  4.882655810879034 BM25
+
+
+Multilevel Operating Systems
+Multilevel Operating Systems Large applications require supervisory monitors which handle problems similar to those ofthe operating systems , but at a different LEVEL Sometimes , still a third or even a fourth such levelis required or desirable This leads naturally to the concept of multilevel systems-similar vertically , but different horizontally Proper division of responsibility between levels leads to greater efficiency andless logical complexity , while actually enhancing capability 
+
+CA660310 JB March 3, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2897 80  4.878434093555019 BM25
+
+
+A Case Study of a New Code Generation Technique for Compilers
+Each step expands higher LEVEL statements into blocks oflower LEVEL code and then performs optimizations on the result Such a compiler translates the parsed source code intolower LEVEL code by a sequence of steps 
+
+CA771203 JB February 1, 1980  3:54 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1366 81  4.862308883544208 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+Computer Simulation-Discussion of theTechnique and Comparison of LANGUAGES The purpose of this paper is to present a comparisonof some computer simulation LANGUAGES and of some of the involved in comparing software packagesfor digital computers are discussed in Part I The issue is obvious : users of digital computersmust choose from available LANGUAGES or write their own Substantial costs can occur , particularly in training , implementation and computer time if an inappropriate language is chosenore and more computer simulationlanguages are being developed : comparisons and evaluations of existing LANGUAGES are useful for designersand implementers as well as users The second part is devoted to computer simulation and simulationlanguages Part III presents a detailed comparisonof six simulation LANGUAGES and packages : SIMSCRIPT , CLP , CSL , GASP , CPSS and SOL The implications of this analysis for designers of LANGUAGES , for users , and for implementers are developed The conclusion of the paper is that the packages nowavailable for computer simulation offer features which none of the more general-purpose packages do andthat analysis of strengths and weaknesses of each suggests ways in which both current and future simulationlanguages and packages can be improved 
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1788 82  4.8427890558524815 BM25
+
+
+Toward a General Processor for Programming Languages
+Many efforts have been made to develop a betterway of implementing a higher LEVEL programming language than by the construction of a whole new compiler , but so far none has proved generally satisfactory Toward a General Processor for Programming LANGUAGES 
+
+CA680106 JB February 23, 1978  2:42 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1223 83  4.841674097486353 BM25
+
+
+High Speed Compilation of Efficient Object Code
+HIGH Speed Compilation of Efficient Object Code Optimization such as the effective use of index registers , although as important , is not discussed sincethe object code which would be most efficient is highly machine dependent The discussion is in termsof a FORTRAN-like language , although the technique is applicable to most algebraic LANGUAGES 
+
+CA650801 JB March 6, 1978  8:45 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3052 84  4.7688937591916165 BM25
+
+
+Cold-Start vs. Warm-Start Miss Ratios
+In a two-level computer storage hierarchy , missratio measurements are often made from a `` cold start , '' that is made with the first-level store initiallyempty For large capacities the effect on the measured miss ratio of the misses incurred whilefilling the first-level store can be significant , even for long reference strings 
+
+CA781009 DH January 29, 1979  5:16 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2295 85  4.670349923511676 BM25
+
+
+Comment on the Composition of Semantics in Algol 68
+programming primitives , programming LANGUAGES , Algol , semantics , recursive composition , design of programming LANGUAGES , data structures 
+
+CA720807 JB January 30, 1978  9:29 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1188 86  4.6356051523457715 BM25
+
+
+An ALGOL-like Computer Design Language
+A computer designer can benefitfrom using a design language at a higher LEVEL just as a computer user can benefit from a higher levelprogramming language 
+
+CA651007 JB March 6, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1720 87  4.633235080014595 BM25
+
+
+Master's Level Computer Science Curricula
+Master 's LEVEL Computer Science Curricula 
+
+CA680709 JB February 22, 1978  11:44 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1459 88  4.58757370511464 BM25
+
+
+Requirements for Real-Time Languages
+Requirements for Real-Time LANGUAGES Real-time LANGUAGES have different requirementsfrom other programming LANGUAGES because of the special nature of their applications , the environmentin which their object programs are executed and the environment in which they may be compiled 
+
+CA660313 JB March 3, 1978  11:48 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2456 89  4.540996642022997 BM25
+
+
+On the Capabilities of While, Repeat, and Exit Statements
+It is shown that a program is well formed ifand only if it can be written with if , repeat , and multi-level exit statements for sequence control It is also shown that if , while , and repeat statements with single-level exit do not suffice 
+
+CA730818 JB January 23, 1978  10:20 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3130 90  4.527795468858916 BM25
+
+
+CURRICULUM '78 - Recommendations for theUndergraduate Program in Computer Science
+The core curriculum common to allcomputer science undergraduate programs is presented in terms ofelementary LEVEL topics and courses , and intermediate LEVEL courses 
+
+CA790301 DH April 12, 1979  11:02 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2957 91  4.484158243389442 BM25
+
+
+Database Abstractions: Aggregation
+Aggregation transforms a relationship betweenobjects into a higher-level object It issuggested that aggregate types , and other types which support real-world abstractions without in troducingimplementation detail , should be incorporated into programming LANGUAGES 
+
+CA770606 JB December 29, 1977  12:33 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0479 92  4.473540029417349 BM25
+
+
+A Dispersion Pass Algorithm for the Polyphase Merge
+If the number of strings dispersed is between two levels acceptableby Polyphase merge , a more economical technique of reaching the next LEVEL for Polyphase merge is shown and proved 
+
+CA621001 JB March 17, 1978  7:27 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1179 93  4.447942146136321 BM25
+
+
+PUFFT-The Purdue University Fast FORTRAN Translator
+Batches of small- and medium-sized FORTRAN IV sourcelanguage programs are processed at VERY HIGH speeds 
+
+CA651102 JB March 6, 1978  6:17 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1678 94  4.440335739486063 BM25
+
+
+Automata, Formal Languages, Abstract Switching,and Computability in a Ph. Computer Science Program
+Automata , Formal LANGUAGES , Abstract Switching , and Computability in a Ph A number of courses are listed in the areadescribe as automata , formal LANGUAGES , abstract switching , and computability , that might be availableto a Ph computerscience program , automata , formal LANGUAGES , switching theory , theory of computability 
+
+CA681101 JB February 21, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1425 95  4.4393283312013345 BM25
+
+
+Flow Diagrams, Turing Machines AndLanguages With Only Two Formation Rules
+Although not every diagram isdecomposable into a finite number of given base diagrams , this becomes true at a semantical LEVEL dueto a suitable extension of the given set and of the basic mappings defined in it Flow Diagrams , Turing Machines AndLanguages With Only Two Formation Rules 
+
+CA660512 JB March 3, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2765 96  4.424886443760922 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+The need to envision and architecture data basesystems in a hierarchical LEVEL by LEVEL framework is stressed 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-1466 97  4.424434625017643 BM25
+
+
+Discussion Summary on Graphical Languages
+Discussion Summary on Graphical LANGUAGES 
+
+CA660306 JB March 3, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-2928 98  4.412350798043817 BM25
+
+
+Hardware Estimation of a Process' Primary Memory Requirements
+Thisprimary memory requirement estimate was employed in an experimental version of Multics to control thelevel of multiprogramming in the system and to bill for memory usage primary memory requirement , virtual memory , levelof multiprogramming , associative memory , working set , resource allocation , LRU stack model , referencing characteristics 
+
+CA770906 JB December 27, 1977  1:05 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-0321 99  4.3988782720019515 BM25
+
+
+ALGOL 60 Confidential
+It is not hard to learn those parts of ALGOL present in other compiler LANGUAGES : howto write assignment and go to and for statements , etc Indeed , a lot of the unnecessary restrictionsimposed by other compiling LANGUAGES have finally been lifted 
+
+CA610604 JB March 16, 1978  10:48 PM
+
+
+--------------------------------------------------------------
+11 Q0 CACM-3103 100  4.375997564331001 BM25
+
+
+Automatic Data Structure Selection: An Example and Overview
+The use of several levels of abstraction hasproved to be VERY helpful in constructing and maintaining programs When programs are designed with abstractdata types such as sets and lists , programmer time can be saved by automating the process of fillingin low-level implementation details 
+
+CA780504 DH February 26, 1979  1:51 PM
+
+

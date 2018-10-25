@@ -1,0 +1,66 @@
+MAP= 22.29178221254002/52
+Map for queryid System BM25 is  0.4286881194719235
+Average Precision for queryid 1 is 0.19787304752409438
+Average Precision for queryid 10 is 0.5063394355853805
+Average Precision for queryid 11 is 0.41283847641306776
+Average Precision for queryid 12 is 0.3904761904761904
+Average Precision for queryid 13 is 0.47433969539232684
+Average Precision for queryid 14 is 0.35196148492786977
+Average Precision for queryid 15 is 0.12824792960662526
+Average Precision for queryid 16 is 0.10414962838039336
+Average Precision for queryid 17 is 0.15571046727761653
+Average Precision for queryid 18 is 0.3155178402275811
+Average Precision for queryid 19 is 0.667331206804891
+Average Precision for queryid 2 is 1.0
+Average Precision for queryid 20 is 1.0
+Average Precision for queryid 21 is 0.06453783232963096
+Average Precision for queryid 22 is 0.09447500999700054
+Average Precision for queryid 23 is 0.875
+Average Precision for queryid 24 is 0.18407871198568873
+Average Precision for queryid 25 is 0.26285410402699094
+Average Precision for queryid 26 is 0.06833020683020682
+Average Precision for queryid 27 is 0.36396692041382606
+Average Precision for queryid 28 is 0.76
+Average Precision for queryid 29 is 0.5479285334548493
+Average Precision for queryid 3 is 0.0805976430976431
+Average Precision for queryid 30 is 0.5178571428571428
+Average Precision for queryid 31 is 0.6428571428571428
+Average Precision for queryid 32 is 0.3846153846153846
+Average Precision for queryid 33 is 1.0
+Average Precision for queryid  34 cannot be found 
+Average Precision for queryid  35 cannot be found 
+Average Precision for queryid 36 is 0.1982546766168048
+Average Precision for queryid 37 is 0.21062091503267974
+Average Precision for queryid 38 is 0.36254734848484854
+Average Precision for queryid 39 is 0.3059937355819976
+Average Precision for queryid 4 is 0.2653002471632401
+Average Precision for queryid 40 is 0.5079687962141378
+Average Precision for queryid  41 cannot be found 
+Average Precision for queryid 42 is 0.32349852942833685
+Average Precision for queryid 43 is 0.09521719112920783
+Average Precision for queryid 44 is 0.28205585264408795
+Average Precision for queryid 45 is 0.34140513693507046
+Average Precision for queryid  46 cannot be found 
+Average Precision for queryid  47 cannot be found 
+Average Precision for queryid 48 is 0.5485449735449737
+Average Precision for queryid 49 is 0.11691860129360129
+Average Precision for queryid 5 is 0.37791787323037324
+Average Precision for queryid  50 cannot be found 
+Average Precision for queryid  51 cannot be found 
+Average Precision for queryid  52 cannot be found 
+Average Precision for queryid  53 cannot be found 
+Average Precision for queryid  54 cannot be found 
+Average Precision for queryid  55 cannot be found 
+Average Precision for queryid  56 cannot be found 
+Average Precision for queryid 57 is 1.0
+Average Precision for queryid 58 is 0.3739893605738175
+Average Precision for queryid 59 is 0.30575212135118285
+Average Precision for queryid 6 is 0.4444444444444444
+Average Precision for queryid 60 is 0.45919461867529504
+Average Precision for queryid 61 is 0.5862636758309712
+Average Precision for queryid 62 is 0.2731309049243832
+Average Precision for queryid 63 is 0.7410256410256412
+Average Precision for queryid 64 is 1.0
+Average Precision for queryid 7 is 0.3732423296437068
+Average Precision for queryid 8 is 0.6884057971014492
+Average Precision for queryid 9 is 0.5582054065882275

@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+7 Q0 CACM-3043 1  40.72060248351727 BM25
+
+
+Distributed Processes: A Concurrent Programming Concept
+These processes COMMUNICATE and SYNCHRONIZE by means of procedurecalls and guarded regions DISTRIBUTED Processes : A CONCURRENT Programming Concept A language concept for CONCURRENT processeswithout common variables is introduced CONCURRENT programming , DISTRIBUTED processes , microprocessor networks , nondeterminism , guarded regions , programming languages , process communicationand scheduling , sorting arrays , coroutines , classes , monitors , processes , semaphores , buffers , path expressions , input/output This concept is proposed for real-time applications controlled bymicrocomputer networks with DISTRIBUTED storage The paper gives several examples of DISTRIBUTED processesand shows that they INCLUDE procedures , coroutines , classes , monitors , processes , semaphores , buffers , pathexpressions , and input/output as special cases 
+
+CA781108 DH January 26, 1979  10:40 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3128 2  30.038055510531432 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+Synchronization of CONCURRENT processes requires controlling the relative ordering of events in the processes Direct control of ordering seems to simplifycorrectness arguments and also simplifies implementation in distributedsystems Process synchronization , interprocess communication , distributedsystems , security models , mutual exclusion , semaphores 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2912 3  27.845167202102864 BM25
+
+
+Concurrent Reading and Writing
+CONCURRENT Reading and Writing It is assumed that only one process at a time can modify the data , but concurrentreading and writing is permitted These INCLUDE a solution to the general problem in which a read is repeated ifit might have obtained an incorrect result , and two techniques for transmitting messages between processes 
+
+CA771104 JB December 27, 1977  7:47 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2342 4  27.78299449251772 BM25
+
+
+Interference Between Communicating Parallel Processes
+CONCURRENT programming control , cooperating processes , formal programs , interference , mutual exclusion , operating systems , parallel processes Solutions have been givenfor the mutual exclusion problem and associated subproblems , in the form of parallel programs , and informalproofs of CORRECTNESS have been given for these solutions A mechanical proof procedure is shown , which will either verify ( provethe CORRECTNESS of ) or discredit ( prove the incorrectness of ) an attempted solution , with respectto any of the interference properties 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2376 5  27.1271117182576 BM25
+
+
+Synchronization of Communicating Processes
+Formalization of a well-defined synchronizationmechanism can be used to prove that concurrently running processes of a system COMMUNICATE correctly This is demonstrated for a system consisting of many sending processes which deposit messages in a bufferand many receiving processes which remove messages from that buffer The formal description of the synchronizationmechanism makes it very easy to prove that the buffer will neither overflow nor underflow , that senders and receivers will never operate on the same MESSAGE frame in the buffer nor will they run into a deadlock parallel programming , multiprogramming , program CORRECTNESS , process communication , process scheduling 
+
+CA720305 JB January 31, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2949 6  26.668272727787137 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+In order for the nodes of a DISTRIBUTED computernetwork to COMMUNICATE , each node must have information about the network 's topology DISTRIBUTED computer network , CORRECTNESS proofs , computer networks , DISTRIBUTED control , network topology , routing problem in networks , DISTRIBUTED operatingsystem , store and forward packet switching , store and forward MESSAGE switching , traffic control A CORRECTNESS Proof of a Topology InformationMain tenance Protocol for a DISTRIBUTED Computer Network `` A CORRECTNESS proof of this Topology Information Protocol is also presented 
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2865 7  26.61497255976772 BM25
+
+
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+structured multiprogramming CORRECTNESS proofs , programverification , CONCURRENT processes , synchronization , mutual exclusion , deadlock Hoare has given a set of axioms for partial CORRECTNESS , but they are not strong enough in most cases This paper defines a more powerful deductive system whichis in some sense complete for partial CORRECTNESS The information in a partialcorrectness proof can be used to prove such properties as mutual exclusion , freedom from deadlock , and program termination 
+
+CA760506 JB January 4, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3141 8  25.997742590468043 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+This decentralized algorithm uses a technique of selectivemessage extinction in order to achieve an average number ofmessage passes of order ( n log n ) rather than O ( n2 ) Decentralized algorithms , DISTRIBUTED systems , operating systems 
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1854 9  25.555964235826096 BM25
+
+
+On Multiprogramming, Machine Coding, and Computer Organization
+A programmingscheme is presented which avoids the concept of the interrupt and permits the specification of CONCURRENT ( or pseudoconcurrent ) activities in a supposedly more perspicuous manner It is intended to serve asa basis for the construction of operating systems , which are prime examples of programs with concurrentactivities The scheme includes a set of basic instructions for the generation , termination , and synchronizationof parallel processes 
+
+CA690901 JB February 15, 1978  5:14 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2320 10  24.416814255016206 BM25
+
+
+Structured Multiprogramming
+The notation used explicitly associatesa data structure shared by CONCURRENT processes with operations defined on it structured multiprogramming , programming languages , operating systems , CONCURRENT processes , shared data , mutual exclusion , critical regions , processcommunication , synchronizing events 
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3148 11  23.254392431543508 BM25
+
+
+High Level Programming for Distributed Computing
+Based on primitive notions of module , MESSAGE , and transaction key , the methodology is shown to be independentof particular languages and machines DISTRIBUTED computing , modules , messages , assertions Programming for DISTRIBUTED and other loosely coupled systemsis a problem of growing INTEREST High Level Programming for DISTRIBUTED Computing This paper describes an approachto DISTRIBUTED computing at the level of general purpose programminglanguages 
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2740 12  22.489773046690456 BM25
+
+
+A Large Semaphore Based Operating System
+The processes SYNCHRONIZE bymeans of semaphores and extended semaphores ( queue semaphores ) cooperating processes , operating system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , operating system structure , asynchronous structuring , buffering , parallel processes , synchronizingprimitives , reentrant code , RC 4000 , project management , time schedule , debugging , project planning , project scheduling , reliability , program proving , coroutines , CORRECTNESS , program maintenance , software paging 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1749 13  22.23331203846167 BM25
+
+
+The Structure of the "THE"-Multiprogramming System
+The hierarchical structure proved to be vital for the verification of the logical soundnessof the design and the CORRECTNESS of its implementation 
+
+CA680507 JB February 23, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-0046 14  22.113978412218167 BM25
+
+
+Multiprogramming STRETCH: Feasibility Considerations
+Minimum requirements for successful CONCURRENT execution of several independentproblem programs are discussed 
+
+CA591102 JB March 22, 1978  3:57 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1198 15  21.512807200602982 BM25
+
+
+Solution of a Problem in Concurrent Programming Control
+Solution of a Problem in CONCURRENT Programming Control 
+
+CA650908 JB March 6, 1978  7:24 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2890 16  21.337653316772354 BM25
+
+
+On Quadratic Adaptive Routing Algorithms
+Two analytic models of a store-and-forward communicationsnetwork are constructed , one to find the optimal MESSAGE routing and the other to illustratethe equilibrium ( stationary state ) maintained by an adaptive routing algorithm routing algorithms , adaptive routing , quadratic routing , alternate routing , store-and-forward network , DISTRIBUTED network , computer network , MESSAGE switching 
+
+CA760103 JB January 5, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2378 17  21.114293997553474 BM25
+
+
+An Operating System Based on the Concept of a Supervisory Computer
+
+
+CA720303 JB January 31, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3048 18  20.69601456667354 BM25
+
+
+Performance Evaluation of Highly ConcurrentComputers by Deterministic Simulation
+Performance Evaluation of Highly ConcurrentComputers by Deterministic Simulation Simulation is presented as a practical techniquefor performance evaluation of alternative configurations of highly CONCURRENT computers Performance evaluation , deterministic simulation , control stream , CONCURRENT computers 
+
+CA781103 DH January 26, 1979  11:26 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2111 19  20.54915743765145 BM25
+
+
+Spelling Correction in Systems Programs
+These INCLUDE the use of syntaxand semantics information , the organization of restricted keywordand symbol tables , and the consideration of a limited class of spellingerrors 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2871 20  20.543766438407456 BM25
+
+
+Logical Analysis of Programs
+The second part provides criteria for using the invariantsto check simultaneously for CORRECTNESS ( including termination ) or incorrectness logical analysis , invariants , program verification , CORRECTNESS , incorrectness , termination , automatic debugging 
+
+CA760405 JB January 4, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2541 21  20.425361079367647 BM25
+
+
+An Overview of the ISPL Computer System Design
+This paper explores the advantages of the concurrentdesign of the language , operating system , and machine ( via microcode ) to create an interactive programminglaboratory CONCURRENT design , operating-system , scheduling , interprogram communication , incremental compilation , virtual addressing , debugging , hierarchical subsystems 
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2080 22  20.290644311485988 BM25
+
+
+The Nucleus of a Multiprogramming System
+multiprogramming , operating systems , parallel processes , process concept , process communication , MESSAGE buffering , processhierarchy , process creation , process removal 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2519 23  20.187133478945107 BM25
+
+
+On the Problem of Communicating Complex Information
+These INCLUDE ways of augmenting writtennatural language by various notational and linguistic devices , the exhibition of the structure inherent in theinformation we are communicating , and a sophisticated interactive system controlled by computer 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3014 24  20.164560472976543 BM25
+
+
+Is "Sometime" Sometimes Better than "Always"? (IntermittentAssertions in Proving Program Correctness)
+Is `` Sometime '' Sometimes Better than `` Always '' ? ( IntermittentAssertions in Proving Program CORRECTNESS ) This paper explores a technique for proving thecorrectness and termination of programs simultaneously The intermittent-assertion methodis presented with a number of examples of CORRECTNESS and termination proofs On the other hand , it is shown that a proof of correctnessor termination by any of the conventional techniques can be rephrased directly as a proof usingintermittent assertions Finally , it is shown how the intermittent-assertion method can be appliedto prove the validity of program transformations and the CORRECTNESS of continuously operating programs intermittent assertions , CORRECTNESS of programs , termination of programs , program verification , program transformation , continuously operating programs 
+
+CA780209 JB March 28, 1978  2:04 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2379 25  20.096955112875797 BM25
+
+
+The Design of the Venus Operating System
+The Venus Operating System is an experimentalmultiprogramming system which supports five or six CONCURRENT users on a small computer 
+
+CA720302 JB January 31, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2150 26  20.076088468227926 BM25
+
+
+Concurrent Control with "Readers" and "Writers"
+CONCURRENT Control with `` Readers '' and `` Writers '' 
+
+CA711006 JB February 2, 1978  11:58 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3104 27  20.026139548198525 BM25
+
+
+Test Data as an Aid in Proving Program Correctness
+Test Data as an Aid in Proving Program CORRECTNESS Proofs of program CORRECTNESS tend to be longand tedious , whereas testing , though useful in detecting errors , usually does not guarantee CORRECTNESS This paper introduces a techniques whereby test data can be used in proving program CORRECTNESS In addition to simplifying the process of proving CORRECTNESS , this method simplifies the process of providingaccurate specification for a program 
+
+CA780503 DH February 26, 1979  2:10 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2895 28  19.95958036333374 BM25
+
+
+A Language for Formal Problem Specification
+formal specifications , program CORRECTNESS , parallelprocessing , synchronization , readers/writers problem 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1748 29  19.570670549760045 BM25
+
+
+A Scheduling Philosophy for Multiprocessing Systems
+
+
+CA680508 JB February 23, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2940 30  19.509958684102124 BM25
+
+
+Abstraction and Verification in Alphard: Definingand Specifying Iteration and Generators
+abstraction and representation , abstract data types , assertions , control specialization , CORRECTNESS , generators , invariants , iteration statements , modulardecomposition , program specifications , programming languages , programming methodology , proofs of CORRECTNESS , types , verification 
+
+CA770803 JB December 28, 1977  7:59 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3082 31  19.400998467337214 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+Time , Clocks , and the Ordering of Events in a DISTRIBUTED System The concept of one event happening beforeanother in a DISTRIBUTED system is examined , andis shown to define a partial ordering of the events A DISTRIBUTED algorithm is given for synchronizing a system of logical clocks which can be used to totallyorder the events DISTRIBUTED systems , computer networks , clock synchronization , multiprocess systems 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-0243 32  19.28949439805987 BM25
+
+
+N-Dimensional Codes for Detecting and Correcting Multiple Errors
+The paper introduces a new family of codesfor detecting and correcting multiple errors in a binary-coded MESSAGE The MESSAGE itself is arranged ( conceptually ) into a multidimensional rectangular array 
+
+CA611207 JB March 15, 1978  10:23 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2371 33  19.286306580513074 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+A system of communication between processes in atime-sharing system is described and the communication system is extended so that it may be used between processesdistributed throughout a computer network 
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2317 34  19.24142127226046 BM25
+
+
+Programming Systems and Languages 1965-1975
+A number of university projects , though notdirectly comparable to those of the manufacturers , have contributed greatly to a better understandingof operating system principles There is a great deal of theoretical INTEREST in Algol 68and in extensible languages , but so far at least they have had little practical impact Important trends INCLUDE the increased INTEREST in the development ofsystem measurement and evaluation techniques , and increased use of microprogramming for some programming system functions 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3078 35  19.08890715195029 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1135 36  19.036941576039023 BM25
+
+
+A General Business-Oriented Language Based on Decision Expressions*
+
+
+CA640208 JB March 10, 1978  4:08 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1753 37  18.962825512994716 BM25
+
+
+Virtual Memory, Processes, and Sharing in MULTICS
+
+
+CA680503 JB February 23, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2851 38  18.836096311771357 BM25
+
+
+Formal Verification of Parallel Programs
+The latter model includes the capability for the representationof an infinite set of control states by allowing there to be arbitrarily many instruction pointers ( orprocesses ) executing the program An Appendix is included which relates this work to previous work on the satisfiability of certain logical formulas Through the use of `` place variables , '' it is observed that certaincorrectness conditions can be expressed without enumeration of the set of all possible control states CORRECTNESS of certain forms of implementation is also discussed parallel program , CORRECTNESS , verification , assertions , deadlock , mutual exclusion , Petrinet 
+
+CA760702 JB January 4, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1381 39  18.803521735983153 BM25
+
+
+Impact of Computers on the Undergraduate Mathematics Curriculum 
+The use of computers to permit the widespread applicationof mathematical ideas requiring computation in science and technology is extremely significant forthe UNDERSTANDING of our current society Student INTEREST in this development is intense and if properlyutilized should yield a much better UNDERSTANDING of mathematical concepts as well as the ideas of programmingand logical structure which have been introduced into many fields by the use of computers The presentpaper suggests that that portion of the undergraduate mathematical curriculum which is preparation for the useof mathematics by persons who are not professional mathematicians be modified to INCLUDE the extensionsand clarifications which are possible because of computers 
+
+CA660905 JB March 2, 1978  6:31 PM  
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1623 40  18.727464589778613 BM25
+
+
+An Application of FORMAC
+This paper is more concerned with the use of programming techniques in FORMAC than withthe actual engineering problem , although readers may be INTERESTED in the problem because it is statedin a general ( mathematical ) sense and could be of INTEREST in AREAS other than circuit analysis 
+
+CA670306 JB February 28, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3080 41  18.724750774619558 BM25
+
+
+Proving the Correctness of Heuristically Optimized Code 
+Some interesting results are the ability to handle programs that implement recursion bybypassing the start of the program , and the detection and pinpointing of a wide class of errors in the lowlevel language programs Proving the CORRECTNESS of Heuristically Optimized Code Compilers , CORRECTNESS , code optimization , debugging , program verification , Lisp 
+
+CA780708 DH February 7, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2979 42  18.72361242672967 BM25
+
+
+Studies in Machine Cognition Using The Game of Poker
+
+
+CA770403 JB December 29, 1977  5:34 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1745 43  18.662766680980724 BM25
+
+
+A Position Paper on Computing and Communications
+The effective operation of free enterprise increating the envisioned information service industry is dependent upon three accomplishments : ( 1 ) the restructuringof our information processing industry so that a clear division of costs is made among computing , communications , and the development of information services ; ( 2 ) the wide use of multiaccess system conceptsso that information services may share in the use of computer installations and so that the cost of theirconstruction is reasonable ; and ( 3 ) the development of public , message-switched communications services sothat adequate provisions are made for information security information networks , information systems , computingand free enterprise , computing economics , computer installation management , government regulation , communications services , DISTRIBUTED data base , program leasing 
+
+CA680511 JB February 23, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1098 44  18.647555940890946 BM25
+
+
+A Comparison of List-Processing Computer Languages(Including a Detailed Comparison of COMIT, IPL-V, LISP 1.5, and SLIP)
+
+
+CA640410 JB March 10, 1978  1:37 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2264 45  18.534162533609255 BM25
+
+
+Derived Semantics for Some Programming Language Constructs
+CORRECTNESS of the implementation involves checking that the definitions derivedin the step above are an acceptable formalization of the informal description given in the first step lambda calculus , formal description , programcorrectness , programming languages , semantics 
+
+CA721105 JB January 27, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2276 46  18.52147840526152 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+Various methods are known for transforming uniformlydistributed random numbers into exponentiallyand normally DISTRIBUTED quantities 
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2795 47  18.447614056480862 BM25
+
+
+Sentence Paraphrasing from a Conceptual Base
+A program based on this model is ableto produce sentence paraphrases which demonstrate UNDERSTANDING with respect to a given context The model encompasses several diverse classes of linguisticknowledge , which INCLUDE : ( 1 ) executable tests of conceptual properties stored in discrimination nets ; ( 2 ) information relating conceptual to syntactic roles , stored in a word-sense dictionary , and ( 3 ) surfacegrammatical knowledge , stored in a formal grammar 
+
+CA750204 JB January 12, 1978  8:43 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3039 48  18.381666541453253 BM25
+
+
+On-the-Fly Garbage Collection: An Exercise in Cooperation
+Multiprocessing , fine-grained interleaving , cooperationbetween sequential processes with minimized mutual exclusion , program CORRECTNESS for multiprogrammingtasks , garbage collection 
+
+CA781112 DH January 22, 1979  3:24 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1928 49  18.367320212262555 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2216 50  18.265839875323735 BM25
+
+
+On the Probability Distribution of the Values of Binary Trees
+The analysis does not assumeuniformly DISTRIBUTED branching ratios , and therefore is applicable to a family of sorting algorithmsdiscussed by Hoare , Singleton , and van Emden 
+
+CA710205 JB February 8, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2802 51  18.188784704609265 BM25
+
+
+The New Math of Computer Programming
+structured programming , algebra of functions , stepwise refinement , program CORRECTNESS 
+
+CA750109 JB January 12, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2972 52  18.177349690707967 BM25
+
+
+Proof Techniques for Hierarchically Structured Programs
+A method for describing and structuring programsthat simplifies proofs of their CORRECTNESS is presented 
+
+CA770410 JB December 29, 1977  4:53 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1698 53  18.07371019628858 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+The ability of a computer system to communicatewith the outside world efficiently is as important as its ability to perform computations efficiently 
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3137 54  18.059002026076687 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+A Methodology for the Design of DISTRIBUTED Information Systems A macro model of a DISTRIBUTED information system in presented DISTRIBUTED processing , system design , cost minimization , distributeddatabase , interactive computing , economic modeling , transaction processing 
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2920 55  17.92267859530941 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1099 56  17.86505010615817 BM25
+
+
+Professional Computer Work for the Blind
+Also of immediate INTEREST is the fact that the blind may be especially suited for programmingwork 
+
+CA640409 JB March 10, 1978  1:46 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2958 57  17.85127499903962 BM25
+
+
+Abstract Data Types and the Development of Data Structures
+Amongthe examples presented is a top-down development of a symbol table for a block structured language ; a discussionof the proof of its CORRECTNESS is given abstract data type , CORRECTNESS proof , data type , data structure , specification , software specification 
+
+CA770605 JB December 29, 1977  1:17 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2016 58  17.801197070171252 BM25
+
+
+The Instrumentation of Multics
+Someparticular measurements of INTEREST in a system which combines demand paging with multiprogramming are described in detail These tools INCLUDE special hardwareclocks and data channels , general purpose programmed probingand recording tools , and specialized measurement facilities 
+
+CA700805 JB February 10, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2903 59  17.682012008329934 BM25
+
+
+Improving Programs by the Introduction of Recursion
+
+
+CA771113 JB December 27, 1977  6:29 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2326 60  17.648090186542756 BM25
+
+
+Fix point Approach to the Theory of Computation 
+Thisallows not only the justification of all existing verification techniques , but also their extension to thehandling , in a uniform manner of various properties of computer programs , including CORRECTNESS , termination , and equivalence 
+
+CA720702 JB January 30, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3031 61  17.64776012667697 BM25
+
+
+Abstract Data Types and Software Validation
+First , it is shown howthe use of algebraic axiomatizations can simplify the process of proving the CORRECTNESS of an implementationof an abstract data type Second , semi-automatic tools are described which can be used both to automatesuch proofs of CORRECTNESS and to derive an immediate implementation from the axioms Abstract data type , CORRECTNESS proof , data type , data structure , specification 
+
+CA781208 DH January 18, 1979  2:51 PM   
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2732 62  17.64497192971807 BM25
+
+
+Guarded Commands, Nondeterminacy and Formal Derivation of Programs
+programming languages , sequencing primitives , programsemantics , programming language semantics , nondeterminacy , case-construction , repetition , termination , CORRECTNESS proof , derivation of programs , programming methodology 
+
+CA750803 JB January 6, 1978  4:46 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3170 63  17.617930481136067 BM25
+
+
+On the Proof of Correctness of a Calendar Program
+On the Proof of CORRECTNESS of a Calendar Program A formal specification is given for a simple calendarprogram , and the derivation and proof of CORRECTNESS of the program are sketched The specification is easy to understand , and its CORRECTNESS is manifest to humans 
+
+CA791003 DB January 16, 1980  5:02 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1397 64  17.600859914321614 BM25
+
+
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation
+The ACM Symposium on Symbolic and AlgebraicManipulation brought together over four hundred people INTERESTED in programming languages designedfor manipulation of algebraic formulas and symbol strings , in their applications , and in algorithms fortheir implementation Evening meetings were arranged for several INTEREST groups The conference was sponsoredby the ACM Special INTEREST Committee on Symbolic and Algebraic Manipulation 
+
+CA660801 JB March 2, 1978  8:17 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1886 65  17.570276607219323 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-0942 66  17.55527340790846 BM25
+
+
+FORTRAN Subroutines for Time Series Analysis
+The main purpose of thisnote is to describe these subroutines , but since the question of general statistical programs istopical [ 1 ] , we INCLUDE some general remarks 
+
+CA630106 JB March 14, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2950 67  17.510972827478835 BM25
+
+
+A Unifying Approach to Scheduling
+Acriterion for the implementation efficiency of an algorithm is developed and results in the definitionof time-invariant algorithms , which INCLUDE most of the commonly implemented ones 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1272 68  17.494366150302987 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2307 69  17.44763912719185 BM25
+
+
+Dynamic Document Processing
+
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2864 70  17.427760439218762 BM25
+
+
+Characteristics of Program Localities
+
+
+CA760507 JB January 4, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2179 71  17.401421855262186 BM25
+
+
+Simple LR(k) Grammars
+This class has been shown to INCLUDE weak precedenceand simple precedence grammars as proper subsets 
+
+CA710703 JB February 3, 1978  9:31 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2289 72  17.383021762750936 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+A cellular array is a two-dimensional , checkerboardtype interconnection of identical modules ( or cells ) , where each cell contains a few bits ofmemory and a small amount of combinational logic , and communicates mainly with its immediate neighborsin the array 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1626 73  17.357978913475826 BM25
+
+
+Structure of a LISP System Using Two-Level Storage
+The techniques includecareful segmentation of system programs , allocation of virtual memory to allow address arithmetic for typedetermination , and a special algorithm for building reasonably linearized lists 
+
+CA670303 JB February 28, 1978  1:39 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3140 74  17.340665235028574 BM25
+
+
+Social Processes and Proofs of Theorems and Programs
+
+
+CA790501 DH June 5, 1979  2:23 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-0825 75  17.330566626014043 BM25
+
+
+PIP: A Photo-Interpretive Programfor the Analysis of Spark-Chamber Data*
+
+
+CA630624 JB March 14, 1978  9:59 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1706 76  17.31851607223067 BM25
+
+
+CHAMP-Character Manipulation Procedures
+
+
+CA680808 JB February 22, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2470 77  17.254248759553228 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+Thequestions of local and global environments and of various modes of function calling and parameter passingare touched upon An appendix is included which presents indetail the formal system governing webs and fen , the abstractions used informally in the body of the paper semantics , formal systems , lambda-calculus , extensiblelanguages , data types , modes , axioms , CORRECTNESS , formal language definition , formal description , data structures , description languages , models of computation 
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2522 78  17.21754071140776 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1458 79  17.163799077827843 BM25
+
+
+Online Programming
+
+
+CA660314 JB March 3, 197811:44 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2535 80  17.126560139201203 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+Analytical results INCLUDE a general description of theoutput process of an M/D/1 queue and the conditions under which this output process is approximately Poisson 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1834 81  17.064936166365882 BM25
+
+
+An Axiomatic Basis for Computer Programming
+
+
+CA691012 JB February 15, 1978  1:48 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2344 82  17.004569230230654 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2033 83  16.978522875073867 BM25
+
+
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+In this paper trade-offs among certain computational factorsa given set of messages The computational factors considered are the size of the hash area ( space ) , the time required to identify a MESSAGE as a nonmember of the given set ( reject time ) , and an allowable error frequency Analysis of the paradigm problem demonstrates that allowinga small number of test messages to be falsely identified asmembers of the given set will permit a much smaller hasharea to be used without increasing reject time An example is discussedwhich illustrates possible AREAS of application for the newmethods 
+
+CA700704 JB February 13, 1978  9:18 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1572 84  16.965879417996057 BM25
+
+
+The Simulation of Time sharing Systems
+
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1518 85  16.909055375598438 BM25
+
+
+An Experimental Model of System/360
+
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1960 86  16.906243715388403 BM25
+
+
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+The main features of the systeminclude the ability given to any user to schedule his own parallelprocesses using system primitive operations , the file-memory relationship , and the allocation-scheduling policy , which dynamicallytakes into account recent information about user behavior 
+
+CA701203 JB February 9, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2931 87  16.890891844173513 BM25
+
+
+Logic and Programming Languages
+It would seem that the UNDERSTANDING of higher-levelprogram features involves us with infinite objects and forces us to pass through several levelsof explanation to go from the conceptual ideas to the final simulation on a real machine 
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2623 88  16.882195372623567 BM25
+
+
+A New Technique for Compression and Storage of Data
+
+
+CA740801 JB January 17, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1665 89  16.87095392472629 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3143 90  16.86903425589312 BM25
+
+
+Reasoning About Arrays
+The basic concepts INCLUDE intervals and theirpartitions , functional restriction , images , pointwise extension of relations , ordering , single-point variation of functions , various equivalence relations for array values , and concatenation 
+
+CA790504 DH June 5, 1979  3:33 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3021 91  16.853536930747612 BM25
+
+
+A Method for Obtaining Digital Signatures and Public-Key Cryptosystems
+digital signatures , public-key cryptosystems , privacy , authentication , security , factorization , prime number , electronic mail , message-passing , electronic funds transfer , cryptography This has two important consequences : ( 1 ) Couriers or other secure means are not needed to transmitkeys , since a MESSAGE can be enciphered using an encryption key publicly revealed by the intended recipient Only he can decipher the MESSAGE , since only he knows the corresponding decryption key ( 2 ) A MESSAGE can be `` signed '' using a privately held decryption key A MESSAGE is encrypted by representing it as a number M , raisingM to a publicly specified power e , and then taking the remainder when the result is divided by the publiclyspecified product , n , of two large secret prime numbers p and q 
+
+CA780202 JB March 28, 1978  4:40 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2406 92  16.8413106700273 BM25
+
+
+A Data Definition and Mapping Language
+Such languages will be a key systems , as wellas in advanced data management systems and DISTRIBUTED data bases 
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2581 93  16.804530546549397 BM25
+
+
+A Locally-Organized Parser for Spoken Input
+parsing , speech recognition , speech UNDERSTANDING , augmented transition network , local parsing 
+
+CA741103 JB January 16, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-3077 94  16.80399992433125 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+Functional programming , algebra of programs , combiningforms , functional forms , programming languages , von Neumann computers , von Neumann languages , models ofcomputing systems , applicative computing systems , applicative state transition systems , program transformation , program CORRECTNESS , program termination , metacomposition 
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1601 95  16.78956488282094 BM25
+
+
+Parallel Numerical Methods for the Solution of Equations
+The s8everal approximations obtained in any iteration are computationallyindependent , making the methods of INTEREST in a parallel processing environment 
+
+CA670505 JB February 28, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1145 96  16.763105967911095 BM25
+
+
+GIT-A Heuristic Program for Testing Pairsof Directed Line Graphs for Isomorphism*
+The situation is similar to that prevailing in AREAS such as game-playing and theorem-proving , wherepractical algorithms are unknown ( for the interesting cases ) , but where various practical though only partiallysuccessful techniques are available 
+
+CA640110 JB March 10, 1978  5:24 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2060 97  16.73687003912863 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-2268 98  16.691764300682703 BM25
+
+
+A Comparative Study of Computer Programsfor Integrating Differential Equations
+The integration methods representedinclude multistep methods ( predictor-correctors ) , single-step methods ( Runge-Kutta ) and extrapolation methods ( both polynomial and rational ) A set of test problems on which the programs were tested is included in an appendix 
+
+CA721101 JB January 27, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1609 99  16.65561875118693 BM25
+
+
+Scheduling University Course Examinations by Computer
+Then a minimum number of these groups , such thateach course is included at least once , are selected 
+
+CA670406 JB February 28, 1978  11:22 AM
+
+
+--------------------------------------------------------------
+7 Q0 CACM-1415 100  16.65202497489066 BM25
+
+
+Automatic Derivation of Microsentences
+The decomposition of long complex English sentencesinto shorter kernel-like constituent sentences ( microsentences ) has often been suggested as an avenuetoward conducting automatic retrieval of natural language messages The authors conclude that while microsentences of the quality achieved do not open up immediate prospectsfor improving the performance of automatic MESSAGE retrieval systems , they may have practicalvalue in man-machine systems using human monitors to select the preferred syntactic interpretation of a sentence 
+
+CA660606 JB March 3, 1978  8:47 AM
+
+

@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+36 Q0 CACM-2030 1  16.22574259004486 BM25
+
+
+Context-Sensitive Parsing
+context-sensitive grammars , context-sensitive PARSING , formal grammars , formal LANGUAGE theory , PARSING , PARSING algorithms , RECOGNITION algorithms Context-Sensitive PARSING This paper presents a canonical form FOR context-sensitivederivations and a PARSING ALGORITHM which findseach context-sensitive analysis once and only once The amount of memoryrequired by the ALGORITHM is essentially no more than the required to store a single complete derivation In addition , a modifiedversion of the basic ALGORITHM is presented which blocks infinite analyses FOR grammars which contain loops The ALGORITHM isalso compared with several previous parsers FOR context-sensitivegrammars and general rewriting systems , and the difference betweenthe two types of analyses is discussed The ALGORITHM appears tobe complementary to an ALGORITHM by S 
+
+CA700707 JB February 10, 1978  4:43 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2301 2  14.544910650996048 BM25
+
+
+Generating Parsers for Affix Grammars
+They are much more suited to PARSING thanare the latter , however This paper presentsa bottom-up scheme FOR PARSING them , based on an extension of Floyd Production LANGUAGE ( FPL ) algorithmic LANGUAGE processing , bottom-up PARSING , Floyd Production LANGUAGE , PARSING , syntax directed compiling , translator writing systems , two-level grammars Includedis an ALGORITHM , similar to that of DeRemer 's , FOR converting a large class of affix grammars into FPL The paper concludes by discussing briefly the applicabilities of the conversion ALGORITHM and affixgrammars in general , and some possible extensions to Koster 's definition of affix grammars 
+
+CA720801 JB January 30, 1978  10:21 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1989 3  13.73245476455591 BM25
+
+
+Transition Network Grammars for Natural Language Analysis
+Structure-buildingactions associated with the arcs of the grammar network allow FOR the reordering , restructuring , and copying of constituents necessary to producedeep-structure representations of the type normally obtained from atransformational analysis , and conditions on the arcs allow FOR apowerful selectivity which can rule out meaningless analyses and takeadvantage of semantic information to guide the PARSING An implementation of anexperimental PARSING system FOR transition network grammars is briefly described computational linguistics , grammars , grammar models , linguistics , natural LANGUAGE analysis , PARSING , semantic interpretation , transition network grammars , transformational grammars Transition Network Grammars FOR Natural LANGUAGE Analysis The use of augmented transition network grammars FOR the analysisof natural LANGUAGE sentences is described Theadvantage of this model FOR natural LANGUAGE analysis are discussedin detail and illustrated by examples 
+
+CA701001 JB February 10, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2110 4  12.9756050798719 BM25
+
+
+An Efficient Context-free Parsing Algorithm
+An Efficient Context-free PARSING ALGORITHM A PARSING ALGORITHM which seems to be the most efficient general context-free ALGORITHM known is described syntax analysis , PARSING , context-free grammar , compilers , computational complexity It has a time bound proportional to n^3 ( where n is the length of the string being parsed ) in general ; it has a n^2 bound FOR unambiguous grammars ; and it runs in linear time on a large class of grammars , which seems to include most practical context-freeprogramming LANGUAGE grammars It is similar to both Knuth 's LR ( k ) ALGORITHM and the familiar top-down ALGORITHM In an empirical comparison it appearsto be superior to the top-down and bottom-up algorithms studied by Griffiths and Petrick 
+
+CA700205 JB February 14, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1012 5  12.766690098446329 BM25
+
+
+Formal Parsing Systems
+Formal PARSING Systems A formal PARSING systemG = ( V , u , T , R ) consists of two finite disjoint vocabularies , V and T , a many-many map , u , from V ontoT , and a recursive set R of strings in T called syntactic sentence classes Every program FOR automaticsyntactic analysis determines a formal PARSING system The Kuno-Oettingermultiple-path syntactic analyzer FOR English is a concrete example of a directed production analyzerand of a working PARSING ALGORITHM Automatic syntactic analysis has recently becomeimportant FOR both natural LANGUAGE data processing and syntax-directed compilers Every context-free LANGUAGE can be analyzed by a directed production analyzer 
+
+CA640818 JB March 9, 1978  6:30 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1612 6  12.744125302130838 BM25
+
+
+Top-to-bottom Parsing Rehabilitated?
+Top-to-bottom PARSING Rehabilitated ? This note is concerned with the efficiencyof the Top-to-Bottom PARSING ALGORITHM as used in connection with programming LANGUAGE grammars 
+
+CA670403 JB February 28, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2739 7  12.285521931389972 BM25
+
+
+The Restriction Language for Computer Grammars of Natural Language
+It is based on ten years ' experience PARSING text sentences withthe comprehensive English grammar of the N natural LANGUAGE , PARSING , grammar , programming languages The Restriction LANGUAGE FOR Computer Grammars of Natural LANGUAGE Over the past few years , a number of systemsfor the computer analysis of natural LANGUAGE sentences have been based on augmented context-freegrammars : a context-free grammar which defines a set of parse trees FOR a sentence , plus a group of restrictionsto which a tree must conform in order to be a valid sentence analysis This paperpresents a programming LANGUAGE designed specifically FOR the compact and perspicuous statement of restrictionsof a natural LANGUAGE grammar Linguistic String Project , and embodies in its syntaxand routines the relations which were found to be useful and adequate FOR computerized natural languageanalysis The LANGUAGE is used in the current implementation of the Linguistic String Parser 
+
+CA750703 JB January 9, 1978  10:17 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2581 8  12.255460559572636 BM25
+
+
+A Locally-Organized Parser for Spoken Input
+PARSING , speech RECOGNITION , speech understanding , augmented transition network , local PARSING This paper describes LPARS , a locally-organizedparsing system , designed FOR use in a continuous speech recognizer 
+
+CA741103 JB January 16, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2050 9  12.219009726719523 BM25
+
+
+Automatic Parsing for Content Analysis
+Automatic PARSING FOR Content Analysis Content analysis , PARSING , syntactic analysis , natural LANGUAGE processing , information retrieval , LANGUAGE analysis , text processing Although automatic syntactic and semantic analysis is not yet possible forall of an unrestricted natural LANGUAGE text , some applications , of which content analysis is one , do not have such a stringent coverage requirement 
+
+CA700605 JB February 13, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2112 10  11.71948257158521 BM25
+
+
+Translation Equations
+Within the framework described string RECOGNITION and PARSING may be treated as special cases of the translation problem automata , Turing machines , regular expression , transductionexpression , context-free languages , translation , recognizers , PARSING , meta-compilers , pushdown transducer , syntaxdirected compilers , finite state automata Input limited transduction expressions , OR translation equations , are used to describe the syntax and left-context sensitive semantics FOR context-free languages 
+
+CA700203 JB February 14, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1265 11  11.558040059172871 BM25
+
+
+On the Relative Efficiencies of Context-Free Grammar Recognizers
+A number of diverse RECOGNITION proceduresthat have been proposed FOR PARSING sentences with respect to a context-free grammar are described in thispaper by means of a common device An attempt has been made to compare RECOGNITION efficiencies FOR theprocedures defined Empiricalcomparison of the RECOGNITION of more realistic programming languages such as LISP and ALGOL has beenmade by means of a program which simulates the Turing Machine on the Univac M-460 computer Severalalgorithms FOR producing grammars equivalent to a given context-free grammar have been considered , andthe increase in RECOGNITION efficiency they afford has been empirically investigated The formalizationof the Turing Machine has been chosen to make possible particularly simple description ofthe PARSING procedures considered Each procedure is defined by giving an ALGORITHM FOR obtaining a nondeterministicTuring Machine recognizer that is equivalent to a given context-free grammar 
+
+CA650506 JB March 7, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2794 12  11.30522173870186 BM25
+
+
+State-Space, Problem-Reduction, and Theorem Proving-Some Relationships
+A representation of the LANGUAGE RECOGNITION problem which is based on the Cockeparsing ALGORITHM is used as an illustration artificial intelligence , state-space representation , problem-reduction representation , theorem proving , LANGUAGE RECOGNITION 
+
+CA750205 JB January 12, 1978  8:27 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1787 13  11.01821995413599 BM25
+
+
+Use of Transition Matrices in Compiling
+transition matrices , compilation , translation , grammar , context-free LANGUAGE , formal LANGUAGE , PARSING An algorithms is described which constructsfrom a suitable BNF grammar an efficient left-right recognizer FOR sentences of the corresponding LANGUAGE 
+
+CA680107 JB February 23, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2754 14  10.830247617621069 BM25
+
+
+A Syntactic Algorithm for Peak Detectionin Waveforms with Applications to Cardiography
+Peaks in a digitized waveform are detected by analgorithm incorporating piecewise linear approximation and tabular PARSING techniques peak detection , digitized waveform , piecewise linearapproximation , context-free grammar , bottom-up PARSING , electrocardiogram A Syntactic ALGORITHM FOR Peak Detectionin Waveforms with Applications to Cardiography Thealgorithm is of sufficient speed to allow on-line real-time processing 
+
+CA750513 JB January 9, 1978  2:18 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1548 15  10.805158225298769 BM25
+
+
+Parsing of Decision Tables
+PARSING of Decision Tables The techniques considered in this paper are on the PARSING of decisiontables with regard to horizontal and vertical data structures , job identity , hardware and job priorities , and context relationships Such PARSING rests upon some conventions FOR the linkage of decision tables 
+
+CA670807 JB February 27, 1978  4:14 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1825 16  10.378719150009111 BM25
+
+
+A Practical Method for Constructing LR(k) Processors
+These processors are capable of recognizing and PARSING an input during a singleno-backup scan in a number of steps equal to the length of the input plus the number of steps in itsderivation LR ( k ) grammar , syntactic analysis , parser , deterministiclanguage , syntax-directed compiler , languageprocessor , context-free LANGUAGE ALGOL If an LR ( k ) processor can beconstructed FOR each part ( using Knuth 's ALGORITHM ) and if certain conditions relating these individualprocessors are satisfied , then an LR ( k ) processor FOR the entire grammar can be constructed FOR them 
+
+CA691105 JB February 15, 1978  12:52 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3176 17  10.346713121481027 BM25
+
+
+Storing a Sparse Table
+Although our methodis a little complicated to use in practice , our analysis showswhy a simpler ALGORITHM used FOR compressing LR PARSING tables works so well Gaussian elimination , PARSING , searching , sparse matrix , table compression , table lookup 
+
+CA791104 DB January 23, 1980  11:24 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1855 18  10.297114352000275 BM25
+
+
+A Program for the Syntactic Analysis of English Sentences
+syntactic analysis , LANGUAGE processing , languageanalysis , PARSING , analysis procedure , RECOGNITION procedure , English sentences , linguistics , psycholinguistics , transformational grammar , limited dictionary , predictive analysis 
+
+CA690808 JB February 15, 1978  5:24 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2811 19  10.274661439311327 BM25
+
+
+Structural Pattern Recognition Of Carotid PulseWaves Using A General Waveform Parsing System
+Structural Pattern RECOGNITION Of Carotid PulseWaves Using A General Waveform PARSING System A general waveform PARSING system with applicationto structural pattern RECOGNITION of carotid pulse waves is described structural pattern RECOGNITION , PARSING , waveform analysis , pulse waves The waveform PARSING system is modeled on a compiler-compilersystem and allows the user to enter application specific information as data 
+
+CA761204 JB January 3, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3045 20  10.153182581407819 BM25
+
+
+A Simple Recovery-Only Procedure For SImple Precedence Parsers
+No attempt to repair errors is made , yet PARSING andmost semantic processing can continue The result is a good `` first approximation '' to syntax error handlingwith negligible increase in PARSING time , space , and complexity of both the parser and its table generator Syntax errors , error recovery , PARSING , simple precedence , compilers , debugging 
+
+CA781106 DH January 26, 1979  10:52 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2836 21  10.02486660158041 BM25
+
+
+Weighted Derivation Trees
+The method may be applied to problemsinvolving probabilistic PARSING OR combinatorial optimization An ALGORITHM is presentedfor constructing the optimal derivation tree having the same structure as a given weighted derivation tree In addition , the correctness of the ALGORITHM is established 
+
+CA760903 JB January 4, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2492 22  9.938341308316437 BM25
+
+
+The Development of Decision Tables viaParsing of Complex Decision Situations
+The Development of Decision Tables viaParsing of Complex Decision Situations A new PARSING technique is proposed which allowsparsing based only on syntactical characteristics of the decision problem decision tables , PARSING , decision grid chart , problem analysis 
+
+CA730608 JB January 23, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1350 23  9.89722708386427 BM25
+
+
+The Augmented Predictive Analyzer for Context-FreeLanguages-Its Relative Efficiency
+In section2 , the augmented predictive analyzer as a PARSING ALGORITHM FOR arbitrary context-free languages is comparedwith two other PARSING algorithms : a selective top-to-bottom ALGORITHM similar to Irons ' `` error correctingparse ALGORITHM '' and an immediate constituent analyzer which is an extension of Sakai-Cocke 's algorithmfor normal grammars The Augmented Predictive Analyzer FOR Context-FreeLanguages-Its Relative Efficiency It has been proven by Greibach that FOR a givencontext-free grammar G , a standard-form grammar Gs can be constructed , which generates the same languagesas is generated by G and whose rules are all of the form Z -- > cY ( 1 ) Since the predictive analyzer at Harvard usesa standard-form grammar , it can accept the LANGUAGE of any context-free Grammar G , given an equivalent standard-formgrammar Gs In Section 1 , an ALGORITHM , originally due to Abbott is described standard-form grammar each of whose rules is in standard form , supplementedby additional information describing its derivation from the original context-free grammar 
+
+CA661108 JB March 2, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1836 24  9.888825789460912 BM25
+
+
+A New Method for Determining Linear PrecedenceFunctions for Precedence Grammars
+Boolean matrices , syntax , precedence grammar context-freeparsing , transition matrix , precedence functions A new algorithmis presented FOR obtaining the linear precedencefunctions when given the precedence matrix ; this algorithmis shown to possess several computational advantages 
+
+CA691010 JB February 15, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2733 25  9.85616942487473 BM25
+
+
+Deterministic Parsing of Ambiguous Grammars
+Deterministic PARSING of Ambiguous Grammars programming LANGUAGE specification , parser generation , translator writing systems , syntax analysis , LR PARSING , LL PARSING , ambiguous grammars Methods of describing the syntax of programminglanguages in ways that are more flexible and natural than conventional BNF descriptions are considered 
+
+CA750802 JB January 9, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2698 26  9.670075544641659 BM25
+
+
+Syntax-Directed Least-Errors Analysis forContext-Free Languages: A Practical Approach
+RECOGNITION consists of a least-errors count FOR a corrected version of the input relative to the drivergrammar arbitrary input strings , context-free grammars , PARSING , dynamic programming , stored subanalyses , separability , state merging , least-errors correction Syntax-Directed Least-Errors Analysis forContext-Free Languages : A Practical Approach The ALGORITHM design emphasizes practical aspects which help in programming it 
+
+CA740101 JB January 18, 1978   2:57 PM 
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3094 27  9.526781838358747 BM25
+
+
+Analyses of Deterministic Parsing Algorithms
+Analyses of Deterministic PARSING Algorithms Syntactic analysis , analysis of algorithms , top-downand bottom-up PARSING , relative efficiencies Finally , the paper illustrates the proposed approach by applying it tothe analyses of parsers FOR a simple programming LANGUAGE Time-formulas are derived by examining the grammar rules and the program representingthe ALGORITHM one wishes to analyze 
+
+CA780603 DH February 26, 1979  12:32 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3093 28  9.408484558736788 BM25
+
+
+Automatic Error Recovery for LR Parsers
+The scheme , which is based on LR PARSING , is drivenby information which is directly and automatically obtainable from the information that is already presentin an LR parser Programming languages , error correction , automaticcorrection , PARSING , LR , syntax errors , compilers 
+
+CA780604 DH February 26, 1979  12:22 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2061 29  9.285192483326693 BM25
+
+
+An Algorithm for the Construction Of Bounded-Context Parsers
+bounded-context PARSING , bounded-context syntactic analysis , parser construction , syntactical analyzer construction , generators , compiler compilers , compiler writing systems , translator writing systems metacompilers , context-free grammars , formal languages , pushdown automata The ALGORITHM is claimed to be particularly useful in thesimultaneous design of a LANGUAGE and a compiler FOR it An ALGORITHM FOR the Construction Of Bounded-Context Parsers An ALGORITHM is described which accepts an arbitrary context-freegrammar and constructs a bounded-context parser forit whenever such a parser exists Finally , the ALGORITHM is described ; it essentially carries out an exhaustive study of all possibleruns of the pushdown automata generating the reduction classes In the second part , the utility of the ALGORITHM is discussed in the light of the experience gained from its use in compiler design 
+
+CA700505 JB February 13, 1978  1:58 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1455 30  9.215834134604266 BM25
+
+
+TRAC, A Procedure-Describing Language for the Reactive Typewriter
+TRAC , A Procedure-Describing LANGUAGE FOR the Reactive Typewriter A description of the TRAC ( Text ReckoningAnd Compiling ) LANGUAGE and processing ALGORITHM is given The TRAC LANGUAGE was developed as the basisof a software package FOR the reactive typewriter In the TRAC LANGUAGE , one can write procedures foraccepting , naming and storing any character string from the typewriter ; FOR modifying any string in any way ; FOR treating any string at any time as an executable procedure , OR as a name , OR as text ; and FOR printingout any string The TRAC LANGUAGE is based upon an extension and generalization to character stringsof the programming concept of the `` macro `` Through the ability of TRAC to accept and store definitions ofprocedures , the capabilities of the LANGUAGE can be indefinitely extended , and can deal with characterstrings , integers and Boolean vector variables 
+
+CA660317 JB March 3, 1978  11:18 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2982 31  9.173370639688093 BM25
+
+
+The Storage Requirement in Precedence Parsing
+The Storage Requirement in Precedence PARSING precedence PARSING , storage requirement , value table 
+
+CA770310JB December 29, 1977  6:34 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2423 32  9.148279870088642 BM25
+
+
+A Parser-Generating System for Constructing Compressed Compilers
+FOR an XPL compiler , the parserprogram and its tables currently occupy 288 words of 60-bit core memory of which 140 words are parsingtable entries and 82 words are links to code generators In the input translation grammar , each BNF syntactic rule corresponds to a ( possibly empty ) `` codegenerator '' realizable as an assembly LANGUAGE , Fortran OR Algol , subroutine that is called wheneverthat syntactic rule is applied in the parse of a program parser generators , translator writing systems , syntactic analysis , normal-form grammars , pushdown automata , translation grammars , translator optimization , compression ALGORITHM 
+
+CA731103 JB January 20, 197810:41 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1527 33  9.069384395040448 BM25
+
+
+A Grammar Base Question Answering Procedure
+This procedure makes use of a sentence recognitiondevice FOR the class of grammars which will correctly decide between the grammatical and ungrammaticalsentences of a natural LANGUAGE It is possible to make use of a RECOGNITION device of thissort FOR the following reason : Much data is fully expressible as a set of sentences in a natural LANGUAGE , a set which can be exhaustively and exclusively generated by a grammar Since the recognitionfunction succeeds just in case the posed question is drawn from the set of sentences expressing the data , OR , more correctly , is grammatical in terms of the grammar FOR this set of sentences , sentence recognitionitself is a procedure FOR retrieving information When the RECOGNITION function succeeds , itsvalue represents the requested information The subject of this paper is a procedure forthe automatic retrieval of certain segments of stored information , either explicitly OR implicitly represented , through questions posed in natural LANGUAGE sentences 
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2545 34  8.990730104490996 BM25
+
+
+A Theory of Discrete Patterns and Their Implementation in SNOBOL4
+patterns , SNOBOL4 , pattern theory , PARSING , pattern matching , string processing , pattern implementation A pattern is shown to be a generalization of a formal LANGUAGE Algorithms FOR implementing the kinds of patterns in SNOBOL4 are given 
+
+CA730203 JB January 24, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1395 35  8.869983830077071 BM25
+
+
+On the Implementation of AMBIT, A Language for Symbol Manipulation
+On the Implementation of AMBIT , A LANGUAGE FOR Symbol Manipulation A brief description is given of the implementationtechnique FOR the replacement rule of the AMBIT programming LANGUAGE The ALGORITHM is applicable to other membersof the family of string transformation languages of which AMBIT is a member , and it provides a rationalefor the design of the AMBIT LANGUAGE The ALGORITHM FOR the `` AMBITscan '' and an example of its application are given 
+
+CA660803 JB March 2, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2310 36  8.487502340601086 BM25
+
+
+Language Analysis in the Humanities
+LANGUAGE analysis , humanities , science of the humanities , pattern RECOGNITION , pattern generation , interdisciplinary cooperation LANGUAGE Analysis in the Humanities The use of the computer in the language-orientedhumanities FOR exhaustive listing of detail ( as in indices and concordances ) is widespread and acceptedas desirable This paper argues that the computer 's major role as to LANGUAGE analysis in the humanities will be theestablishing of such a sciencehus , FOR those areas of the humanities FOR which rigor and precisionare necessary ( e 
+
+CA720718 JB January 30, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2340 37  8.417494448011187 BM25
+
+
+A Boolean Matrix Method for the Computationof Linear Precedence Functions
+precedence grammars , context-free PARSING This ALGORITHM not only detects when the precedence functions do not exist , but also provides an indication of why they do not exist , so that corrective action can be takenif possible 
+
+CA720605 JB January 30, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2708 38  8.227875019146335 BM25
+
+
+Practical Syntactic Error Recovery
+syntax errors , error recovery , error correction , PARSING , simple precedence , compilers , debugging 
+
+CA751104 JB January 6, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2113 39  8.159158269844417 BM25
+
+
+The Multistore Parser for Hierarchical Syntactic Structures
+PARSING , syntactic analysis , natural-language analysis , linguistic dataprocessing , computational linguistics , correlational grammar , structurerecognition , pattern RECOGNITION , matching procedures , tree-structure interpretation , machine translation , automatic abstracting 
+
+CA700202 JB February 14, 1978  12:57 PM 
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1162 40  8.09688823413641 BM25
+
+
+An Assembly Language for Reprogramming
+An Assembly LANGUAGE FOR Reprogramming Complete reprogramming of compiler LANGUAGE programsis seldom necessary It is assembly LANGUAGE programs which present the greatest difficulty Assemblylanguages generally provide a one-for-one translation from a symbolic to a numeric version of a program , thatis , from assembly LANGUAGE to machine LANGUAGE The meta-language presented here can be used to specifythe mapping of any LANGUAGE which conforms to a canonical list form into an arbitrary stream of bits This bit stream may be treated as a machine LANGUAGE program , a character stream , OR whatever elsethe user might desire Thus , this meta-language can be used to map from one assembly LANGUAGE into anotheror from the assembly LANGUAGE FOR one machine into the machine LANGUAGE of another 
+
+CA651207 JB March 6, 1978  4:01 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1988 41  7.907014886291645 BM25
+
+
+A Formalism for Translator Interactions
+A formalism is presented FOR describing the actionsof processors FOR programming languages-compilers , interpreters , assemblers-and their interactions in complex systemssuch as compiler-compilers OR extendible languages translator , compiler , interpreter , bootstrapping , LANGUAGE processor , compiler-compiler The formalism here might be used to define and answer such aquestion as `` Can one do bootstrapping using a meta-compiler whose metaphase is interpretive ? '' In addition an algorithmis presented FOR deciding whether OR not a given system canbe produced from a given set of component processors 
+
+CA701002 JB February 10, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1454 42  7.707208200613038 BM25
+
+
+A Simple User-Oriented Compiler Source Languagefor Programming Automatic Test Equipment
+A Simple User-Oriented Compiler Source Languagefor Programming Automatic Test Equipment FOR the nonprogrammer , difficulty in usinga LANGUAGE increases rapidly with the number of nonproblem-oriented conventions A simple LANGUAGE , evenif inelegant , which considers the user 's background as part of the problem may be more effective than a sourcelanguage containing subtle and more powerful capabilities The LANGUAGE described in this paper isused to write computer programs which test electronic equipment Because this testing process contains fewcomplex ideas , there is little need FOR the elegance and redundancy of a highly syntax-oriented LANGUAGE A simple and direct LANGUAGE will suffice FOR the problem The eventual users of this LANGUAGE are militarydepot personnel who can not he expected to have computer programming skill OR significant programmingtraining FOR this nonprogramming-oriented user , it was essential to create a LANGUAGE using familiarengineering statements ; programming-oriented conventions would have unnecessarily complicated his task 
+
+CA660401 JB March 3, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2643 43  7.631243712396882 BM25
+
+
+The Minimization of Spatially-Multiplexed Character Sets
+PARSING , lexical analysis , scanning , string processing , spatial multiplexing The paper describes a technique FOR compactingcharacter sets in a digital computer while retaining FAST access to individual bits 
+
+CA740603 JB January 17, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2252 44  7.56203214273499 BM25
+
+
+A Method for Incrementally CompilingLanguages with Nested Statement Structure
+The essential pointsof the method are : ( 1 ) the syntax of the LANGUAGE is restricted insof ar as which constructs may occuron lines ; ( 2 ) an internal data structure ( called the skeleton ) is maintained to represent the statementstructure ; ( 3 ) the recompilation is partially batched in the sense that recompilation of modified linesdoes not occur until the last of a set of editing commands has been received ; and ( 4 ) the PARSING andcompilation are factored into two parts , that done on individual lines and that done globally tohandle the relationships between the lines A Method FOR Incrementally CompilingLanguages with Nested Statement Structure A method of incremental compilation is presentedwhich applies especially to programming languages in which statements can be nested ( such as Algol andPL/I ) The method permits editing of the source LANGUAGE using a general purpose text editor , and incrementalprocessing of changes without frequent recompilation of entire routines incremental compiler , interactive programming LANGUAGE 
+
+CA721203 JB January 27, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2906 45  7.561797433363218 BM25
+
+
+A Very High Level Programming Language for Data Processing Applications
+A Very High Level Programming LANGUAGE FOR Data Processing Applications In recent years , very high-level languages have been increasingly explored as a solution to thisproblem The Business Definition LANGUAGE ( BDL ) is such a LANGUAGE , one aimed at business data processingproblems This results in three different sublanguages OR components : one FOR defining the businessforms , one FOR describing the business organization , and one FOR writing calculations very high level LANGUAGE , nonprocedural LANGUAGE , data flow LANGUAGE , business application , business data processing , structured programming , modular programming , format specification , and design methodology 
+
+CA771110 JB December 27, 1977  7:06 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2546 46  7.559773481268255 BM25
+
+
+The Use of Grammatical Inference for Designing Programming Languages
+The Use of Grammatical Inference FOR Designing Programming Languages Both in designing a new programming languageand in extending an existing LANGUAGE , the designer is faced with the problem of deriving a `` natural '' grammarfor the LANGUAGE grammar design , LANGUAGE definition , inference , identification in the limit , extensible languages We are proposing an interactive approach to the grammar design problem wherein the designerpresents a sample of sentences and structures as input to a grammatical inference ALGORITHM The algorithmthen constructs a grammar which is a reasonable generalization of the examples submitted by the designer The implementation is presently restricted to a subclass of operator precedence grammars , buta second ALGORITHM is outlined which applies to a larger class of context-free grammars 
+
+CA730202 JB January 24, 1978  3:20 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2886 47  7.545648776997805 BM25
+
+
+Semantic Evaluation from Left to Right
+attribute grammars , semantics of programming languages , semantic attributes , left-to-right PARSING , multipass compilers , semantic evaluation , semantic conditions This paper describes attribute grammars and theiruse FOR the definition of programming languages and compilers ; a formal definition of attribute grammarsand a discussion of some of its important aspects are included Practical questions , suchas the relative efficiency of different evaluation schemes , and the ease of adapting the attribute grammarof a given programming LANGUAGE to the left-to-right evaluation scheme are discussed Acondition FOR an attribute grammar is given which assures that the semantics of any program can be evaluatedin a single pass over the derivation tree , and an ALGORITHM is discussed which decides how manypasses from left to right are in general necessary , given the attribute grammar 
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2179 48  7.5209606107744005 BM25
+
+
+Simple LR(k) Grammars
+context-free grammar , LR ( k ) grammar , precedencegrammar , syntactic analysis , PARSING ALGORITHM , parser , finite-state machine , deterministic pushdown automaton 
+
+CA710703 JB February 3, 1978  9:31 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2059 49  7.417060618343318 BM25
+
+
+A Language for Treating Graphs
+A LANGUAGE FOR Treating Graphs A LANGUAGE FOR the representation of graph is described , and the formulation of graph operations such as node and/or link deletion OR insertion , union , intersection , comparison , and traversal of graphs is given The LANGUAGE is syntactically definedas an extension to ALGOL 60 , and it is translated into ALGOLby means of a syntax-driven compiler Application areas FOR this LANGUAGE areoperation research , network problems , control theory , traffic problems , etc graphs , oriented , nonoriented , multiple , colored graph , LANGUAGE extended ALGOL , operator-precedence , syntax-driven compiler , operation research , network , traffic 
+
+CA700507 JB February 13, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2138 50  7.395419806292656 BM25
+
+
+BLISS: A Language for Systems Programming
+BLISS : A LANGUAGE FOR Systems Programming A LANGUAGE , BLISS , is described This languageis designed so as to be especially suitable FOR use in writing production software systems FOR aspecific machine ( the PDP-10 ) : compilers , operating systems , etc programming languages , implementation LANGUAGE , systems programming , data structures A major feature which contributes to the realization of these goals is a mechanism permittingthe definition of the representation of all data structures in terms of the access ALGORITHM FOR elements of the structure 
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2091 51  7.3934219466093385 BM25
+
+
+PDEL-A Language for Partial Differential Equations
+PDEL-A LANGUAGE FOR Partial Differential Equations Aconvenient , easy to learn and to use , high level problem orientedlanguage to solve and study partial differential equation problemshas been designed ; a practical translator FOR the LANGUAGE has alsobeen designed , and a working version of it has been constructedfor a significant portion of the LANGUAGE This Partial DifferentialEquation LANGUAGE , PDEL , is outlined , and the highlightsof the translator are briefly summarized problem oriented OR digital simulation LANGUAGE , partial differential equations , translator , PL/1 , preprocessor PL/1 , finite difference algorithms 
+
+CA700307 JB February 13, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2785 52  7.359422189443186 BM25
+
+
+Glypnir-A Programming Language for Illiac IV
+Glypnir-A Programming LANGUAGE FOR Illiac IV GLYPNIR is one of the earliest existing languagesdesigned FOR programming the Illiac IV computer The syntax of the LANGUAGE is based on ALGOL 60 , but hasbeen extended to allow the programmer explicitly to specify the parallelism of his ALGORITHM in terms of 64-wordvectors This paper describes the characteristics , goals and philosophy of the LANGUAGE , and discusses someof the problems associated with parallel computer architectures GLYPNIR , Illiac IV , Programming LANGUAGE , parallel computation , parallel architecture 
+
+CA750303JB January 9, 1978  4:57 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2703 53  7.317749748527752 BM25
+
+
+The Intrinsically Exponential Complexity ofthe Circularity Problem for Attribute Grammars
+Attribute grammars are an extension of context-freegrammars devised by Knuth as a mechanism FOR including the semantics of a context-free languagewith the syntax of the LANGUAGE Specifically , it is shown that any deterministic algorithmwhich solves the problem must FOR infinitely many cases use an exponential amount of timen improvedversion of Knuth 's circularity testing ALGORITHM is also given , which actually solves the problem within exponential time 
+
+CA751204 JB January 5, 1978 4:38 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1885 54  7.277083956292934 BM25
+
+
+A Computer System for Transformational Grammar
+The majorinnovations include a full , formal description of the syntax of a transformational grammar , a directed randomphrase structure generator , a lexical insertion ALGORITHM , an extended definition of analysis , anda simple problem-oriented programming LANGUAGE in which the ALGORITHM FOR application of transformationscan be expressed transformational grammar , natural LANGUAGE syntax , LANGUAGE processing , LANGUAGE analysis , sentence generation , lexical insertion , computational linguistics , syntax 
+
+CA690608 JB February 17, 1978  10:36 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-0644 55  7.244920996897544 BM25
+
+
+A String Language for Symbol Manipulation Based on ALGOL 60
+A String LANGUAGE FOR Symbol Manipulation Based on ALGOL 60 An artificial computer programming languageis proposed FOR describing the manipulation of strings of characters and symbols A primer OR informal description of thelanguage is followed by examples , a description of experiments with the LANGUAGE on an IBM 704 computer , and a formal description which , taken with the ALGOL 60 Report , defines the proposed string LANGUAGE 
+
+CA620115 JB March 20, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1852 56  7.2388599050053415 BM25
+
+
+A Base for a Mobile Programming System
+An ALGORITHM FOR a macro processor which hasbeen used as the base of an implementation , by bootstrapping , of processors FOR programming languages isdescribed Experience withprogramming languages whose implementation is basedon this ALGORITHM indicates that such a LANGUAGE canbe transferred to a new machine in less than one man-week without using the old machine bootstrapping , macro processing , machine independence , programming languages , implementation techniques This ALGORITHM can be easily implemented on contemporary computing machines 
+
+CA690903 JB February 15, 1978  4:54 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1496 57  7.160358177443451 BM25
+
+
+A Formal Semantics for Computer Languagesand its Application In a Compiler-Compiler
+A Formal Semantics FOR Computer Languagesand its Application In a Compiler-Compiler A semantic meta-language has been developedfor representing the meanings of statements in a large class of computer languages This meta-languagehas been the basis FOR construction of an efficient , functioning compiler-compiler An informal discussionof the meta-language based on the example of a complete translator FOR a small LANGUAGE is presented 
+
+CA660101 JB March 3, 1978  4:31 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2971 58  7.039398121091079 BM25
+
+
+SP/k: A System for Teaching Computer Programming
+SP/k is a compatible subset of the PL/I languagethat has been designed FOR teaching programming The features of the SP/k LANGUAGE were chosen to encouragestructured problem solving by computers , to make the LANGUAGE easy to learn and use , to eliminateconfusing and redundant constructs , and to make the LANGUAGE easy to compile The resulting languageis suitable FOR in troducing programming concepts used in various applications , including business dataprocessing , scientific calculations and non-numeric computation SP/k is actually a sequence of languagesubsets called SP/1 , SP/2 , Each subset in troduces new programming LANGUAGE constructs whileretaining all the constructs of preceding subsets programmer education , universities , community colleges , high schools , PL/I , SP/k , minicomputers , programming LANGUAGE design , teaching programming , in troductory computing 
+
+CA770501 JB December 29, 1977  4:40 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2786 59  7.007259699674076 BM25
+
+
+A System for Typesetting Mathematics
+The LANGUAGE has been designed to be easy to learnand to use by people ( FOR example , secretaries and mathematical typists ) who know neither mathematics nortypesetting Experience indicates that the LANGUAGE can be learned in an hour OR so , FOR it has few rulesand fewer exceptions The syntax of the LANGUAGE is specifiedby a small context-free grammar ; a compiler-compiler is used to make a compiler that translates this languageinto typesetting commands 
+
+CA750302 JB January 10, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3087 60  6.996943366151222 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+An English LANGUAGE Question Answering Systemfor a Large Relational Database The LANGUAGE processing portion of the system uses a number of augmented transition networks , each of which matches phrases with a specific meaning , along with context registers ( his tory keepers ) and concept case frames ; these are used FOR judging meaningfulness of questions , generating dialogue FOR clarifyingpartially understood questions , and resolving ellipsis and pronoun reference problems Also included are discussions of important issues in programming natural LANGUAGE systems FOR limited domains , and the relationship of this system to others Question answering , relational database , natural LANGUAGE , database front end , artificial intelligence , dialogue , query generation , information retrieval , natural LANGUAGE programming 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3198 61  6.930421070017252 BM25
+
+
+   Microprogramming, Emulators and Programming Languages
+Microprogramming , Emulators and Programming Languages The problem we have been concerned with is that of converting LANGUAGE toaction - OR intellectual energy to mechanical energy The medium that we use FOR this purpose is LANGUAGE and therefore we are preoccupied with the subjectof LANGUAGE In the areas of LANGUAGE investigation we have concentrated first on formalizing syntax and then on semantics 
+
+CA660318 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1549 62  6.912021065091832 BM25
+
+
+An Efficient Machine-Independent Procedure forGarbage Collection in Various List Structures
+The routine FOR implementing this ALGORITHM can be written in the list LANGUAGE withwhich it is to be used , thus insuring a degree of machine independence A new ALGORITHM is presented which offers significant advantages of speedand storage utilization Finally , the application of thealgorithm to a number of different list structures appearing in the literature is indicated 
+
+CA670806 JB February 27, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2954 63  6.908906069778895 BM25
+
+
+A Bounded Storage Algorithm for Copying Cyclic Structures
+Unlike a previous similar ALGORITHM , thisone makes no assumptions about the storage allocation system in use and uses only operations likely to be availablein a high-level LANGUAGE A Bounded Storage ALGORITHM FOR Copying Cyclic Structures A new ALGORITHM is presented which copies cycliclist structures using bounded workspace and linear time The distinctive feature of this ALGORITHM is a technique FOR traversingthe structure twice , using the same spanning tree in each case , first from left to right and then from right to left 
+
+CA770609 JB December 28, 1977  12:56 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1959 64  6.88822981550677 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+A programming structure , LANGUAGE constructs , and a supervisory system organization are proposedfor the design and coding of large shared data base systems DPL , a programming LANGUAGE and supervisorysystem in which these concepts are implemented , is used to illustratedthe new organization which is proposed FOR management information systems An ALGORITHM FOR resolvingconflicts which arise in scheduling the interrupt processing routinesis presented 
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1145 65  6.869494486053876 BM25
+
+
+GIT-A Heuristic Program for Testing Pairsof Directed Line Graphs for Isomorphism*
+GIT has been written in the COMIT LANGUAGE and successfully tested on the IBM 7090 Given a pair of directed line graphs , the problemof ascertaining whether OR not they are isomorphic is one FOR which no efficient algorithmic solution is known Since a straightforward enumerative ALGORITHM might require 40 years of running time on a very highspeed computer in order to compare two 15-node graphs , a more sophisticated approach seems calledfor The situation is similar to that prevailing in areas such as game-playing and theorem-proving , wherepractical algorithms are unknown ( FOR the interesting cases ) , but where various practical though only partiallysuccessful techniques are available 
+
+CA640110 JB March 10, 1978  5:24 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1768 66  6.868605312409853 BM25
+
+
+A Global Parser for Context-Free Phrase Structure Grammars
+An ALGORITHM FOR analyzing any context-free phrasestructure grammar and FOR generating a program which can then parse any sentence in the LANGUAGE ( orindicate that the given sentence is invalid ) is described A number of heuristic procedures whose purpose is to shorten the basic ALGORITHM by quicklyascertaining that certain substrings of the input sentence can not correspond to the target nonterminalsymbols are included Both the generating ALGORITHM and the parser have been implemented in RCASNOBOL and have been tested successfully on a number of artificial grammars and on a subset of ALGOL 
+
+CA680402 JB February 23, 1978  11:27 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1622 67  6.848990679148596 BM25
+
+
+An Efficient Procedure for the Generation of Closed Subsets
+`` The ALGORITHM has been programmed in the WISP LANGUAGE andsuccessfully run on the IBM 7094 in connection with a routine to detect feedback in multidimensional iterative networks An efficient ALGORITHM is described FOR generatingsubsets of a set S which satisfy constraints of the form : `` If s ( i ) is a member of the subset , thens ( j ) must also be a member of the subset 
+
+CA670307 JB February 28, 1978  1:18 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3100 68  6.842064661715661 BM25
+
+
+An Interference Matching Technique for Inducing Abstractions
+Rule induction , knowledge acquisition , partialmatching , interference , graph matching , learning , induction , knowledge representation , informal retrieval , abstraction , generalization , LANGUAGE learning , complexity , predicate discovery Three tasks solved by a programthat uses an interference-matching ALGORITHM are presented 
+
+CA780507 DH February 26, 1979  1:26 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3184 69  6.839113278745649 BM25
+
+
+   Revised Report on the Algorithmic Language ALGOL 60
+Revised Report on the Algorithmic LANGUAGE ALGOL 60 The report gives a complete defining description of the internationalalgorithmic LANGUAGE ALGOL 60 This is a LANGUAGE suitable FOR expressing a large class of numerical processes in a form sufficiently concise FOR direct automatic translation into the LANGUAGE of programmed automaticcomputers 
+
+CA630117 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2230 70  6.824146068082518 BM25
+
+
+A Language for Treating Geometric Patterns in a Two-dimensional space
+A LANGUAGE FOR Treating Geometric Patterns in a Two-dimensional space In this paper CADEP , a problem-oriented languagefor positioning geometric patterns in a two-dimensional space , is presented Although the LANGUAGE has beenspecifically designed FOR the automatic generation of integrated circuit masks , it turns out to be wellsuited also FOR such other placement problems as architecture design , urban planning , logical and blockdiagram representation graphic LANGUAGE , problem-oriented LANGUAGE , two-dimensionalpatterns , graphic display , Fortran extension , layout problems , integrated circuit , architecture design , urban planning 
+
+CA710104 JB February 8, 1978  11:17 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-0082 71  6.704544517214248 BM25
+
+
+Handling Identifiers as Internal Symbols in Language Processors
+Handling Identifiers as Internal Symbols in LANGUAGE Processors Substitution of computer-oriented symbols forprogrammer-oriented symbols in LANGUAGE processors is examined and a feasible method FOR doing so is presented 
+
+CA590602 JB March 22, 1978  6:38 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-0679 72  6.690686308426912 BM25
+
+
+Recent Improvements in MADCAP
+MADCAP is a programming LANGUAGE admitting subscripts , superscripts and certain forms of displayed formulas The basic implementation of this LANGUAGE wasdescribed in a previous paper [ MADCAP : A scientific compiler FOR a displayed formula textbook LANGUAGE , Comm This paper discusses recent improvements in the LANGUAGE in three areas : complexdisplay , logical control , and subprogramming 
+
+CA631113 JB March 13, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1486 73  6.608413563579665 BM25
+
+
+A Reprogramming Machine
+In this paper a description is given of a modelprogramming system which is directed by a programming LANGUAGE and has a library FOR storing the user 's items Rules are given FOR transforming programs written in the LANGUAGE and FOR rearranging the items in thelibrary so that they share their common parts 
+
+CA660201 JB March 3, 1978  3:50 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1504 74  6.595281382521656 BM25
+
+
+Algorithms for Finding a Fundamental Setof Cycles for an Undirected Linear Graph
+Algorithms FOR Finding a Fundamental Setof Cycles FOR an Undirected Linear Graph Given the adjacency matrix of the graph , the algorithmpresented in this paper finds a spanning tree and then constructs the set of fundamental cycles Our ALGORITHM is slower than an ALGORITHM presented by Welch by a ratio of N/3 ( N is the number of nodes ) but requires less storage FOR graphs with a large number of nodes and edges , when storage is limited ouralgorithm is superior to Welch 's ; however , when the graphs are small , OR machine storage is very large , Welch 's ALGORITHM is superior 
+
+CA671204 JB February 26, 19782:35 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2702 75  6.579381809516338 BM25
+
+
+On the Complexity of LR(k) Testing
+computational complexity , context-free grammars , PARSING , LR ( k ) grammars , NP-complete problems In the first case , it is shown that forevery k there exists an O ( n ( k+2 ) ) ALGORITHM FOR testing the LR ( k ) property , where n is the size of thegrammar in question 
+
+CA751205 JB January 5, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2717 76  6.578078269052188 BM25
+
+
+CONVERT: A High Level TranslationDefinition Language for Data Conversion
+CONVERT : A High Level TranslationDefinition LANGUAGE FOR Data Conversion This paper describes a high level and nonproceduraltranslation definition LANGUAGE , CONVERT , which provides very powerful and highly flexible datarestructuring capabilities `` CONVERT '' has been chosen FOR conveying the purpose of the LANGUAGE and should not be confused with anyother LANGUAGE OR program bearing the same name data conversion , data restructuring , data translation , database reorganization , translation definition , utility program , programming languages , nonprocedural languages 
+
+CA751002 JB January 6, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1084 77  6.498217230217915 BM25
+
+
+On Declaring Arbitrarily Coded Alphabets
+The inability of existing programming languagesto handle character strings from more than one OR two alphabets is mentioned and a scheme FOR declaringadditional alphabets is proposed ) from alphabet to alphabet , and arbitrary source-language character representation 
+
+CA640505 JB March 10,1978  12:13 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-3132 78  6.497414003491473 BM25
+
+
+Experiments with Some Algorithms that FindCentral Solutions for Pattern Classification
+In two-class pattern RECOGNITION , it is a standardtechnique to have an ALGORITHM finding hyperplaneswhich separates the two classes in a linearly separable trainingset Pattern RECOGNITION , pattern classification , linear discriminants , centralhyperplanes , centering , centrality criteria , dead zone , hyperplane , linearly separable , relaxation ALGORITHM , accelerated relaxation Experiments with Some Algorithms that FindCentral Solutions FOR Pattern Classification Six algorithms FOR finding centralhyperplanes are tested on three data sets Although frequentlyused practice , the modified relaxation ALGORITHM is very poor Three algorithms which are defined in the paper are found to bequite good 
+
+CA790303 DH April 12, 1979  3:20 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-0778 79  6.4958013643205685 BM25
+
+
+Associated Legendre Functions of the First Kindfor Real or Imaginary Arguments (Algorithm 47)
+Associated Legendre Functions of the First Kindfor Real OR Imaginary Arguments ( ALGORITHM 47 ) 
+
+CA630820 JB March 13, 1978  8:26 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1856 80  6.468204445677651 BM25
+
+
+The Teachable Language Comprehender: A Simulation Program and Theory of Language
+The Teachable LANGUAGE Comprehender : A Simulation Program and Theory of LANGUAGE The Teachable LANGUAGE Comprehender ( TLC ) isa program designed to be capable of being taught to `` comprehend '' English text Thus the program now corresponds to a general process FOR comprehending LANGUAGE , andit provides a methodology FOR adding the additional information this process requires to actually comprehendtext of any particular kind The program 's strategy is presented as a general theory of LANGUAGE comprehension natural LANGUAGE processing , natural LANGUAGE comprehension , teachable computer program , psychological simulation , human memory simulation , computerlinguistics , linguistic performance theory 
+
+CA690807 JB February 15, 1978  5:46 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2406 81  6.452829054487834 BM25
+
+
+A Data Definition and Mapping Language
+A Data Definition and Mapping LANGUAGE A data definition LANGUAGE i sa declarativecomputer LANGUAGE FOR specifying data structures Most data definition languages concentrate on the declarationof logical data structures with little concern FOR how these structures are physically realizedon a computer system However , the need FOR data definition languages which describe both the logicaland physical aspects of data is increasingly apparent Such languages will be a key systems , as wellas in advanced data management systems and distributed data bases This paper reviews past work in the datadefinition LANGUAGE FOR describing both logical and physical aspects of data Applications of these '' generalized '' data definition languages are also discussed data definition LANGUAGE , data and storage structure , data translation , data base management systems , file translation 
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-0354 82  6.448413769111331 BM25
+
+
+Associated Legendre Functions of the First Kindfor Real or Imaginary Arguments (Algorithm 47)
+Associated Legendre Functions of the First Kindfor Real OR Imaginary Arguments ( ALGORITHM 47 ) 
+
+CA610414 JB March 16, 1978  11:57 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2246 83  6.445078396128621 BM25
+
+
+Levels of Language for Portable Software
+Levels of LANGUAGE FOR Portable Software A popular way of accomplishing this is to encode the software in a speciallydesigned machine-independent LANGUAGE and then to map this LANGUAGE , often using a macro processor , into the assembly LANGUAGE of each desired object machine The design of the machine-independentlanguage is the key factor in this operation This paper discusses the relative merits of pitchingthis LANGUAGE at a high level OR a low level , and presents some comparative results portable software , level of LANGUAGE , machineindependent , macro processor , efficiency 
+
+CA721209 JB January 27, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2060 84  6.418682836996607 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+GEDANKEN-A Simple Typeless LANGUAGE Based on thePrinciple of Completeness and the Reference Concept GEDANKEN is an experimental programming LANGUAGE with the following characteristics ( 1 ) Any value which is permitted in some context of the LANGUAGE is permissible in any other meaningful context A variety of programming examples illustrates the generality of the LANGUAGE programming LANGUAGE , data structure , reference , assignment , coroutine , quasi-parallel process , typeless LANGUAGE , applicative LANGUAGE , lambda calculus , list processing , nondeterministic ALGORITHM it may be specified by giving an arbitraryalgorithm FOR computing OR accessing its components 
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2873 85  6.377399812284921 BM25
+
+
+LG: A Language for Analytic Geometry
+LG : A LANGUAGE FOR Analytic Geometry A conversational programming LANGUAGE FOR analyticgeometry is described , together with some aspects of its implementation The LANGUAGE allowsthe flexible definition of geometric objects and elements , computes their parameters , and displays the results A third characteristic consists of the possibilityof using this LANGUAGE to design other user oriented languages LG has been specifically designedfor use by nonprogrammers ; it is easy to learn and very close to the natural LANGUAGE used in geometry interactive programming , problem oriented languages , computer graphics , interpreters , analytic geometry 
+
+CA760403 JB January 4, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1170 86  6.363814898926428 BM25
+
+
+Analyzing English Syntax with a Pattern-Learning Parser
+A dependency analysis system based on patternrecognition and learning logic was developed to infer word classes and rules of syntactic combinationfrom experience with text which had been analyzed 9 FOR accuratelyparsing each new sentence it encountered 
+
+CA651111 JB March 6, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1818 87  6.350960341036352 BM25
+
+
+Associated Legendre Functions of the First Kindfor Real or Imaginary Arguments (Algorithm 47 [S16])
+Associated Legendre Functions of the First Kindfor Real OR Imaginary Arguments ( ALGORITHM 47 [ S16 ] ) 
+
+CA691112 JB February 15, 1978  12:11 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2915 88  6.340430518230622 BM25
+
+
+Considerations for Future Programming Language Standards Activities
+Considerations FOR Future Programming LANGUAGE Standards Activities This paper reviews the current state of programminglanguage standards activities with respect to the anomalies which exist between the various publishedand proposed standards FOR Fortran , Cobol , PL/I , and Basic programming languages , standards , formalisms , formal descriptions , Fortran , Cobol , PL/I , Basic , Vienna Definition LANGUAGE ( VDL ) 
+
+CA771101 JB December 27, 1977  8:10 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1902 89  6.335079715969579 BM25
+
+
+An Automatic Grading Scheme for Simple Programming Exercises
+Exercisesrun under the scheme may be mixed with other programs , and no special RECOGNITION of exercises by the operators is necessary A discussion is given of alterations that weremade to a typical university operating system to record the results of programming exercises in threedifferent languages , including assembly LANGUAGE 
+
+CA690507 JB February 17, 1978  3:35 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1484 90  6.331093248243645 BM25
+
+
+A Language for Describing the Functions of Synchronous Systems* 
+A LANGUAGE FOR Describing the Functions of Synchronous Systems* It is suggested that a computer-oriented LANGUAGE beused FOR this purpose The inadequacies of the standard programming languages FOR the description ofsystems are discussed , and a dialect of ALGOL which is suitable FOR describing synchronous systems is introduced 
+
+CA660203 JB March 3, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1602 91  6.321161981834288 BM25
+
+
+POSE: A Language for Posing Problems to a Computer
+POSE : A LANGUAGE FOR Posing Problems to a Computer A LANGUAGE , POSE , is described which is a drasticdeparture from the FORTRAN/ALGOL type , though it does utilize FORTRAN formula and logic representations ( and actually contains FORTRAN VI as a subset ) With the new LANGUAGE , the user need only describehis problem in `` equation-like '' form In this way the POSE LANGUAGE user cansolve difficult computational problems ( like the solution of differential equation ) without requiringa knowledge of numerical methods OR the intricacies of computer subroutine logic 
+
+CA670504 JB February 28, 1978  10:53 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2994 92  6.314184099619888 BM25
+
+
+A Linear Algorithm for Incremental Digital Display of Circular Arcs
+A Linear ALGORITHM FOR Incremental Digital Display of Circular Arcs graphics , circle drawing , step generation , dotgeneration , incremental digital plotting , raster display , integer arithmetic , circle ALGORITHM 
+
+CA770207 JB December 30, 1977  2:16 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2898 93  6.299541761463343 BM25
+
+
+A Conceptual Framework for a Nonprocedural Programming Language
+A Conceptual Framework FOR a Nonprocedural Programming LANGUAGE A sequential programming LANGUAGE forces theprogrammer to prescribe explicitly the order in which the operations in his program have to be executed , even if the order is not relevant to the solution of his problem The requirement to indicate irrelevantsequencing can be removed if the LANGUAGE provides facilities FOR specifying a task in a nonproceduralmanner This paper describesa conceptual framework FOR a high level programming LANGUAGE providing both nonprocedural and sequentialfacilities parallel programming , descriptive programming , nonprocedural programming , definitional LANGUAGE , data flow programming , applicative programming 
+
+CA771202 JB February 1, 1980  4:05 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1453 94  6.293073749040831 BM25
+
+
+A Nonrecursive Method of Syntax Specification
+The use of the Kleene regular expression notationfor describing algebraic LANGUAGE syntax , in particular of ALGOL , is described in this paper This was applied to numerous smallerlanguages , including some sublanguage of ALGOL A FORTRAN II computer program FOR carrying out the elimination ALGORITHM of Gorn , similar to Gaussian eliminationfor linear systems of algebraic equations , is described A hand calculation result of the application of the algorithmto all of ALGOL is given , thus expressing the Revised ALGOL 1960 syntax in completely nonrecursiveterms , as far as its context-free portion is concerned The paper also includesresults of the machine program , which does not include a simplification ALGORITHM 
+
+CA660402 JB March 3, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1693 95  6.274021953657989 BM25
+
+
+GPL, a Truly General Purpose Language
+GPL , a Truly General Purpose LANGUAGE A truly general purpose programming LANGUAGE , GPL , is described which contains facilities FOR constructing ( within the LANGUAGE ) new data types aswell as facilities FOR operations performed upon them The basic LANGUAGE is minimal in the sense thatno basic element can be derived from the others with high efficiency in the object programs programming LANGUAGE , general purpose , self-extending , macro , ALGOL 
+
+CA680908 JB February 22, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2556 96  6.2474943540330345 BM25
+
+
+Adaptive Correction of Program Statements
+adaptive , linguistic pattern matching , automaticparsing , approximate match , compiler , program statement analysis , syntax analysis A method of analyzing statements in a programminglanguage which can tolerate a considerable inaccuracy in their specification is proposed 
+
+CA730105 JB January 24, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2895 97  6.234147595075065 BM25
+
+
+A Language for Formal Problem Specification
+A LANGUAGE FOR Formal Problem Specification A LANGUAGE FOR specifying the in tended behaviorof communicating parallel processes is described The LANGUAGE is used to write specifications of the readers/writersproblem and the writer priority of the second readers/writers problem 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2812 98  6.223784282720574 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+There are four major components : Problem Statement LANGUAGE , Problem StatementAnalyzer , Generator of Alternative Designs , and Performance Evaluator computer-aided analysis , information systems , logicalsystem design , problem statement LANGUAGE , problem statement analyzer , physical system design , accurately defined systems , systems optimization and design ALGORITHM The analyzed problem statement was translated to the form necessary FOR use by theSODA ( Systems Optimization and Design ALGORITHM ) program FOR the generation of alternative specificationsof program modules and logical database structures 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-2127 99  6.18833463145642 BM25
+
+
+Natural Language Question-Answering Systems: 1969
+Natural LANGUAGE Question-Answering Systems : 1969 Recent experiments in programming naturallanguage question-answering systems are reviewedto summarize the methods that have been developed FOR syntactic , semantic , and logical analysis of English strings It is concludedthat at least minimally effective techniques have been devised foranswering questions from natural LANGUAGE subsets in small scaleexperimental systems and that a useful paradigm has evolved to guideresearch efforts in the field Generalizing from current small-scale experiments to language-processing systems based on dictionaries with thousands of entries-withcorrespondingly large grammars and semantic systems-may entaila new order of complexity and require the invention and developmentof entirely different approaches to semantic analysis and questions answering question-answering , natural LANGUAGE , artificial intelligence , languageprocessing , fact retrieval , semantics 
+
+CA700104 JB February 14, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+36 Q0 CACM-1179 100  6.1639098484119845 BM25
+
+
+PUFFT-The Purdue University Fast FORTRAN Translator
+PUFFT-The Purdue University FAST FORTRAN Translator In little more than half of the 32k word core memoryPUFFT provides a monitor FOR job sequencing , a translator FOR the full FORTRAN IV LANGUAGE , the FORTRANsubroutine library , an input -- output system FOR use at compile time and at execute time , and a ratherelaborate diagnostic message writing routine Batches of small- and medium-sized FORTRAN IV sourcelanguage programs are processed at very high speeds LANGUAGE compatibility has been maintained so thatprograms may be debugged in the PUFFT system and then recompiled and run in the IBJOB-IBFTC system supplied by the manufacturer 
+
+CA651102 JB March 6, 1978  6:17 PM
+
+

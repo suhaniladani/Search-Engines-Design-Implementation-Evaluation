@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+2 Q0 CACM-2434 1  21.46186911440447 BM25
+
+
+Using Page Residency To Select the Working Set Parameter
+PRIEVE , B 
+
+CA731006 JB January 20, 1978  11:34 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2863 2  18.11931244031417 BM25
+
+
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+PRIEVE , B 
+
+CA760508 JB January 4, 1978  3:06 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3078 3  13.579072543023404 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+POOCH , U 
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0497 4  9.522091878496468 BM25
+
+
+Further Remarks on Line Segment Curve-Fitting Using Dynamic Programming
+
+
+CA620831 JB March 17, 1978  9:19 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1364 5  8.967942859305948 BM25
+
+
+Mathematical Experimentation in Time-Lag Modulation
+
+
+CA661003 JB March 2, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0727 6  8.783149477867047 BM25
+
+
+On the Approximate Solution of Delta(u)=F(u)
+
+
+CA630931 JB March 13, 1978  6:57 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1012 7  8.250444107386198 BM25
+
+
+Formal Parsing Systems
+
+
+CA640818 JB March 9, 1978  6:30 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0335 8  8.185060760910027 BM25
+
+
+Some Numerical Experiments Using Newton's Methodfor Nonlinear Parabolic and EllipticBoundary-Value Problems
+
+
+CA610433 JB March 16, 1978  11:20 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2039 9  7.144656824032877 BM25
+
+
+Permanent Function of a Square Matrix I and II (Algorithm 361 $G6))
+
+
+CA700616 JB February 13, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1821 10  6.809809004031035 BM25
+
+
+Permanent Function of a Square Matrix I and II (Algorithm 361 [G6])
+
+
+CA691109 JB February 15, 197812:18 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1062 11  6.683473571286914 BM25
+
+
+Symbol Manipulation in FORTRAN-SASP I Subroutines
+
+
+CA640605 JB March 9, 1978  9:43 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1931 12  6.18980736772836 BM25
+
+
+Interval Arithmetic Determinant Evaluationand Its Use in Testing for a Chebyshev System
+
+
+CA690207 JB February 20, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0616 13  6.176862196947341 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+It is hoped that this report will be read ( a ) with avid interest BY programming languagedesigners and implementors , and all those INTERESTED in developing a theoretical approach to dataprocessing ; ( b ) with interest and understanding BY professional programmers and systems analysts ; and ( c ) with appreciation BY the businessman-analyst-manager 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1977 14  6.174107484865757 BM25
+
+
+An Interactive Display for Approximation by Linear Programming
+
+
+CA701101 JB February 10, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1638 15  6.122573576711775 BM25
+
+
+Sorting by Replacement Selecting
+
+
+CA670204 JB February 28, 1978  3:56 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3202 16  6.067276995265871 BM25
+
+
+   MANIP: A Computer System for Algebra and Analytic Differentiation
+A mathematical expression to be operated upon is WRITTEN in FORTRAN-like notation and stored in the computer as a string of BCD characters with allblanks removed Programs which resulted were WRITTEN inFORTRAN IV for a CDC 3600 and are discussed in detail 
+
+CA660816 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1046 17  5.952154101407025 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number of ARTICLES published during thepast two years , R 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1861 18  5.844380621293392 BM25
+
+
+The MAD Definition Facility
+Information is given onhow one writes definitions , as well as on much of the motivation behind the form in which definitions arewritten 
+
+CA690802 JB February 15, 1978  6:07 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1010 19  5.8215483867207185 BM25
+
+
+A Multiuser Computation Facility for Education and Research
+
+
+CA640901 JB March 9, 1978  6:22 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3086 20  5.575436742005486 BM25
+
+
+On the Complexity of Computing the Measure of U[ai, bi]
+
+
+CA780702 DH February 8, 1979  3:46 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1264 21  5.385215074023217 BM25
+
+
+BLNSYS-A 1401 Operating System with Braille Capabilities
+Even though this system was WRITTEN fora small machine with minimal peripheral equipment , jobs may be batched , so that card handling and lostprocessing time is at a minimum 
+
+CA650507 JB March 7, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0408 22  5.337076932818037 BM25
+
+
+The Internal Organization of the MAD Translator
+
+
+CA610106 JB March 17, 1978  1:22 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1619 23  5.303873930856581 BM25
+
+
+Error-Free Methods for Statistical Computations
+
+
+CA670310 JB February 28, 1978  1:02 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1867 24  5.2740876698511245 BM25
+
+
+On the Expected Lengths of Sequences Generatedin Sorting by Replacement Selecting
+In the replacement-selecting technique of sorting , one is INTERESTED in the ratio L ( j ) of the expected length of the j-th sequence generated BY thetechnique to the number of memory cells used 
+
+CA690713 JB February 15, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2352 25  5.229854787700811 BM25
+
+
+Minimax Nonlinear Approximation by Approximation on Subsets
+
+
+CA720508 JB January 31, 1978  9:40 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2177 26  5.170291067000869 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph
+
+
+CA710705 JB February 3, 1978  8:58 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0108 27  5.161285042786787 BM25
+
+
+Programmed Error Correction in Project Mercury
+
+
+CA601208 JB March 20, 1978  6:35 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2939 28  5.138876143924518 BM25
+
+
+Abstraction Mechanisms in CLU
+BY means of programming examples , the utility of the threekinds of abstractions in program construction is illustrated , and it is shown how CLU programs maybe WRITTEN to use and implement abstractions 
+
+CA770804 JB December 28, 1977  7:49 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2735 29  5.127196562212333 BM25
+
+
+Discrimination in the Employment of Women in the Computer Industry
+
+
+CA750707 JB January 9, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1272 30  5.0887554072623615 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2976 31  5.077700791006851 BM25
+
+
+Approximating Block Accesses in Database Organizations
+
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0626 32  5.051010760405612 BM25
+
+
+A Method of Representation, Storage and Retrievalof 13 Random Codes in a 4-Digit Number or 16 Random Codes in a 5-Digit Number
+
+
+CA620306 JB March 20, 1978  3:07 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1652 33  5.042870078123125 BM25
+
+
+A Code for Non-numeric Information ProcessingApplications in Online Systems
+
+
+CA670103 JB March 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0246 34  5.009339137890899 BM25
+
+
+Least-Squares Fit by Orthogonal Polynomials (Algorithm 28)
+
+
+CA611204 JB March 15, 1978  10:27 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0857 35  4.974851531177224 BM25
+
+
+Sorting Nonredundant Files-Techniques Used in the FACT Compiler
+
+
+CA630510 JB March 14, 1978  11:16 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2663 36  4.974129268788218 BM25
+
+
+A Study of Computer Use in a Graduate School of Business
+
+
+CA740407 JB January 18, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2577 37  4.90739740978575 BM25
+
+
+An On-Site Data Management System Application in Field Archaeology
+
+
+CA741107 JB January 16, 1978  10:15 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1397 38  4.886968394417527 BM25
+
+
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation
+The ACM Symposium on Symbolic and AlgebraicManipulation brought together over four hundred people INTERESTED in programming languages designedfor manipulation of algebraic formulas and symbol strings , in their applications , and in algorithms fortheir implementation 
+
+CA660801 JB March 2, 1978  8:17 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2143 39  4.8718370628380026 BM25
+
+
+Chebyshev Approximation of Continuous Functionsby a Chebyshev System of Functions [E2] (Algorithm 414)
+
+
+CA711106 JB February 2, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3028 40  4.854902216949213 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2328 41  4.829673131728067 BM25
+
+
+Individualizing Instruction in a Generative CAI Tutor
+
+
+CA720617 JB January 30, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3194 42  4.802776547850235 BM25
+
+
+   A Non-heuristic Program for Proving Elementary Logical Theorems
+
+
+CA590102 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2905 43  4.78634775010907 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0372 44  4.702544445538603 BM25
+
+
+Critical Path Scheduling (Algorithm 40)
+
+
+CA610310 JB March 17, 1978  12:36 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0394 45  4.702544445538603 BM25
+
+
+Multiple Programming Data Processing
+
+
+CA610204 JB March 17, 1978  1:00 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0853 46  4.702544445538603 BM25
+
+
+The COBOL Sort Verb
+
+
+CA630514 JB March 14, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1105 47  4.702544445538603 BM25
+
+
+On Introducing Digital Computing
+
+
+CA640403 JB March 10, 1978  1:53 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0798 48  4.6658282187818765 BM25
+
+
+A Catalogue Entry Retrieval System
+
+
+CA630726 JB March 14, 1978  8:08 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2021 49  4.6632223291094395 BM25
+
+
+A Comment on Axiomatic Approaches to Programming
+
+
+CA700716 JB February 10, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1014 50  4.653138061971412 BM25
+
+
+Machine Controls for Analysis of Variance
+Eventhough the experimenter may not be INTERESTED in these interactions it is impossible to ignore them inmost experimental designs because of the problem of getting error terms 
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3003 51  4.649630564890977 BM25
+
+
+A Survey of the Literature in ComputerScience Education Since Curriculum '68
+
+
+CA770102 JB January 3, 1978  12:34 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1139 52  4.629680891438144 BM25
+
+
+FORTRAN IV as a Syntax Language*
+
+
+CA640204 JB March 10, 1978  4:53 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1702 53  4.629680891438144 BM25
+
+
+Commentary on Mr. Mooers' Paper
+
+
+CA680812 JB February 22, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1676 54  4.622448020000162 BM25
+
+
+The LRLTRAN Compiler
+To maintain cohesion , a system must be developed , WRITTEN in a high level language , which minimizes machinedependencies and isolates those which are necessary 
+
+CA681103 JB February 21, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0890 55  4.618554737004252 BM25
+
+
+Selected Definitions 
+
+
+CA630401 JB March 14, 1978  12:32 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0391 56  4.594089342941527 BM25
+
+
+The BKS System for the Philco-2000 
+
+
+CA610207 JB March 17, 1978  12:57 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2621 57  4.590884736760421 BM25
+
+
+A High Security Log-in Procedure
+
+
+CA740803 JB January 17, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1136 58  4.559040853115416 BM25
+
+
+Beginnings of a Theory of Information Handling*
+
+
+CA640207 JB March 10, 1978  4:10 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1990 59  4.559040853115416 BM25
+
+
+Numerical Constants (Algorithm)
+
+
+CA700915 JB February 10, 1978  9:48 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1753 60  4.537491057365827 BM25
+
+
+Virtual Memory, Processes, and Sharing in MULTICS
+
+
+CA680503 JB February 23, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2422 61  4.524523087015177 BM25
+
+
+Adaptive Correction of Program Statements (Corrigendum)
+
+
+CA731104 JB January 20, 1978  10:29 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1671 62  4.52405487141553 BM25
+
+
+A Phonological Rule Tester
+The system is WRITTEN in BBN LISP on the ScientificData System 940 computer and is designed to be used on-line in interactive fashion , with control returnedto the user after each command is executed 
+
+CA681108 JB February 21, 1978  2:41 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0397 63  4.512009843934407 BM25
+
+
+A Card Format for Reference Files in Information Processing
+Since this card format is sufficient to identify the materialnormally associated with reference files for books , ARTICLES , programming terms , hardware terms , equipment , machine systems , abbreviations , etc 
+
+CA610201 JB March 17, 1978  1:08 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2493 64  4.503598630641589 BM25
+
+
+Optimum Data Base Reorganization Points
+
+
+CA730607 JB January 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2219 65  4.503470582911385 BM25
+
+
+A Policy-Driven Scheduler for a Time-Sharing System
+
+
+CA710202 JB February 8, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0407 66  4.490524080454248 BM25
+
+
+MADCAP: A Scientific Compiler for a Displayed Formula Textbook Language
+
+
+CA610107 JB March 17, 1978  1:21 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1519 67  4.478371151231969 BM25
+
+
+GEORGE 3-A General Purpose Time Sharing and Operating System
+
+
+CA671101 JB February 27, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1623 68  4.438158732800529 BM25
+
+
+An Application of FORMAC
+This paper is more concerned with the use of programming techniques in FORMAC than withthe actual engineering problem , although readers may be INTERESTED in the problem because it is statedin a general ( mathematical ) sense and could be of interest in areas other than circuit analysis 
+
+CA670306 JB February 28, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1994 69  4.424036260651388 BM25
+
+
+Decision Table Translation $H) (Algorithm 394)
+
+
+CA700911 JB February 10, 1978  10:05 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2472 70  4.424036260651388 BM25
+
+
+Minimal spanning Tree (Algorithm R422)
+
+
+CA730714 JB January 23, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2786 71  4.418852356470681 BM25
+
+
+A System for Typesetting Mathematics
+
+
+CA750302 JB January 10, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0942 72  4.402563446485852 BM25
+
+
+FORTRAN Subroutines for Time Series Analysis
+Wehave found that the many different numericalprocesses that were required could be built up almost completely from a small number of basic operations , and a set of FORTRAN subroutines has been WRITTEN to perform these 
+
+CA630106 JB March 14, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1072 73  4.400393691419623 BM25
+
+
+An Improved Equivalence Algorithm
+
+
+CA640517 JB March 9, 1978  11:48 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1096 74  4.391525251430027 BM25
+
+
+On Avoiding Matrix Reversals Between 7090 FORTRAN II and 7090 FORTRAN IV
+
+
+CA640412 JB March 10, 1978  1:28 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1981 75  4.391525251430027 BM25
+
+
+Normal Curve Integral (Algorithm 304 $S15))
+
+
+CA701009 JB February 10, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2440 76  4.391525251430027 BM25
+
+
+Localization of the Roots of a Polynomial (Algorithm R429)
+
+
+CA730915 JB January 23, 1978  8:34 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0171 77  4.383340326988206 BM25
+
+
+Digital Computers in Universities (Part I) 
+
+
+CA600702 JB March 20, 1978  9:20 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2704 78  4.368300449510955 BM25
+
+
+Exception Handling: Issues and a Proposed Notation
+
+
+CA751203 JB January 5, 1978  4:47 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2917 79  4.3594885850829055 BM25
+
+
+SITAR: An Interactive Text ProcessingSystem for Small Computers (Corrigendum)
+
+
+CA771009 JB December 28, 1977  5:58 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1941 80  4.327915955640757 BM25
+
+
+F-Distribution (Algorithm 322 [S14])
+
+
+CA690108 JB February 20, 1978  11:48 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0563 81  4.303176891154041 BM25
+
+
+Sorting Procedures (Algorithm 76)
+
+
+CA620622 JB March 17, 1978  9:15 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0569 82  4.303176891154041 BM25
+
+
+Binomial Coefficients (Algorithm 19)
+
+
+CA620616 JB March 17, 1978  9:22 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0740 83  4.303176891154041 BM25
+
+
+INTEREST (Algorithm 45)
+
+
+CA630918 JB March 13, 1978  7:23 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2845 84  4.296486141528251 BM25
+
+
+A Buddy System Variation for Disk Storage Allocation
+
+
+CA760708 JB January 4, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2812 85  4.288847606596995 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+The statement of requirementswas WRITTEN in ADS ( Accurately Defined Systems ) and analyzed BY a Problem Statement Analyzer for ADS 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0290 86  4.269314431778892 BM25
+
+
+Chain Tracing (Algorithm 69)
+
+
+CA610904 JB March 16, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0459 87  4.269314431778892 BM25
+
+
+PERMUTE (Algorithm 130)
+
+
+CA621102 JB March 17, 1978  6:57 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0998 88  4.269314431778892 BM25
+
+
+Computer Programs are Patentable
+
+
+CA641004 JB March 9, 1978  4:53 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1369 89  4.2681066364691365 BM25
+
+
+Half Rotations in N-Dimensional Euclidean Space
+
+
+CA660910 JB March 2, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0204 90  4.262059326628771 BM25
+
+
+Proving Theorems by Pattern Recognition I
+
+
+CA600407 JB March 22, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0269 91  4.235980750707218 BM25
+
+
+Core Allocation Based on Probability
+
+
+CA611012 JB March 16, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0645 92  4.235980750707218 BM25
+
+
+INVRS (Algorithm 66)
+
+
+CA620114 JB March 20, 1978  4:04 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0673 93  4.235980750707218 BM25
+
+
+Account Classification at Automating Banks
+
+
+CA631201 JB March 13, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0741 94  4.235980750707218 BM25
+
+
+Evaluation of Determinant (Algorithm 41)
+
+
+CA630917 JB March 13, 1978  7:24 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0742 95  4.235980750707218 BM25
+
+
+Evaluation of Determinant (Algorithm 41)
+
+
+CA630916 JB March 13, 1978  7:25 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0772 96  4.235980750707218 BM25
+
+
+GOMORY (Algorithm 153)
+
+
+CA630826 JB March 13, 1978  8:19 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-0993 97  4.235980750707218 BM25
+
+
+Kutta Merson (Algorithm 218 [D2])
+
+
+CA641009 JB March 9, 1978  4:46 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-1320 98  4.235980750707218 BM25
+
+
+Inverse Permutation (Algorithm 250 [G6])
+
+
+CA650204 JB March 7, 1978  11:16 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-2638 99  4.235980750707218 BM25
+
+
+Hidden-Line Plotting Program (Algorithm R420)
+
+
+CA740608 JB January 17, 1978  3:00 PM
+
+
+--------------------------------------------------------------
+2 Q0 CACM-3047 100  4.233943571623394 BM25
+
+
+Using Synthetic Images to Register Real Images with Surface Models
+
+
+CA781104 DH January 26, 1979  11:16 AM
+
+

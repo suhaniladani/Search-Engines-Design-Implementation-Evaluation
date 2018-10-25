@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+42 Q0 CACM-1653 1  15.641718423202406 BM25
+
+
+System Performance Evaluation: Survey and Appraisal
+System PERFORMANCE EVALUATION : Survey AND Appraisal The state of the art of system performanceevaluation is reviewed AND EVALUATION goals AND problems are examined Analysis , simulation , AND synthesis arepresented as three levels of approach to EVALUATION , requiring successively greater amounts of information The central role of measurement in PERFORMANCE EVALUATION AND in the development of EVALUATION methods is explored Throughput , turnaround , andavailability are defined as fundamental measures of PERFORMANCE ; overhead AND CPU speed are placed inperspective 
+
+CA670102 JB March 1, 1978  9:10 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2318 2  15.107882952789794 BM25
+
+
+The Role of Computer System Models in Performance Evaluation
+The Role of COMPUTER System Models in PERFORMANCE EVALUATION modeling , EVALUATION , PERFORMANCE , analytic-models , simulation-models , system-models Models constitute a useful means of investigatingcomputer system PERFORMANCE This paper examines the interrelationships between models AND othermethods for evaluating the PERFORMANCE of COMPUTER systems AND establishes circumstances underwhich the use of a model is appropriate 
+
+CA720710 JB January 30, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2984 3  12.968598792906471 BM25
+
+
+Cost/Utilization: A Measure of System Performance
+COMPUTER system , PERFORMANCE EVALUATION , cost/utilization , system balance Cost/Utilization : A Measure of System PERFORMANCE A method is presented for evaluating computersystem PERFORMANCE in terms of a cost/utilization factor AND a measure of imbalance The method includes atechnique for the visual representation of system PERFORMANCE 
+
+CA770308 JB December 29, 1977  6:41 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2542 4  12.752121789438316 BM25
+
+
+A Software Design and Evaluation System
+A Software Design AND EVALUATION System A system which integrates PERFORMANCE evaluationwith design AND implementation is described operating system development , language processingsoftware EVALUATION , compilers , system programming , supervisory systems , debugging , program maintenance , modeling , system integration , simulation A critical failure of current software systemdesign AND implementation methodology is that the PERFORMANCE of a proposed design is not evaluatedbefore it is actually implemented The source languagedescription is used as direct input to PERFORMANCE analysis AND simulation routines USING the performanceinformation obtained from these routines as feedback , the problems which adversely affect performanceare detected early enough so that they can be corrected without costly major reimplementation of the proposed system 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2319 5  12.4646156551717 BM25
+
+
+Operating System Performance
+COMPUTER system , operating system , performanceevaluation , PERFORMANCE measurement , measurement , TECHNIQUES , modularity , layering , structured programming , paging , virtual memory , input/output , disk storage facility , drum storage facility , sector queueing Operating System PERFORMANCE An overview of the current AND future positionswith respect to operating system PERFORMANCE is given Because of thesevere interactions between the various subsystems of an operating system , an overall model of the totalsystem must be developed to be able to analyze AND design the PERFORMANCE aspects of an operating systemalthough such total system designs are exceptional today , it is projected that they will become increasinglymore common AND necessary in the near future Such a design philosophy will clearly have a severe impacton the way we go about modularizing operating AND COMPUTER systems 
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3089 6  12.261777827096516 BM25
+
+
+Performance of Rollback Recovery Systems under Intermittent Failures
+Database reliability , file systems , checkpoints , recoveryprocedures , checking TECHNIQUES , reliability AND system PERFORMANCE EVALUATION PERFORMANCE of Rollback Recovery Systems under Intermittent Failures The model is used to derive theprincipal PERFORMANCE measures , including availability , response time , AND the system saturation point 
+
+CA780608 DH February 9, 1979  10:26 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3048 7  11.617373422473053 BM25
+
+
+Performance Evaluation of Highly ConcurrentComputers by Deterministic Simulation
+PERFORMANCE EVALUATION of Highly ConcurrentComputers by Deterministic Simulation Simulation is presented as a practical techniquefor PERFORMANCE EVALUATION of alternative configurations of highly concurrent computers Simulation of thesystem model yields the timing AND resource usage statistics needed for PERFORMANCE EVALUATION , withoutthe necessity of emulating the system PERFORMANCE EVALUATION , deterministic simulation , control stream , concurrent computers 
+
+CA781103 DH January 26, 1979  11:26 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3119 8  11.496886371505358 BM25
+
+
+The Impact of Distributions and Disciplineson Multiple Processor Systems
+Multiprogramming , multiprocessing , scheduling disciplines , PERFORMANCE EVALUATION , queueing models Simple queueing models are used to study the PERFORMANCE tradeoffs of multiple processor systems 
+
+CA790104 DH April 10, 1979  12:10 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2894 9  11.428909843910064 BM25
+
+
+A Methodology for Interactive Computer Service Measurement
+A demonstration of the methodology , leading to a pragmatic figure-of-meritevaluation of results , is included Its primary purpose is to enable external , user-oriented assessmentof COMPUTER PERFORMANCE , instead of the more frequently used in ternal system measurement TECHNIQUES in teractive system , COMPUTER service , measurement , PERFORMANCE , external measurement , methodology , measurement model , network measurement system , measures , figure-of-merit A Methodology for Interactive COMPUTER Service Measurement A measurement methodology applicable to in teractivecomputer service is described 
+
+CA771206 JB December 22, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2268 10  10.737160003085709 BM25
+
+
+A Comparative Study of Computer Programsfor Integrating Differential Equations
+The testing procedure is described together with the evaluationcriteria applied A study comparing the PERFORMANCE of several computerprograms for integrating systems of ordinary differential equations is reported For the particular problems AND criteria used in the investigation it was found that a program based onrational extrapolation showed the best PERFORMANCE A Comparative Study of COMPUTER Programsfor Integrating Differential Equations 
+
+CA721101 JB January 27, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1827 11  10.544944694631004 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+PERFORMANCE monitoring , PERFORMANCE measurement , program behavior , PERFORMANCE data , multiprogramming PERFORMANCE , software measurement , time-sharing PERFORMANCE , system EVALUATION , software monitor , software instrumentation PERFORMANCE Monitoring in a Time-Sharing System It exists for the purpose of monitoringoperating system AND user program behavior AND PERFORMANCE 
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3070 12  10.510828965526757 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+PERFORMANCE EVALUATION , simulation , queueingnetwork models , central server model This paper describes the structure AND operationof a hybrid simulation model in which both discrete-event simulation AND analytic TECHNIQUES arecombined to produce efficient yet accurate system models Hybrid Simulation Models of COMPUTER Systems In an example based on a simple hypotheticalcomputer system , discrete-event simulation is used to model the arrival AND activation of jobs , AND acentral-server queueing network models the use of system processors 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2452 13  10.499322526587774 BM25
+
+
+Evaluation and Selection of File Organization-A Model and System
+EVALUATION AND Selection of File Organization-A Model AND System The system is a convenient tool to study file structures AND to facilitate as much as possible the processof data base structure design AND EVALUATION This work first discusses the factors thataffect file ( data base ) organization PERFORMANCE , an elusive subject , AND then presents a methodology , amodel AND a programmed system to estimate primarily total storage costs AND average access time of severalfile organizations , given a specific data base , query characterization AND device-related specifications file organization , file structures , file management , file organization PERFORMANCE , file organization model , file structure design , secondary index organization , simulation , data base , access time , storage requirement , data base analysis , data management 
+
+CA730903 JB January 23, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1908 14  10.21959091671633 BM25
+
+
+Time-Sharing and Batch-Processing:  An ExperimentalComparison of Their Values in a Problem - Solving Situation
+Statisticallyand logically significant results indicate equal cost for usage of the two COMPUTER systems ; however , a much higher level of PERFORMANCE is attained by time-sharing users There are indications that significantlylower costs would have resulted if the time-sharing users had stopped work when they reacheda PERFORMANCE level equal to that of the batch users time-sharing vs batch-processing , user PERFORMANCE , man/machine communications , cost effectiveness , on-line vs off-line PERFORMANCE , decision-making PERFORMANCE , user/programmer behavior , programming experimental empirical studies , problem-solving , research in man/machinecommunications , man/machine symbiosis An experimental comparison of problem-solvingusing time-sharing AND batch-processing COMPUTER systems conducted at MIT is described in this paper This study is the first known attempt to evaluate two such systems for what may well be the predominant userpopulation within the next decade-the professionals who , as nonprogrammers , are USING the COMPUTER as anaid in decision-making AND problem-solving rather than as a programming end in itself 
+
+CA690501 JB February 17, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2990 15  10.171974907610707 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Much of the published EVALUATION work is basedon measuring the retrieval PERFORMANCE of an average user query In the present study , retrieval EVALUATION is based on optimizing theperformance of a specific user query The PERFORMANCE of information retrieval systemscan be evaluated in a number of different ways 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2812 16  10.024312952821568 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+Computer-aided analysis consists of a set of procedures AND computerprograms specifically designed to aid in the process of applications software design , COMPUTER selectionand PERFORMANCE EVALUATION There are four major components : Problem Statement Language , Problem StatementAnalyzer , Generator of Alternative Designs , AND PERFORMANCE Evaluator Computer-Aided Analysis AND Design of Information Systems This paper describes the use of computer-aidedanalysis for the design AND development of an integrated financial management system by the Navy MaterialCommand Support Activity ( NMCSA ) computer-aided analysis , information systems , logicalsystem design , problem statement language , problem statement analyzer , physical system design , accurately defined systems , systems optimization AND design algorithm 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2634 17  9.844778098689781 BM25
+
+
+An Evaluation of Statistical Software in the Social Sciences 
+An EVALUATION of Statistical Software in the Social Sciences In order to provide users with a basis for selectionand use , tests were made for each of these systems , AND the results are summarized as to cost AND PERFORMANCE Several hundred college AND university computerinstallations now offer various types of statistical packages for general use 
+
+CA740612 JB January 17, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1938 18  9.843472196566175 BM25
+
+
+Some Criteria for Time-Sharing System Performance
+It is each terminal user 's abilityto utilize the full resources of the system that makes quantitative EVALUATION of time-sharing systemsparticularly difficult Six criteria are described which have been successfully used to perform first-levelquantitative time-sharing system PERFORMANCE EVALUATION Some Criteria for Time-Sharing System PERFORMANCE time-sharing PERFORMANCE criteria , time-sharingsystem operation , time-sharing PERFORMANCE analysis 
+
+CA690111 JB February 20, 1978  11:37 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2741 19  9.640115420222648 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+multiprogramming , paging , PERFORMANCE EVALUATION , saturation , instabilities , thrashing , aggregation , system levels , hierarchy , networks of queues A step-by-step approach to model the dynamicbehavior AND evaluate the PERFORMANCE of computing systems is proposed 
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1931 20  9.612521815644278 BM25
+
+
+Interval Arithmetic Determinant Evaluationand Its Use in Testing for a Chebyshev System
+Interval Arithmetic Determinant Evaluationand Its Use in Testing for a Chebyshev System in determinant EVALUATION for determinant EVALUATION interval arithmetic , range arithmetic , error bounds , determinant EVALUATION , Chebyshev system , mathematical proof by COMPUTER 
+
+CA690207 JB February 20, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2437 21  9.489352826053484 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+General PERFORMANCE Analysis of Key-to-AddressTransformation Methods USING an Abstract File Concept This paper presents a new approach to the analysisof PERFORMANCE of the various key-to-address transformation methods All files with the same number of keys selected from this key space will be suitably weightedin accordance with the algorithm , AND the average PERFORMANCE of the transformation methods onthese files will be used as the potential of these methods USING this analysis , methods with the same overallperformance can be classified AND key distributions partial to certain transformations can be identified hashing , hashing TECHNIQUES , hashing methods , hash coding , key transformation , key-to-address transformation , direct addressing , randomizing , random access , scatterstorage , information retrieval , hashing analysis , randomization PERFORMANCE analysis 
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1719 22  9.468396595361225 BM25
+
+
+A Methodology for Calculating andOptimizing Real-Time System Performance
+A Methodology for Calculating andOptimizing Real-Time System PERFORMANCE The continually increasing size , complexity , number of types , AND cost of data processing systems are causing serious re-examination within governmentand industry of the criteria for AND methods of calculating AND optimizing data processing system costand PERFORMANCE Criteria for evaluating PERFORMANCE are described ; a methodology for calculatingand optimizing is outlined ; AND the method is illustrated by carrying out a portion of the performancecalculation AND the optimization of a drum-oriented message switching system real-time system analysis , real-time system design , real-time system PERFORMANCE criteria , real-time system cost PERFORMANCE ratio 
+
+CA680710 JB February 22, 1978  11:40 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1792 23  9.467529392853034 BM25
+
+
+Exploratory Experimental Studies ComparingOnline and Off line Programming Performance
+Exploratory Experimental Studies ComparingOnline AND Off line Programming PERFORMANCE Two exploratory experiments were conducted atSystem Development Corporation to compare debugging PERFORMANCE of programmers working under conditionsof on-line AND off line access to a COMPUTER These are the first known studies that measure programmers'performance under controlled conditions for standard tasks Statistically significant results of both experimentsindicated faster debugging under online conditions , but perhaps the most important practical findinginvolves the striking individual differences in programmer PERFORMANCE off line PERFORMANCE , programmer/computercommunication , programming experimental-empirical studies , programming cost effectiveness , programmingperformance , debugging effectiveness , time sharing vs batch processing , factor analysis application , programmer trainee PERFORMANCE , basic programming knowledge test , experienced programmer study , analysisof variance , programmer individual differences 
+
+CA680101 JB February 23, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2344 24  9.40639430604218 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+On the Optimization of PERFORMANCE of Time-Sharing Systems by Simulation The effects of these variations on a measure of system PERFORMANCE is used to ascertain whichof the parameters controllable by the job-scheduling algorithm , including the scheduling itself , require optimization , AND which of the parameters not normally controllable by the scheduling algorithm have a markedeffect on system PERFORMANCE System PERFORMANCE is based upon the mean cost of delay to all jobs processed It is shown that significant improvements in the measure of system PERFORMANCE can be obtained byusing variable time-slice TECHNIQUES AND by selecting the optimum round-robin cycle time It appears that thesefeatures would benefit from optimization whereas other parameters controllable by the scheduling algorithmaffect system PERFORMANCE in a predictable manner AND would not benefit from optimization Featuresnot normally under the control of the scheduling algorithm can also have a marked effect on the measureof PERFORMANCE ; in particular , supervisor overheads , the size of the store , AND the speed of the CPU time-sharing , simulation studies , optimization , measure of PERFORMANCE , scheduling algorithms 
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1805 25  9.137650190778963 BM25
+
+
+Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method
+productivity , prediction , multiprogramming , simulation , equipment EVALUATION , hardware , EVALUATION , monitor , operating system , system software , supervisors , PERFORMANCE , time sharing , time slicing Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method Multiprogramming as it is discussed here isa mode of COMPUTER operation in which two or moreprograms are concurrently in processor memory AND proceeding , each USING the same central processor unit ( CPU ) AND input-output ( I/O ) channels 
+
+CA691207 JB February 15, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2882 26  9.128899844058209 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+A Stochastic EVALUATION Model for DatabaseOrganization in Data Retrieval Systems database architecture , database PERFORMANCE andevaluation , invented list , threaded list , cellular list , information retrieval , database organizations , query complexity , stochastic model , Monte Carlo simulation 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2375 27  9.048881617324335 BM25
+
+
+A Comparative Analysis of Disk Scheduling Policies
+Five well-known scheduling policies for movablehead disks are compared USING the PERFORMANCE criteria of expected seek time ( system oriented ) AND expectedwaiting time ( individual I/O request oriented ) The variance of waiting time is introduced as another meaningful measure of PERFORMANCE , showing possiblediscrimination against individual requests Then the choice of a utility function to measure totalperformance including system oriented AND individual request oriented measures is described The selection AND implementation of a maximum PERFORMANCE two-policy algorithm are discussed access time , analytical models , auxiliary storage , direct access storage , disk analysis , disk scheduling , PERFORMANCE criteria , peripheral memory devices , real-timesystems , response time , rotational delay , scheduling policies , seek time , simulation , storageunits , time-sharing systems , waiting time 
+
+CA720306JB January 31, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2571 28  8.994428263593507 BM25
+
+
+An Analytic Model of the Hasp Execution Task Monitor
+Hasp , OS/360 , dispatching , scheduling , modeling , PERFORMANCE EVALUATION This paper develops a simple model of the Execution TaskMonitor AND employs it to study the effectiveness of the monitor in improving system PERFORMANCE 
+
+CA741203 JB January 16, 1978  9:51 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2892 29  8.846346118099916 BM25
+
+
+A Study of Line Overhead in the Arpanet
+ARPANET , COMPUTER communication networks , interprocesscommunication , measurement , packet switching , PERFORMANCE EVALUATION AND efficiency , resource sharing 
+
+CA760101 JB January 5, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2988 30  8.806916728902895 BM25
+
+
+Memory Management and Response Time
+Relations between workloadvariables such as memory requirement distribution AND job swap time , AND PERFORMANCE measures such as responsetime AND memory utilization are graphically displayed memory management , system PERFORMANCE , queueingnetwork models , in teractive COMPUTER systems This paper presents a computationally tractablemethodology for including accurately the effects of finite memory size AND workload memory requirementsin queueing network models of COMPUTER systems A multiphase , analytically soluble model isproposed as being broadly applicable to the analysis of in teractive COMPUTER systems which use nonpaged memories 
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2535 31  8.575570058117508 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+A study is made of the way in which asynchronoustime division multiplexing changes the stochastic nature of the arrival process from a user to the computerand , consequently , affects the PERFORMANCE of a time-shared computer-communications system It isconcluded that while , for certain values of system parameters , there is noticeable improvement in theperformance of the COMPUTER ( model ) , in the sense that time-shared scheduling delays are reduced , theseimprovements are offset by the transmission delays imposed by multiplexing so that there may be little orno change in the computer-communications system PERFORMANCE The Effects of Multiplexing on a Computer-Communications System Analytical AND simulation results arebased on the model of the computer-communications system being an M/D/1 queue ( the multiplexor ) in tandemwith a single exponential server ( the COMPUTER ) COMPUTER communications , time-sharing , multiplexing , scheduling algorithms , operating systems 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3091 32  8.46828195295833 BM25
+
+
+Some Basic Determinants of Computer Programming Productivity
+Programmer PERFORMANCE standards , predicting programdevelopment time , program estimation TECHNIQUES , program development equation , value of programming experience , programmer EVALUATION , programmer scheduling , programmer productivity , programming management , Cobol programming Some Basic Determinants of COMPUTER Programming Productivity The ultimate objective was to develop a technique for predictingthe amount of time necessary to create a COMPUTER program 
+
+CA780606 DH February 26, 1979  11:42 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2798 33  8.451002107698116 BM25
+
+
+Analysis of Interleaved Memory Systems Using Blockage Buffers
+The simulations investigatethe PERFORMANCE of various system structures , i PERFORMANCE is measured by determining the distribution of the number of memorymodules in operation during a memory cycle interleaved memory systems , modular memory systems , memory PERFORMANCE analysis , blockage buffer , conflict buffer , simulation , Monte Carolo simulation 
+
+CA750201 JB January 12,1978  8:54 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0893 34  8.418113578961849 BM25
+
+
+Significance Arithmetic on a Digital Computer
+`` Examples include power series EVALUATION , linear equationssolution , determinant EVALUATION AND matrix inversion Significance Arithmetic on a Digital COMPUTER 
+
+CA630327 JB March 14, 1978  12:47 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2017 35  8.3864514436591 BM25
+
+
+Sorting in a Paging Environment
+sorting , merging , virtual machines , paging systems , dynamicstorage allocation , measurement of systems program behavior , PERFORMANCE EVALUATION , memory management Descriptions of the experimental sort programs AND analysis of the performancemeasurement results obtained for them are presented 
+
+CA700804 JB February 10, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0040 36  8.089962972156147 BM25
+
+
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+The binary number system offers many advantagesover a decimal representation for a high-performance , general-purpose COMPUTER Less obvious AND perhaps more important is the way binary addressing AND instruction formats canincrease the overall PERFORMANCE On the other hand , decimal numbers are essential forcommunicating between man AND the COMPUTER In applications requiring the processing of a large volumeof inherently decimal input AND output data , the time for decimal-binary conversion needed by a purelybinary COMPUTER may be significant 
+
+CA591202 JB March 22, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2679 37  8.017664795802013 BM25
+
+
+Some Performance Tests of "quicksort" and Descendants
+Detailed PERFORMANCE evaluations are presentedfor six ACM algorithms : quicksort ( No Some PERFORMANCE Tests of `` quicksort '' AND Descendants sorting , in-place sorting , sorting efficiency , sorting PERFORMANCE tests , quicksort , quickersort , qsort , Shellsort , stringsort , TREESORT3 , utility sortalgorithm , general-purpose sort algorithm , sorting algorithm documentation 
+
+CA740304 JB January 18, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2902 38  8.004640647968625 BM25
+
+
+Dynamic Memory Allocation in Computer Simulation
+This paper investigates the PERFORMANCE of35 dynamic memory allocation algorithms when used to service simulation programs as represented by 18test cases Algorithm PERFORMANCE was measured interms of processing time , memory usage , AND external memoryfragmentation algorithm PERFORMANCE , dynamic memory allocation , dynamicmemory management , dynamic storage allocation , garbage collection , list processing , memory allocation , memory management , programming TECHNIQUES , simulation , simulation memory management , simulation TECHNIQUES , space allocation , storage allocation Dynamic Memory Allocation in COMPUTER Simulation 
+
+CA771114 JB December 27, 1977  6:09 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2716 39  7.967617843338119 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+Optimizing the PERFORMANCE of a Relational Algebra Database Interface Codd 's relational algebra are presented , anda methodology for composing them to optimize the PERFORMANCE of a particular user query is described The basic idea is to employ automatic programming techniquesso that the interface analyzes AND efficiently refines the high level query specification supplied bythe user 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1518 40  7.928906131399824 BM25
+
+
+An Experimental Model of System/360
+The problem of predicting the PERFORMANCE ofmodern COMPUTER systems is formidable The measures of system performanceproduced by the model consist of statistics relating to turnaround time , throughput , hardware utilization , software utilization , AND queueing processes 
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1973 41  7.914205005249507 BM25
+
+
+The Linear Quotient Hash Code
+Performancedata AND implementation hints are also given 
+
+CA701105 JB February 10, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1267 42  7.894533931583883 BM25
+
+
+Performance of Systems Used for Data TransmissionTransfer Rate of Information Bits -An ASA Tutorial Standard
+PERFORMANCE of Systems Used for Data TransmissionTransfer Rate of Information Bits -An ASA Tutorial Standard Information thruput as a characteristic ofsystems PERFORMANCE is discussed It concludes that a PERFORMANCE characteristic involving information rate can best be expressed as theTRIB in conjunction with the Residual Error Rate 
+
+CA650504 JB March 7, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2765 43  7.8090971229726165 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+Analysis AND PERFORMANCE of Inverted Data Base Structures Formulations are derivedto estimate average access time ( read only ) AND storage requirements , formalizing the interaction of database content characteristics , logical complexity of queries , AND machine timing AND blocking specificationsidentified as having a first-order effect on PERFORMANCE data base architecture , inverted file organization , data base PERFORMANCE AND measurement , secondary index organization , information storage AND retrieval , query answering 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1529 44  7.744993528673448 BM25
+
+
+Decomposition Programming An Analysis of Matrix Substructure 
+In the course of the analysis , a substructurewas discovered which has relevance to the relative PERFORMANCE of the two algorithms AND to theirabsolute PERFORMANCE as compared with a standard primal-Simplex solution without decomposition 
+
+CA671004 JB February 27, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1542 45  7.557067988562048 BM25
+
+
+A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+The system is describedand results are given in terms of microprogram AND main storage space required AND compiler AND interpreterperformance obtained The structure AND content of a higher level language can be matched by an appropriateinterpretive language which can be executed efficiently by microprograms on existing COMPUTER hardware 
+
+CA670904 JB February 27, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2862 46  7.4783308268134325 BM25
+
+
+Analysis of the PFF Replacement Algorithm via a Semi-Markov Model
+An analytical model is presented to estimatethe PERFORMANCE of the Page Fault Frequency ( PFF ) replacement algorithm USING these models to evaluate these parameter values permits studyof the PERFORMANCE of the replacement algorithm by simulating the page fault events rather than everypage reference event This significantly reduces the required computation time in estimatingthe PERFORMANCE of the PFF algorithm 
+
+CA760509 JB January 4, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1032 47  7.465475554565146 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+For searching strategy , a linear model for an EVALUATION functionof relevancy is developed which rewards the system for retrieving relevant documents AND not retrievingthe nonrelevant , AND penalizes the system for the escaped relevant documents AND false drops One is self-organizationof the file based on its history AND past PERFORMANCE , AND the second is a self-generating subsetof the file with a high probability of being relevant 
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2967 48  7.360776095146877 BM25
+
+
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer Graphics
+associative memory , associative processor , content-addressablememory , graphics , information retrieval , data structures , software EVALUATION , hardware EVALUATION , parallel processing , database management A Comparison of Hardware AND Software AssociativeMemories in the Context of COMPUTER Graphics The APLD functionswere duplicated on the TX-2 COMPUTER at M 
+
+CA770505 JB December 29, 1977  2:07 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0462 49  7.320087560052938 BM25
+
+
+Computer Pattern Recognition Techniques: Electrocardiographic Diagnosis
+COMPUTER PATTERN RECOGNITION TECHNIQUES : Electrocardiographic Diagnosis The use of programmed digital computers as generalpattern classification AND RECOGNITION devices is one phase of the current lively interest in artificialintelligence It is important to choose a class of signals which is , at present , undergoing agood deal of visual inspection by trained people for the purpose of PATTERN RECOGNITION In this waycomparisons between machine AND human PERFORMANCE may be obtained 
+
+CA621018 JB March 17, 1978  7:04 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2991 50  7.254521662733096 BM25
+
+
+Improving the Access Time for Random Access Files
+CLUSTERING in the key set is decreased bysmoothing the key-to-address transformation , AND by adding shadow buckets to an open chaining file hashing , hashing TECHNIQUES , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access , directaccess method , randomizing , random access , file addressing , file organizations , file structures , scatterstorage , search method , collisions , synonyms , CLUSTERING , information retrieval , open addressing , openchaining , buckets , bucket size , shadow buckets , combinatorics The combined effects of these techniqueslead to improved file PERFORMANCE for secondary storage devices , as shown by empirical studies 
+
+CA770301 JB December 30, 1977  2:00 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1534 51  7.223323802135393 BM25
+
+
+DAD, The C. Operating System
+Performancefigures based on several months of operation are tabulated The TECHNIQUES found useful in the developmentof DAD are given , AND an assessment is made of the validity of various design decisions 
+
+CA670910 JB February 27, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1689 52  7.20197906070354 BM25
+
+
+Calculation of a Polynomial and its DerivativeValues by Horner Scheme (Algorithm 337 [C1])
+function EVALUATION , polynomial EVALUATION , Algol procedure , Horner 's scheme 
+
+CA680912 JB February 21, 1978  4:33 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2951 53  7.191674807769341 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+Analytical , simulation , AND statistical performanceevaluation tools are employed to investigate the feasibility of a dynamic response time monitorthat is capable of providing comparative response time information for users wishing to process variouscomputing applications at some network computing node Dynamic Response Time Prediction for COMPUTER Networks response time monitor , COMPUTER networks , time-sharingsystems , comparative response time , ARPA network , anlytic modeling , simulation , benchmark jobs , system measurement 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3028 54  7.187651897961473 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+The wider impact of Manchester innovationsin these AND other areas is discussed , AND the contemporary PERFORMANCE of the Mark I AND Atlas is evaluated In 30 years of COMPUTER design at Manchester Universitytwo systems stand out : the Mark I ( developed over the period 1946-49 ) AND the Atlas ( 1955-62 ) This paper places each COMPUTER in its his torical context AND then describes the architecture AND systemsoftware in present-day terminology 
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2976 55  7.175941090724915 BM25
+
+
+Approximating Block Accesses in Database Organizations
+database , inverted file organization , database performanceand measurement , information retrieval , query answering 
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1940 56  7.165677569011756 BM25
+
+
+Calculation of a Polynomial and its DerivativeValues by Horner Scheme (Algorithm 337 [C1])
+function , EVALUATION , polynomial EVALUATION , ALGOL procedure , Horner 's scheme 
+
+CA690109 JB February 20, 1978  11:46 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2298 57  7.157922513828475 BM25
+
+
+An Environment for Research in Microprogramming and Emulation
+The development of the research project inmicroprogramming AND emulation at State University of New York at Buffalo consisted of three phases : theevaluation of various possible machines to support this research ; the decision to purchase one such machine , which appears to be superior to the others considered ; AND the organization AND definition of goalsfor each group in the project microprogramming , emulation , COMPUTER systems , languageprocessors , input-output systems , nano-program , project management , hardware EVALUATION 
+
+CA720804 JB January 30, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1620 58  7.150758513783703 BM25
+
+
+Methods of Evaluating Polynomial Approximationsin Function Evaluation Routines
+Methods of Evaluating Polynomial Approximationsin Function EVALUATION Routines The method of nested multiplication is commonlyused in function EVALUATION routines to evaluate approximation polynomials New polynomial evaluationmethods have been developed in recent years which require fewer multiplications than nested multiplicationand may therefore be preferable for use in function EVALUATION routines 
+
+CA670309 JB February 28, 1978  1:08 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1526 59  7.130895911466181 BM25
+
+
+Multiprogramming under a Page on Demand Strategy
+Analysis of this model is used to predictperformance ( measured by the average usage of the CPU ) when user programs are typical of those arisingfrom an interactive time sharing environment A model of multiprogramming for a particularcomputer system USING a page on demand strategy is developed 
+
+CA671007 JB February 27, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2849 60  7.035175332407728 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Switching of packets to their destinations on the Ether is distributed among the receiving stationsusing packet address RECOGNITION A model for estimating performanceunder heavy loads AND a packet protocol for error controlled communication are included for completeness Ethernet : Distributed Packet Switching for Local COMPUTER Networks The packettransport mechanism provided by Ethernet has been used to build systems which can be viewed as either localcomputer networks or loosely coupled multiprocessors COMPUTER networks , packet switching , multiprocessing , distributed control , distributed computing , broadcast communication , statistical arbitration 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2522 61  7.0309972093458475 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+The Design , Implementation , AND EVALUATION of a Working Set Dispatcher working set , dispatcher , scheduler , time-sharingsystems , resource allocation , software EVALUATION , operating systems , supervisory systems The behavior of a COMPUTER system is largelydependent upon the algorithms employed to allocate the system resources to the processes competing for them This report discusses the design AND implementation of a dispatcher based on the working setprinciple , presents data to permit analysis of its behavior , AND indicates future directions of researchon methods of controlling a COMPUTER system 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2886 62  7.0106032437742005 BM25
+
+
+Semantic Evaluation from Left to Right
+Semantic EVALUATION from Left to Right The paper concentrates on the evaluationof semantic attributes in a few passes from left to right over the derivation tree of a program Practical questions , suchas the relative efficiency of different EVALUATION schemes , AND the ease of adapting the attribute grammarof a given programming language to the left-to-right EVALUATION scheme are discussed attribute grammars , semantics of programming languages , semantic attributes , left-to-right parsing , multipass compilers , semantic EVALUATION , semantic conditions 
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2719 63  6.997327022417753 BM25
+
+
+Mechanical Program Analysis
+One means of analyzing program performanceis by deriving closed-form expressions for their execution behavior analysis of programs , PERFORMANCE analysis , executiontime , execution behavior , difference equations , generating functions , list processing , Lisp , algebraicmanipulation , programming languages , analysis of algorithms 
+
+CA750905 JB January 6, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2720 64  6.947792074748108 BM25
+
+
+Optimal Balancing of I/O Requests to Disks
+disk drive hierarchies , system EVALUATION , input/output , modeling , queueing theory , balancing , scheduling , device assignment Determining a policy for efficient allocationand utilization of a set of disk drives with differing operational characteristics is examined usinganalytical TECHNIQUES 
+
+CA750904 JB January 6, 1978  2:42 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1030 65  6.913474718372755 BM25
+
+
+Techniques for the Simulation of Computer Logic
+The EVALUATION of the Boolean functions whichcharacterize the COMPUTER being simulated constitutes one major portion of a simulation system TECHNIQUES for the Simulation of COMPUTER Logic The simulation of a digital COMPUTER is anintegral part of most COMPUTER design automation systems 
+
+CA640717 JB March 9, 1978  7:42 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1028 66  6.842575429968654 BM25
+
+
+Investigation of a New Analytical Methodfor Numerical Derivative Evaluation
+Investigation of a New Analytical Methodfor Numerical Derivative EVALUATION A recently proposed analytical approach tonumerical derivative EVALUATION is discussed 
+
+CA640802 JB March 9, 1978  7:31 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0096 67  6.74132075525824 BM25
+
+
+On Computing Radiation Integrals
+These methodsare desk machine EVALUATION of a finite series , integration of the appropriate differential equationby a Reeves Electronic Analog COMPUTER AND by a Litton 40 IBM 704 COMPUTER 
+
+CA590205 JB March 22, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1270 68  6.74132075525824 BM25
+
+
+On ALGOL Education: Automatic Grading Programs
+Two ALGOL grader programs are presented forthe COMPUTER EVALUATION of student ALGOL programs There is a statement of the essential properties of a COMPUTER system , in order thatgrader programs can be effectively used 
+
+CA650501 JB March 7, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2217 69  6.7235182108850005 BM25
+
+
+Experiments in Automatic Learning for a Multipurpose Heuristic Program
+MULTIPLE 's proving program ( PP ) uses two EVALUATION functions to guide its search for a proof of whetheror not a particular goal is achievable Thirteen general features of predicate calculus clauses were createdfor use in the automatic learning of better EVALUATION functions for PP Another experiment demonstrated that the learning program could simultaneously improveperformance on problems in a specific domain AND on problems in a variety of domains 
+
+CA710204 JB February 8, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3072 70  6.692556008837979 BM25
+
+
+Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor Computer System
+Even relatively simple dynamicschedulers are shown to improve system PERFORMANCE ( as measured by user CPU time ) over that given by optimalor near-optimal static schedulers imbeded in identical system structures AND workload environments The model studies used both distribution-driven AND trace-driven TECHNIQUES Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor COMPUTER System Model studies of some integrated , feedback-drivenscheduling systems for multiprogrammed- multiprocessor COMPUTER systems are presented 
+
+CA780806 DH February 5, 1979  4:01 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3088 71  6.690784608198006 BM25
+
+
+General Equations for Idealized CPU-I/O Overlap Configurations
+Blocking , buffering , input/output , overlap , PERFORMANCE , resource allocation , throughput , timesharing General equations are derived for estimatingthe maximum possible utilization of main storage partitions , CPU AND I/O devices under different conditionsin an idealized CPU-I/O overlap model of multiprogrammed COMPUTER systems 
+
+CA780609 DH February 8, 1979  4:35 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2669 72  6.6469040423167485 BM25
+
+
+A Simple Linear Model of Demand Paging Performance
+Predicting the PERFORMANCE of a proposed automaticallymanaged multilevel memory system requires a model of the patterns by which programs refer to theinformation stored in the memory The simplemodel combines the effect of the information reference PATTERN with the effect of the automatic managementalgorithm to produce a single , composite statement : the mean number of memory references betweenpaging exceptions increases linearly with the size of the paging memory A Simple Linear Model of Demand Paging PERFORMANCE paging , demand paging , memory models , program models , PERFORMANCE measurement , multilevel memory systems , virtual memory , associative memory , memory usage accounting , Multics 
+
+CA740401 JB January 18, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3187 73  6.624221824272529 BM25
+
+
+   Certification of Algorithm 271 (QUICKERSORT)
+Comparison of average sorting items with other recentlypublished algorithms demonstrates QUICKERSORT 's superior PERFORMANCE 
+
+CA660516 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0591 74  6.611975489587421 BM25
+
+
+Evaluation of Asymptotic Expression for theFresnel Sine and Cosine Integrals (Algorithm 88)
+EVALUATION of Asymptotic Expression for theFresnel Sine AND Cosine Integrals ( Algorithm 88 ) 
+
+CA620514 JB March 20, 1978  1:37 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2016 75  6.596935466342488 BM25
+
+
+The Instrumentation of Multics
+instrumentation , PERFORMANCE measurement , multiprogramming systems , measuring tools , system analysis , Multics , metering , event tracing , demand paging , script drivenmeasurement An array of measuring tools devised to aid in the implementation of a prototypecomputer utility is discussed 
+
+CA700805 JB February 10, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2203 76  6.581553833244427 BM25
+
+
+Key-to-Address Transform Techniques: A FundamentalPerformance Study on Large Existing Formatted Files
+Key-to-Address Transform TECHNIQUES : A FundamentalPerformance Study on Large Existing Formatted Files The PERFORMANCE ofeach method is summarized in terms of the number of accesses required to get to a record AND the numberof overflow records created by a transformation hashing , hashing TECHNIQUES , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access method , randomizing , random access , file addressing , file organizations , file structures , scatter storage , search , collisions , clusters , information retrieval 
+
+CA710402 JB February 3, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1926 77  6.580906808287688 BM25
+
+
+Description of FORMAT, a Text-Processing Program
+It features good PERFORMANCE , totally free-form input , very flexible formatting capabilitiesincluding up to eight columns per page , automatic capitalization , aids for index construction , AND aminimum of nontext items FORMAT is a production program which facilitatesthe editing AND printing of `` finished '' documents directly on the printer of a relatively small ( 64k ) computersystem 
+
+CA690301 JB February 20, 1978 9:45 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3020 78  6.572202688696551 BM25
+
+
+Systematic Recursion Removal
+Our PERFORMANCE comparison results are presentedand our conclusions are briefly discussed The aim is to demonstratesystematic recursion-removal TECHNIQUES on something more complex than Knuth 's `` sturdy toddler '' AND to obtain measurements of the cost of procedure linkage in PL/I AND the savings achievable via procedureintegration in the presence of recursion 
+
+CA780203 JB March 28, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2859 79  6.543334597615604 BM25
+
+
+Interference in Multiprocessor Computer Systems with Interleaved Memory
+The modelresults provide a good indication of the PERFORMANCE that should be expected from real system of this type Interference in Multiprocessor COMPUTER Systems with Interleaved Memory 
+
+CA760603 JB January 4, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0671 80  6.5321808115978675 BM25
+
+
+TELEFILE-A Case Study of an On-Line Savings Bank Application
+Operation of the on-lineand off-line programs are described AND statistics are cited for reliability AND PERFORMANCE of the system The development of an on-line COMPUTER systemfor a savings bank institution is traced from the early conceptual needs of the bank to the consummationof design by The Teleregister Corporation 
+
+CA631203 JB March 13, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3044 81  6.4247605247822515 BM25
+
+
+A Note on Conditional Expressions
+EVALUATION of a conditional expression may succeedeven when the `` deciding predicate '' diverges AND the alternatives are records ( or nodes ) whose fields have different content Parallel EVALUATION , suspending cons , Lisp , conditionalforms , if-then-else , ambiguous function , infinite structures 
+
+CA781107 DH January 26, 1979  10:44 AM 
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1536 82  6.34253294288857 BM25
+
+
+Dynamic Computation of Derivatives
+EVALUATION of a function AND derivative proceed inparallel , as in Wengert 's procedure , but with the `` imaginary '' parts of variables declared complex bearingthe values of the derivatives of the real parts This technique provides a simple way to compute thederivatives of a function , without the need for deriving AND programming the EVALUATION ofexplicit formulas for the derivatives 
+
+CA670908 JB February 27, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2151 83  6.309641642437106 BM25
+
+
+User Program Measurement in a Time-Shared Environment
+operating systems , multiprogramming systems , time-sharingsystems , software measurement , user program measurement , measurement technology , TX-2 COMPUTER , virtual computers , PERFORMANCE improvement The TX-2 COMPUTER at MIT Lincoln Laboratory was used for the implementationof such a system AND the characteristics of this implementation are reported 
+
+CA711005 JB February 2, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3176 84  6.2212576555406205 BM25
+
+
+Storing a Sparse Table
+The standard technique for storing such tables ishashing , but hashing has poor worst-case PERFORMANCE The problem of storing AND searching large sparse tables is ubiquitous in COMPUTER science 
+
+CA791104 DB January 23, 1980  11:24 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2494 85  6.206978053198867 BM25
+
+
+A Computer Generated Aid for Cluster Analysis
+The plots , applied to a data matrix before clusteringand to the rearranged matrix after CLUSTERING , show at a glance whether CLUSTERING brought forth anydistinctive clusters COMPUTER graphics , cluster analysis , numericaltaxonomy , hierarchical CLUSTERING , factor analysis A COMPUTER Generated Aid for Cluster Analysis A COMPUTER generated graphic method , whichcan be used in conjunction with any hierarchical scheme of cluster analysis , is described AND illustrated The graphic principle used is the representation of the elements of a data matrix of similarities or dissimilaritiesby COMPUTER printed symbols ( of character overstrikes ) of various shades of darkness , where adark symbol corresponds to a small dissimilarity 
+
+CA730606 JB January 23, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2317 86  6.205436605676956 BM25
+
+
+Programming Systems and Languages 1965-1975
+Important trends include the increased interest in the development ofsystem measurement AND EVALUATION TECHNIQUES , AND increased use of microprogramming for some programming system functions In the operating system area all major COMPUTER manufacturers set out to produce very ambitious multiprogrammingsystems , AND they all ran into similar problems 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1278 87  6.1850182891747565 BM25
+
+
+Wengert's Numerical Method for Partial Derivatives,Orbit Determination and Quasilinearization
+Wengert suggested a technique for machine EVALUATION of the partial derivatives of a functiongiven in analytical form 
+
+CA650413 JB March 7, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2852 88  6.172508175255519 BM25
+
+
+The Technology of Computer Center Management: AProposed Course for Graduate Professional Programs in Computer Science or in Information Systems
+education , information systems administration , computercenter management , COMPUTER system PERFORMANCE The Technology of COMPUTER Center Management : AProposed Course for Graduate Professional Programs in COMPUTER Science or in Information Systems McFarlan AND Nolan have made a strong case foradding a course on information systems administration to the 13 courses proposed by the ACM Curriculum Committeeon COMPUTER Education for Management for Graduate Professional Programs in Information Systems This paperis a report on a course entitled , `` The Technology of COMPUTER Center Management , '' which has been offeredat Purdue for the past four years The course is suitable either for graduate professional programsin information systems or for graduate professional programs in COMPUTER science 
+
+CA760701 JB January 4, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-0436 89  6.168400897833919 BM25
+
+
+Evaluation of Polynomials by Computer
+EVALUATION of Polynomials by COMPUTER 
+
+CA621203 JB March 17, 1978  5:16 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2048 90  6.132727097472115 BM25
+
+
+Comparison of Several Adaptive Newton-Cotes Quadrature Routinesin Evaluating Definite Integrals with Peaked Integrands
+adaptive Newton-Cotes quadrature , quadrature scheme comparison , definite integral EVALUATION , adaptive numerical in tegration , Newton-Cotes integration , peaked integrand integration , quadrature efficientlyplot , New-Cotes rules applications , Newton-Cotes rules modifications This report compares the PERFORMANCE of five different adaptive quadrature schemes , based on Newton-Cotes ( 2N + 1 ) point rules ( N = 1 , 2 , 3 , 4 , 5 ) , inapproximating the set of definite integrals INTEGRAL $ 1/ ( x^2 + p^2 ) ) dx with relative accuracy e 
+
+CA700607 JB February 13, 1978  11:08 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3136 91  6.123735832683245 BM25
+
+
+Price/Performance Patterns of U. Computer Systems
+Price/Performance Patterns of U COMPUTER market have been developed to study the relationships between system price AND hardware PERFORMANCE Singlemeasures of price/performance such as `` Grosch 's Law '' are shown tobe so over simplified as to be meaningless Price/performance , Grosch 's law , U COMPUTER Systems On one hand thereexists a stable , price predictable market for larger , generalpurpose COMPUTER systems The other market is the developing onefor small business COMPUTER systems , a market which is relativelyunstable with low price predictability COMPUTER market 
+
+CA790402 DH May 21, 1979  1:09 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-3058 92  6.092703290649988 BM25
+
+
+Jump Searching: A Fast Sequential Search Technique
+Multiple level AND variable size jump strategies are explored , appropriate applicationsare discussed AND PERFORMANCE is evaluated 
+
+CA781003 DH January 29, 1979  6:15 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1029 93  6.082349817750324 BM25
+
+
+A Simple Automatic Derivative Evaluation Program
+A Simple Automatic Derivative EVALUATION Program A procedure for automatic EVALUATION of total/partialderivatives of arbitrary algebraic functions is presented A library of elementary function subroutines is providedfor the automatic EVALUATION AND differentiation of these new variables 
+
+CA640801 JB March 9, 1978  7:38 PM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1699 94  6.070631920647362 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+Experimental EVALUATION of InformationRetrieval Through a Teletypewriter Factors involved in EVALUATION of such a system include ease of use , learning time , andeffectiveness of actual retrieval information retrieval testing , information systemevaluation , experimental document retrieval , document retrieval , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , symbolic command language , interactive systems , user learning factors , on-line searching 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2734 95  6.040346475310216 BM25
+
+
+On the External Storage Fragmentation Producedby First-Fit and Best-Fit Allocation Strategies
+Through simulation , a series of experiments were performed in order to obtain better data on the relative PERFORMANCE offirst-fit AND best-fit AND a better understanding of the reasons underlying observed differences Results of simulation experiments supported this hypothesis AND showed that the relativeperformance of first-fit AND best-fit depends on the frequency of request 
+
+CA750801 JB January 9, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2454 96  6.010164688537545 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+Implementation considerationssuch as storage allocation strategies AND order of EVALUATION are examined in some detail The computational algorithms are based on two-dimensionaliterative TECHNIQUES which are highly efficient AND quite simple to implement 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2451 97  5.973498152039919 BM25
+
+
+Design of Tree Structures for Efficient Querying
+tree file , information storage AND retrieval , CLUSTERING , search , data structure , data management , query answering On the other hand , it is potentially useful for the comparison it affords between observedperformance AND that of an intuitively attractive ideal search procedure Theproblem is academic in the sense that ordinarily the optimal tree can not be implemented by means of practicaltechniques 
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-1750 98  5.957128099118522 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+The use of large quantities of addressable ( but not executable ) fast random access memory to heighten the multiprogramming PERFORMANCE of a multicomputer systemis discussed Considerations in the Design of a MultipleComputer System with Extended Core Storage In the generalization of such a design , special emphasis isplaced on estimating expected gains when compared with the traditional configuration of separate AND independentcomputers without extended core storage multiple COMPUTER systems , extended core storage , multiprogrammed operating systems , multiprocessor operating systems , control data corporation 6600 , operating system with ECS 
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2601 99  5.95549626176305 BM25
+
+
+Evaluation of the Modified Bessel Functions K0(Z)and K1(Z) for Complex Arguments [S17] (Algorithm A484)
+EVALUATION of the Modified Bessel Functions K0 ( Z ) AND K1 ( Z ) for Complex Arguments [ S17 ] ( Algorithm A484 ) 
+
+CA740907 JB January 17, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+42 Q0 CACM-2683 100  5.9341607335623285 BM25
+
+
+The Synthesis of Loop Predicates
+Two classesof TECHNIQUES are considered : ( 1 ) heuristic methods which derive loop predicates from boundary conditionsand/or partially specified inductive assertions : ( 2 ) extraction methods which use input predicates andappropriate weak interpretations to obtain certain classes of loop predicates by an EVALUATION on the weak interpretation This paper discusses TECHNIQUES for mechanically synthesizing loop predicates 
+
+CA740206 JB January 18, 1978  12:55 PM 
+
+

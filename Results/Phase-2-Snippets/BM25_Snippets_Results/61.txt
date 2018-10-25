@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+61 Q0 CACM-2711 1  32.14720282341114 BM25
+
+
+A Vector Space Model for Automatic Indexing
+SALTON , G A VECTOR Space Model for Automatic Indexing 
+
+CA751101 JB January 6, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2307 2  29.87719332050996 BM25
+
+
+Dynamic Document Processing
+SALTON , G automatic indexing , automatic search and retrieval , iterative searching , mechanized library processing , collection growth , collection retirement , FEEDBACK search 
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1927 3  29.386321044669373 BM25
+
+
+Information Science in a Ph. Computer Science Program
+SALTON , G 
+
+CA690211 JB February 20, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1457 4  28.82635455152337 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+SALTON , G 
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0634 5  28.17357532421411 BM25
+
+
+Manipulation of Trees in Information Retrieval*
+SALTON , G 
+
+CA620209 JB March 20, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1236 6  26.575031818566625 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+SALTON , G 
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3134 7  25.525019342291795 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+Moreover this method incorporates an improved modification of the INVERTED file technique Information retrieval , INVERTED files , multiattribute retrieval , multilist file , normal multiplication table , queries , rapid retrieval , space economy 
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2990 8  24.572188774997073 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+SALTON , G 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2114 9  23.581253732009504 BM25
+
+
+A Formal System for Information Retrieval from Files
+A generalized file structure is providedby which the concepts of keyword , index , record , file , directory , file structure , directory decoding , and record retrieval are definedand from which some of the frequently used file structures suchas INVERTED files , index-sequential files , and multilist files arederived attribute-value pair , index , keyword , record , record address , K-pointer , K-list , file , directory , generalized filestructure , INVERTED file , index-sequential-file , multilist file , description , file search , directory search , serial processing oflists , prime keyword , parallel processing of lists 
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2140 10  23.107197266020975 BM25
+
+
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+file organization , combined index files , invertedfiles , information retrieval , query , multi-attribute retrieval , file update 
+
+CA711203 JB February 2, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2631 11  21.497950022899083 BM25
+
+
+An Information-Theoretic Approach toText Searching in Direct Access Systems
+Using direct access computer files of bibliographicinformation , an attempt is made to overcome one of the problems often associated with informationretrieval , namely , the maintenance and use of large dictionaries , the greater part of which is used onlyinfrequently text searching , information theory , file organization , direct access , information retrieval , character string , bit VECTOR 
+
+CA740615 JB January 17, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1935 12  21.296893796315953 BM25
+
+
+Randomized Binary Search Technique
+
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2451 13  21.257031712434422 BM25
+
+
+Design of Tree Structures for Efficient Querying
+tree file , information storage and retrieval , CLUSTERING , search , data structure , data management , query answering As a practical applicationof such a model this paper considers the design of a novel tree search scheme based on a bit VECTOR representationof data and shows that essentially the same algorithm can be used to design either an idealsearch tree or a bit-vector tree 
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2160 14  20.058991006067025 BM25
+
+
+Canonical Structure in Attribute Based File Organization
+address calculation , atoms of Boolean algebra , attributes , Boolean functions , Boolean queries , file organization , information retrieval , invertedfile , key words , multilist , queries , searches 
+
+CA710904 JB February 2, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1830 15  19.962170769577522 BM25
+
+
+Retrieval Times for a Packed Direct Access Inverted File
+Retrieval Times for a Packed Direct Access INVERTED File information retrieval , direct access memory , data base , INVERTED list 
+
+CA691016 JB February 15, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2882 16  19.3709494224864 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+These data retrieval systems canbe organized under several database organizations , including INVERTED list , threaded list , and cellularlist organizations and hybrid combinations of these systems 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0239 17  19.122325998097065 BM25
+
+
+Inefficiency of the Use of Boolean Functionsfor Information Retrieval Systems
+
+
+CA611211 JB March 15, 1978  10:10 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1699 18  18.67552818073166 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2561 19  18.65563086433724 BM25
+
+
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+The procedures make useof a similarity structure which is imposed on the data base using nonnumerical CLUSTERING algorithms inference , inductive inference , CLUSTERING , fact retrieval , heuristics 
+
+CA741213 JB January 13, 1978  3:40 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1976 20  18.627815091090845 BM25
+
+
+Multi-attribute Retrieval with Combined Indexes
+In this paper a file organization scheme designed toreplace the use of the popular secondary index filing scheme ( or INVERTED files on secondary key fields ) is described file organization , secondary index files , INVERTED files , informationretrieval , data management , access method , secondary keys , storage with buckets , rapid retrieval , balanced filing scheme , eliminationof false drops , combining indexes , query , multi-attribute retrieval 
+
+CA701102 JB February 10, 1978  9:00 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2288 21  18.603777088124996 BM25
+
+
+File Organization: The Consecutive Retrieval Property
+
+
+CA720902 JB January 27,1978  4:52 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2516 22  18.153898826400038 BM25
+
+
+Hierarchical Storage in Information Retrieval
+
+
+CA730504 JB January 24, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2991 23  17.584016587167135 BM25
+
+
+Improving the Access Time for Random Access Files
+CLUSTERING in the key set is decreased bysmoothing the key-to-address transformation , and by adding shadow buckets to an open chaining file hashing , hashing techniques , hashing methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access , directaccess method , randomizing , random access , file addressing , file organizations , file structures , scatterstorage , search method , collisions , synonyms , CLUSTERING , information retrieval , open addressing , openchaining , buckets , bucket size , shadow buckets , combinatorics 
+
+CA770301 JB December 30, 1977  2:00 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2278 24  17.504117336257522 BM25
+
+
+On Foster's Information Storage and Retrieval Using AVL Trees
+
+
+CA720912 JB January 27, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2746 25  17.48794210201751 BM25
+
+
+Efficient String Matching: An Aid to Bibliographic Search
+Efficient String Matching : An Aid to BIBLIOGRAPHIC Search The algorithm has been used to improve the speed of a library bibliographicsearch program by a factor of 5 to 10 keywords and phrases , string pattern matching , bibliographicsearch , information retrieval , text-editing , finite state machines , computational complexity 
+
+CA750607 JB January 9, 1978  1:03 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1681 26  17.34423823933312 BM25
+
+
+Easy English,a Language for InformationRetrieval Through a Remote Typewriter Console
+
+
+CA681006 JB February 21, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1194 27  16.998042847195425 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+The Main Catalog is used to describe the documents , and INVERTED lists are provided by the Repository system for retrieval by concept coordination 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2965 28  16.720988999815745 BM25
+
+
+An Optimal Evaluation of Boolean Expressions in an Online Query System
+
+
+CA770507 JB December 29, 1977  1:51 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2976 29  16.67554096569336 BM25
+
+
+Approximating Block Accesses in Database Organizations
+database , INVERTED file organization , database performanceand measurement , information retrieval , query answering 
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3168 30  16.617873973669504 BM25
+
+
+Comment on "An Optimal Evaluation of BooleanExpressions in an Online Query System."
+
+
+CA791001 DB January 16, 1980  4:50 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0891 31  16.500532342287247 BM25
+
+
+Everyman's Information Retrieval System
+
+
+CA630329 JB March 14, 1978  12:37 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3169 32  16.415539403594888 BM25
+
+
+Note on "An Optimal Evaluation of Boolean Expressions in an Online Query System."
+
+
+CA791002 DB January 16, 1980  4:52 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2947 33  16.30579090030033 BM25
+
+
+SITAR: An Interactive Text Processing System for Small Computers
+SITAR , a low-cost in teractive text handlingand text analysis system for nontechnical users , is in many ways comparable to in teractive bibliographicalsearch and retrieval systems , but has several additional features information retrieval , text editing , minicomputers , CRTs , time sharing , BIBLIOGRAPHIC search and retrieval , literary analysis , linguistic analysis , command languages 
+
+CA770705 JB December 28, 1977  10:20 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3012 34  16.288837430465357 BM25
+
+
+The Use of an Interactive Information Storageand Retrieval System in Medical Research
+
+
+CA780301 JB March 28, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1032 35  15.917995759105104 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2765 36  15.479266038679668 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+Analysis and performance of INVERTED Data Base Structures The INVERTED data base ( file ) organizationis then analyzed , considering implementation oriented aspects The INVERTED directory is viewed realisticallyas another large data base which itself is subjected to inversion data base architecture , INVERTED file organization , data base performance and measurement , secondary index organization , information storage and retrieval , query answering 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2070 37  15.305851769867385 BM25
+
+
+A Formal System for Information Retrieval from Files
+
+
+CA700414 JB February 13, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2437 38  14.7297530215805 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2258 39  14.56879260967116 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2519 40  14.233209424201744 BM25
+
+
+On the Problem of Communicating Complex Information
+
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1725 41  14.232361897606209 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2493 42  14.206449162867287 BM25
+
+
+Optimum Data Base Reorganization Points
+
+
+CA730607 JB January 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2978 43  14.169442764571173 BM25
+
+
+Analysis of Design Alternatives for Virtual Memory Indexes
+
+
+CA770404 JB December 29, 1977  5:22 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2916 44  14.121849293825518 BM25
+
+
+A Fast String Searching Algorithm
+BIBLIOGRAPHIC search , computational complexity , information retrieval , linear time bound , pattern matching , text editing 
+
+CA771010 JB December 27, 1977  9:43 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1700 45  14.073343090851193 BM25
+
+
+PEEKABIT, Computer Offspring of PunchedCard PEEKABOO, for Natural Language Searching
+
+
+CA680901 JB February 22, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0944 46  13.950818303571994 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2722 47  13.826580651682281 BM25
+
+
+Multidimensional Binary Search Trees Used for Associative Searching
+
+
+CA750902 JB January 6, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2688 48  13.649882497718592 BM25
+
+
+Attribute Based File Organization in a Paged Memory Environment
+The high cost of page accessing implies a needfor more careful data organization in a paged memory than is typical of most INVERTED file and similarapproaches to multi-key retrieval file organization , paging , retrieval algorithm , INVERTED file , multiple key hashing 
+
+CA740201 JB January 18, 1978  1:37 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1359 49  13.571024708499158 BM25
+
+
+Data Filtering Applied to Information Storage and Retrieval Applications
+
+
+CA661101 JB March 2, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0440 50  13.477104228423038 BM25
+
+
+Record Linkage
+
+
+CA621121 JB March 17, 1978  5:51 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1514 51  13.45905943191464 BM25
+
+
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+
+
+CA671106 JB February 26, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2203 52  13.369546250207428 BM25
+
+
+Key-to-Address Transform Techniques: A FundamentalPerformance Study on Large Existing Formatted Files
+
+
+CA710402 JB February 3, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2455 53  13.358728400723606 BM25
+
+
+A Generalization of AVL Trees
+
+
+CA730819 JB January 23, 1978  10:13 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2547 54  13.278224729700717 BM25
+
+
+Representation of Contours ad Regions for Efficient Computer Search
+
+
+CA730201 JB January 24, 1978  3:30 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2484 55  13.267061533688615 BM25
+
+
+A Note on Information Organization and Storage
+
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2846 56  13.232812717441966 BM25
+
+
+Compressed Tries
+
+
+CA760707 JB January 4, 1978  12:26 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2575 57  13.16336831256987 BM25
+
+
+The Best-Match Problem in Document Retrieval
+document retrieval , best match , CLUSTERING , filesearching , matching , dissimilarity , hierarchy , classification 
+
+CA741109 JB January 16, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0651 58  13.096072696632405 BM25
+
+
+A Survey of Languages and Systems for Information Retrieval
+
+
+CA620108 JB March 20, 1978  4:36 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1652 59  12.924125743454145 BM25
+
+
+A Code for Non-numeric Information ProcessingApplications in Online Systems
+
+
+CA670103 JB March 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0397 60  12.882831633231639 BM25
+
+
+A Card Format for Reference Files in Information Processing
+Since this card format is sufficient to identify the materialnormally associated with reference files for books , ARTICLES , programming terms , hardware terms , equipment , machine systems , abbreviations , ETC 
+
+CA610201 JB March 17, 1978  1:08 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2139 61  12.876042144021813 BM25
+
+
+Implementation of the Substring Test by Hashing
+
+
+CA711204 JB February 2, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3129 62  12.696719382273535 BM25
+
+
+Optimal Storage Allocation for Serial Files
+Each transaction ( or job ) generates a demand VECTOR which designates the space required in each file for record addition 
+
+CA790208 DH April 12, 1979  10:34 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1808 63  12.691567394558849 BM25
+
+
+Advanced Cryptographic Techniques for Computers
+
+
+CA691204 JB February 15, 1978  4:20 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1271 64  12.66302833757311 BM25
+
+
+Secondary Key Retrieval Using an IBM 7090-1301 System
+
+
+CA650420 JB March 7, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1627 65  12.658659082789494 BM25
+
+
+Application of Level Changing to a Multilevel Storage Organization
+
+
+CA670302 JB February 28, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2530 66  12.517253613096504 BM25
+
+
+An Algorithm for Extracting Phrases ina Space-Optimal Fashion [Z] (Algorithm A444)
+
+
+CA730309 JB January 24, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2033 67  12.440327452402334 BM25
+
+
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+
+
+CA700704 JB February 13, 1978  9:18 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2987 68  12.386204835151252 BM25
+
+
+Representation of Many-Sided Polygonsand Polygonal Lines for Rapid Processing
+
+
+CA770305 JB December 30, 1977  12:44 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2968 69  12.354597895916628 BM25
+
+
+A Comparison of Tree-Balancing Algorithms
+
+
+CA770504 JB December 29, 1977  2:16 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2109 70  12.279333556668513 BM25
+
+
+The Use of Quadratic Residue Research
+A quadratic residue search method has previously been suggestedto avoid the CLUSTERING usually encountered when hash address collisionsoccur and linear search methods are used quadratic residue , search method , hash addressing , addressclustering , scatter storage , file searching , fileaddressing , hash coding , quadratic search , random search , storage layout , searching 
+
+CA700206 JB February 14, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1937 71  12.263394117416277 BM25
+
+
+CODAS: A Data Display System
+
+
+CA690201 JB February 20, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1527 72  12.232763594953628 BM25
+
+
+A Grammar Base Question Answering Procedure
+
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1680 73  12.150884661550625 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1916 74  12.08060522318959 BM25
+
+
+Analysis of Boolean Program Models for Time-Shared, Paged Environments
+
+
+CA690401 JB February 17, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2832 75  12.036710135833388 BM25
+
+
+Faster Retrieval from Context Trees (Corrigendum)
+
+
+CA760907 JB January 4, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2623 76  12.020884225212285 BM25
+
+
+A New Technique for Compression and Storage of Data
+
+
+CA740801 JB January 17, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2388 77  11.968189866675303 BM25
+
+
+Optimizing Binary Trees Grown With a Sorting Algorithm
+
+
+CA720203 JB January 31, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2795 78  11.939378187244468 BM25
+
+
+Sentence Paraphrasing from a Conceptual Base
+
+
+CA750204 JB January 12, 1978  8:43 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2141 79  11.916459471442028 BM25
+
+
+Algorithmic Selection of the BestMethod for Compressing Map Data Strings
+
+
+CA711202 JB February 2, 1978  10:23 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2046 80  11.744693506963173 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+
+
+CA700609 JB February 13, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0275 81  11.740631116173933 BM25
+
+
+Dynamic Storage Allocation for an Information Retrieval System
+
+
+CA611006 JB March 16, 1978  12:58 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1456 82  11.624361999865464 BM25
+
+
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+
+
+CA660316 JB March 3, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2358 83  11.612539410961256 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3041 84  11.600746839440935 BM25
+
+
+Median Split Trees: A Fast Lookup Technique for Frequently Occuring Keys
+
+
+CA781110 DH January 25, 1979  9:49 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1675 85  11.505998150644086 BM25
+
+
+A Note on a Relevance Estimate and Its Improvement
+
+
+CA681104 JB February 21, 1978  2:57 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2251 86  11.475603605356039 BM25
+
+
+Weighted Increment Linear Search for Scatter Tables
+It allows full table searching , and practically eliminates primary CLUSTERING at a very low cost linear search , weighted increment search , scatterstorage , hash table , key , hash address , CLUSTERING , search length 
+
+CA721204 JB January 27, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3084 87  11.452593697719408 BM25
+
+
+Interpolation Search -A Log LogN Search
+
+
+CA780704 DH February 7, 1979  4:50 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2781 88  11.436972053073358 BM25
+
+
+The Algorithm Sequential Access Method:An Alternative to Index Sequential
+
+
+CA750307 JB January 9, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2870 89  11.43558970716082 BM25
+
+
+A Lattice Model of Secure Information Flow
+
+
+CA760501 JB January 4, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1210 90  11.388386617321029 BM25
+
+
+File-Handling Within FORTRAN
+
+
+CA650814 JB March 6, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0655 91  11.347325068808082 BM25
+
+
+COMIT as an IR Language
+
+
+CA620104 JB March 20, 1978  4:46 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2728 92  11.259718618094764 BM25
+
+
+Consecutive Storage of Relevant Records with Redundancy
+Redundancies obtained by the application of these theoremsare compared with that of query-inverted file organizations 
+
+CA750807 JB January 6, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3135 93  11.242752461198133 BM25
+
+
+Detection of Three-Dimensional Patterns of Atoms in Chemical Structures
+
+
+CA790401 DH May 21, 1979  10:50 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-3137 94  11.237674036128137 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1506 95  11.229944805737762 BM25
+
+
+The LACONIQ Monitor: Time Sharing for Online Dialogues
+
+
+CA671202 JB February 26, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2532 96  11.145428693024073 BM25
+
+
+On Harrison's Substring Testing Technique
+
+
+CA730307 JB January 24, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2032 97  11.12083999676576 BM25
+
+
+File Structures Using Hashing Functions
+
+
+CA700705 JB February 13, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-2018 98  11.078032776530055 BM25
+
+
+Full Table Quadratic Searching for Scatter Storage
+The quadratic residue search method for hash tables avoids muchof the CLUSTERING experienced with a linear search method quadratic residue , search method , hash tables , scatter storage , dictionary look-up , quadratic search , searching , hashing , hash code , CLUSTERING , collisions 
+
+CA700803 JB February 10, 1978  3:57 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-0292 99  10.986297052235518 BM25
+
+
+An Information Retrieval Language for Legal Studies
+
+
+CA610902 JB March 16, 1978  9:51 PM
+
+
+--------------------------------------------------------------
+61 Q0 CACM-1831 100  10.986297052235518 BM25
+
+
+A Comment on Optimal Tree Structures
+
+
+CA691015 JB February 15, 1978  1:31 PM
+
+

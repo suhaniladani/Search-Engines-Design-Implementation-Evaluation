@@ -1,0 +1,66 @@
+Map for System proximity with stopping 0.20306489624452473
+
+Average Precision for query id 1  is 0.23657894736842106
+Average Precision for query id 10  is 0.31820224195614644
+Average Precision for query id 11  is 0.3594368389901631
+Average Precision for query id 12  is 0.3533893557422969
+Average Precision for query id 13  is 0.42884297520661163
+Average Precision for query id 14  is 0.09794031122053819
+Average Precision for query id 15  is 0.09246096291476903
+Average Precision for query id 16  is 0.19723350360605263
+Average Precision for query id 17  is 0.1737836386899976
+Average Precision for query id 18  is 0.030243221690590114
+Average Precision for query id 19  is 0.31309333940912887
+Average Precision for query id 2  is 1.0
+Average Precision for query id 20  is 0.6936936936936937
+Average Precision for query id 21  is 0.06572736159246423
+Average Precision for query id 22  is 0.029934640522875814
+Average Precision for query id 23  is 0.30833333333333335
+Average Precision for query id 24  is 0.16591715976331362
+Average Precision for query id 25  is 0.10214469776251796
+Average Precision for query id 26  is 0.09790523686488803
+Average Precision for query id 27  is 0.10900787018814828
+Average Precision for query id 28  is 0.5684848484848485
+Average Precision for query id 29  is 0.2632100635695962
+Average Precision for query id 3  is 0.020282186948853614
+Average Precision for query id 30  is 0.04791666666666666
+Average Precision for query id 31  is 0.08888888888888888
+Average Precision for query id 32  is 0.06
+Average Precision for query id 33  is 0.0
+Average Precision for query id 34 cannot be found 
+Average Precision for query id 35 cannot be found 
+Average Precision for query id 36  is 0.045553395770267784
+Average Precision for query id 37  is 0.2066049695740365
+Average Precision for query id 38  is 0.08423375440966059
+Average Precision for query id 39  is 0.20138547499215978
+Average Precision for query id 4  is 0.11614789196310936
+Average Precision for query id 40  is 0.3697964002494877
+Average Precision for query id 41 cannot be found 
+Average Precision for query id 42  is 0.033830233200461836
+Average Precision for query id 43  is 0.0771386611977205
+Average Precision for query id 44  is 0.16265823394539605
+Average Precision for query id 45  is 0.09850147280547329
+Average Precision for query id 46 cannot be found 
+Average Precision for query id 47 cannot be found 
+Average Precision for query id 48  is 0.06858042010663915
+Average Precision for query id 49  is 0.1465909090909091
+Average Precision for query id 5  is 0.04577763769918025
+Average Precision for query id 50 cannot be found 
+Average Precision for query id 51 cannot be found 
+Average Precision for query id 52 cannot be found 
+Average Precision for query id 53 cannot be found 
+Average Precision for query id 54 cannot be found 
+Average Precision for query id 55 cannot be found 
+Average Precision for query id 56 cannot be found 
+Average Precision for query id 57  is 1.0
+Average Precision for query id 58  is 0.12051549577727044
+Average Precision for query id 59  is 0.06692646144118707
+Average Precision for query id 6  is 0.11651469098277607
+Average Precision for query id 60  is 0.0787607415490015
+Average Precision for query id 61  is 0.258087074919721
+Average Precision for query id 62  is 0.03565027988443481
+Average Precision for query id 63  is 0.38489774114774117
+Average Precision for query id 64  is 0.0
+Average Precision for query id 7  is 0.23064647791441248
+Average Precision for query id 8  is 0.054945054945054944
+Average Precision for query id 9  is 0.3329791460743842

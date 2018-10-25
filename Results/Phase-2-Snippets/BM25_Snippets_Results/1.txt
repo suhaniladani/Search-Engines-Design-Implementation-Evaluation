@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+1 Q0 CACM-1657 1  27.108435861960743 BM25
+
+
+Implementation of the SHARER2 Time-Sharing System
+Implementation of the SHARER2 Time-Sharing System An improved version of the SHARER time-sharing system using this feature is described OPERATING system , memory protection , time-sharing , multiprogramming , monitor , submonitor , suboperating system This allows such a program to act as asuboperating system 
+
+CA681209 JB February 21, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1938 2  25.52135640755931 BM25
+
+
+Some Criteria for Time-Sharing System Performance
+Some Criteria for Time-Sharing System Performance Time-sharing systems , as defined in this article , are those multiaccess systems WHICH permit a terminal user to utilize essentially the full resourcesof the system while SHARING its TIME WITH other terminal users It is each terminal user 's abilityto utilize the full resources of the system that makes quantitative evaluation of time-sharing systemsparticularly difficult Six criteria are described WHICH have been successfully used to perform first-levelquantitative time-sharing system performance evaluation time-sharing performance criteria , time-sharingsystem operation , time-sharing performance analysis 
+
+CA690111 JB February 20, 1978  11:37 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1410 3  24.009755936746394 BM25
+
+
+Interarrival Statistics for Time Sharing Systems
+This paper provides a statistical description of the user input process in the SDC-ARPA general-purposeTime-Sharing System ( TSS ) Interarrival Statistics for TIME SHARING Systems The optimization of time-shared system performancerequires the description of the stochastic processes governing the user inputs and the program activity The input process is assumed to be stationary , and to be defined by theinterarrival TIME distribution The data obtained appear to justify satisfactorily the common assumptionthat the interarrival times are serially independent The data do not appear to justify , except as a veryrough approximation , the usual assumption off an exponential distribution for interarrival TIME 
+
+CA660704 JB March 2, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1605 4  23.982544876027152 BM25
+
+
+An Experimental Comparison of Time Sharing and Batch Processing
+The effectiveness for program developmentof the MIT Compatible Time-Sharing System ( CTSS ) was compared WITH that of the IBM IBSYS batch-processingsystem by means of a statistically designed experiment An Experimental Comparison of TIME SHARING and Batch Processing , programmer TIME , computer TIME , elapsed TIME , etc 
+
+CA670501 JB February 28, 1978  11:09 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2218 5  23.90757285621326 BM25
+
+
+An Analysis of Some Time-Sharing Techniques
+An Analysis of Some Time-Sharing Techniques The effectiveness of certain time-sharing techniquessuch as program , relocation , disk rotational delay minimization , and swap volume minimization isinvestigated The vehicle for this investigationwas a SIMULA based simulation model reflecting an early framework for a planned Burroughs B6500 time-sharingsystem Inasmuch as the B6500 system is based upon the use of variable sized segments and adynamic overlay procedure , data is also presented WHICH provides some indication of the effectiveness of thistype of organization in a time-sharing environment B6500 , bulk core usage , OPERATING system model , relocation , rotational delay minimization , simulation , swap volume minimization , system simulation , time-sharing 
+
+CA710203 JB February 8, 1978  9:40 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1827 6  23.562030030315135 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+It exists for the purpose of monitoringoperating system and user program behavior and performance Performance Monitoring in a Time-Sharing System A software measurement facility WHICH is part ofa general purpose time-sharing system is described performance monitoring , performance measurement , program behavior , performance data , multiprogramming performance , software measurement , time-sharing performance , system evaluation , software monitor , software instrumentation The TIME of occurrence of each event is accurately recorded , and data items are further identified by job andtype 
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2371 7  22.74452409629619 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+The hypothetical application of the system to an existing network is discussed A System for Interprocess Communicationin a Resource SHARING Computer Network A system of communication between processes in atime-sharing system is described and the communication system is extended so that it may be used between processesdistributed throughout a computer network interprocess communication , time-sharing , computer networks , resource SHARING 
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2379 8  21.747892205786556 BM25
+
+
+The Design of the Venus Operating System
+OPERATING systems , system design , levels of abstraction , machine architecture , microprogramming , segments , semaphores , multiprogramming , virtual machines , processes , process communication , virtual devices , data SHARING , resource management , deadlock The Design of the Venus OPERATING System The Venus OPERATING System is an experimentalmultiprogramming system WHICH supports five or six concurrent users on a small computer The microprogram defines a machine WITH some unusual architecturalfeature ; the software exploits these features to define the OPERATING system as simply as possible 
+
+CA720302 JB January 31, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2319 9  21.47200936416289 BM25
+
+
+Operating System Performance
+While a great DEAL of information and a largenumber of models for subsystems have been developed , gaps still EXIST in out knowledge OPERATING System Performance An overview of the current and future positionswith respect to OPERATING system performance is given Because of thesevere interactions between the various subsystems of an OPERATING system , an overall model of the totalsystem must be developed to be able to analyze and design the performance aspects of an OPERATING systemalthough such total system designs are exceptional today , it is projected that they will become increasinglymore common and necessary in the near future Such a design philosophy will clearly have a severe impacton the way we go about modularizing OPERATING and computer systems computer system , OPERATING system , performanceevaluation , performance measurement , measurement , techniques , modularity , layering , structured programming , paging , virtual memory , input/output , disk storage facility , drum storage facility , sector queueing 
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2629 10  21.41877937631162 BM25
+
+
+The UNIX Time-Sharing system 
+The UNIX Time-Sharing system time-sharing , OPERATING system , file system , command language , PDP-11 UNIX is a general-purpose , multi-user , interactiveoperating system for the Digital Equipment Corporation PDP-11/40 and 11/45 COMPUTERS It offersa number of features seldom found even in larger OPERATING systems , including : ( 1 ) a hierarchical file systemincorporating demountable volumes ; ( 2 ) compatible file , device , and inter-process I/O ; ( 3 ) the ability toinitiate asynchronous processes ; ( 4 ) system command language selectable on a per-user basis ; and ( 5 ) over100 subsystems including a dozen languageshis paper discusses the nature and implementation of thefile system and of the user command interface 
+
+CA740702 JB January 17, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1523 11  21.269511534646686 BM25
+
+
+SHARER, a Time Sharing System for the CDC 6600
+SHARER , a TIME SHARING System for the CDC 6600 A TIME SHARING system embedded within thestandard batch processing system for the CDC 6600 is described Implementationtime was approximately six man-years , WITH the majority of the code being written in FORTRAN 
+
+CA671011 JB February 27, 1978 1:53 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2378 12  20.628053288381334 BM25
+
+
+An Operating System Based on the Concept of a Supervisory Computer
+OPERATING systems , supervisors , multiprogramming , time-sharing , cooperating processes An OPERATING System Based on the Concept of a Supervisory Computer An OPERATING system WHICH is organized as asmall supervisor and a set of independent processes are described 
+
+CA720303 JB January 31, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1519 13  20.579940636582766 BM25
+
+
+GEORGE 3-A General Purpose Time Sharing and Operating System
+The system is not orientedtowards either mode and can be either a batch processing system ( such as the ATLAS Supervisor , IBSYS , or GECOS ) , or a multiaccess system ( resembling , to the user , CTSS or MULTICS ) , or both simultaneously , depending on the installation , WHICH can adjust the Schedulers GEORGE 3-A General Purpose TIME SHARING and OPERATING System An OPERATING System is described WHICH willrun on a wide variety of configurations of the I 1900 , and can handle a large number of online consoleusers while at the same TIME running several off line ( background ) jobs 
+
+CA671101 JB February 27, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1033 14  20.533834955214772 BM25
+
+
+Experimental Personalized Array Translator System
+Present implementation of the system is WITH an interpretive translator on an IBM 1620 computer The completely symbolicoperating system includes display and entry of program and data 
+
+CA640714 JB March 9, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2535 15  20.323332545131795 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+computer communications , time-sharing , multiplexing , scheduling algorithms , OPERATING systems A study is made of the way in WHICH asynchronoustime division multiplexing changes the stochastic nature of the arrival process from a user to the computerand , consequently , affects the performance of a time-shared computer-communications system It isconcluded that while , for certain values of system parameters , there is noticeable improvement in theperformance of the computer ( model ) , in the sense that time-shared scheduling delays are reduced , theseimprovements are offset by the transmission delays imposed by multiplexing so that there may be little orno change in the computer-communications system performance 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2357 16  20.264997867790463 BM25
+
+
+MUX, a Simple Approach to On-Line Computing
+time-sharing , remote computing , on-line access , on-line computing , remote file manager , real TIME , multiplexer , implementation effort , OPERATING overhead , user reactions , remote terminals , OPERATING system An on-line system OPERATING as part of a normalbatch system for the CDC 6600 computer is described 
+
+CA720503 JB January 31, 1978  11:04 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2439 17  20.152713736216278 BM25
+
+
+Multiple Terminals Under User ProgramControl in a Time-Sharing Environment
+DTSS , multiple terminals , remote terminals , remoteconsoles , time-sharing , on-line interaction , on-line games Multiple Terminals Under User ProgramControl in a Time-Sharing Environment User-written programs on the Dartmouth Time-Sharingsystem can communicate WITH many remote terminals simultaneously and can control the interactionsbetween these terminals 
+
+CA731001 JB January 23, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2380 18  20.07820352666618 BM25
+
+
+TENEX, a Paged Time Sharing System for the PDP-10
+TENEX , a Paged TIME SHARING System for the PDP-10 TENEX is a new TIME SHARING system implementedon DEC PDP-10 augmented by special paging hardware developed at BBN This report specifies a set of goalswhich are important for any TIME SHARING system TENEX , paging , virtual machines , TIME sharingsystem , scheduling algorithm , process structure , PDP-10 
+
+CA720301 JB January 31, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2054 19  20.04811713000094 BM25
+
+
+On the Feasibility of Voice Input toan On-line Computer Processing System
+The results show that at this TIME it is both economically and logically feasible to handle at least 40 users at a TIME WITH an IBM 360/65 computer speech recognition , word recognition , pattern-matching , patternrecognition , time-sharing , remote access , voice input , speech input , telephone input/output , acoustic signal , spoken-word input , talking to COMPUTERS , man-machine interaction Experimental results are presented givingerror rates for different experimental conditions as well as the machine resources required to accommodate several users at a TIME 
+
+CA700601 JB February 13, 1978  12:12 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1506 20  19.98111818445188 BM25
+
+
+The LACONIQ Monitor: Time Sharing for Online Dialogues
+The monitorwas designed so that it could work WITH a small computer ( an IBM System 360/30 ) The LACONIQ Monitor : TIME SHARING for Online Dialogues The program segments called into execution by the remote CRT consoles are invariablyrun to completion rather than `` rolled-out '' to be brought back at a later TIME 
+
+CA671202 JB February 26, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2947 21  19.931316323819804 BM25
+
+
+SITAR: An Interactive Text Processing System for Small Computers
+It is implemented on a PDP/11 time-sharingcomputer invoked by a CRT WITH microprogrammed editing functions information retrieval , text editing , minicomputers , CRTs , TIME SHARING , bibliographic search and retrieval , literary analysis , linguistic analysis , command languages SITAR : An Interactive Text Processing System for Small COMPUTERS 
+
+CA770705 JB December 28, 1977  10:20 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1752 22  19.918221749955798 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+Resource Management for a Medium Scale Time-Sharing OPERATING system Task scheduling and resource balancing fora medium size virtual memory paging machine are discussed in relation to a combined batch processingand time-sharing environment time-sharing , OPERATING systems , resource management , task scheduling , paging , system simulation , memory management , virtual memories 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2344 23  19.830219852534032 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+On the Optimization of Performance of Time-Sharing Systems by Simulation A simulation model of a time-sharing systemwith a finite noncontiguous store and an infinite auxiliary store is used to study the variation of systemparameters such as store size , number of jobs allowed to execute simultaneously , job-scheduling algorithm , etc A comparisonis made between the results of the simulation model and two analytical equations for quantum-orientednonpreemptive time-sharing systems time-sharing , simulation studies , optimization , measure of performance , scheduling algorithms It is shown that significant improvements in the measure of system performance can be obtained byusing variable time-slice techniques and by selecting the optimum round-robin cycle TIME 
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2501 24  19.74633102118992 BM25
+
+
+WYLBUR: An Interactive Text Editing and Remote Job Entry System
+A short descriptionof the major features of ORVYL , a general purpose time-sharing system WHICH operates in conjunction WITH WYLBUR , is also included text editing , time-sharing , on-line text editing , interactive text editing , terminal , remote terminal , terminal system , interactive terminal , remote job entry , remote job retrieval , program preparation , document preparation , data entry , content addressing 
+
+CA730519 JB January 23, 1978  4:11 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2219 25  19.37656737190838 BM25
+
+
+A Policy-Driven Scheduler for a Time-Sharing System
+A Policy-Driven Scheduler for a Time-Sharing System The service received by a process from a time-sharingoperating system can be characterized by a resource count SUM { w [ i ] R [ ij ] } where R [ ij ] is thenumber of units of service received by process i from resource i and w [ i ] is the cost per unit of theservice scheduler , time-sharing , OPERATING system , resource allocation and swapping The algorithm has been implementedin a general purpose OPERATING system , and it has provided significantly better service to interactiveand to batch jobs than the previous scheduler Each class of users can be characterized by a policy function WHICH specifies the amount of servicea user who belongs to this class should receive as a function of TIME 
+
+CA710202 JB February 8, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1749 26  19.34352048191556 BM25
+
+
+The Structure of the "THE"-Multiprogramming System
+OPERATING system , multiprogramming system , systemhierarchy , system structure , real-time debugging , program verification , synchronizing primitives , cooperatingsequential processes , system levels , input-output buffering , multiprogramming , processor SHARING , multiprocessing 
+
+CA680507 JB February 23, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1544 27  19.25310721070892 BM25
+
+
+Tele-CUPL: A Telephone Time Sharing System
+The system is a compatible extension of an existing batch processingsystem Tele-CUPL : A Telephone TIME SHARING System 
+
+CA670902 JB February 27, 1978  4:04 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1844 28  19.10564151367761 BM25
+
+
+A Modular Computer Sharing System
+A Modular Computer SHARING System This system organization is inherently a simpler and therefore more reliable approach to time-sharing computersand has the potential of a highly available system at relatively low cost multiple terminal systems , terminal oriented systems , multiple processor systems , high availability , conversational systems , general purpose time-sharing systems , real-time response system , modular constructed systems , modular computer-sharing systems , graphics , file switch , intercomputer communications , control computer , problem computer , roll-in , roll-out The system organization describedis a conceptually simple arrangement of a bank of interchangeable COMPUTERS , each of whichis a memory/processor pair , that are assigned to process terminal jobs as they arrive One of the computersserves as the master or control computer and supervises the collection and distribution of messagesfrom and to the remote terminals The ratio of users to COMPUTERS is dependent on boththe size and power of the machines used and the computation requirements of the particular mix of users Finally , problemprograms developed by remote terminal users can be run on a dedicated batch system if compatible COMPUTERS are used 
+
+CA691002 JB February 15, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2500 29  19.03221657580106 BM25
+
+
+A Practical Approach to Managing Resources and Avoiding Deadlocks
+Resource scheduling and allocation can be expensivewith regard to TIME and space in multiprogramming or time-sharing environments involving large numbers oftasks and resources WITH conflicting requirements deadlock , resource allocation , scheduling , resourcemanagement , multiprogramming , time-sharing , multiprocessing , deadly embrace The program , WHICH is currently running as part of a large scale general purposeoperating system , keeps resources relatively active but does not detect or prevent all deadlocksin its implemented state 
+
+CA730520 JB January 23, 1978  4:03 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2632 30  18.790307025058336 BM25
+
+
+HYDRA: The Kernel of a Multiprocessor Operating System
+Mechanisms are presented for dealing WITH objects , including the creation of newtypes , specification of new operations applicable to a given type , SHARING , and protection of any referenceto a given object against improper application of any of the operations defined WITH respect to thattype of object HYDRA : The Kernel of a Multiprocessor OPERATING System This paper describes the design philosophy ofHYDRA-the kernel of an OPERATING system for C OPERATING system , kernel , nucleus , protection , security 
+
+CA740614 JB January 17, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1071 31  18.761513138416685 BM25
+
+
+Computer-Usage Accounting for Generalized Time-Sharing Systems
+Computer-Usage Accounting for Generalized Time-Sharing Systems The current development of general time-sharingsystems requires a revision of accounting procedures for computer usage Since time-sharing system usersoperate concurrently , it is necessary to be more precise as to the amount of computer TIME and storagespace that a user actually utilizes The various cost factors WHICH should be considered for computer usageaccounting in generalized time-sharing systems are discussed 
+
+CA640518 JB March 9, 1978  11:40 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1591 32  18.677530270285125 BM25
+
+
+A Model for a Multifunctional Teaching System
+The teaching system ( ABAC-II ) was written to run under the OPERATING system ( IBSYS ) forthe IBM 7044 Graphic System A teaching system model that was incorporatedinto an OPERATING system of a large computer is described The model transferred control to theoperating system to execute functions other than teaching , and then recovered control in order to resumeteaching During the latter , the full resources of the OPERATING system ( language processors , compilers , library and user 's programs ) were at his disposal He could for example , write , assemble , debug , and execute at the terminal a program written in any language processed by the OPERATING system 
+
+CA670601 JB February 28, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0971 33  18.56118578797204 BM25
+
+
+Time Sharing in a Traffic Control Program
+TIME SHARING in a Traffic Control Program To satisfythese demands , a time-sharing program has been written whose purpose is to execute , in the order of apredefined priority , the various subprograms within the real-time system In this paper the more interestingaspects of the time-sharing program are outlined The Toronto traffic signal control system consistsof a variety of logically distinct computer programs , all competing for machine TIME 
+
+CA641112 JB March 9, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1572 34  18.551753647705176 BM25
+
+
+The Simulation of Time sharing Systems
+The use ofthe simulation is demonstrated by a study of the IBM 360/67 time-sharing system The Simulation of TIME SHARING Systems The development of new large scale time-sharingsystems has raised a number of problems for computation center management The resulting model has a general purpose design and can be used to study avariety of time-sharing systems It can also be used to assist in the design and development of new time-sharingalgorithms or techniques 
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2424 35  18.526531092966437 BM25
+
+
+Dynamic Verification of Operating System Decisions
+PRIME is an experimental time-sharingwhich is to have the properties of continuous availability , data privacy , and cost effectiveness Dynamic Verification of OPERATING System Decisions The dynamic verification of OPERATING system decisions is used on the PRIME systembeing designed and constructed at the University of California , Berkeley The technique of dynamic verification allows the construction of an OPERATING system WHICH does not make certaindecisions improperly even in the presence of a single hardware or software fault OPERATING systems , data security , fault tolerance , software reliability , data privacy , program verification , modular computer systems Dynamic verification of a decision impliesthat every TIME the decision is made there is a consistency check performed on the decision using independenthardware and software 
+
+CA731102 JB January 20, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1391 36  18.11255848519193 BM25
+
+
+Computer Experiments in Finite Algebra
+A medium-scale programming system is writtenin MAD and FAP on the IBM 7094 to manipulate some of the objects of modern algebra : finite groups , mapsand sets of maps , subsets and sets of subsets , constant integers and truth-values Designed to operatein a time-sharing environment , the system can serve as a teacher 's aid to the undergraduate student ofmodern algebra , as well as for the working scientist or engineer wishing to familiarize himself WITH the subset 
+
+CA660807 JB March 2, 1978  7:36 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-3127 37  18.101806326305304 BM25
+
+
+Thoth, a Portable Real-Time Operating System 
+It is currently running on two minicomputerswith quite different architectures Thoth , a Portable Real-Time OPERATING System Thoth isa real-time OPERATING system WHICH is designed to be portableover a large set of machines Portability , real TIME , OPERATING systems , minicomputer 
+
+CA790206 DH April 12, 1979  9:10 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1464 38  18.071388538895462 BM25
+
+
+An ALGOL Compiler: Construction and Usein Relation to an Elaborate Operating System
+An ALGOL Compiler : Construction and Usein Relation to an Elaborate OPERATING System An ALGOL translator has been prepared and integratedinto the IBSYS OPERATING System Although assembly plus loading TIME exceeds compilationtime , the total TIME is satisfactory and the user gets ease and facility WHICH are fully compensating 
+
+CA660308 JB March 3, 1978  1:41 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2151 39  17.84633056997342 BM25
+
+
+User Program Measurement in a Time-Shared Environment
+Finally , it is shown how other time-sharing systems may provide similar measuring facilities OPERATING systems , multiprogramming systems , time-sharingsystems , software measurement , user program measurement , measurement technology , TX-2 computer , virtual COMPUTERS , performance improvement User Program Measurement in a Time-Shared Environment A general discussion of the measurement ofsoftware systems is followed by a description of a hardware and software scheme for measuring user programsin a time-shared environment 
+
+CA711005 JB February 2, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1264 40  17.652495416783328 BM25
+
+
+BLNSYS-A 1401 Operating System with Braille Capabilities
+BLNSYS-A 1401 OPERATING System WITH Braille Capabilities BLNSYS is an OPERATING system designed fora 4K 1401 WITH common optional features and two attached tape drives Even though this system was written fora small machine WITH minimal peripheral equipment , jobs may be batched , so that card handling and lostprocessing TIME is at a minimum 
+
+CA650507 JB March 7, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0585 41  17.617997808465127 BM25
+
+
+Initial Experience With an Operating Multiprogramming System
+This simultaneity has evolved from an initialachievement of self-searching input and output to the automatic TIME SHARING of independently codedproblems Initial Experience WITH an OPERATING Multiprogramming System 
+
+CA620520 JB March 17, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1226 42  17.576119103803563 BM25
+
+
+The Organization of Structured Files
+In many systems , the selection of an organization for the data within the file canbe critical to the system 's OPERATING efficiency 
+
+CA650709 JB March 6, 1978  8:57 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1960 43  17.390307533055505 BM25
+
+
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+Process Management and Resource SHARING in the Multiaccess System ESOPE time-sharing , multiprogramming , process scheduling , resource allocation 
+
+CA701203 JB February 9, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2950 44  17.36847806502766 BM25
+
+
+A Unifying Approach to Scheduling
+Various classes of scheduling algorithmsare defined and related to existing algorithms scheduling algorithms , scheduling models , priority , OPERATING systems , processor SHARING , implementation efficiency The abstract model providesa framework for implementing flexible schedulers in real OPERATING systems Acriterion for the implementation efficiency of an algorithm is developed and results in the definitionof time-invariant algorithms , WHICH include most of the commonly implemented ones For time-invariantalgorithms , the dependence of processing rates on priorities is derived 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1225 45  17.221173684690406 BM25
+
+
+The Predictive Analyzer and a Path Elimination Technique
+Some of the characteristic features of a predictiveanalyzer , a system of syntactic analysis now operational at Harvard on and IBM 7094 , are delineated In addition , a new technique is described for repetitive path elimination for a predictive analyzer , WHICH cannow claim efficiency both in processing TIME and core storage requirement 
+
+CA650710 JB March 6, 1978  8:52 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1908 46  17.181651592265887 BM25
+
+
+Time-Sharing and Batch-Processing:  An ExperimentalComparison of Their Values in a Problem - Solving Situation
+Time-Sharing and Batch-Processing : An ExperimentalComparison of Their Values in a Problem - Solving Situation An experimental comparison of problem-solvingusing time-sharing and batch-processing computer systems conducted at MIT is described in this paper Statisticallyand logically significant results indicate equal cost for usage of the two computer systems ; however , a much higher level of performance is attained by time-sharing users There are indications that significantlylower costs would have resulted if the time-sharing users had stopped work when they reacheda performance level equal to that of the batch users The users ' speed of problem-solving and theirattitudes made time-sharing the more favorable system time-sharing vs batch-processing , user performance , man/machine communications , cost effectiveness , on-line vs off-line performance , decision-making performance , user/programmer behavior , programming experimental empirical studies , problem-solving , research in man/machinecommunications , man/machine symbiosis 
+
+CA690501 JB February 17, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2920 47  16.95733287518022 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+OPERATING system , multiprogramming , time-sharing , resource allocation , deadlock , in terlock , deadly embrace , deadlock avoidance , flowchart The deadlock avoidance problem may be definedinformally as the determination , from some a priori information about the processes , resources , operatingsystem , etc When each process specifies its future needs by a flowchart of need-defined steps , a globalapproach to the phenomenon and its in terpretation as a game between the OPERATING system and the processesallows formalization of risk and safety concepts 
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0637 48  16.822636987103092 BM25
+
+
+A NELIAC-Generated 7090-1401 Compiler
+the systemswere described in the NELIAC language and generated by an existing NELIAC compiler This report presents the results of a projectcompleted in May , 1961 in WHICH the NELIAC system was used to generate a compiler for the IBM 1401 The reduction in programming TIME and the improvement in documentationof the system were very significant 
+
+CA620206 JB March 20, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1647 49  16.78004902637495 BM25
+
+
+WATFOR-The University of Waterloo FORTRAN IV Compiler
+WATFOR is an in-core , load-and-go compilerwhich has been implemented within the IBM 7040/44 OPERATING system FORTRAN IV was selected as the sourcelanguage in order to achieve maximum language compatibility WITH other available compiling systems , in particular the IBM 7040/44 FORTRAN IV system 
+
+CA670108 JB February 28, 1978  4:36 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1161 50  16.694697254718033 BM25
+
+
+1401 Compatibility Feature on the IBM System/360 Model 30
+1401 Compatibility Feature on the IBM System/360 Model 30 The `` second generation '' of stored-program COMPUTERS , of WHICH IBM 1400 series was a part , brought EDP into the mass market for the first TIME on a largescale The IBM System/360 has been designed WITH the conversion problem specificallyin mind 
+
+CA651208 JB March 6, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1571 51  16.688070534269226 BM25
+
+
+A User-Oriented Time-Shared Online System
+An existing system and planned additions withinthe Data Processing Laboratory of the Brain Research Institute at UCLA is described A User-Oriented Time-Shared Online System 
+
+CA670702 JB February 28, 1978  9:08 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1173 52  16.674901265567865 BM25
+
+
+The Performance of a System for Automatic Segmentationof Programs Within an ALGOL Compiler (GIER ALGOL)
+The GIER ALGOL compiler makes use of an automaticsystem for handling the transfers of program segments from the drum store to the core store at programexecution TIME The performance of the system is discussed , primarily on the basis of execution times related to two specific programs 
+
+CA651108 JB March 6, 1978  5:00 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-3174 53  16.66543664313915 BM25
+
+
+Password Security: A Case History
+This paper describes the history of the design of the passwordsecurity scheme on a remotely accessed time-sharing system OPERATING systems , passwords , computer security 
+
+CA791102 DB January 18, 1980  10:03 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2951 54  16.463132733569715 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+If the ultimate aim of a computing networkis resource SHARING , then the human component as well as the technical component of networking mustbe fully investigated to achieve this goal The research clearly reveals that sufficientsystem data are currently obtainable , at least for the five diverse ARPA network systems studied in detail , to describe and predict the response TIME for network time-sharing systems as it depends on somemeasure of system activity or load level response TIME monitor , computer networks , time-sharingsystems , comparative response TIME , ARPA network , anlytic modeling , simulation , benchmark jobs , system measurement Dynamic Response TIME Prediction for Computer Networks Analytical , simulation , and statistical performanceevaluation tools are employed to investigate the feasibility of a dynamic response TIME monitorthat is capable of providing comparative response TIME information for users wishing to process variouscomputing applications at some network computing node 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2541 55  16.413457568977105 BM25
+
+
+An Overview of the ISPL Computer System Design
+This paper explores the advantages of the concurrentdesign of the language , OPERATING system , and machine ( via microcode ) to create an interactive programminglaboratory It also suggested an importantnew concept for OPERATING systems : separation of the scheduling from the maintenance functions in resourceallocation concurrent design , operating-system , scheduling , interprogram communication , incremental compilation , virtual addressing , debugging , hierarchical subsystems 
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1487 56  16.3269515608609 BM25
+
+
+ELIZA-A Computer Program For the Study ofNaturalLanguage Communication Between Man And Machine
+ELIZA is a program OPERATING within the MACtime-sharing system at MIT WHICH makes certain kinds of natural language conversation between man andcomputer possible 
+
+CA660108 JB March 3, 1978  4:00 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2522 57  16.319355451434674 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+Recent research in time-sharing paging systems has developed the working set model for program behavior , and are source allocation strategy based on this model has been proposed working set , dispatcher , scheduler , time-sharingsystems , resource allocation , software evaluation , OPERATING systems , supervisory systems 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2946 58  16.294883789531276 BM25
+
+
+An Alternative to Event Queues for Synchronization in Monitors
+Two examples are presented : the readers and writers problem and the problem of informationstreams SHARING a finite buffer pool monitor , OPERATING system , mutual exclusion , synchronization , conditional critical region , structuring concept 
+
+CA770706 JB December 28, 1977  10:10 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2358 59  16.212524700468588 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+Many contemporary systems permit some degree of SHARING Usually , SHARING is accomplished by allowingseveral users to share data via input and output of information stored in files kept in secondary storage Here , the design and implementation considerations of segmentation and SHARING in Multicsare first discussed under the assumption that all information resides in large , segmented main memory OPERATING system , Multics , virtual memory , segmentation , information SHARING , paging , memory management , memory hierarchy As experience WITH use of on-line operatingsystems has grown , the need to share information among system users has become increasingly apparent 
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2188 60  16.08716177085877 BM25
+
+
+An Approach to the Optimum Design of Computer Graphics Systems
+Each subsystem is chosen from largenumbers of alternatives ; the selection is based on considerations such as system response TIME , systemcost , and the distribution of data storage and processing between the graphics processor and its supportingdata processing system The model can be analyzed using numerical queueing analysis or simulation to obtain an averageresponse TIME prediction 
+
+CA710602 JB February 3, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2948 61  16.018081270813692 BM25
+
+
+A Terminal-Oriented Communication System
+The system consists of a communicationscomputer directly connected to the time-shared system , a number of small remote COMPUTERS to whichthe terminals are attached , and connecting medium speed telephone lines This paper describes a system for full-duplexcommunication between a time-shared computer and its terminals 
+
+CA770704 JB December 28, 1977  11:49 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1885 62  16.001816976847735 BM25
+
+
+A Computer System for Transformational Grammar
+The system deals WITH the transformationalmodel of syntax , along the lines of Chomsky 's Aspects of the Theory of Syntax A comprehensive system for transformationalgrammar has been designed and implemented on the IBM 360/67 computer 
+
+CA690608 JB February 17, 1978  10:36 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2841 63  15.88686430928393 BM25
+
+
+Designing Surfaces in 3-D
+The principal features of the system are : ( 1 ) the surfaces are rendered as isoparametricline drawings on a head-mounted display , and they are designed WITH the aid of a three-dimensional '' wand , '' WHICH allows 3-D movements of the points controlling the shapes of the surfaces , ( 2 ) all of theinteractions WITH the surfaces are in real-time , and ( 3 ) the mathematical formulations used assume noknowledge of them by the user of the system real-time graphics , computer-aided design , picture processing , B-splines , 3-D displays 
+
+CA760803 JB January 4, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2560 64  15.881855003946038 BM25
+
+
+A Queuing Model of a MultiprogrammedComputer with a Two-Level Storage System
+
+
+CA730101 JB January 24, 1978  4:55 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1680 65  15.83610217682644 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+It is written in FORTRAN IV ( G ) for the IBM System/360 , Model 40 , and the IBM 2250display Unit under OPERATING System/360 Adept is a cataloged program that controls the standard operatingsystem by terminating and rescheduling itself automatically , relinquishing computer resources allocatedto it , and surrendering control to the OPERATING system to perform other jobs It expands the powerand flexibility of computer-assisted instruction by making immediately available to students , teachers , and other users , the full resources ( system-cataloged programs ) of the OPERATING system computer-assisted instruction , tutorial systems , programming , simulation , modeling , information retrieval OPERATING systems , graphics , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-3025 66  15.693599746891852 BM25
+
+
+The Evolution of the DEC system 10
+The PDP-10'scontributions to computing technology include : accelerating the transition from batch oriented to timesharing computing systems ; transferring hardware technology within DEC ( and elsewhere ) to minicomputerdesign and manufacturing ; supporting minicomputer hardware and software development ; and serving as amodel for single user and timeshared interactive minicomputer/microcomputer systems computer structures , architecture , OPERATING system , timesharing The origin and evolution of the hardware , OPERATING system , and languagesare described in terms of technological change , user requirements , and user developments 
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2003 67  15.649694678270468 BM25
+
+
+An Interactive Software System for Computers-AidedDesign:  An Application to Circuit Project
+An Interactive Software System for Computers-AidedDesign : An Application to Circuit Project The main emphasis is given to thedescription of the features of the two high level user orientedlanguages , OPERATING at different levels , on WHICH the interactionis based 
+
+CA700902 JB February 10, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1542 68  15.640924880825708 BM25
+
+
+A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+The structure and content of a higher level language can be matched by an appropriateinterpretive language WHICH can be executed efficiently by microprograms on existing computer hardware A Microprogrammed Implementation of EULER on IBM System/360 Model 30 An experimental processing system for the algorithmiclanguage EULER has been implemented in microprogramming on an IBM System/360 Model 30 using asecond Read-Only Storage unit 
+
+CA670904 JB February 27, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1626 69  15.529814701627147 BM25
+
+
+Structure of a LISP System Using Two-Level Storage
+In an ideal list-processing system there wouldbe enough core memory to contain all the data and programs Described in this paper are a numberof techniques that have been used to build a LISP system utilizing a drum for its principal storage medium , WITH a surprisingly low TIME penalty for use of this slow storage device 
+
+CA670303 JB February 28, 1978  1:39 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0414 70  15.457485464639348 BM25
+
+
+IBM 1440 Data Processing System Features Five New Units
+IBM 1440 Data Processing System Features Five New Units The IBM 1440 data processing system , announcedrecently by the International Business Machines Corporation , not only features the 1311 disk storagedrive WITH interchangeable disk packs but four other newly developed units 
+
+CA621225 JB March 17,1978  4:30 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2288 71  15.45690977157272 BM25
+
+
+File Organization: The Consecutive Retrieval Property
+Its existence enables the design of an informationretrieval system WITH a minimal search TIME and no redundant storage Conditions under WHICH the consecutive retrievalproperty exists and remain invariant have been established file organization , consecutive storage , consecutiveretrieval , information retrieval , record organization , query structure , record structure , storage ontapes , storage space , minimum access TIME 
+
+CA720902 JB January 27,1978  4:52 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1304 72  15.438677360165245 BM25
+
+
+A Rapid Turnaround Multi-Programming System
+In this paper , basic features , system characteristicsand the control algorithm for a multi-programming system WITH rapid turnaround TIME are described 
+
+CA650303 JB March 7, 1978  6:19 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2740 73  15.284564325527398 BM25
+
+
+A Large Semaphore Based Operating System
+A Large Semaphore Based OPERATING System The paper describes the internal structure ofa large OPERATING system as a set of cooperating sequential processes The design principle is an alternative to Dijkstra 's hierarchical structuringof OPERATING systems The operatingsystem is the first large one using the RC 4000 multiprogramming system cooperating processes , OPERATING system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , OPERATING system structure , asynchronous structuring , buffering , parallel processes , synchronizingprimitives , reentrant code , RC 4000 , project management , TIME schedule , debugging , project planning , project scheduling , reliability , program proving , coroutines , correctness , program maintenance , software paging 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1805 74  15.26891825378462 BM25
+
+
+Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method
+productivity , prediction , multiprogramming , simulation , equipment evaluation , hardware , evaluation , monitor , OPERATING system , system software , supervisors , performance , TIME SHARING , TIME slicing Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method 
+
+CA691207 JB February 15, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2764 75  15.147725004600325 BM25
+
+
+An Intelligent Analyzer and Understander of English
+
+
+CA750503 JB January 9, 1978  3:00 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2398 76  15.104337369464512 BM25
+
+
+Teacher/Student Authored CAI Using the NEWBASIC System
+CAI , BASIC , CATALYST , NEWBASIC , education , computersin education , extended languages , interactive systems 
+
+CA720105 JB February 1, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1179 77  15.083901309415953 BM25
+
+
+PUFFT-The Purdue University Fast FORTRAN Translator
+A core resident , compile-and-go system designedfor the IBM 7090/7094 computer is described In little more than half of the 32k word core memoryPUFFT provides a monitor for job sequencing , a translator for the full FORTRAN IV language , the FORTRANsubroutine library , an input -- output system for use at compile TIME and at execute TIME , and a ratherelaborate diagnostic message writing routine 
+
+CA651102 JB March 6, 1978  6:17 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1750 78  15.047922389991271 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+In the generalization of such a design , special emphasis isplaced on estimating expected gains when compared WITH the traditional configuration of separate and independentcomputers without extended core storage multiple computer systems , extended core storage , multiprogrammed OPERATING systems , multiprocessor OPERATING systems , control data corporation 6600 , OPERATING system WITH ECS 
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2092 79  15.031409554396284 BM25
+
+
+A Deductive Question-Answer for Natural Language Inference
+5 and operates on the Q-32time-sharing system 
+
+CA700306 JB February 13, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2126 80  14.999961446948022 BM25
+
+
+Experience with an Extensible Language
+
+
+CA700105 JB February 14, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1236 81  14.932826844231219 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+A fully automatic document retrieval systemoperating on the IBM 7094 is described The system is used not only to simulate an actual operatingenvironment , but also to test the effectiveness of the various available processing methods 
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-3112 82  14.928759026109544 BM25
+
+
+List Processing in Real Time on a Serial Computer
+The program is smalland requires no time-sharing interrupts , making it suitable for microcode List Processing in Real TIME on a Serial Computer A real-time list processing system is onein WHICH the TIME required by the elementary list operations ( e Classical implementations of list processing systemslack this property because allocating a list cell from the heap may cause a garbage collection , WHICH processrequires TIME proportional to the heap size to finish A real-time list processing system is presentedwhich continuously reclaims garbage , including directed cycles , while linearizing and compacting theaccessible cells into contiguous locations to avoid fragmenting the free storage pool Finally , the system requiresthe same average TIME , and not more than twice the space , of a classical implementation , and thosespace requirements can be reduced to approximately classical proportions by compact list representation Real-time , compacting , garbage collection , list processing , virtual memory , file or database management , storage management , storage allocation , LISP , CDR-coding , reference counting 
+
+CA780404 DH February 26,1979  4:32 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2080 83  14.927833628378481 BM25
+
+
+The Nucleus of a Multiprogramming System
+This paper describes the philosophy and structure of a multiprogramming system that can be extended WITH a hierarchy of OPERATING systems to suit diverse requirements of program scheduling and resource allocation The systemnucleus simulates an environment in WHICH program execution and input/outputare handled uniformly as parallel , cooperating processes multiprogramming , OPERATING systems , parallel processes , process concept , process communication , message buffering , processhierarchy , process creation , process removal 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0202 84  14.927450232925706 BM25
+
+
+A Control System For Logical Block Diagnosis With Data Loading
+
+
+CA600409 JB March 22, 1978 1:45 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2399 85  14.919167352567744 BM25
+
+
+A CRT Editing System
+editing , text , cathode-ray tube entry display , time-sharing 
+
+CA720104 JB February 1, 1978  9:31 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1315 86  14.905208343816321 BM25
+
+
+Automation of the Radioisotope Accountability System
+The program for purchased radioisotopes is written in FORMAT FORTRAN for the IBM1620 Computer Theprocedure WHICH was satisfactory but time-consuming was converted from manual to a fully automated computersystem in January , 1963 A minimum amount of bookkeeping is required by the reactor operatingstaff Consolidated records contain total amounts received , used , and/or disposed of for any specified periodof TIME 
+
+CA650209 JB March 7, 1978  11:10 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2626 87  14.889515447201507 BM25
+
+
+Protection and the Control of Information Sharing in Multics
+Protection and the Control of Information SHARING in Multics The design of mechanisms to control the sharingof information in the Multics system is described Multics , protection , security , privacy , access control , authentication , computer utilities , time-sharing systems , proprietary programs , protected subsystems , virtual memory , descriptors 
+
+CA740705 JB January 17, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2153 88  14.876141792038197 BM25
+
+
+Experiments with an Automated Instructional System for Numerical Methods
+
+
+CA711003 JB February 2, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1753 89  14.839249563171101 BM25
+
+
+Virtual Memory, Processes, and Sharing in MULTICS
+Virtual Memory , Processes , and SHARING in MULTICS virtual memory , information SHARING , shared procedures , data SHARING , dynamic linking , segmentation , paging , multiprogramming , storage management , storage hierarchies , file maintenance Some basic concepts involved in the designof the MULTICS OPERATING system are introduced 
+
+CA680503 JB February 23, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2838 90  14.809462212087107 BM25
+
+
+Analysis of an Algorithm for Real Time Garbage Collection
+garbage collection , storage reclamation , listprocessing , Lisp , time-sharing , multiprocessing , parallel processing , real TIME , data structures , analysis of algorithms Analysis of an Algorithm for Real TIME Garbage Collection A real TIME garbage collection system avoidssuspending the operations of a list processor for the long times that garbage collection normally requiresby performing garbage collection on a second processor in parallel WITH list processing operations , or on a single processor time-shared WITH them 
+
+CA760901 JB January 4, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1698 91  14.486596152133114 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+A Statistical Model for Console Behavior in Multiuser COMPUTERS Using the model we answer questions like : How many processes are suspended waiting for console input ? WHAT is the maximum rate at WHICH a process canexecute ? WHAT bounds can be set on overall buffer requirements ? Answers to these and similar questionsare needed in certain aspects of OPERATING system design statistical models for input-output , operatingsystem design , input-output design 
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0972 92  14.439956978264059 BM25
+
+
+An Executive System Implemented as a Finite-State Automaton
+These priorities permit the system to be most sensitiveto the console inputs and permit the operators at all the consoles to TIME share the central processor 
+
+CA641111 JB March 9, 1978  3:56 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1195 93  14.43550757413673 BM25
+
+
+UPLIFTS-University of Pittsburgh Linear File Tandem System
+A series of computer programs has been developedand is now operational for processing the National Aeronautics and Space Administration linear filesystem on an IBM 1401-7090 combined data processing system The program are note-worthy in that they createfixed length logical records and fixed length blocks from variable length source data , and formatthe output for optimization of processing on the IBM 7090 system 
+
+CA650911 JB March 6, 1978  7:10 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2767 94  14.292579244051 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+simulation , TIME flow mechanisms , event list algorithm , simulation , TIME flow mechanisms , event list algorithm , simulation executive , event schedulingroutine , discrete system simulation , sorting 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2542 95  14.26225342979027 BM25
+
+
+A Software Design and Evaluation System
+OPERATING system development , language processingsoftware evaluation , compilers , system programming , supervisory systems , debugging , program maintenance , modeling , system integration , simulation 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2228 96  14.258089064911076 BM25
+
+
+Comments on Prevention of System Deadlocks
+multiprogramming , time-sharing , scheduling , resourceallocation , deadlock , lockout , deadly embrace , knotting 
+
+CA710106 JB February 8, 1978  10:45 AM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2201 97  14.175465995438262 BM25
+
+
+Animator: An On-Line Two-dimensional Film Animation System
+At the user 's request , this record is sent to the IBM360/75 where the S-D 4020 instructions necessary to produce the same sequence of pictures can be generated 
+
+CA710404 JB February 3, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-0698 98  14.115145805365351 BM25
+
+
+DATA-DIAL: Two-Way Communication withComputers From Ordinary dial Telephones
+DATA-DIAL : Two-Way Communication withComputers From Ordinary dial Telephones An OPERATING system is described WHICH allowsusers to call up a remotely located computer from ordinary dial telephones 
+
+CA631027 JB March 13, 1978  5:23 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-1902 99  14.096365295894874 BM25
+
+
+An Automatic Grading Scheme for Simple Programming Exercises
+A discussion is given of alterations that weremade to a typical university OPERATING system to record the results of programming exercises in threedifferent languages , including assembly language 
+
+CA690507 JB February 17, 1978  3:35 PM
+
+
+--------------------------------------------------------------
+1 Q0 CACM-2681 100  14.053234115125381 BM25
+
+
+Dynamic Memory Repacking
+Alternative approaches to repacking are discussed , and the OPERATING conditions that lead to improved system throughput through repacking are delineated 
+
+CA740302 JB January 18, 1978  12:37 PM
+
+

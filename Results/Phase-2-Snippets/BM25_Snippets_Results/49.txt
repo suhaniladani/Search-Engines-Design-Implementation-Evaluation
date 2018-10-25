@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+49 Q0 CACM-2990 1  27.28600111321718 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Much OF THE published evaluation work is basedon measuring THE RETRIEVAL performance OF an average user query IN THE present study , RETRIEVAL evaluation is BASED on optimizing theperformance OF a specific user query Effective INFORMATION RETRIEVAL Using Term Accuracy THE performance OF INFORMATION RETRIEVAL systemscan be evaluated IN a number OF different ways INFORMATION RETRIEVAL , automatic indexing , contentanalysis , term accuracy , frequency weighting , thesaurus and phrase transformations By relating term accuracyto THE frequency OF occurrence OF THE term IN THE documents OF a collection it is possible to give formalproofs OF THE effectiveness with respect to a given user query OF a number OF automatic indexing systemsthat have been used successfully IN experimental situations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3012 2  26.314588382391303 BM25
+
+
+The Use of an Interactive Information Storageand Retrieval System in Medical Research
+THE results show THE important ROLE played by frequently chosen laboratory reference leaders IN influencingthe use OF this system THE Use OF an Interactive INFORMATION Storageand RETRIEVAL System IN Medical Research This paper presents THE results OF a studyof THE use OF an interactive computerized storage and RETRIEVAL system implementation , system use , INFORMATION storage and RETRIEVAL system THE implications OF THE study for THE design OF similar SYSTEMS are discussed 
+
+CA780301 JB March 28, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3134 3  25.67725117873397 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+This paper describes a method for THE organization and RETRIEVAL OF attribute BASED INFORMATION SYSTEMS , using THE normal multiplication table as a directoryfor THE INFORMATION system THE Use OF Normal Multiplication Tablesfor INFORMATION Storage and RETRIEVAL Algorithms for THE organization and RETRIEVAL OF INFORMATION are described For a certain class OF INFORMATION SYSTEMS , THE normal multiplication table method yields far more rapid retrievalwith a more economical space requirement than conventional SYSTEMS INFORMATION RETRIEVAL , inverted files , multiattribute RETRIEVAL , multilist file , normal multiplication table , queries , rapid RETRIEVAL , space economy This method is particularlysuitable for queries requesting a group OF INFORMATION items , all OF which possess a particular set OF attributes ( and possiblysome other attributes as well ) Algorithms evaluatingthe appropriateness OF THE above approach to a given INFORMATION systemare described 
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2882 4  25.460063512951436 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+A Stochastic Evaluation Model for DatabaseOrganization IN Data RETRIEVAL SYSTEMS Experimental work IN THE valuation OF largescale data RETRIEVAL SYSTEMS has been scarce due to its difficulty and prohibitive cost This paperdiscusses a simulation model OF a data RETRIEVAL system which has THE effect OF significantly reducingthe cost OF experimentation and enabling research never attempted before THE model is designed to estimatethe RETRIEVAL workload OF alternative data RETRIEVAL SYSTEMS These data RETRIEVAL SYSTEMS canbe organized under several database organizations , including inverted list , threaded list , and cellularlist organizations and hybrid combinations OF these SYSTEMS Effectiveness OF THE methodology is demonstratedby using THE model to study THE effect OF database organizations IN data RETRIEVAL SYSTEMS database architecture , database performance andevaluation , invented list , threaded list , cellular list , INFORMATION RETRIEVAL , database organizations , query complexity , stochastic model , Monte Carlo simulation 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1699 5  25.068595996331222 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+Experimental Evaluation OF InformationRetrieval Through a Teletypewriter Experiments designed to evaluate THE capabilitiesof mechanized INFORMATION RETRIEVAL SYSTEMS , with emphasis on interactive ( man-machine ) language and onsome OF THE mechanical and psychological limitations IN their design , were conducted at THE Moore School informationSystems Laboratory THE basic assumption OF THE research is that an INFORMATION RETRIEVAL systemthat provides for man-machine dialogue at a remote inquiry terminal should provide a searcher with manyof THE tools which would be available to him were he actually performing his search at a library or repositoryof documents Factors involved IN evaluation OF such a system include ease OF use , learning time , andeffectiveness OF actual RETRIEVAL INFORMATION RETRIEVAL testing , INFORMATION systemevaluation , experimental document RETRIEVAL , document RETRIEVAL , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , symbolic command language , interactive SYSTEMS , user learning factors , on-line searching 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1457 6  24.983557514847114 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+Data Manipulation and Programming Problemsin Automatic INFORMATION RETRIEVAL Automatic INFORMATION RETRIEVAL programs requirethe manipulation OF a variety OF different data structures , including linear text , sparse matrices , and tree or list structures Advantages OF these programming languagesfor THE RETRIEVAL application are examined , and suggestions are made for THE design OF programmingfacilities to aid IN INFORMATION RETRIEVAL THE main data manipulations to be performed IN automatic informationsystems are first briefly reviewed A variety OF data representations which have been used to describestructured INFORMATION are then examined , and THE characteristics OF various processing languages areoutlined IN THE light OF THE procedures requiring implementation 
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1032 7  24.436208317743837 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+One is self-organizationof THE file BASED on its history and past performance , and THE second is a self-generating subsetof THE file with a high probability OF being relevant Theoretical Considerations IN INFORMATION RETRIEVAL SYSTEMS INFORMATION storage and RETRIEVAL SYSTEMS are composedof three major components : ( a ) identification OF INFORMATION and tagging it for effective RETRIEVAL , ( b ) searching strategy , how to enter THE file to circumvent THE scanning OF nonrelevant material , and ( c ) file organization to make access to INFORMATION efficient For identification OF INFORMATION THE papersuggests that a metalanguage ( recently discussed IN a paper by Goffman , Verhoeff and Belzer ) associatedwith an object language be used 
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1514 8  24.32596491297148 BM25
+
+
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+A file adjustment procedure BASED on maximizingthe Bayes expected gain proposed for matched term RETRIEVAL SYSTEMS On THE Expected Gain From Adjust ing Matched Term RETRIEVAL SYSTEMS Anexample evaluates THE gain parameters for a typical INFORMATION RETRIEVAL system 
+
+CA671106 JB February 26, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2795 9  23.357880204866778 BM25
+
+
+Sentence Paraphrasing from a Conceptual Base
+THE model encompasses several diverse classes OF linguisticknowledge , which include : ( 1 ) executable tests OF conceptual properties stored IN discrimination nets ; ( 2 ) INFORMATION relating conceptual to syntactic roles , stored IN a word-sense dictionary , and ( 3 ) surfacegrammatical KNOWLEDGE , stored IN a formal grammar A model OF natural language BASED on an underlyinglanguage-free representation OF meaning is described A program BASED on this model is ableto produce sentence paraphrases which demonstrate understanding with respect to a given context IN generating sentences from meaning structures , THE program employs both THE INFORMATION RETRIEVAL anddeduction capabilities OF THE memory model 
+
+CA750204 JB January 12, 1978  8:43 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2390 10  23.341455413116762 BM25
+
+
+A Proposal for a Computer-Based Interactive Scientific Community
+This paper describes how THE system can be organizedand THE ROLE required OF readers , writers , and commentators Users OF THE system can store IN THE computer an updated file OF their current KNOWLEDGE , and on selectinga paper to read , they can obtain from THE computer THE minimum subtree OF theorems required to bringthem from what they already know to THE background KNOWLEDGE which THE paper assumes A Proposal for a Computer-Based Interactive Scientific Community interactive system , organization OF scientific community , readers , writers , commentators , computer utility , INFORMATION RETRIEVAL , trees , data structures 
+
+CA720201 JB February 1, 1978  8:51 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2307 11  22.774432415059866 BM25
+
+
+Dynamic Document Processing
+THE current ROLE OF computers IN automaticdocument processing is briefly outlined , and some reasons are given why THE early promise OF library automationand OF THE mechanization OF documentation processes has not been fulfilled Methods are described for an automatic query modificationbased on user needs , and for a continuous reorganization OF THE stored INFORMATION as a function ofearlier file processing and OF normal collection growth THE proposed procedures provide powerful toolsfor INFORMATION RETRIEVAL and for THE control OF dynamic library collections IN which new itemsare continually added and old ones are retired automatic indexing , automatic search and RETRIEVAL , iterative searching , mechanized library processing , collection growth , collection retirement , feedback search A new dynamic documentenvironment is then outlined IN which clusteredfiles are searched and INFORMATION is retrieved followingan interactive user-controlled search process 
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2160 12  22.470360368435106 BM25
+
+
+Canonical Structure in Attribute Based File Organization
+Canonical Structure IN Attribute BASED File Organization A new file structure for attribute BASED retrievalis proposed IN this paper THE fileorganization being proposed is BASED on THE atoms OF a Boolean algebra generated by THE queries Thus , for example , THE structure for RETRIEVAL on THE basis OF ranges OF values OF a given attribute wouldbe very different from one where only RETRIEVAL on THE basis OF a single value is permitted address calculation , atoms OF Boolean algebra , attributes , Boolean functions , Boolean queries , file organization , INFORMATION RETRIEVAL , invertedfile , key words , multilist , queries , searches 
+
+CA710904 JB February 2, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1681 13  22.28989008374375 BM25
+
+
+Easy English,a Language for InformationRetrieval Through a Remote Typewriter Console
+Easy English , a Language for InformationRetrieval Through a Remote Typewriter Console It has been developedfor RETRIEVAL OF documents from a computerized data base , THE Moore School INFORMATION SYSTEMS Laboratoryfiles Requests are formulated IN a standardized syntactical form ( examples OF which are presented ) , andthis form is then transformed into an equivalent query expressed IN THE RETRIEVAL system 's original SymbolicCommand Language , which is briefly described A macro flowchart OF Easy English is included , and an Appendix providesthe printout OF a RETRIEVAL demonstration natural language communication , on-line searching , remote console communication , INFORMATION RETRIEVAL , man-machine communication , remote terminal communication , translator , document RETRIEVAL , conversational mode , INFORMATION RETRIEVAL language , symbolic command language 
+
+CA681006 JB February 21, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1935 14  22.20513740515748 BM25
+
+
+Randomized Binary Search Technique
+THE search method described is binary IN nature and offers new potential for INFORMATION RETRIEVAL SYSTEMS binary pattern , file examination , graph theory , informationretrieval , mathematical model , partitioning , probabilistic method , random sequencing , search techniques , tree structures 
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2288 15  22.03207897969702 BM25
+
+
+File Organization: The Consecutive Retrieval Property
+An outline for designing an informationretrieval system BASED on THE consecutive RETRIEVAL property is also discussed File Organization : THE Consecutive RETRIEVAL Property THE consecutive RETRIEVAL property is an importantrelation between a query set and record set Its existence enables THE design OF an informationretrieval system with a minimal search time and no redundant storage Some important theorems onthe consecutive RETRIEVAL property are proved IN this paper Conditions under which THE consecutive retrievalproperty exists and remain invariant have been established file organization , consecutive storage , consecutiveretrieval , INFORMATION RETRIEVAL , record organization , query structure , record structure , storage ontapes , storage space , minimum access time 
+
+CA720902 JB January 27,1978  4:52 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2631 16  21.111900842871744 BM25
+
+
+An Information-Theoretic Approach toText Searching in Direct Access Systems
+Using direct access computer files OF bibliographicinformation , an attempt is made to overcome one OF THE problems often associated with informationretrieval , namely , THE maintenance and use OF large dictionaries , THE greater part OF which is used onlyinfrequently THE members OF this subset are then used as index keys for RETRIEVAL text searching , INFORMATION theory , file organization , direct access , INFORMATION RETRIEVAL , character string , bit vector An Information-Theoretic Approach toText Searching IN Direct Access SYSTEMS 
+
+CA740615 JB January 17, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2519 17  21.06036252034699 BM25
+
+
+On the Problem of Communicating Complex Information
+THE nature OF THE difficulty involved IN communicatingmathematical results between scientists using a computer BASED INFORMATION RETRIEVAL systemis examined On THE Problem OF Communicating Complex INFORMATION THE problem is analyzed IN terms OF psychological and information-processing processes , andwhat turns out to be a vicious circle OF effects is described These include ways OF augmenting writtennatural language by various notational and linguistic devices , THE exhibition OF THE structure inherent IN theinformation we are communicating , and a sophisticated interactive system controlled by computer complex INFORMATION , INFORMATION , communication , mathematics , proof , interactive system , language 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2846 18  21.049636296621745 BM25
+
+
+Compressed Tries
+This paper presents a new data structure , called a compressed trie or C-trie , to be used IN INFORMATION RETRIEVAL SYSTEMS IN THE analysis part OF THE paper it will be shown that for a collection OF n keys theretrieval time , measured IN terms OF bit inspections OF one key , is OF THE order logm ( n ) and THE storagerequirement OF THE order n* ( m+log2 n ) bits This improvement IN storage requirements and RETRIEVAL timeis achieved at THE cost OF decreasing THE flexibility OF THE structure , and therefore updating costs are increased data structure , database , m-ary tree , trie , RETRIEVAL time , storage requirement , keys 
+
+CA760707 JB January 4, 1978  12:26 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0239 19  20.9532858229708 BM25
+
+
+Inefficiency of the Use of Boolean Functionsfor Information Retrieval Systems
+Inefficiency OF THE Use OF Boolean Functionsfor INFORMATION RETRIEVAL SYSTEMS 
+
+CA611211 JB March 15, 1978  10:10 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1725 20  20.622179023313922 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+An efficient method OF ordered RETRIEVAL OF binarywords from an associative memory , as describedby Lewin , is BASED on THE use OF special readout circuitswhich indicate THE digit values present IN THE individual digit columns OF THE memory A Simple Proof OF Lewin 's Ordered-RetrievalTheorem for Associative Memories associative memories , content-addressed memories , ordered lists , ordered INFORMATION RETRIEVAL , ordered RETRIEVAL theorem , column digit values , digitvalue variety , column sensing arrangement , digit value readout , digit variety readout , memory access , memoryaccess frequency , ordered RETRIEVAL efficiency , access frequency proof , RETRIEVAL theorem proof 
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2163 21  20.573897029033652 BM25
+
+
+Education Related to the Use of Computers in Organizations
+Also , THE ROLE OF professional societies and organizations using computers is discussed , and THE plans OF THE Committee are outlined THE ACM Curriculum Committee on Computer Educationfor Management has been carrying out a study on `` Curriculum Development IN Management InformationSystems Education IN Colleges and Universities '' under a grant from THE National Science Foundation Preliminary conclusions are presented on theneed for education IN administrative INFORMATION SYSTEMS , and appropriate college curricula and coursesare suggested education , INFORMATION analysis , SYSTEMS design , business data processing 
+
+CA710901 JB February 2, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1236 22  20.458338177946747 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+THE SMART Automatic Document RETRIEVAL System-An Illustration A fully automatic document RETRIEVAL systemoperating on THE IBM 7094 is described This feature is used IN THE retrievalprocess by leaving THE exact sequence OF operations initially unspecified , and adapting thesearch strategy to THE needs OF individual users Results obtainedso far seem to indicate that some combination OF analysis procedures can IN general be relied upon toretrieve THE wanted INFORMATION A typical search request is used as an example IN THE present report to illustratesystems operations and evaluation procedures 
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0440 23  20.342942154535972 BM25
+
+
+Record Linkage
+Rules that can be applied generally to name retrievalsystems have been developed IN a methodological study OF THE linkage OF vital and health records intofamily groupings for demographic research purposes THE underlying problem is that OF making nearlymaximum use OF items OF identifying INFORMATION that are individually unreliable but that may collectivelybe OF considerable discriminating power These rules are described , and THE ways IN which informationutilization for matching may be optimized are discussed Special difficulties are encountered IN devisingreliable SYSTEMS for searching and updating any large files OF documents that must be identifiedprimarily on THE basis OF names and other personal particulars 
+
+CA621121 JB March 17, 1978  5:51 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3090 24  20.331740374755373 BM25
+
+
+Automated Welfare Client-Tracking and ServiceIntegration: The Political Economy of Computing
+This impact is a joint product OF both THE technical features OF THE computer-based system and OF THE organizationaldemands placed upon different agencies , administrators , and caseworkers It illustrates theway `` successful '' automated INFORMATION SYSTEMS fit THE political economies OF THE groups that use them Social impacts OF computing , organizational impactsof computing , management INFORMATION SYSTEMS , sociology OF computing , INFORMATION SYSTEMS andservice integration , urban INFORMATION SYSTEMS 
+
+CA780607 DH February 12, 1979  11:01 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2479 25  20.297609836077076 BM25
+
+
+Curriculum Recommendations for Graduate ProfessionalPrograms in Information Systems: Recommended Addendum on Information Systems Administration
+Curriculum Recommendations for Graduate ProfessionalPrograms IN INFORMATION SYSTEMS : Recommended Addendum on INFORMATION SYSTEMS Administration THE proposed addendum is to include IN THE curriculuma course on INFORMATION SYSTEMS administration education , management INFORMATION SYSTEMS , informationsystems administration , INFORMATION SYSTEMS management , computer management It is important for two reasons : ( 1 ) THE SYSTEMS designermust understand THE administrative framework IN which he must operate to work effectively , and ( 2 ) animportant objective OF THE curriculum recommendations is to prepare THE future manager OF THE computer activity 
+
+CA730707 JB January 23, 1978  12:30 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2711 26  20.284146424589785 BM25
+
+
+A Vector Space Model for Automatic Indexing
+An approach BASED on space density computations is used to choose an optimumindexing vocabulary for a collection OF documents IN a document RETRIEVAL , or other pattern matchingenvironment where stored entities ( documents ) are compared with each other or with incoming patterns ( search requests ) , it appears that THE best indexing ( property ) space is one where each entity lies as far awayfrom THE others as possible ; IN these circumstances THE value OF an indexing system may be expressibleas a function OF THE density OF THE object space ; IN particular , RETRIEVAL performance may correlate inverselywith space density automatic INFORMATION RETRIEVAL , automaticindexing , content analysis , document space 
+
+CA751101 JB January 6, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2985 27  20.24649017900876 BM25
+
+
+Effects of Chargeout on User/Manager Attitudes
+THE relationship OF IN ternal pricing systemsfor computer services ( chargeout SYSTEMS ) and user management attitudes about their computer-basedinformation SYSTEMS is investigated Both factorsare important to THE user/manager involvement necessary for effective control OF computer-based SYSTEMS Development and main tenance OF computer-based SYSTEMS is asserted to be a category OF organizationalchange THE results alsoindicate that THE chargeout SYSTEMS characteristic OF advanced EDP stage environments are associated withrelatively high levels OF positive user attitudes and marked increases IN EDP training for users 
+
+CA770307 JB December 29, 1977  6:43 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0891 28  20.005596758667252 BM25
+
+
+Everyman's Information Retrieval System
+Everyman 's INFORMATION RETRIEVAL System THE INFORMATION RETRIEVAL problem whose solutionis presented here was posed by a technical library with limited bubget and personnel THE solution , however , is quite general and is applicable to many different types OF RETRIEVAL problems Further , themethod OF solution makes it possible for many groups who have previously dismissed an informationretrieval program as expensive and difficult ( from a programming stand-point ) to reconsider their position , for THE present solution makes it possible to install an INFORMATION RETRIEVAL program IN less thanthree months , and with relatively little equipment 
+
+CA630329 JB March 14, 1978  12:37 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1959 29  19.984443796916622 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+An Interrupt BASED Organization for Management INFORMATION SYSTEMS DPL , a programming language and supervisorysystem IN which these concepts are implemented , is used to illustratedthe new organization which is proposed for management INFORMATION SYSTEMS management INFORMATION SYSTEMS , integrated data processing , supervisors , interrupts monitoring SYSTEMS , supervisorysystems , interrupt scheduling , parallel processing A programming structure , language constructs , and a supervisory system organization are proposedfor THE design and coding OF large shared data base SYSTEMS 
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2561 30  19.94741315444896 BM25
+
+
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+A Heuristic Approach to Inductive Inference IN Fact RETRIEVAL SYSTEMS Theyare implemented IN a model fact RETRIEVAL system which uses a formal query language and a property-list datastructure inference , inductive inference , clustering , fact RETRIEVAL , heuristics Heuristic procedures are presented which havebeen developed to perform inferences by generalizing from available INFORMATION 
+
+CA741213 JB January 13, 1978  3:40 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2140 31  19.835517907231594 BM25
+
+
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+Retrieval-Update Speed Tradeoffs Using Combined Indices This techniquepermitted decreased RETRIEVAL time at THE cost OF increased storage space This paper examines combinedindices under conditions OF file usage with different fractions OF RETRIEVAL and update file organization , combined index files , invertedfiles , INFORMATION RETRIEVAL , query , multi-attribute RETRIEVAL , file update 
+
+CA711203 JB February 2, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1927 32  19.51362243336121 BM25
+
+
+Information Science in a Ph. Computer Science Program
+course curriculum , graduate courses , universitycourses , computer science curriculum , INFORMATION science , INFORMATION organization , INFORMATION RETRIEVAL , data RETRIEVAL , language analysis , INFORMATION processing INFORMATION Science IN a Ph This report contains recommendations on a sample coursecurriculum IN THE general area OF INFORMATION organization and INFORMATION system design IN a Ph 
+
+CA690211 JB February 20, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2198 33  19.499050506792177 BM25
+
+
+Introduction to "Feature Analysis ofGeneralized Data Base Management Systems"
+data base management SYSTEMS , programming languages , data structures , storage structures , INFORMATION RETRIEVAL , transaction processing Introduction to `` Feature Analysis ofGeneralized Data Base Management SYSTEMS '' This paper is a separately published introductionto a main report which analyzes THE features OF generalized data base management SYSTEMS This introductiongives a review OF THE current state OF THE art IN these SYSTEMS and discusses THE differencesand similarities between capabilities found IN host language SYSTEMS and those found IN self-containedsystems Codasyl SYSTEMS Committee 
+
+CA710501 JB February 3, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2451 34  19.25257539032337 BM25
+
+
+Design of Tree Structures for Efficient Querying
+As a practical applicationof such a model this paper considers THE design OF a novel tree search scheme BASED on a bit vector representationof data and shows that essentially THE same algorithm can be used to design either an idealsearch tree or a bit-vector tree A standard INFORMATION RETRIEVAL operation isto determine which records IN a data collection satisfy a given query expressed IN terms OF data values tree file , INFORMATION storage and RETRIEVAL , clustering , search , data structure , data management , query answering 
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1652 35  18.9437246054551 BM25
+
+
+A Code for Non-numeric Information ProcessingApplications in Online Systems
+THE code has direct application to problems IN area such as INFORMATION RETRIEVAL , documentclassification , computer-aided teaching and text editing A Code for Non-numeric INFORMATION ProcessingApplications IN Online SYSTEMS A code has been specifically designed to simplifythe internal INFORMATION processing operations within an online computer system with respect to non-numericapplications , and to maximize THE transfer rate OF THE INFORMATION channel linking THE system andthe system user This code , called IPC ( INFORMATION ProcessingCode ) , is an 8-bit code set constructed so that 7 , 6 , 5 and 4-bit subsets can be easily derivedfrom THE basic set 
+
+CA670103 JB March 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1527 36  18.913911669845152 BM25
+
+
+A Grammar Base Question Answering Procedure
+BASED upon THE rules OF this grammar , a sentence recognizer will evaluate sentences , questions IN THE normal situation THE subject OF this paper is a procedure forthe automatic RETRIEVAL OF certain segments OF stored INFORMATION , either explicitly or implicitly represented , through questions posed IN natural language sentences Since THE recognitionfunction succeeds just IN case THE posed question is drawn from THE set OF sentences expressing THE data , or , more correctly , is grammatical IN terms OF THE grammar for this set OF sentences , sentence recognitionitself is a procedure for retrieving INFORMATION When THE recognition function succeeds , itsvalue represents THE requested INFORMATION 
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2832 37  18.848505663467993 BM25
+
+
+Faster Retrieval from Context Trees (Corrigendum)
+It is BASED on THE observation that IN typical uses contextchanges are infrequent relative to retrievals , so that data can be cached to speed up RETRIEVAL Faster RETRIEVAL from Context Trees ( Corrigendum ) This note presents an algorithm which improveson previous context tree RETRIEVAL algorithms A retrievalis started from THE position OF THE previous RETRIEVAL and auxiliary structures are built up to makethe search rapid 
+
+CA760907 JB January 4, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2947 38  18.817858497492267 BM25
+
+
+SITAR: An Interactive Text Processing System for Small Computers
+SITAR , a low-cost IN teractive text handlingand text analysis system for nontechnical users , is IN many ways comparable to IN teractive bibliographicalsearch and RETRIEVAL SYSTEMS , but has several additional features INFORMATION RETRIEVAL , text editing , minicomputers , CRTs , time sharing , bibliographic search and RETRIEVAL , literary analysis , linguistic analysis , command languages 
+
+CA770705 JB December 28, 1977  10:20 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2046 39  18.738696050455662 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+A model BASED on n-ary relations , a normal form for data base relations , and THE concept OF a universal form for data base relations , and THE concept OF a universal data sublanguage are introduced data bank , data base , data structure , data organization , hierarchies OF data , networks OF data , relations , derivability , redundancy , consistency , composition , join , retrievallanguage , predicate calculus , security , data integrity A promptingservice which supplies such INFORMATION is not a satisfactorysolution Change IN data representation will often be needed as a result OF changes IN query , update , and report traffic and natural growth IN THE types OF stored INFORMATION Existing noninferential , formatted data SYSTEMS provide users with tree-structured files or slightly more general network models OF THE data 
+
+CA700609 JB February 13, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1233 40  18.707918182026745 BM25
+
+
+Conventions for the Use of Symbols in the Preparationof Flowcharts for Information Processing Systems (A Standard Working Paper)
+Conventions for THE Use OF Symbols IN THE Preparationof Flowcharts for INFORMATION Processing SYSTEMS ( A Standard Working Paper ) This paper is intended as an outline OF thevarious conventions which are being considered for THE use OF flowcharts for INFORMATION processingsystems 
+
+CA650702 JB March 6, 1978  9:10 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1415 41  18.4871043638895 BM25
+
+
+Automatic Derivation of Microsentences
+THE decomposition OF long complex English sentencesinto shorter kernel-like constituent sentences ( microsentences ) has often been suggested as an avenuetoward conducting automatic RETRIEVAL OF natural language messages THE authors conclude that while microsentences OF THE quality achieved do not open up immediate prospectsfor improving THE performance OF automatic message RETRIEVAL SYSTEMS , they may have practicalvalue IN man-machine SYSTEMS using human monitors to select THE preferred syntactic interpretation OF a sentence 
+
+CA660606 JB March 3, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1627 42  18.471537196994042 BM25
+
+
+Application of Level Changing to a Multilevel Storage Organization
+This technique , called THE multilevel store , provides a means for economicallysatisfying THE requirements for very large storage capacities OF certain data management and informationretrieval SYSTEMS A possible means for physically organizing THE INFORMATION for efficientuse OF THE multilevel store is presented 
+
+CA670302 JB February 28, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2455 43  18.430215813516558 BM25
+
+
+A Generalization of AVL Trees
+An experiment is performed to compare thesetrees with standard AVL trees and with balanced trees on THE basis OF mean RETRIEVAL time , OF amountof restructuring expected , and on THE worst case OF RETRIEVAL time It is shown that , by permittingimbalances OF up to five units , THE RETRIEVAL time is increased a small amount while THE amount OF restructuringrequired is decreased by a factor OF ten AVL trees , balanced trees , INFORMATION storage and RETRIEVAL 
+
+CA730819 JB January 23, 1978  10:13 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2625 44  18.4125084236579 BM25
+
+
+Capability-Based Addressing
+Capability-Based Addressing Implementation OF capability-based addressing is discussed A computer using capability-based addressing may be substantially superior to presentsystems on THE basis OF protection , simplicity OF programming conventions , and efficient implementation addressing , capabilities , addressing hardware , protection , protection hardware , shared addresses , INFORMATION sharing , operating SYSTEMS , computerutility , segmentation , tagged architecture These inadequacies are traced to THE lack OF an efficient absolute address for objects inthese SYSTEMS 
+
+CA740706 JB January 17, 1978  12:39 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2516 45  18.350148288926857 BM25
+
+
+Hierarchical Storage in Information Retrieval
+Hierarchical Storage IN INFORMATION RETRIEVAL A probabilistic analysis is employed to determinethe effect OF hierarchical storage organizations on INFORMATION RETRIEVAL operations INFORMATION RETRIEVAL , hierarchical storage 
+
+CA730504 JB January 24, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1359 46  18.304968663008086 BM25
+
+
+Data Filtering Applied to Information Storage and Retrieval Applications
+Data Filtering Applied to INFORMATION Storage and RETRIEVAL Applications Manipulation OF data strings is THE most complexprocessing function IN INFORMATION storage and RETRIEVAL applications 
+
+CA661101 JB March 2, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2852 47  18.30389699026403 BM25
+
+
+The Technology of Computer Center Management: AProposed Course for Graduate Professional Programs in Computer Science or in Information Systems
+THE Technology OF Computer Center Management : AProposed Course for Graduate Professional Programs IN Computer Science or IN INFORMATION SYSTEMS McFarlan and Nolan have made a strong case foradding a course on INFORMATION SYSTEMS administration to THE 13 courses proposed by THE ACM Curriculum Committeeon Computer Education for Management for Graduate Professional Programs IN INFORMATION SYSTEMS THE course is suitable either for graduate professional programsin INFORMATION SYSTEMS or for graduate professional programs IN computer science education , INFORMATION SYSTEMS administration , computercenter management , computer system performance 
+
+CA760701 JB January 4, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2127 48  18.28782197019314 BM25
+
+
+Natural Language Question-Answering Systems: 1969
+Generalizing from current small-scale experiments to language-processing SYSTEMS BASED on dictionaries with thousands OF entries-withcorrespondingly large grammars and semantic systems-may entaila new order OF complexity and require THE invention and developmentof entirely different approaches to semantic analysis and questions answering question-answering , natural language , artificial intelligence , languageprocessing , fact RETRIEVAL , semantics Natural Language Question-Answering SYSTEMS : 1969 Recent experiments IN programming naturallanguage question-answering SYSTEMS are reviewedto summarize THE methods that have been developed for syntactic , semantic , and logical analysis OF English strings It is concludedthat at least minimally effective techniques have been devised foranswering questions from natural language subsets IN small scaleexperimental SYSTEMS and that a useful paradigm has evolved to guideresearch efforts IN THE field 
+
+CA700104 JB February 14, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1199 49  18.232418468195984 BM25
+
+
+A Computer Center Simulation Project
+Today 's computation centers are BASED on rapidlychanging technologies OF hardware and software SYSTEMS IN this paper , a mathematical model OF THE Lockheed Central Computer Center is formulatedthat describes THE operation OF a computation center IN terms OF INFORMATION nets , decision processes , and control functions 
+
+CA650907JB March 6, 1978  7:29 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1937 50  18.205414248373412 BM25
+
+
+CODAS: A Data Display System
+CODAS , a Customer Oriented Data System , isa user-oriented data RETRIEVAL and display system THE command language OF THE system provides THE userwith an easy means for specifying data RETRIEVAL and display requests data display , INFORMATION RETRIEVAL , graphic display , command languages , report program generation , management data processing 
+
+CA690201 JB February 20, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1976 51  18.204028135692823 BM25
+
+
+Multi-attribute Retrieval with Combined Indexes
+Multi-attribute RETRIEVAL with Combined Indexes file organization , secondary index files , inverted files , informationretrieval , data management , access method , secondary keys , storage with buckets , rapid RETRIEVAL , balanced filing scheme , eliminationof false drops , combining indexes , query , multi-attribute RETRIEVAL 
+
+CA701102 JB February 10, 1978  9:00 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1267 52  18.084190057754213 BM25
+
+
+Performance of Systems Used for Data TransmissionTransfer Rate of Information Bits -An ASA Tutorial Standard
+Performance OF SYSTEMS Used for Data TransmissionTransfer Rate OF INFORMATION Bits -An ASA Tutorial Standard INFORMATION thruput as a characteristic ofsystems performance is discussed This discussion includes THE pertinent aspects OF INFORMATION transfer , OF determination OF transfer rate OF INFORMATION bits ( TRIB ) , OF residual errors , and OF standard measurementconditions THE paper also presents an orderly arrangement OF characteristics and parametersthat affect INFORMATION thruput , and some examples on procedures for determining a thruput rate IN terms ofTRIB It concludes that a performance characteristic involving INFORMATION rate can best be expressed as theTRIB IN conjunction with THE Residual Error Rate 
+
+CA650504 JB March 7, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2358 53  17.931143918800675 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+As experience with use OF on-line operatingsystems has grown , THE need to share INFORMATION among system users has become increasingly apparent Usually , sharing is accomplished by allowingseveral users to share data via input and output OF INFORMATION stored IN files kept IN secondary storage Through THE use OF segmentation , however , Multics provides direct hardware addressing by user andsystem programs OF all INFORMATION , independent OF its physical storage location INFORMATION is storedin segments each OF which is potentially sharable and carries its own independent attributes OF size and accessprivilege Here , THE design and implementation considerations OF segmentation and sharing IN Multicsare first discussed under THE assumption that all INFORMATION resides IN large , segmented main memory operating system , Multics , virtual memory , segmentation , INFORMATION sharing , paging , memory management , memory hierarchy Many contemporary SYSTEMS permit some degree OF sharing Since THE size OF main memory on contemporary SYSTEMS is rather limited , it is then shown how THE Multicssoftware achieves THE effect OF a large segmented main memory through THE use OF THE Honeywell645 segmentation and paging hardware 
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2999 54  17.733559596478525 BM25
+
+
+An Approach to Multidimensional Data Array Processing by Computer
+Some recent work on THE development OF general-purposecomputer-based statistical and data processing capabilities for handling multidimensionalarrays OF data is presented This is followed by a summary OF some recent developments IN array processingcapabilities at THE World Bank , IN particular , THE system identified as WRAPS ( World BankRetrieval and Array Processing System ) array processing , table processing , statisticalanalysis , data RETRIEVAL , data processing , syntax for data structures , computing techniques , time series , cross tabulation 
+
+CA770201 JB December 30, 1977  3:12 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2812 55  17.666878033847972 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+Computer-Aided Analysis and Design OF INFORMATION SYSTEMS THE ADS problem definition was supplemented with additional INFORMATION IN order to create a completeproblem definition computer-aided analysis , INFORMATION SYSTEMS , logicalsystem design , problem statement language , problem statement analyzer , physical system design , accurately defined SYSTEMS , SYSTEMS optimization and design algorithm THE statement OF requirementswas written IN ADS ( Accurately Defined SYSTEMS ) and analyzed by a Problem Statement Analyzer for ADS THE analyzed problem statement was translated to THE form necessary for use by theSODA ( SYSTEMS Optimization and Design Algorithm ) program for THE generation OF alternative specificationsof program modules and logical database structures 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3177 56  17.66574992638676 BM25
+
+
+How to Share a Secret
+IN this paper we show how to divide data D inton pieces IN such a way that D is easily reconstructable from anyk pieces , but even complete KNOWLEDGE OF k - 1 pieces revealsolutely no INFORMATION about D This technique enables THE constructionof robust key management schemes for cryptographic systemsthat can function securely and reliably even when misfortunes destroyhalf THE pieces and security breaches expose all but one OF theremaining pieces 
+
+CA791105 DB January 23, 1980  11:48 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0982 57  17.5269086703327 BM25
+
+
+An Inductive Approach to Language Translation
+THE conception OF sentence translationwhich motivates THE work is informally presented , and THE measurement OF physical similarity IN pairs ofstrings is discussed , a notion which plays a central ROLE IN THE proposed type OF translator Experimentalevidence is presented IN support OF THE premise upon which this conception is BASED 
+
+CA641101 JB March 9, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0651 58  17.514064307129228 BM25
+
+
+A Survey of Languages and Systems for Information Retrieval
+A Survey OF Languages and SYSTEMS for INFORMATION RETRIEVAL 
+
+CA620108 JB March 20, 1978  4:36 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2741 59  17.512387071440116 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+It is BASED on a technique OF variableaggregation and THE concept OF nearly decomposable system , both borrowed from Econometrics Decomposability , Instabilities , andSaturation IN Multiprogramming SYSTEMS A step-by-step approach to model THE dynamicbehavior and evaluate THE performance OF computing SYSTEMS is proposed This approachis taken IN order to identify IN multiprogramming paging SYSTEMS ( i ) unstable regimes OF operations and ( ii ) critical computing loads which bring THE system into states OF saturation 
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2650 60  17.510259003806013 BM25
+
+
+Order-n Correction for Regular Languages
+THE method should find applications IN informationretrieval , artificial intelligence , and spelling correction SYSTEMS 
+
+CA740503 JB January 17, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2522 61  17.45451790691058 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+Recent research IN time-sharing paging SYSTEMS has developed THE working set model for program behavior , and are source allocation strategy BASED on this model has been proposed This report discusses THE design and implementation OF a dispatcher BASED on THE working setprinciple , presents data to permit analysis OF its behavior , and indicates future directions OF researchon methods OF controlling a computer system working set , dispatcher , scheduler , time-sharingsystems , resource allocation , software evaluation , operating SYSTEMS , supervisory SYSTEMS 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1675 62  17.250457306882836 BM25
+
+
+A Note on a Relevance Estimate and Its Improvement
+INFORMATION RETRIEVAL , relevance , indexing , classification 
+
+CA681104 JB February 21, 1978  2:57 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2978 63  17.215599793271476 BM25
+
+
+Analysis of Design Alternatives for Virtual Memory Indexes
+Formulas for THE RETRIEVAL costs for possible combinations OF design alternativesare given These are used IN numerical case studies which compare THE RETRIEVAL costs OF THE alternatives index , index structure , pages , virtual memory , files , RETRIEVAL , main tenance , search strategy , key compression 
+
+CA770404 JB December 29, 1977  5:22 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2870 64  17.213569877900017 BM25
+
+
+A Lattice Model of Secure Information Flow
+A Lattice Model OF Secure INFORMATION Flow This paper investigates mechanisms that guaranteesecure INFORMATION flow IN a computer system These mechanisms are examined within a mathematical frameworksuitable for formulating THE requirements OF secure INFORMATION flow among security classes Thecentral component OF THE model is a lattice structure derived from THE security classes and justified by THE semanticsof INFORMATION flow THE model provides a unifying view OF all SYSTEMS that restrict INFORMATION flow , enables a classificationof them according to security objectives , and suggests some new approaches It also leads to THE constructionof automatic program certification mechanisms for verifying THE secure flow OF INFORMATION through a program protection , security , INFORMATION flow , securityclass , lattice , program certification THE lattice properties permit concise formulations OF THE security requirementsof different existing SYSTEMS and facilitate THE construction OF mechanisms that enforce security 
+
+CA760501 JB January 4, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1349 65  17.20113065727716 BM25
+
+
+Computing Capabilities at Western European Universities
+This lag is attributed to four principal factors : ( a ) THE handicapping organization OF academic procedures ; ( b ) THE university-government financial relationship ; ( c ) THE subordinated organization OF THE computing facility ; ( d ) THE paucity OF professional interchangeof KNOWLEDGE Present equipment capabilities vary from moderate to large scale ; however , many institutionsplan to acquire complex time-shared SYSTEMS IN THE near future 
+
+CA661201 JB March 2, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1680 66  16.980703724390825 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+This system was designed to improve man-computer communications by employinga display unit to interleave tutoring with other computer operations such as simulation , programming , andinformation RETRIEVAL computer-assisted instruction , tutorial SYSTEMS , programming , simulation , modeling , INFORMATION RETRIEVAL operating SYSTEMS , graphics , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3011 67  16.872127818734384 BM25
+
+
+Management Utilization of Computers in American Local Governments
+Traditional concepts OF management informationsystems ( MIS ) bear little relation to THE INFORMATION SYSTEMS currently IN use by top management IN most US localgovernments Finally , management computing clearly has impacts for top managers , mostlyinvolving improvements IN decision INFORMATION computer utilization , management INFORMATION system , American local government , city government computers , county government computers , computer impacts , management computing Despite THE unsophisticated nature OF these SYSTEMS , management use OF computing issurprisingly common , but also varied IN its extent among local governments 
+
+CA780302 JB March 28, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1750 68  16.82361228433283 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+THE general design OF THE hardware arrangement and THE software componentsand functions OF such a system are BASED on a planned configuration OF dual CDC 6600 's that share onemillion words OF extended core storage multiple computer SYSTEMS , extended core storage , multiprogrammed operating SYSTEMS , multiprocessor operating SYSTEMS , control data corporation 6600 , operating system with ECS 
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2111 69  16.823370936609255 BM25
+
+
+Spelling Correction in Systems Programs
+These include THE use OF syntaxand semantics INFORMATION , THE organization OF restricted keywordand symbol tables , and THE consideration OF a limited class OF spellingerrors Spelling Correction IN SYSTEMS Programs Several specialized techniques are shown for efficientlyincorporating spelling correction algorithms into compilers and operating SYSTEMS By using SYSTEMS which perform spelling correction , THE number OF debugging runs per program has been decreased , saving both programmer and machine time spelling correction , error correction , debugging , compilers , operating SYSTEMS , diagnostics , error detection , misspelling , lexical analysis SYSTEMS programming 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1745 70  16.784997087832988 BM25
+
+
+A Position Paper on Computing and Communications
+THE effective operation OF free enterprise increating THE envisioned INFORMATION service industry is dependent upon three accomplishments : ( 1 ) THE restructuringof our INFORMATION processing industry so that a clear division OF costs is made among computing , communications , and THE development OF INFORMATION services ; ( 2 ) THE wide use OF multiaccess system conceptsso that INFORMATION services may share IN THE use OF computer installations and so that THE cost OF theirconstruction is reasonable ; and ( 3 ) THE development OF public , message-switched communications services sothat adequate provisions are made for INFORMATION security INFORMATION networks , INFORMATION SYSTEMS , computingand free enterprise , computing economics , computer installation management , government regulation , communications services , distributed data base , program leasing 
+
+CA680511 JB February 23, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2888 71  16.783928328907347 BM25
+
+
+Information Reference Coding
+INFORMATION Reference Coding THE principles OF methodical coding are discussed , and THE way inwhich logical connections between data items must be reflected IN THE reference code framework is shownthrough a set-theoretic INFORMATION model data , file , reference code , systemsanalysis , INFORMATION modeling , database Items IN business SYSTEMS have to be identifiedby reference codes , which can later be used as data codes and file keys IN an associated data processingsystem IN business SYSTEMS associated with large collections OF integrated files ( database ) it is vital to assign codes IN a methodical way so as to control future extension and changes while maintainingcorrect program action 
+
+CA760105 JB January 5, 1978  10:11 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2168 72  16.75521634200107 BM25
+
+
+List Tracing in Systems Allowing Multiple Cell-Types
+list-processing , storage allocation , LISP , SLIP , BASED storage , pointers List Tracing IN SYSTEMS Allowing Multiple Cell-Types List-processing SYSTEMS have each allowed theuse OF only a single size and configuration OF list cell 
+
+CA710804 JB February 2, 1978  3:45 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2572 73  16.736327715756055 BM25
+
+
+Arguments for a Moratorium on the Constructionof a Community Information Utility
+Arguments for a Moratorium on THE Constructionof a Community INFORMATION Utility IN this article THE author urges a prudentand decentralized approach to THE question OF THE design and desirability OF computerized community informationutilities Current proposals for community INFORMATION utilities are examined IN thisframework , and THE conclusion is drawn that society is not yet IN a position to justify either THE constructionof an INFORMATION utility IN a prototype community or THE acceptance OF a policy infavor OF its widespread implementation community INFORMATION utilities , social implications , public policy Before accepting THE inevitability and desirability OF this or any technology , we should : ( 1 ) be sure OF THE feasibility ( internally and externally ) OF what is proposed ; ( 2 ) project and perhapswait for changes IN complementary techniques ; ( 3 ) evaluate current and projected supplementary techniques ; ( 4 ) establish THE existence OF demand for what is proposed ; ( 5 ) take steps to involve a representativegroup OF ultimate users IN SYSTEMS design , and ( 6 ) carefully think through possible side effectson man and his world view 
+
+CA741202 JB January 16, 1978  10:02 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0730 74  16.73570899801492 BM25
+
+
+MIRFAG: A Compiler Based on StandardMathematical Notation And Plain English
+MIRFAG : A Compiler BASED on StandardMathematical Notation And Plain English THE useof plain English for organizational instructions , automatic error diagnosis indicating THE actual locationof THE error IN THE uncompiled program , and an attempt to minimize that fragmentation OF THE originalproblem statement which is a normal feature OF programming SYSTEMS 
+
+CA630928 JB March 13, 1978  7:06 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1751 75  16.733776721809086 BM25
+
+
+The Working Set Model for Program Behavior
+THE working setof pages associated with a process , defined to be THE collection OF its most recently used pages , providesknowledge vital to THE dynamic management OF paged memories Probably THE most basic reason behind THE absenceof a general treatment OF resource allocation IN modern computer SYSTEMS is an adequate model forprogram behavior general operating system concepts , multiprocessing , multiprogramming , operating SYSTEMS , program behavior , program models , resource allocation , scheduling , storage allocation 
+
+CA680505 JB February 23, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3181 76  16.7246456330125 BM25
+
+
+Public Protection and Education with EFT
+Research has revealed THE existence OF widespreadmisinformation and lack OF KNOWLEDGE about EFT amongbusiness and government as well as consumers As a result , any effortto stimulate meaningful public participation IN decisions onthe introduction OF EFT SYSTEMS will require a coordinated educationaleffort OF considerable scale Electronic funds transfer SYSTEMS , consumer education , securityand fraud , privacy , system reliability , EFT ombudsman 
+
+CA791204 DB February 25, 1980  11:33 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2318 77  16.7080398237188 BM25
+
+
+The Role of Computer System Models in Performance Evaluation
+THE ROLE OF Computer System Models IN Performance Evaluation This paper examines THE interrelationships between models and othermethods for evaluating THE performance OF computer SYSTEMS and establishes circumstances underwhich THE use OF a model is appropriate 
+
+CA720710 JB January 30, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1194 78  16.693838651630593 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+THE Main Catalog is used to describe THE documents , and inverted lists are provided by THE Repository system for RETRIEVAL by concept coordination Two principles are presented asparamount IN THE provision OF INFORMATION services : ( 1 ) easy accessibility to THE INFORMATION files by usersunfamiliar with file organization , and ( 2 ) value OF service exceeding user costs THE main features OF THE INFORMATION system are directuser access via on-line teletypewriter console , direct user access to all details OF THE system organization , unrestricted and expandable search vocabulary , user access through many facets OF document indexing , and stochastic search through linked index terms and other file relationships 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1846 79  16.660757976021085 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+IN some OF THE latter cases it is shownto be possible to find a solution by extending THE INFORMATION available to THE solution technique , butin many cases THE technique becomes computationally unfeasible when THE additional INFORMATION is provided Some OF THE problems OF simulating discreteevent SYSTEMS , particularly computer SYSTEMS , on a conventional digital computer are dealt with Thesystems are assumed to be described as a network OF interconnected sequential processes 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3100 80  16.622676694033363 BM25
+
+
+An Interference Matching Technique for Inducing Abstractions
+A method for inducing KNOWLEDGE by abstractionfrom a sequence OF training examples is described Rule induction , KNOWLEDGE acquisition , partialmatching , interference , graph matching , learning , induction , KNOWLEDGE representation , informal RETRIEVAL , abstraction , generalization , language learning , complexity , predicate discovery 
+
+CA780507 DH February 26, 1979  1:26 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2623 81  16.611755968702077 BM25
+
+
+A New Technique for Compression and Storage of Data
+file maintenance , INFORMATION RETRIEVAL , utilityprograms , text compression , coding techniques , data storage , data management THE efficiency OF thesystem is considered and pertinent statistics are given and compared with statistics for other INFORMATION coding techniques 
+
+CA740801 JB January 17, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1747 82  16.575526027061017 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+computer design , computer design criteria , computersystems , computer SYSTEMS design , input equipment , input equipment design , operating SYSTEMS , operatingsystems design , multiprogramming , multiprogrammed SYSTEMS , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , INFORMATION security , INFORMATION privacy , computing reliability , debugging , program debugging , program testing , parallel processing , parallel programming , multiprocessing Three Criteria for Designing Computing SYSTEMS to Facilitate Debugging Examples OF applicationsof THE criteria concern THE reading OF a time-of-day clock , THE synchronization OF parallelprocesses , protection IN multiprogrammed SYSTEMS , and THE assignment OF capability indexes 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-0616 83  16.56734530843497 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+Thereport is BASED , for THE most part , on a mathematical model called `` An INFORMATION Algebra '' developed primarilyby R An INFORMATION Algebra - Phase I Report-LanguageStructure Group OF THE CODASYL Development Committee THE goal OF this work is to arrive at a properstructure for a machine-independent problem-defining language , at THE SYSTEMS level OF data processing It is hoped that this report will be read ( a ) with avid interest by programming languagedesigners and implementors , and all those interested IN developing a theoretical approach to dataprocessing ; ( b ) with interest and understanding by professional programmers and SYSTEMS analysts ; and ( c ) with appreciation by THE businessman-analyst-manager Rather , they have tried to present a philosophy to THE professional people who are vitallyconcerned with providing a working language for THE SYSTEMS analyst 's use 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1541 84  16.56444660581477 BM25
+
+
+A Language for Modeling and Simulating Dynamic Systems
+THE nature OF THE language , and THE ROLE OF THE process concept , is presented by means OF an extended example A Language for Modeling and Simulating Dynamic SYSTEMS THE ability to representsystems containing highly interactive processes is an essential feature 
+
+CA670905 JB February 27, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2626 85  16.54249564193084 BM25
+
+
+Protection and the Control of Information Sharing in Multics
+Protection and THE Control OF INFORMATION Sharing IN Multics THE design OF mechanisms to control THE sharingof INFORMATION IN THE Multics system is described Multics , protection , security , privacy , access control , authentication , computer utilities , time-sharing SYSTEMS , proprietary programs , protected subsystems , virtual memory , descriptors 
+
+CA740705 JB January 17, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1625 86  16.542217775645735 BM25
+
+
+On the Automatic Simplification of Source-Language Programs
+THE simplifications are basedon THE form OF THE program and THE KNOWLEDGE obtained by a processor , without any understanding OF what theprogram is supposed to do 
+
+CA670304 JB February 28, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1387 87  16.54060009889814 BM25
+
+
+Solution of Systems of Polynomial Equations By Elimination
+Solution OF SYSTEMS OF Polynomial Equations By Elimination THE elimination procedure as described by Williamshas been coded IN LISP and FORMAC and used IN solving SYSTEMS OF polynomial equations It is foundthat THE method is very effective IN THE case OF small SYSTEMS , where it yields all solutions withoutthe need for initial estimates THE method , by itself , appears IN appropriate , however , IN THE solutionof large SYSTEMS OF equation due to THE explosive growth IN THE intermediate equations and THE hazardswhich arise when THE coefficients are truncated 
+
+CA660811 JB March 2, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2876 88  16.533951175697545 BM25
+
+
+Intentional Resolution of Privacy Protection in Database Systems
+Traditionally , privacy protection IN databasesystems is understood to be THE control over what INFORMATION a given user can get from a database This paper is concerned with another , independent , dimension OF privacy protection , THE control over whata user is allowed to do with a piece OF INFORMATION supplied to him by THE database THE ability to conditionthe supply OF INFORMATION on its intended use is called here `` intentional resolution '' OF privacyprotection Intentional Resolution OF Privacy Protection IN Database SYSTEMS 
+
+CA760304 JB January 4, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3137 89  16.492133468457673 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+A Methodology for THE Design OF Distributed INFORMATION SYSTEMS A macro model OF a distributed INFORMATION system IN presented THE modeldescribes THE major costs OF using an informationsystem from THE perspective OF THE end-user 
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3135 90  16.455180441895283 BM25
+
+
+Detection of Three-Dimensional Patterns of Atoms in Chemical Structures
+Three-dimensional pattern recognition , chemicalstructure search , INFORMATION RETRIEVAL , crystal-structure analysis , drug analysis and design 
+
+CA790401 DH May 21, 1979  10:50 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2916 91  16.44993821543222 BM25
+
+
+A Fast String Searching Algorithm
+bibliographic search , computational complexity , INFORMATION RETRIEVAL , linear time bound , pattern matching , text editing THE INFORMATION gained by starting THE match at THE end OF THE pattern often allows THE algorithmto proceed IN large jumps through THE text being searched 
+
+CA771010 JB December 27, 1977  9:43 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2308 92  16.434228303384366 BM25
+
+
+Computers and Urban Society
+urban SYSTEMS , urban applications , data acquisition , data management , engineering analysis , INFORMATION SYSTEMS 
+
+CA720720 JB January 30, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2181 93  16.407702355481245 BM25
+
+
+The State of Computer Oriented Curricula in Business Schools 1970
+Three topics were covered : curricula forthe general manager ; computer-related material IN required and functional courses ; and curricula for studentsconcentrating on computer-based INFORMATION SYSTEMS Preliminary to THE Committee 's recommendationsfor improving computer education for management , this report has been prepared to provide THE participantsand THE administrators OF their institutions with background INFORMATION for THE ongoing task OF coursedevelopment 
+
+CA710701 JB February 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-1711 94  16.35970903257879 BM25
+
+
+When Your Computer Needs a Lawyer
+INFORMATION is given on patents , copyrights and trade secret protection for programs , and THE problemof using copyrighted material IN INFORMATION storage and RETRIEVAL SYSTEMS , including THE pendingcopyright and patent revision bills 
+
+CA680803 JB February 22, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-3076 95  16.347592479114144 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+During THE last few years , computer-basedsystems which automate THE transfer and recording OF debits and credits have begun to be implemented ona large scale These SYSTEMS promise both financial benefits for THE institutions that use them and potentialconveniences to their customers However , they also raise significant social , legal , and technicalquestions that must be resolved if full scale SYSTEMS for Electronic Funds Transfer ( EFT ) are notto cause more problems for THE larger public than they solve Electronic funds transfer SYSTEMS , social impactsof computing , privacy , social choice , computer networks , network reliability , security , social values 
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2987 96  16.33157423869634 BM25
+
+
+Representation of Many-Sided Polygonsand Polygonal Lines for Rapid Processing
+boundary line representation , cartography , computergraphics computer-searchable structures , contour representation , geographic INFORMATION processing , graphicdata RETRIEVAL , IN tersection OF curves , line-drawing processing , poin ts IN polygons , regional boundaryrepresentation , spatial INFORMATION 
+
+CA770305 JB December 30, 1977  12:44 AM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2765 97  16.27578937091028 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+data base architecture , inverted file organization , data base performance and measurement , secondary index organization , INFORMATION storage and RETRIEVAL , query answering THE need to envision and architecture data basesystems IN a hierarchical level by level framework is stressed 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2746 98  16.236674184108697 BM25
+
+
+Efficient String Matching: An Aid to Bibliographic Search
+keywords and phrases , string pattern matching , bibliographicsearch , INFORMATION RETRIEVAL , text-editing , finite state machines , computational complexity 
+
+CA750607 JB January 9, 1978  1:03 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2372 99  16.23650450086392 BM25
+
+
+On the Implementation of Security Measures in Information Systems
+On THE Implementation OF Security Measures IN INFORMATION SYSTEMS THE security OF an INFORMATION system may berepresented by a model matrix whose elements are decision rules and whose row and column indices areusers and data items respectively security , privacy , access control confidentiality , operating SYSTEMS , access management , data banks , management INFORMATION SYSTEMS THE model is used to explain security features OF several existing SYSTEMS , and servesas a framework for a proposal for general security system implementation within today 's languages and operating SYSTEMS 
+
+CA720401 JB January 31, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+49 Q0 CACM-2407 100  16.23477482235974 BM25
+
+
+Curriculum Recommendations for UndergraduatePrograms in Information Systems
+Curriculum Recommendations for UndergraduatePrograms IN INFORMATION SYSTEMS THE need for education related to informationsystems IN organizations is discussed , and a curriculum is proposed for an undergraduate program education , undergraduate curricula , management SYSTEMS , INFORMATION SYSTEMS , INFORMATION analysis , system design , SYSTEMS analysis 
+
+CA731201 JB January 19, 1978  3:24 PM
+
+

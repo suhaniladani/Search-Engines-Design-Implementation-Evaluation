@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+24 Q0 CACM-1696 1  7.605601484764024 BM25
+
+
+An Algorithm for Identifying the Ergodic Subchainsand Transient States of a Stochastic Matrix
+An Algorithm for Identifying the Ergodic Subchainsand Transient States of a STOCHASTIC Matrix An algorithm for identifying the ergodic subchainsand transient states of a STOCHASTIC matrixis presented Applications in Markov renewal programmingand in the construction of variable length codes are reviewed , and an updating procedure for dealingwith certain sequences of STOCHASTIC matrices is discussed STOCHASTIC matrix , ergodic , chain identification 
+
+CA680905 JB February 22, 1978  9:04 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0268 2  6.691787411582738 BM25
+
+
+Stochastic Evaluation of a Static Storage Allocation
+STOCHASTIC Evaluation of a Static Storage Allocation 
+
+CA611013 JB March 16, 1978  12:48 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2882 3  4.756788261305487 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+A STOCHASTIC Evaluation Model for DatabaseOrganization in Data Retrieval Systems database architecture , database performance andevaluation , invented list , threaded list , cellular list , information retrieval , database organizations , query complexity , STOCHASTIC model , Monte Carlo simulation 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1410 4  4.603946095105984 BM25
+
+
+Interarrival Statistics for Time Sharing Systems
+The optimization of time-shared system performancerequires the description of the STOCHASTIC PROCESSES governing the user inputs and the program activity 
+
+CA660704 JB March 2, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1540 5  4.55549320051058 BM25
+
+
+An Algorithm for Class Scheduling With Section Preference
+The algorithmis more STOCHASTIC than Monte Carlo in nature 
+
+CA670906 JB February 27, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1435 6  3.7028331546321573 BM25
+
+
+Design of Computer Simulation Experiments for Industrial Systems
+The four experimental design problems are : ( 1 ) theproblem of STOCHASTIC convergence , ( 2 ) the problem of factor selection , ( 3 ) the problem of motiveand ( 4 ) the many response problem 
+
+CA660502 JB March 3, 1978  10:20 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2742 7  3.6561740977423685 BM25
+
+
+Improved Event-Scanning Mechanisms for Discrete Event Simulation
+Thisproblem may be attributed in part to difficulties such as slow STOCHASTIC convergence 
+
+CA750611 JB January 9, 1978  12:43 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1194 8  3.500518402836155 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+The main features of the information system are directuser access via on-line teletypewriter console , direct user access to all details of the system organization , unrestricted and expandable search vocabulary , user access through many facets of document indexing , and STOCHASTIC search through linked index terms and other file relationships Establishment of the ACM Repository and Principlesof the IR System APPLIED to its Operation 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0020 9  3.154385660362183 BM25
+
+
+Accelerating Convergence of Iterative Processes
+A technique is discussed which , when appliedto an iterative procedure for the solution ofan equation , accelerates the rate of convergence ifthe iteration converges and induces convergence ifthe iteration diverges Accelerating Convergence of Iterative PROCESSES 
+
+CA580602 JB March 22, 1978  9:09 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1892 10  3.1079009059190312 BM25
+
+
+Degree of Multiprogramming in Page-on-Demand Systems
+A simple STOCHASTIC model is described whichoffers a base for understanding the relationship between the number of programs permitted to share memory ( the degree of multiprogramming ) , drum traffic rates , and central processing unit utilization in page-on-demand , multiprogrammed , time-shared computer systems 
+
+CA690601 JB February 17, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2767 11  3.096843833379254 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+The algorithmsare tested with a set of typical STOCHASTIC scheduling distributions especially chosen to showthe advantages and limitations of the algorithms 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1235 12  3.0749640491915637 BM25
+
+
+A Stochastic Approach to the Grammatical Coding of English
+A STOCHASTIC Approach to the Grammatical Coding of English 
+
+CA650620 JB March 6, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2535 13  2.949913870992872 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+A study is made of the way in which asynchronoustime division multiplexing changes the STOCHASTIC nature of the arrival process from a user to the computerand , consequently , affects the performance of a time-shared computer-communications system 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3043 14  2.6989649981899992 BM25
+
+
+Distributed Processes: A Concurrent Programming Concept
+Distributed PROCESSES : A Concurrent Programming Concept A language concept for concurrent processeswithout common variables is introduced These PROCESSES communicate and synchronize by means of procedurecalls and guarded regions The paper gives several examples of distributed processesand shows that they include procedures , coroutines , classes , monitors , PROCESSES , semaphores , buffers , pathexpressions , and input/output as special cases Concurrent programming , distributed PROCESSES , microprocessor networks , nondeterminism , guarded regions , programming languages , process communicationand scheduling , sorting arrays , coroutines , classes , monitors , PROCESSES , semaphores , buffers , path expressions , input/output 
+
+CA781108 DH January 26, 1979  10:40 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2342 15  2.4536071487334037 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference Between Communicating Parallel PROCESSES Various kinds of interference between communicatingparallel PROCESSES have been examined by Dijkstra , Knuth , and others In this paper a system of parallelprocesses is regarded as a machine which proceeds from one state S ( i It is shown how to calculate transition rules from the `` partialrules '' by which the individual PROCESSES operate The formation of partial rules and the calculation oftransition rules are both applicable to hardware PROCESSES as well as to software PROCESSES , andsymmetry between PROCESSES is not required concurrent programming control , cooperating PROCESSES , formal programs , interference , mutual exclusion , operating systems , parallel PROCESSES 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2376 16  2.3271994933237266 BM25
+
+
+Synchronization of Communicating Processes
+Synchronization of Communicating PROCESSES Formalization of a well-defined synchronizationmechanism can be used to prove that concurrently running PROCESSES of a system communicate correctly This is demonstrated for a system consisting of many sending PROCESSES which deposit messages in a bufferand many receiving PROCESSES which remove messages from that buffer 
+
+CA720305 JB January 31, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0942 17  2.307022889695118 BM25
+
+
+FORTRAN Subroutines for Time Series Analysis
+The authors have recently been concerned in atime-series study that constituted a fairly typical piece of APPLIED statistical research , involving extensivecomputations on a moderately large quantity of data Wehave found that the many different numericalprocesses that were required could be built up almost completely from a small number of basic operations , and a set of FORTRAN subroutines has been written to perform these 
+
+CA630106 JB March 14, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2740 18  2.3035076244577932 BM25
+
+
+A Large Semaphore Based Operating System
+The paper describes the internal structure ofa large operating system as a set of cooperating sequential PROCESSES The PROCESSES synchronize bymeans of semaphores and extended semaphores ( queue semaphores ) The number of parallel PROCESSES is carefullyjustified , and the various semaphore constructions are explained cooperating PROCESSES , operating system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , operating system structure , asynchronous structuring , buffering , parallel PROCESSES , synchronizingprimitives , reentrant code , RC 4000 , project management , time schedule , debugging , project planning , project scheduling , reliability , program proving , coroutines , correctness , program maintenance , software paging 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3141 19  2.1950874067122617 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of PROCESSES This note presents an improvement to LeLann'salgorithm for finding the largest ( or smallest ) of a set of uniquelynumbered PROCESSES arranged in a circle , in which no centralcontroller exists and the number of PROCESSES is not known a priori 
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0412 20  2.1931236758100843 BM25
+
+
+Recursive Processes and ALGOL Translation
+Recursive PROCESSES and ALGOL Translation 
+
+CA610102 JB March 17, 1978  1:29 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1749 21  2.166864975142522 BM25
+
+
+The Structure of the "THE"-Multiprogramming System
+A multiprogramming system is described inwhich all activities are divided over a number of sequential PROCESSES These sequential PROCESSES are placedat various hierarchical levels , in each of which one or more independent abstractions have beenimplemented operating system , multiprogramming system , systemhierarchy , system structure , real-time debugging , program verification , synchronizing primitives , cooperatingsequential PROCESSES , system levels , input-output buffering , multiprogramming , processor sharing , multiprocessing 
+
+CA680507 JB February 23, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2320 22  2.0761097105470188 BM25
+
+
+Structured Multiprogramming
+The notation used explicitly associatesa data structure shared by concurrent PROCESSES with operations defined on it A combination ofcritical regions and event variables enables the programmer to control scheduling of resources amongcompeting PROCESSES to any degree desired structured multiprogramming , programming languages , operating systems , concurrent PROCESSES , shared data , mutual exclusion , critical regions , processcommunication , synchronizing events 
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2371 23  2.0504173466365265 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+A system of communication between PROCESSES in atime-sharing system is described and the communication system is extended so that it may be used between processesdistributed throughout a computer network 
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1846 24  2.0288388501130923 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur Thesystems are assumed to be described as a network of interconnected sequential PROCESSES Following this , the problem of dealing with simultaneousevents in separate PROCESSES is introduced simulation , parallel PROCESSES , simultaneous events , picture processing , computer system simulation 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3120 25  2.0065810709289598 BM25
+
+
+An Event-Driven Compiling Technique
+This technique has been APPLIED to the construction of an Algol68 compiler A technique ispresented here which uses instead control structures , namely eventsand PROCESSES 
+
+CA790105 DH April 10, 1979  12:26 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2672 26  1.9632013056673496 BM25
+
+
+Emotional Content Considered Dangerous
+artificial intelligence , heuristic programming , modelsof cognitive PROCESSES , computer music , computer composition , music theory 
+
+CA740311 JB January 18, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1748 27  1.9556551256295331 BM25
+
+
+A Scheduling Philosophy for Multiprocessing Systems
+The notions of process and state vector are discussed , and the nature of basic operations on PROCESSES is considered Some of the connections between processesand protection are analyzed Finally , several methods for interlocking the executionof independent PROCESSES are presented and compared 
+
+CA680508 JB February 23, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3128 28  1.9332222567586725 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+Synchronization of concurrent PROCESSES requires controlling the relative ordering of events in the PROCESSES A new synchronization mechanism is proposed , using abstract objects called eventcounts and sequencers , that allows processesto control the ordering of events directly , rather than using mutualexclusion to protect manipulations of shared variables that controlordering of events 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2255 29  1.9098092276334757 BM25
+
+
+Comments on Moorer's Music and Computer Composition
+artificial intelligence , heuristic programming , models of cognitive PROCESSES , computer music , computer composition , music theory 
+
+CA721114 JB January 27, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2504 30  1.9098092276334757 BM25
+
+
+Concerning Music and Computer Composition in Computational Linguistics
+artificial intelligence , heuristic programming , models of cognitive PROCESSES , computer music , computer composition , music theory 
+
+CA730516 JB January 23, 1978  4:27 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2378 31  1.8898658267627224 BM25
+
+
+An Operating System Based on the Concept of a Supervisory Computer
+An operating system which is organized as asmall supervisor and a set of independent PROCESSES are described The supervisor handles I/O with externaldevices-the file and directory system-schedules active PROCESSES and manages memory , handle errors , andprovides a small set of primitive functions which it will execute for a process operating systems , supervisors , multiprogramming , time-sharing , cooperating PROCESSES 
+
+CA720303 JB January 31, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3073 32  1.8852743771375418 BM25
+
+
+Communicating Sequential Processes
+Communicating Sequential PROCESSES This paper suggests that input and output arebasic primitives of programming and that parallel composition of communicating sequential PROCESSES isa fundamental program structuring method 
+
+CA780805 DH February 7, 1979  10:07 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1753 33  1.860302559461818 BM25
+
+
+Virtual Memory, Processes, and Sharing in MULTICS
+Virtual Memory , PROCESSES , and Sharing in MULTICS MULTICS concepts of PROCESSES , address space , and virtualmemory are defined and the use of paging and segmentation is explained 
+
+CA680503 JB February 23, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2228 34  1.860302559461818 BM25
+
+
+Comments on Prevention of System Deadlocks
+Habermann 's method of deadlock prevention isdiscussed , where deadlock is defined as a system state from which resource allocations to certain processesare not possible Permanent blocking is the situation where certain PROCESSES never receive theirresource requests 
+
+CA710106 JB February 8, 1978  10:45 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0293 35  1.82586966919369 BM25
+
+
+The Applied Mathematics Laboratory of the David W. Taylor Model Basin
+The APPLIED Mathematics Laboratory of the David W 
+
+CA610901 JB March 16, 1978  10:01 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2080 36  1.824061054796389 BM25
+
+
+The Nucleus of a Multiprogramming System
+The systemnucleus simulates an environment in which program execution and input/outputare handled uniformly as parallel , cooperating PROCESSES A fundamental set of primitives allows the dynamic creation and controlof a hierarchy of PROCESSES as well as the communication among them multiprogramming , operating systems , parallel PROCESSES , process concept , process communication , message buffering , processhierarchy , process creation , process removal 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2150 37  1.8064647236573024 BM25
+
+
+Concurrent Control with "Readers" and "Writers"
+The problem of the mutual exclusion of severalindependent PROCESSES from simultaneous access to a `` critical section '' is discussed for the case wherethere are two distinct classes of PROCESSES known as `` readers '' and `` writers 
+
+CA711006 JB February 2, 1978  11:58 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0927 38  1.7988353873651473 BM25
+
+
+Linear Programming Applied to Ultraviolet Absorption Spectroscopy
+Linear Programming APPLIED to Ultraviolet Absorption Spectroscopy 
+
+CA630206 JB March 14, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2912 39  1.7666978167203926 BM25
+
+
+Concurrent Reading and Writing
+These include a solution to the general problem in which a read is repeated ifit might have obtained an incorrect result , and two techniques for transmitting messages between PROCESSES These solutions do not assume any synchronizing mechanism other than data which can be writtenby one process and read by other PROCESSES 
+
+CA771104 JB December 27, 1977  7:47 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0618 40  1.7657434436617108 BM25
+
+
+Computers- The Key to Total Systems Control: An Industrial Viewpoint
+Man-Man-machine PROCESSES are characterized in fivemain types , and the markets for each type are shown for 1950 and 1960 and estimated for 1970 
+
+CA620314 JB March 20, 1978  2:53 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2844 41  1.7346270839916087 BM25
+
+
+Heaps Applied to Event Driven Mechanisms
+Heaps APPLIED to Event Driven Mechanisms 
+
+CA760709 JB January 4, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3039 42  1.7339796076050489 BM25
+
+
+On-the-Fly Garbage Collection: An Exercise in Cooperation
+As an example of cooperation between sequentialprocesses with very little mutual interference despite frequent manipulations of a large shared dataspace , a technique is developed which allows nearly all of the activity needed for garbage detection and collectionto be performed by an additional processor operating con-currently with the processor devoted to thecomputation proper Multiprocessing , fine-grained interleaving , cooperationbetween sequential PROCESSES with minimized mutual exclusion , program correctness for multiprogrammingtasks , garbage collection 
+
+CA781112 DH January 22, 1979  3:24 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3078 43  1.697307607359216 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+A major purpose ofthis paper is to demonstrate that the difficulties of obtaining analytical solutions to Markov processescan be considerably reduced by the application of symbol manipulation programs Since many physicalsystems can be modeled by Markov and semi-Markov PROCESSES , the potential range of application of these techniquesis much wider than the problem of availability analyzed here 
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2920 44  1.6820616139437943 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+The deadlock avoidance problem may be definedinformally as the determination , from some a priori information about the PROCESSES , resources , operatingsystem , etc When each process specifies its future needs by a flowchart of need-defined steps , a globalapproach to the phenomenon and its in terpretation as a game between the operating system and the processesallows formalization of risk and safety concepts 
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1198 45  1.6229153870504505 BM25
+
+
+Solution of a Problem in Concurrent Programming Control
+A number of mainly independent sequential-cyclicprocesses with restricted means of communication with each other can be made in such a way that at anymoment one and only one of them is engaged in the `` critical section '' of its cycle 
+
+CA650908 JB March 6, 1978  7:24 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3184 46  1.6229153870504505 BM25
+
+
+   Revised Report on the Algorithmic Language ALGOL 60
+This is a language suitable for expressing a large class of numerical PROCESSES in a form sufficiently concise for direct automatic translation into the language of programmed automaticcomputers 
+
+CA630117 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1441 47  1.55268645168174 BM25
+
+
+Methods of Numerical Integration Applied toa System Having Trivial Function Evaluations
+Methods of Numerical Integration APPLIED toa System Having Trivial Function Evaluations A study has been made to determine which methodsof numerical integration require the least computation time for a given amount of truncation errorwhen APPLIED to a particular system of ordinary differential equations where function evaluations arerelatively trivial 
+
+CA660408 JB March 3, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1135 48  1.5465001441382493 BM25
+
+
+A General Business-Oriented Language Based on Decision Expressions*
+Sucha structure , based on identifying and incorporating into a compiler the aspects common to all processesof such class , permits writing extremely compact programs , even for comparatively complex applications , in terms of tables of control expressions which express only information characteristic of the particularapplication It stresses the structural analysis of the class of PROCESSES to be representedin the languages , as opposed to emphasizing formal ( i Here an invariant pattern of procedureis identified as characteristic of the class of all batch file PROCESSES 
+
+CA640208 JB March 10, 1978  4:08 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1272 49  1.5391954510998047 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+Other opportunities for heavy editing are described , chief among them being interpretation andexpansion of computer output in such PROCESSES as factor analysis Applications are described , such PROCESSES as factor analysis 
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1438 50  1.5274463642447191 BM25
+
+
+A Method for Locating Zeros of Complex Functions
+A method for computing the index , or windingnumber , is developed and APPLIED to the problem of finding zeros of functions from the plane into the plane 
+
+CA660411 JB March 3, 1978  10:23 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1541 51  1.5176896203127108 BM25
+
+
+A Language for Modeling and Simulating Dynamic Systems
+The ability to representsystems containing highly interactive PROCESSES is an essential feature 
+
+CA670905 JB February 27, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2895 52  1.477766829478934 BM25
+
+
+A Language for Formal Problem Specification
+A language for specifying the in tended behaviorof communicating parallel PROCESSES is described 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3020 53  1.4463964086184806 BM25
+
+
+Systematic Recursion Removal
+The recursion removal algorithm presentedby Strong and Walker is amplified and APPLIED to a relatively complex PL/I program Recursion removal is then APPLIED to the two major parts of thisexample and the final result of the process is displayed 
+
+CA780203 JB March 28, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1563 54  1.4456569012628455 BM25
+
+
+A Method for Finding Hamilton Paths and Knight's Tours
+The use of Warnsdorff 's rule for finding aknight 's tour is generalized and APPLIED to the problem of finding a Hamilton path in a graph 
+
+CA670710 JB February 28, 1978  8:28 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0825 55  1.4398905416346712 BM25
+
+
+PIP: A Photo-Interpretive Programfor the Analysis of Spark-Chamber Data*
+An operating computer program that processesphotographically recorded data is described 
+
+CA630624 JB March 14, 1978  9:59 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2705 56  1.4086626139832041 BM25
+
+
+Programming Languages, Natural Languages, and Mathematics
+The split betweenpure and APPLIED mathematics is found similarly in programming analogies related to social aspects , pure and appliedmathematics , language quality , language development , artificial auxiliary languages , literature , style , descriptive and prescriptive attitudes 
+
+CA751202 JB January 6, 1978  8:30 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1587 57  1.3831679087497781 BM25
+
+
+Storage Allocation in a Certain Iterative Process
+The method isapplicable to iterative PROCESSES in which input data items once chosen are never again needed 
+
+CA670605 JB February 28, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2327 58  1.3831679087497781 BM25
+
+
+Toward an Automata Theory of Brains
+This paper suggests the waysin which automata theory might evolve over the next 25 years if it is to contribute to an understandingof how the brain PROCESSES information 
+
+CA720701 JB January 30, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2210 59  1.3499657826670204 BM25
+
+
+Toward Automatic Program Synthesis
+Thesame technique is APPLIED to transform recursively defined functions into iterative programs , frequentlywith a major gain inefficiency It is emphasized that in order to construct a program with loops or withrecursion , the principle of mathematical induction must be APPLIED 
+
+CA710302 JB February 3, 1978  4:48 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0224 60  1.3499311594266719 BM25
+
+
+Sequential Formula Translation
+Sequential treatment , however , is not feasible in the caseof certain optimizing PROCESSES such as recursive address calculation 
+
+CA600208 JB March 22, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1458 61  1.3434745712907716 BM25
+
+
+Online Programming
+These changesin the environment make necessary corresponding changes in the PROCESSES related to producing and checkingout programs 
+
+CA660314 JB March 3, 197811:44 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1673 62  1.3418699715010187 BM25
+
+
+Approximate Solution of Initial Boundary WaveEquation Problems by Boundary-Value Techniques
+Severalillustrative examples are offered to demonstrate the ease with which the method can be APPLIED 
+
+CA681106 JB February 21, 1978  2:48 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2409 63  1.3418699715010187 BM25
+
+
+An Algorithm for the Approximate Solutionof Wiener-Hopf Integral Equations
+Where it is assumed that the classical Wiener-Hopf technique may be APPLIED 
+
+CA731117 JB January 19, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2848 64  1.3307449267515308 BM25
+
+
+Synthesis of Decision Rules
+Decision tables can be used as an effectivetool during an interview to record the logic of PROCESSES to be automated 
+
+CA760705 JB January 4, 1978  12:39 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1110 65  1.3128688094071315 BM25
+
+
+A Fourier Series Method for the Numerical Solutionof a Class of Parabolic Partial Differential Equations*
+A Fourier series method is described which , whenapplied to a certain class of parabolic partial differential equations , reduces the problem to a systemof ordinary differential equations 
+
+CA640322 JB March 10, 1978  2:08 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1008 66  1.305813337367061 BM25
+
+
+Scheduling Meetings with a Computer
+The techniquedeveloped for FASEB can be APPLIED to schedule any meeting with parallel sessions 
+
+CA640903 JB March 9, 1978  6:16 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1631 67  1.2988332934199622 BM25
+
+
+Testing a Random Number Generator
+It is recommended that suitable tests be APPLIED to allrandom numbers used in computer simulations 
+
+CA670211 JB February 28, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1707 68  1.2988332934199622 BM25
+
+
+Generation of Positive Test Matrices with Known Positive Spectra
+This result is used to construct a similarity transformationwhich , when APPLIED to a particular upper triangular matrix , yields a positive matrix with a preassigned positive spectrum 
+
+CA680807 JB February 22, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2203 69  1.2959648941446726 BM25
+
+
+Key-to-Address Transform Techniques: A FundamentalPerformance Study on Large Existing Formatted Files
+The results of a study of eight differentkey-to-address transformation methods APPLIED to a set of existing files are presented As each methodis APPLIED to a particular file , load factor and bucket size are varied over a wide range 
+
+CA710402 JB February 3, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1199 70  1.2939633735808105 BM25
+
+
+A Computer Center Simulation Project
+In this paper , a mathematical model of the Lockheed Central Computer Center is formulatedthat describes the operation of a computation center in terms of information nets , decision PROCESSES , and control functions 
+
+CA650907JB March 6, 1978  7:29 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1960 71  1.2939633735808105 BM25
+
+
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+The main features of the systeminclude the ability given to any user to schedule his own parallelprocesses using system primitive operations , the file-memory relationship , and the allocation-scheduling policy , which dynamicallytakes into account recent information about user behavior 
+
+CA701203 JB February 9, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1233 72  1.2919274744258482 BM25
+
+
+Conventions for the Use of Symbols in the Preparationof Flowcharts for Information Processing Systems (A Standard Working Paper)
+The conventions are APPLIED to the use of the symbols appearing in the proposed American StandardFlowchart Symbols and not with the symbols per se 
+
+CA650702 JB March 6, 1978  9:10 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2581 73  1.2880298874011848 BM25
+
+
+A Locally-Organized Parser for Spoken Input
+LPARS PROCESSES a string of phonemeswhich contains ambiguity and error 
+
+CA741103 JB January 16, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1383 74  1.278333825330907 BM25
+
+
+Implications of the Digital Computerfor Education In the Mathematical Sciences
+The importance of APPLIED logic in human affairs ischanged by the existence of the `` logical engine 
+
+CA660903 JB March 2, 1978  6:39 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2185 75  1.278333825330907 BM25
+
+
+A Note on Compiling Fixed Point Binary Multiplications
+The most significant characteristics of the algorithm are the simplicity of the test whichdetermines if the algorithm should be APPLIED and the degree to which it `` suggests '' efficient object code 
+
+CA710605 JB February 3, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3140 76  1.2591604038942323 BM25
+
+
+Social Processes and Proofs of Theorems and Programs
+Social PROCESSES and Proofs of Theorems and Programs 
+
+CA790501 DH June 5, 1979  2:23 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1886 77  1.2590317522869459 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+Once all the factors have been ascertained , a sequencing procedure is APPLIED whichorders the factors and expressions such that all information is computed in the correct sequence and factorsneed be retained in memory a minimal amount of time In order to make these techniques computationally feasible , heuristic procedures areapplied , and hence global optimal results are not necessarily generated 
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1828 78  1.2424516591517762 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+Methods for synchronization of PROCESSES are examined ; their validity isdiscussed and their performance compared 
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0111 79  1.2392167435341939 BM25
+
+
+On Programming the Numerical Solution of Polynomial Equations
+By applying the recommended scaling and inversion rules , the basicBairstow and Newton-Raphson iterative techniques can be APPLIED with great reliability 
+
+CA601205 JB March 20, 1978  6:41 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1518 80  1.236980186224478 BM25
+
+
+An Experimental Model of System/360
+The measures of system performanceproduced by the model consist of statistics relating to turnaround time , throughput , hardware utilization , software utilization , and queueing PROCESSES 
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1382 81  1.2329287959463673 BM25
+
+
+Desired Computer Impact on Undergraduate Mathematics 
+The author examines some projections concerning the supply and demand formathematicians in the United States through the mid-1970s , comments briefly on some of the factors whichmay influence the professional activities of APPLIED mathematicians over the next several years , and discusses in broad terms how this information may relate to the undergraduate training of mathematicians 
+
+CA660904 JB March 2, 1978  6:35 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2519 82  1.2261805488660622 BM25
+
+
+On the Problem of Communicating Complex Information
+The problem is analyzed in terms of psychological and information-processing PROCESSES , andwhat turns out to be a vicious circle of effects is described 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3056 83  1.215567855013013 BM25
+
+
+Counting Large Numbers of Events in Small Registers
+The techniques could be usedto advantage in multichannel counting hardware or software used for the monitoring of experiments or PROCESSES 
+
+CA781005 DH January 29, 1979  5:52 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2836 84  1.2144420827750424 BM25
+
+
+Weighted Derivation Trees
+The method may be APPLIED to problemsinvolving probabilistic parsing or combinatorial optimization 
+
+CA760903 JB January 4, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3127 85  1.2051372922824966 BM25
+
+
+Thoth, a Portable Real-Time Operating System 
+Thothencourages structuring programs as networks of communicating PROCESSES by providing efficient interprocess communication primitives 
+
+CA790206 DH April 12, 1979  9:10 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2629 86  1.199988851191096 BM25
+
+
+The UNIX Time-Sharing system 
+It offersa number of features seldom found even in larger operating systems , including : ( 1 ) a hierarchical file systemincorporating demountable volumes ; ( 2 ) compatible file , device , and inter-process I/O ; ( 3 ) the ability toinitiate asynchronous PROCESSES ; ( 4 ) system command language selectable on a per-user basis ; and ( 5 ) over100 subsystems including a dozen languageshis paper discusses the nature and implementation of thefile system and of the user command interface 
+
+CA740702 JB January 17, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1216 87  1.1848328241173334 BM25
+
+
+Symbolic Derivatives Without List Processing, Subroutines, or Recursion
+The chain rule is APPLIED and the result is edited toproduce results as elegant and efficient as those obtained by hand computation 
+
+CA650808 JB March 6, 1978  8:18 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2866 88  1.1848328241173334 BM25
+
+
+Proving Monitors
+These two techniques are defined , discussed , and appliedto examples to prove properties such as freedom from indefinitely repeated overtaking or unnecessary waitingupper bounds on queue lengths , and historical behavior 
+
+CA760505 JB January 4, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2717 89  1.1798275870143056 BM25
+
+
+CONVERT: A High Level TranslationDefinition Language for Data Conversion
+Its design is based on the simple underlying concept of a form which enablesthe users to visualize the translation PROCESSES , and thus makes data translation a much simpler task 
+
+CA751002 JB January 6, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1678 90  1.1790833881395124 BM25
+
+
+Automata, Formal Languages, Abstract Switching,and Computability in a Ph. Computer Science Program
+A brief catalog description of each course is APPLIED and therole of each of the courses in the graduate program is discussed 
+
+CA681101 JB February 21, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1554 91  1.1733894813177546 BM25
+
+
+A Computer Technique for Displaying n-Dimensional Hyperobjects
+The technique can be generalized to n-dimensionsand APPLIED to any n-dimensional hyperobject or hypersurface 
+
+CA670801 JB February 27, 1978  4:48 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2777 92  1.165145694268008 BM25
+
+
+On a Solution to the Cigarette Smoker'sProblem (Without Conditional Statements)
+operating systems , co-operating PROCESSES , processsynchronization primitives 
+
+CA750311 JB January 9, 1978  4:24 PM 
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2953 93  1.1621650680564384 BM25
+
+
+Notes on Recursion Elimination
+Various methods of recursion elimination areapplied to the schematic recursive procedure : proc S ( x ) ; px then N ( x ) ; S ( fx ) ; S ( gx ) ; M ( x ) fi 
+
+CA770610 JB December 28, 1977  12:50 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1947 94  1.1566330060012813 BM25
+
+
+Object code Optimization
+Methods of analyzing the control flow and dataflow of programs during compilation are APPLIED to transforming the program to improve object time efficiency 
+
+CA690102 JB February 20, 1978  12:15 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1535 95  1.1511533611522522 BM25
+
+
+A Comment on Index Register Allocation
+This diagram determines in advance the requiredregister configuration at certain steps of the program , so that the program is subdivided into separateportions to which the allocation procedure may be APPLIED independently 
+
+CA670909 JB February 27, 1978  3:06 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-1809 96  1.129744331071474 BM25
+
+
+Numerical Analysis in a Ph. Computer Science Program
+Nevertheless , there is aneed for a solid background in APPLIED mathematics 
+
+CA691203 JB February 15, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2379 97  1.1277230317656832 BM25
+
+
+The Design of the Venus Operating System
+operating systems , system design , levels of abstraction , machine architecture , microprogramming , segments , semaphores , multiprogramming , virtual machines , PROCESSES , process communication , virtual devices , data sharing , resource management , deadlock 
+
+CA720302 JB January 31, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-0095 98  1.1245159236221305 BM25
+
+
+Elimination of Special Functions from Differential Equations
+A set of ordinary differential equations whichcontains mathematical functions requiring the use of subroutines for numerical solution by electroniccomputer , tabular data for numerical solution by hand calculation or function generators when analogmethods are APPLIED can sometimes be expanded to an equivalent set of equations which do not containthe functions 
+
+CA590301 JB March 22, 1978  8:08 PM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-2900 99  1.1193356869235525 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+In this paper we present three theorems which can be APPLIED a priori to indicatethat certain sites should ( or should not ) be included in an optimal allocation 
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+24 Q0 CACM-3068 100  1.1193356869235525 BM25
+
+
+A Model for Verification of Data Security in Operating Systems
+Program verification APPLIED to kernel architecturesforms a promising method for providing uncircumventably secure , shared computer systems 
+
+CA780904 DH February 5, 1979  2:40 PM
+
+

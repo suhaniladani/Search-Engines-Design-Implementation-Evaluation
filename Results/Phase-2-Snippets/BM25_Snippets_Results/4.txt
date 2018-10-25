@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+4 Q0 CACM-3128 1  31.60629257962517 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+A new synchronization mechanism is proposed , using ABSTRACT objects called eventcounts and sequencers , that allows processesto control the ordering of events directly , rather than using mutualexclusion to protect manipulations of shared variables that controlordering of events 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3043 2  28.51123488638987 BM25
+
+
+Distributed Processes: A Concurrent Programming Concept
+These processes communicate and synchronize by means of procedurecalls and guarded regions 
+
+CA781108 DH January 26, 1979  10:40 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2342 3  27.3881907164153 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference Between COMMUNICATING Parallel Processes Various kinds of interference between communicatingparallel processes have been examined by Dijkstra , Knuth , and others 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2377 4  24.480333314627124 BM25
+
+
+A Hardware Architecture for Implementing Protection Rings
+The mechanisms allow cross-ringcalls and subsequent returns to occur without trapping to the supervisor 
+
+CA720304 JB January 31, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2519 5  24.070433280892015 BM25
+
+
+On the Problem of Communicating Complex Information
+On the Problem of COMMUNICATING Complex Information The nature of the difficulty involved in communicatingmathematical results between scientists using a computer based information retrieval systemis examined These include ways of augmenting writtennatural language by various notational and linguistic devices , the exhibition of the structure inherent in theinformation we are COMMUNICATING , and a sophisticated interactive system controlled by computer 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3141 6  22.027810497395876 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2895 7  21.85549049900174 BM25
+
+
+A Language for Formal Problem Specification
+A language for specifying the in tended behaviorof COMMUNICATING parallel processes is described 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2371 8  21.80048070548943 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1135 9  21.462145324809672 BM25
+
+
+A General Business-Oriented Language Based on Decision Expressions*
+It relies EXCLUSIVELY on nonprocedural representation of process as sets ( tables ) of relationsbetween data and results ( there are no control statements such as GO TO , etc It stresses the structural analysis of the class of processes to be representedin the languages , as OPPOSED to emphasizing formal ( i ) , instead of using proceduredescriptions ( which are one-to-one translations of flowcharts ) 
+
+CA640208 JB March 10, 1978  4:08 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2939 10  21.270445744281048 BM25
+
+
+Abstraction Mechanisms in CLU
+Abstraction Mechanisms in CLU CLU is a new programming language designed to supportthe use of abstractions in program construction Work in programming methodology has led to the realizationthat three kinds of abstractions-procedural , control , and especially data abstractions-are usefulin the programming process Of these , only the procedural abstraction is supported well by conventionallanguages , through the procedure or subroutine CLU provides , in addition to procedures , novel linguisticmechanisms that support the use of data and control abstractions This paper provides an in troductionto the abstraction mechanisms in CLU By means of programming examples , the utility of the threekinds of abstractions in program construction is illustrated , and it is shown how CLU programs maybe written to use and implement abstractions programming languages , data types , data abstractions , control abstractions , programming methodology , separate compilation 
+
+CA770804 JB December 28, 1977  7:49 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2931 11  20.663587655213746 BM25
+
+
+Logic and Programming Languages
+The experience of many independent workers with the method of data types as lattices ( or partialorderings ) under an information content ordering , and with their continuous mappings , has demonstrated theflexibility of this approach in providing definitions and proofs , which are clean and without undue dependenceon IMPLEMENTATIONS Though we havemany examples , we have still to give wide-ranging mathematical answers to these queries : What is a machine ? What is a computable process ? How ( or how well ) does a machine simulate a process ? Programs naturallyenter in giving DESCRIPTIONS of processes These levelscan be made mathematically exact if we can find the right abstractions to represent the necessary structures Nevertheless much remains to be done in showing how ABSTRACT conceptualizationscan ( or can not ) be actualized before we can say we have a unified theory 
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2920 12  19.927494957370786 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2376 13  19.886953809626295 BM25
+
+
+Synchronization of Communicating Processes
+Synchronization of COMMUNICATING Processes 
+
+CA720305 JB January 31, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2969 14  19.61372868840459 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3148 15  19.578619652049788 BM25
+
+
+High Level Programming for Distributed Computing
+
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2060 16  19.367283352835305 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3103 17  19.161607218968328 BM25
+
+
+Automatic Data Structure Selection: An Example and Overview
+In this paper a system for automatically choosing efficient implementationsfor ABSTRACT types from a library of IMPLEMENTATIONS is discussed The use of several levels of abstraction hasproved to be very helpful in constructing and maintaining programs When programs are designed with abstractdata types such as sets and lists , programmer time can be saved by automating the process of fillingin low-level implementation details In the past , programming systems have provided only a single generalpurpose implementation for an ABSTRACT type Thus the programs produced using ABSTRACT types werethen inefficient in space or time ABSTRACT data types , automatic programming , datastructures , optimizing compilers , sets , lists 
+
+CA780504 DH February 26, 1979  1:51 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2905 18  19.02006656055537 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1846 19  18.931558563692715 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+An abstraction of this problem is developed which admitssolution for a majority of commonly encounteredproblems 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2816 20  18.90128490568006 BM25
+
+
+Optimal Reorganization of Distributed Space Disk Files
+
+
+CA761107 JB January 3, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2721 21  18.847378845893854 BM25
+
+
+The Digital Simulation of River Plankton Population Dynamics
+
+
+CA750903 JB January 6, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2940 22  18.74039132930178 BM25
+
+
+Abstraction and Verification in Alphard: Definingand Specifying Iteration and Generators
+Abstraction and Verification in Alphard : Definingand Specifying Iteration and Generators The Alphard `` form '' provides the programmer witha great deal of control over the implementation of ABSTRACT data types In this paper the abstraction techniquesare extended from simple data representation and function definition to the iteration statement , themost important poin t of interaction between data and the control structure of the language itself Ameans of specializing Alphard 's loops to operate on ABSTRACT entities without explicit dependence on therepresentation of those entities is in troduced abstraction and representation , ABSTRACT data types , assertions , control specialization , correctness , generators , invariants , iteration statements , modulardecomposition , program specifications , programming languages , programming methodology , proofs of correctness , types , verification 
+
+CA770803 JB December 28, 1977  7:59 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2912 23  18.61490504535375 BM25
+
+
+Concurrent Reading and Writing
+
+
+CA771104 JB December 27, 1977  7:47 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3073 24  18.611131981553864 BM25
+
+
+Communicating Sequential Processes
+COMMUNICATING Sequential Processes This paper suggests that input and output arebasic primitives of programming and that parallel composition of COMMUNICATING sequential processes isa fundamental program structuring method 
+
+CA780805 DH February 7, 1979  10:07 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3082 25  18.575309737589123 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1748 26  18.572804088417694 BM25
+
+
+A Scheduling Philosophy for Multiprocessing Systems
+
+
+CA680508 JB February 23, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3105 27  18.546670554645644 BM25
+
+
+A Language Extension for Expressing Constraints on Data Access
+The approach can be used to extend any strongly-typed language , but is particularly suitable for extendinglanguages that support the notion of ABSTRACT data types Programming languages , access control , data types , ABSTRACT data types , type checking , capabilities 
+
+CA780502 DH February 26, 1979  3:19 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2870 28  18.489067092062523 BM25
+
+
+A Lattice Model of Secure Information Flow
+
+
+CA760501 JB January 4, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2767 29  18.409282322474947 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1199 30  18.316444954687036 BM25
+
+
+A Computer Center Simulation Project
+
+
+CA650907JB March 6, 1978  7:29 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2438 31  18.2793377778994 BM25
+
+
+A Model and Stack Implementation of Multiple Environments
+
+
+CA731002 JB January 23, 1978  8:27 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1272 32  18.27165514442278 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+In automatic abstracting , citation indexing , mechanical translation and other such procedures , editing is required whenever the automatic method leavessomething to be desired 
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2958 33  18.247765897807742 BM25
+
+
+Abstract Data Types and the Development of Data Structures
+ABSTRACT Data Types and the Development of Data Structures ABSTRACT data types can play a significant rolein the development of software that is reliable , efficient , and flexible This paper presents and discussesthe application of an algebraic technique for the specification of ABSTRACT data types ABSTRACT data type , correctness proof , data type , data structure , specification , software specification 
+
+CA770605 JB December 29, 1977  1:17 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2276 34  18.16094245751514 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2742 35  18.160143330463626 BM25
+
+
+Improved Event-Scanning Mechanisms for Discrete Event Simulation
+
+
+CA750611 JB January 9, 1978  12:43 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1145 36  18.14973690202489 BM25
+
+
+GIT-A Heuristic Program for Testing Pairsof Directed Line Graphs for Isomorphism*
+No onescheme is relied upon EXCLUSIVELY for a solution , and the program is designed to avoid excessive computationalong fruitless lines 
+
+CA640110 JB March 10, 1978  5:24 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2848 37  18.08831627200196 BM25
+
+
+Synthesis of Decision Rules
+
+
+CA760705 JB January 4, 1978  12:39 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1485 38  18.024520524641346 BM25
+
+
+The Structure of Programming Languages
+
+
+CA660202 JB March 3, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3039 39  17.816456718703776 BM25
+
+
+On-the-Fly Garbage Collection: An Exercise in Cooperation
+
+
+CA781112 DH January 22, 1979  3:24 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2632 40  17.8035508733332 BM25
+
+
+HYDRA: The Kernel of a Multiprocessor Operating System
+
+
+CA740614 JB January 17, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2684 41  17.79437145662026 BM25
+
+
+Production Systems: or Can We Do Better than BNF?
+Amore detailed presentation , as well as the application to define ABSTRACT syntax and translations between languages , is given in a previous paper by the author 
+
+CA740205 JB January 18, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2626 42  17.78499725294802 BM25
+
+
+Protection and the Control of Information Sharing in Multics
+
+
+CA740705 JB January 17, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2080 43  17.77037918194235 BM25
+
+
+The Nucleus of a Multiprogramming System
+
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0616 44  17.70487089108259 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+It is hoped that this report will be read ( a ) with avid interest by programming languagedesigners and implementors , and all those INTERESTED in developing a theoretical approach to dataprocessing ; ( b ) with interest and understanding by professional programmers and systems analysts ; and ( c ) with appreciation by the businessman-analyst-manager 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2949 45  17.678892074293586 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2851 46  17.67810456167596 BM25
+
+
+Formal Verification of Parallel Programs
+Two formal models for parallel computationare presented : an ABSTRACT conceptual model and a parallel-program model 
+
+CA760702 JB January 4, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1198 47  17.61597050433329 BM25
+
+
+Solution of a Problem in Concurrent Programming Control
+
+
+CA650908 JB March 6, 1978  7:24 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2314 48  17.61299764501731 BM25
+
+
+Requirements for Advanced Programming Systems for List Processing
+
+
+CA720714 JB January 30, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3013 49  17.539656827400027 BM25
+
+
+Some New Methods of Detecting Step Edges in Digital Pictures
+
+
+CA780210 JB March 28, 1978  1:56 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2378 50  17.497885180912334 BM25
+
+
+An Operating System Based on the Concept of a Supervisory Computer
+
+
+CA720303 JB January 31, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1550 51  17.444903985784496 BM25
+
+
+A Comparison of Batch Processing and Instant Turnaround
+A study of the programming efforts of studentsin an introductory programming course is presented and the effects of having instant turnaround ( a few minutes ) as OPPOSED to conventional batch processing with turnaround times of a few hours are examined 
+
+CA670805 JB February 27, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2320 52  17.43589388198904 BM25
+
+
+Structured Multiprogramming
+
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1012 53  17.421059102692805 BM25
+
+
+Formal Parsing Systems
+A formal parsing systemG = ( V , u , T , R ) consists of two finite DISJOINT vocabularies , V and T , a many-many map , u , from V ontoT , and a recursive set R of strings in T called syntactic sentence classes 
+
+CA640818 JB March 9, 1978  6:30 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2946 54  17.413580125270887 BM25
+
+
+An Alternative to Event Queues for Synchronization in Monitors
+
+
+CA770706 JB December 28, 1977  10:10 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2900 55  17.389595554373983 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1854 56  17.311477946465818 BM25
+
+
+On Multiprogramming, Machine Coding, and Computer Organization
+
+
+CA690901 JB February 15, 1978  5:14 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2150 57  17.29516199132188 BM25
+
+
+Concurrent Control with "Readers" and "Writers"
+
+
+CA711006 JB February 2, 1978  11:58 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1829 58  17.291466375697308 BM25
+
+
+An Interactive Graphical Display Monitor ina Batch-Processing Environment with Remote Entry
+It also will respond to commandsfrom a user program through a similar interface , where routine CALLS take the place of manual actions 
+
+CA691101 JB February 15, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3049 59  17.288677263648665 BM25
+
+
+A Simply Extended and Modified BatchEnvironment Graphical System (SEMBEGS)
+SEMBEGSis built around a Basic Graphical Data Management System ( BAGDAMS ) which provides a common means of communicatingthe DESCRIPTIONS of graphical entities between the various components of SEMBEGS BAGDAMSprovides facilities for storing , retrieving , and manipulating the DESCRIPTIONS of graphical entitiesprovided by , and received by application programs , graphics packages , and graphical devices 
+
+CA781102 DH January 26, 1979  1:30 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2619 60  17.235412615952473 BM25
+
+
+Graph Coloring Conditions for the Existenceof Solutions to the Timetable Problem
+
+
+CA740805 JB January 17, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2929 61  17.141721046476714 BM25
+
+
+An Analysis of Inline Substitution for a Structured Programming Language
+Preliminary results for theCLU structured programming language indicate that , in programs with a low degree of recursion , over 90percent of all procedure CALLS can be eliminated , with little increase in the size of compiled code and asmall savings in execution time 
+
+CA770905 JB December 27, 1977  1:23 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2865 62  16.989484921159107 BM25
+
+
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+
+
+CA760506 JB January 4, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1727 63  16.87002911281506 BM25
+
+
+One Way of Estimating Frequencies of Jumps in a Program
+object program reduction , supervisor CALLS decreasing , jump frequencies estimation , control transfers estimation , optimal program segmentation , Markov chainprogram correspondence , program graph , one-entry subgraph , locally estimated jump frequencies , supervisoroverhead decreasing , program segmentation algorithm , jump frequencies , program segmentation problem 
+
+CA680702 JB February 22, 1978  3:05 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0435 64  16.864152274093374 BM25
+
+
+A Decision Matrix as the Basis for a Simple Data Input Routine
+It is with this somewhat neglected area that the author isinterested 
+
+CA621204 JB March 17, 1978  5:15 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2840 65  16.857458161901697 BM25
+
+
+Protection in Operating Systems
+
+
+CA760804 JB January 4, 1978  10:12 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2546 66  16.850881032307306 BM25
+
+
+The Use of Grammatical Inference for Designing Programming Languages
+
+
+CA730202 JB January 24, 1978  3:20 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1623 67  16.82726225775157 BM25
+
+
+An Application of FORMAC
+This paper is more concerned with the use of programming techniques in FORMAC than withthe actual engineering problem , although readers may be INTERESTED in the problem because it is statedin a general ( mathematical ) sense and could be of interest in areas other than circuit analysis 
+
+CA670306 JB February 28, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3064 68  16.79693993358538 BM25
+
+
+Event Manipulation for Discrete SimulationsRequiring Large Numbers of Events
+
+
+CA780908 DH January 29, 1979  6:46 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1677 69  16.78401829480935 BM25
+
+
+Storage Organization in Programming Systems
+
+
+CA681102 JB February 21, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3018 70  16.770068979022493 BM25
+
+
+Covering Edges by Cliques with Regard toKeyword Conflicts and Intersection Graphs
+
+
+CA780205 JB March 28, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1928 71  16.758650011133213 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1323 72  16.62997637176878 BM25
+
+
+A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I*
+First a model for computer languages and compute behavioris described , based on the notions of functional application and functional abstraction , but also havinganalogues for imperative language features Then this model is used as an `` ABSTRACT object language '' into which ALGOL 60 is mapped an `` ABSTRACT compiler '' into the `` ABSTRACT objct language `` This is itself presented in a `` purelyfunctional '' notation , that is one using only application and abstraction 
+
+CA650201 JB March 7, 1978  11:26 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3120 73  16.60119378889009 BM25
+
+
+An Event-Driven Compiling Technique
+
+
+CA790105 DH April 10, 1979  12:26 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1385 74  16.60027551969896 BM25
+
+
+Computer Technology in Communist China, 1956-1965
+
+
+CA660901 JB March 2, 1978  6:59 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3127 75  16.55218894210268 BM25
+
+
+Thoth, a Portable Real-Time Operating System 
+Thothencourages structuring programs as networks of COMMUNICATING processes by providing efficient interprocess communication primitives 
+
+CA790206 DH April 12, 1979  9:10 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2196 76  16.541300957071726 BM25
+
+
+A Man-Machine Approach Toward Solving the Traveling Salesman Problem
+
+
+CA710503 JB February 3, 1978  3:00 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0724 77  16.53717221074611 BM25
+
+
+A Profile of the Programmer
+
+
+CA631001 JB March 13, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2020 78  16.51080837405327 BM25
+
+
+The Allocation of Computer Resources-Is Pricing the Answer?
+
+
+CA700801 JB February 10, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1710 79  16.38593911145751 BM25
+
+
+ASP-A Ring Implemented Associative Structure Package
+ASP structures are built and manipulated by meansof a series of macro CALLS , which are outlined in the Appendix 
+
+CA680804 JB February 22, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2406 80  16.32790233627563 BM25
+
+
+A Data Definition and Mapping Language
+
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1978 81  16.32689911318608 BM25
+
+
+The Use of Interactive Graphics To Solve Numerical Problems
+
+
+CA701012 JB February 10, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0409 82  16.31980519275898 BM25
+
+
+CL-1, An Environment for a Compiler
+The system isbased on a master file concept and has provisions for accepting , storing , and retrieving both descriptionsand instances of large and complex data sets , as well as algorithms defined on these data sets The conceptof distinct data DESCRIPTIONS and the content and use of such DESCRIPTIONS are discussed in some detail 
+
+CA610105 JB March 17, 1978  1:26 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1484 83  16.30379131180731 BM25
+
+
+A Language for Describing the Functions of Synchronous Systems* 
+These DESCRIPTIONS can be used for simulation and automatic design of the system described , inaddition to COMMUNICATING system specifications 
+
+CA660203 JB March 3, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1098 84  16.274941118882055 BM25
+
+
+A Comparison of List-Processing Computer Languages(Including a Detailed Comparison of COMIT, IPL-V, LISP 1.5, and SLIP)
+
+
+CA640410 JB March 10, 1978  1:37 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1665 85  16.20772117382249 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1749 86  16.199105281199824 BM25
+
+
+The Structure of the "THE"-Multiprogramming System
+These sequential processes are placedat various hierarchical levels , in each of which one or more independent abstractions have beenimplemented 
+
+CA680507 JB February 23, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1698 87  16.196749878703898 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3137 88  16.168876108556475 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2849 89  16.168747923945745 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2794 90  16.164291065588984 BM25
+
+
+State-Space, Problem-Reduction, and Theorem Proving-Some Relationships
+
+
+CA750205 JB January 12, 1978  8:27 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1143 91  16.150305144712217 BM25
+
+
+Analysis of Decay-Type Data*
+
+
+CA640112 JB March 10, 1978 5:11 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1253 92  16.144887184422185 BM25
+
+
+QUIKSCRIPT-A SIMSCRIPT- Like Language for the G-20
+
+
+CA650602 JB March 7, 1978  12:45 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1678 93  16.137200329047815 BM25
+
+
+Automata, Formal Languages, Abstract Switching,and Computability in a Ph. Computer Science Program
+Automata , Formal Languages , ABSTRACT Switching , and Computability in a Ph A number of courses are listed in the areadescribe as automata , formal languages , ABSTRACT switching , and computability , that might be availableto a Ph 
+
+CA681101 JB February 21, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-1206 94  16.13451805986586 BM25
+
+
+The Self-Judgment Method of Curve Fitting
+A computer-oriented method for processing andcommunicating numerical data is described 
+
+CA650818 JB March 6, 1978  7:50 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2216 95  16.12563549273016 BM25
+
+
+On the Probability Distribution of the Values of Binary Trees
+
+
+CA710205 JB February 8, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-3081 96  16.068099807556376 BM25
+
+
+Shallow Binding in Lisp 1.5
+
+
+CA780707 DH February 7, 1979  4:14 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0321 97  16.067834533420257 BM25
+
+
+ALGOL 60 Confidential
+
+
+CA610604 JB March 16, 1978  10:48 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0040 98  16.029558757476284 BM25
+
+
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+On the other hand , decimal numbers are essential forcommunicating between man and the computer 
+
+CA591202 JB March 22, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-0527 99  16.011095928031093 BM25
+
+
+The Description List of Concepts
+Property is defined to mean a partitionof the set of all objects into DISJOINT classes 
+
+CA620801 JB March 17, 1978  7:39 PM
+
+
+--------------------------------------------------------------
+4 Q0 CACM-2932 100  15.976652106927904 BM25
+
+
+Complexity of Computations
+
+
+CA770901 JB December 28, 1977  6:54 AM
+
+

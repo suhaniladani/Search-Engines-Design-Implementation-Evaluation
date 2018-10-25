@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+55 Q0 CACM-2650 1  29.762491128966396 BM25
+
+
+Order-n Correction for Regular Languages
+Order-n Correction for REGULAR LANGUAGES A method is presented for calculating a stringB , belonging to a given REGULAR language L , which is `` nearest '' ( in number OF edit operations ) to agiven input string a error correction , REGULAR LANGUAGES , REGULAR EVENTS , finite state automata , compiler error recovery , spelling correction , string best match problem , correction , corrector , errors , nondeterministic finite-state automata 
+
+CA740503 JB January 17, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1896 2  26.620263032859654 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 S22])
+REGULAR Coulomb Wave Functions ( Algorithm 292 S22 ] ) Coulomb wave functions , wave functions , REGULAR Coulomb wave functions 
+
+CA690513 JB February 17, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2921 3  26.58094203096721 BM25
+
+
+Regular Right Part Grammars and Their Parsers
+REGULAR Right Part Grammars and Their Parsers This paper in troduces an alternative to context-freegrammars called REGULAR right part ( RRP ) grammars , which resemble PASCAL syntax diagrams Formally , RRP grammars have production right parts , which are nondeterministic finite state machines ( FSMs ) , and , as a special case , REGULAR EXPRESSIONS , since these can be converted to FSMs finite state machines ( automata ) , REGULAR EXPRESSIONS , syntax diagrams , LR ( k ) grammars , parser construction , parsing , programming LANGUAGES , language generation , formal definition , compilers , translators , scanners RRP grammarsdescribe the syntax OF programming LANGUAGES more concisely and more understandably than is possible withCF grammars 
+
+CA771005 JB December 27, 1977  11:01 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1898 4  26.501414256209156 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 [S22])
+REGULAR Coulomb Wave Functions ( Algorithm 292 [ S22 ] ) Coulomb wave functions , wave functions , REGULAR Coulomb wave functions 
+
+CA690511 JB February 17, 1978  3:19 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1993 5  26.151151114838505 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 $S22))
+REGULAR Coulomb Wave Functions ( Algorithm 292 $ S22 ) ) Coulomb wave functions , wave functions , REGULAR Coulomb wave functions 
+
+CA700912 JB February 10, 1978  10:03 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1739 6  24.721402444744093 BM25
+
+
+Regular Expression Search Algorithm
+REGULAR Expression Search Algorithm The compiler accepts a REGULAR expression as source language and produces an IBM 7094program as object language The object program then accepts the text to be searched as input and producesa signal every time an embedded string in the text matches the given REGULAR expression search , match , REGULAR expression 
+
+CA680606 JB February 22, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1355 7  23.17297623440738 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 )
+REGULAR Coulomb Wave Functions ( Algorithm 292 ) 
+
+CA661103a JB March 2, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2112 8  22.082365896221802 BM25
+
+
+Translation Equations
+automata , Turing machines , REGULAR expression , transductionexpression , context-free LANGUAGES , translation , recognizers , parsing , meta-compilers , pushdown transducer , syntaxdirected compilers , finite state automata Input limited transduction EXPRESSIONS , OR translation equations , are used to describe the syntax and left-context sensitive semantics for context-free LANGUAGES 
+
+CA700203 JB February 14, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1665 9  21.617611700212912 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+This systemaccepts as input description OF the multicharacter items OR OF words allowable in a language given in termsof a subset OF REGULAR EXPRESSIONS The output OF the system is a lexical processor which reads a stringof characters and combines them into the items as defined by the REGULAR EXPRESSIONS character string , compiler , finite-state automata , finite-statemachine , lexical processor , nondeterministic machine , parsing , plex structure , REGULAR EXPRESSIONS , sequentialmachine , syntactic analysis If theword `` EVENTS '' is substituted for character string , these processors may be described as generalized decision-makingmechanisms based upon an ordered sequence OF EVENTS 
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2051 10  17.562060471949593 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+A practical PL/I program is described whichcan assist comparative linguists to determinethe REGULAR sound correspondences between genetically related LANGUAGES comparative linguistics , naturallanguage processing , comparative method , historical linguistics , diachroniclinguistics , genetic relationship , sound change , soundcorrespondence , REGULAR correspondence , list processing 
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1846 11  14.60496962534811 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+Following this , the problem OF DEALING WITH simultaneousevents in separate processes is introduced On Simulating Networks OF Parallel Processesin Which Simultaneous EVENTS May Occur Briefly reviewedare the common techniques used to handle such simulations when simultaneous EVENTS do not occur , canbe ignored , OR can be handled by simple priority rules The technique will either find a method ofsimulating the parallel EVENTS OR report that none can be found simulation , parallel processes , simultaneous EVENTS , picture processing , computer system simulation 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2838 12  13.125293753705439 BM25
+
+
+Analysis of an Algorithm for Real Time Garbage Collection
+These techniques are shown to require at most twice as much processingpower as REGULAR garbage collectors , if they are used efficiently 
+
+CA760901 JB January 4, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3056 13  12.437041223687437 BM25
+
+
+Counting Large Numbers of Events in Small Registers
+Counting Large Numbers OF EVENTS in Small Registers Anexample is given in which 8-bit counters ( bytes ) are used to keep track OF as many as 130,000 EVENTS witha relative error which is substantially independent OF the number n OF EVENTS 
+
+CA781005 DH January 29, 1979  5:52 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1453 14  12.25524619060724 BM25
+
+
+A Nonrecursive Method of Syntax Specification
+The use OF the Kleene REGULAR expression notationfor describing algebraic language syntax , in particular OF ALGOL , is described in this paper This was applied to numerous smallerlanguages , including some sublanguage OF ALGOL 
+
+CA660402 JB March 3, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1906 15  10.506552627661781 BM25
+
+
+Automated Printed Circuit Routing with a Stepping Aperture
+A computer program for routing interconnectionson a two-sided printed circuit board WITH a REGULAR pattern OF lines , pins ( terminals ) , and vias ( feed-through holes ) is described 
+
+CA690503 JB February 17, 1978  3:57 PM 
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3096 16  10.472881124675762 BM25
+
+
+An Optimal Method for Deletion in One-Sided Height-Balanced Trees
+An Optimal Method for Deletion in One-Sided Height-Balanced Trees A one-sided height-balanced tree is a binarytree in which every node 's right subtree has a HEIGHT which is equal to OR exactly one greater than theheight OF its left subtree 
+
+CA780601 DH February 26, 1979  12:48 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1612 17  9.679871179689682 BM25
+
+
+Top-to-bottom Parsing Rehabilitated?
+The essential weakness OF the method is in DEALING WITH complicatedsyntactic structures which are in practice only sparsely occupied , e , arithmetic EXPRESSIONS 
+
+CA670403 JB February 28, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2704 18  9.266168752575524 BM25
+
+
+Exception Handling: Issues and a Proposed Notation
+This paper defines exception conditions , discussesthe requirements exception handling language features must satisfy , and proposes some new languagefeatures for DEALING WITH exceptions in an orderly and reliable way multilevel exit , goto statement , error conditions , structured programming , ON conditions , programming LANGUAGES 
+
+CA751203 JB January 5, 1978  4:47 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1470 19  9.19727367387846 BM25
+
+
+The Structure of Programming Languages
+The Structure OF Programming LANGUAGES Many examples , frequently fromlist processing LANGUAGES , illustrate the forms described He concludes by suggesting the evolutionof programming LANGUAGES toward one which will permit all the most convenient ways OF structuringprograms , organizing systems , and referencing data 
+
+CA660302 JB March 3, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1886 20  8.948566512338527 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+Generation OF Optimal Code for EXPRESSIONS via Factorization Given a set OF EXPRESSIONS which are to becompiled , methods are presented for increasing the efficiency OF the object code produced by first factoringthe EXPRESSIONS , i finding a set OF subexpressions each OF which occurs in two OR more other expressionsor subexpressions Once all the factors have been ascertained , a sequencing procedure is applied whichorders the factors and EXPRESSIONS such that all information is computed in the correct sequence and factorsneed be retained in memory a minimal amount OF time The factorization algorithmsare also applicable to the problem OF factoring Boolean switching EXPRESSIONS and OF factoring polynomialsencountered in symbol manipulating systems factorization algorithms , code optimization , sequencingof operations , detection OF common subexpressions , factorization OF Boolean EXPRESSIONS 
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1469 21  8.518072072686074 BM25
+
+
+The Next 700 Programming Languages 
+The system is biasedtowards `` EXPRESSIONS '' rather than `` statements `` It includes a nonprocedural ( purely functional ) subsystemthat aims to expand the class OF users ' needs that can be met by a single print-instruction , without sacrificingthe important properties that make conventional right-hand-side EXPRESSIONS easy to construct and understand The Next 700 Programming LANGUAGES A family OF unimplemented computing languagesis described that is intended to span differences OF application area by a unified framework 
+
+CA660303 JB March 3, 1978  2:05 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3034 22  8.472589379060603 BM25
+
+
+Detection of Logical Errors in Decision Table Programs
+All the conditions in the decision tables are assumed to be inequalities OR equalities relatinglinear EXPRESSIONS 
+
+CA781205 DH January 18, 1979  4:06 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3064 23  8.314537266192842 BM25
+
+
+Event Manipulation for Discrete SimulationsRequiring Large Numbers of Events
+Event Manipulation for Discrete SimulationsRequiring Large Numbers OF EVENTS The first part addresses the familiar problem OF event scheduling efficiencywhen the number OF scheduled EVENTS grows large The second part deals WITH the less apparent problemof providing efficiency and flexibility as scheduled EVENTS are accessed to be executed Additional featuresand problems dealt WITH include the proper handling OF simultaneous EVENTS ; that certain EVENTS must be created , scheduled , and executed at the same points in simulated time ; that infinite loops caused by the concatenationof such `` zero-time '' EVENTS are possible and must be diagnosed ; that maintaining various eventcounts is practical and economical ; and that a capability for handling `` time-displaceable '' EVENTS is desirable and possible 
+
+CA780908 DH January 29, 1979  6:46 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3009 24  8.138717296581149 BM25
+
+
+Insertions and Deletions In One-Sided Height-Balanced Trees
+Insertions and Deletions In One-Sided Height-Balanced Trees Recently Hirschberg has established that insertionsinto one-sided height-balanced trees can be done in 0 ( log^2N ) steps 
+
+CA780304 JB March 28, 1978  1:12 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1379 25  8.13451427743701 BM25
+
+
+A Final Solution to the Dangling Else of ALGOL 60 and Related Languages
+The dangling else problem consists OF a classof potential ambiguities in ALGOL-like conditional statements whose basic form is `` if B1 then if B2 thenS1 else S2 '' where B1 and B2 are Boolean EXPRESSIONS and S1 and S2 are basic statements A Final Solution to the Dangling Else OF ALGOL 60 and Related LANGUAGES 
+
+CA660908 JB March 2, 1978  6:18 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1962 26  8.130113517294934 BM25
+
+
+GROOVE-A Program to Compose, Store, and Edit Functions of Time
+
+
+CA701201 JB February 9, 1978  4:19 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1259 27  8.11525938454903 BM25
+
+
+Applications of Binary Numbers In Computer Routines
+There are then three equivalentexpressions , easily translatable to one another , each having different characteristics 
+
+CA650512 JB March 7, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3044 28  7.954637408017903 BM25
+
+
+A Note on Conditional Expressions
+A Note on Conditional EXPRESSIONS 
+
+CA781107 DH January 26, 1979  10:44 AM 
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1988 29  7.93636309132221 BM25
+
+
+A Formalism for Translator Interactions
+A formalism is presented for describing the actionsof processors for programming languages-compilers , interpreters , assemblers-and their interactions in complex systemssuch as compiler-compilers OR extendible LANGUAGES 
+
+CA701002 JB February 10, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2078 30  7.923688961435886 BM25
+
+
+Representations for Space Planning
+The representationalrequirements for this problem area are defined and compared WITH currentcomputer graphic LANGUAGES 
+
+CA700406 JB February 13, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3198 31  7.673091801443051 BM25
+
+
+   Microprogramming, Emulators and Programming Languages
+Microprogramming , Emulators and Programming LANGUAGES 
+
+CA660318 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1084 32  7.652174046300775 BM25
+
+
+On Declaring Arbitrarily Coded Alphabets
+The inability OF existing programming languagesto handle character strings from more than one OR two alphabets is mentioned and a scheme for declaringadditional alphabets is proposed 
+
+CA640505 JB March 10,1978  12:13 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2839 33  7.46884590766274 BM25
+
+
+An Insertion Technique for One-Sided Height-Balanced Trees
+An Insertion Technique for One-Sided Height-Balanced Trees A restriction on height-balanced binary treesis presented 
+
+CA760805 JB January 4, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2253 34  7.4221120484445215 BM25
+
+
+Index Ranges for Matrix Calculi
+The paper describes a scheme for symbolicmanipulation OF index EXPRESSIONS which arise as a by-product OF the symbolic manipulation OF expressionsin the matrix calculi described by the authors in a previous paper address calculations , algorithm transformation , compilation , data structures , indexing by name , indexing by position , index domain , index map , indexrange , matrix EXPRESSIONS , normal form , programming LANGUAGES , program optimization , range operations , symbolicmanipulation , syntactic analysis , well-formed EXPRESSIONS 
+
+CA721202 JB January 27, 1978  1:12 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2398 35  7.358109182291228 BM25
+
+
+Teacher/Student Authored CAI Using the NEWBASIC System
+CAI , BASIC , CATALYST , NEWBASIC , education , computersin education , extended LANGUAGES , interactive systems 
+
+CA720105 JB February 1, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1488 36  7.260325919222721 BM25
+
+
+Programming Decision Tables in FORTRAN, COBOL or ALGOL
+
+
+CA660107 JB March 3, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1235 37  7.084899190735309 BM25
+
+
+A Stochastic Approach to the Grammatical Coding of English
+About half OF the word-events in a corpus are identifiedthrough the use OF a small dictionary OF function words and frequently occurring lexical words 
+
+CA650620 JB March 6, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1152 38  7.075236675349189 BM25
+
+
+Floating-Point Arithmetic with 84-Bit Numbers
+
+
+CA640102 JB March 10, 1978  5:41 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1216 39  7.037357984677994 BM25
+
+
+Symbolic Derivatives Without List Processing, Subroutines, or Recursion
+No use is made OF list-processing LANGUAGES 
+
+CA650808 JB March 6, 1978  8:18 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3043 40  7.020762127470803 BM25
+
+
+Distributed Processes: A Concurrent Programming Concept
+The paper gives several examples OF distributed processesand shows that they include procedures , coroutines , classes , monitors , processes , semaphores , buffers , pathexpressions , and input/output as special cases Concurrent programming , distributed processes , microprocessor networks , nondeterminism , guarded regions , programming LANGUAGES , process communicationand scheduling , sorting arrays , coroutines , classes , monitors , processes , semaphores , buffers , path EXPRESSIONS , input/output 
+
+CA781108 DH January 26, 1979  10:40 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1324 41  6.996232580206902 BM25
+
+
+Answering English questions by Computer: A Survey
+The most difficult and important research questions for the advancement OF general-purpose languageprocessors are seen to be concerned WITH measuring , DEALING WITH ambiguities , translating into formallanguages and searching large tree structures 
+
+CA650113 JB March 8, 1978  2:21 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3065 42  6.94121521291939 BM25
+
+
+Right Brother Trees
+Dictionary problem , search trees , AVL trees , brothertrees , right-balanced trees , one-sided height-balanced trees , insertion and deletion algorithms 
+
+CA780807 DH January 29, 1979 7:08 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2710 43  6.861603028299351 BM25
+
+
+Specifying Queries as Relational Expressions:The SQUARE Data Sublanguage
+Specifying Queries as Relational EXPRESSIONS : The SQUARE Data Sublanguage SQUAREis based on the relational model OF data , and is shown to be relationally complete ; however , it avoidsthe quantifiers and bound variables required by LANGUAGES based on the relational calculus database , data sublanguages , relations , query LANGUAGES , casual user , relational data model , tabular data , interactive problem solving , nonprocedurallanguages , relational completeness 
+
+CA751102 JB January 6, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1264 44  6.76904701041096 BM25
+
+
+BLNSYS-A 1401 Operating System with Braille Capabilities
+
+
+CA650507 JB March 7, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2175 45  6.713484964732562 BM25
+
+
+Subexpression Ordering in the Execution of Arithmetic Expressions
+Subexpression Ordering in the Execution OF Arithmetic EXPRESSIONS An arithmetic expression can often be brokendown into its component subexpressions Depending on the hardware environment in which the expression isto be executed , these subexpressions can be evaluated in serials , in parallel , OR in a combination OF thesemodes This paper shows that expression execution time can be minimized only if consideration is given tothe ordering OF the subexpressions In particular , subexpressions should be executed in order OF decreasingmemory and processor time requirements If thenumber OF subexpressions which can be executed in parallel exceeds the number OF available processors , then execution OF some OF these subexpressions must be postponed parallel processing , cache , arithmetic EXPRESSIONS , subexpression ordering , computational trees , compilers 
+
+CA710707 JB February 2, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2717 46  6.703356320952737 BM25
+
+
+CONVERT: A High Level TranslationDefinition Language for Data Conversion
+data conversion , data restructuring , data translation , database reorganization , translation definition , utility program , programming LANGUAGES , nonprocedural LANGUAGES 
+
+CA751002 JB January 6, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3163 47  6.680431484618977 BM25
+
+
+An Optimal Insertion Algorithm for One-SidedHeight-Balanced BInary Search Trees
+An Optimal Insertion Algorithm for One-SidedHeight-Balanced BInary Search Trees An algorithm for inserting an element into a one-sided height-balanced ( OSHB ) binary search tree is presented Insertion , one-sided height-balanced trees , height-balancedtrees , binary trees , search trees 
+
+CA790904 DB January 14, 1980  11:47 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3082 48  6.665880820508981 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+Time , Clocks , and the Ordering OF EVENTS in a Distributed System The concept OF one event happening beforeanother in a distributed system is examined , andis shown to define a partial ordering OF the EVENTS A distributed algorithm is given for synchronizing a system OF logical clocks which can be used to totallyorder the EVENTS 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1035 49  6.631732615391574 BM25
+
+
+Characteristics of the FORTRAN CEP Language
+The FORTRAN CEP LANGUAGES differs from FORTRANII mainly because : ( 1 ) it extends the variety OF the modes for real quantities ; ( 2 ) it allows suitablemixtures , in an input/output list OR in an expression , OF quantities that occur under different modes ; ( 3 ) it makes it possible to address a greater number OF input/output equipment ; and ( 4 ) it removes the restrictionson the complexity OF the list OF quantities to be transmitted between the magnetic core memoryand the drum OR the magnetic tape units 
+
+CA640712 JB March 9, 1978  8:11 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3158 50  6.604978148230433 BM25
+
+
+Secure Personal Computing in an Insecure Network
+
+
+CA790804 DB January 14, 1980  9:26 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1957 51  6.582281547477871 BM25
+
+
+The List Set Generator: A Construct for Evaluating Set Expressions
+The List Set Generator : A Construct for Evaluating Set EXPRESSIONS Theefficiency derives from evaluating the expression as a whole andin parallel , rather than evaluating subexpressions andthen using those sets to arrive at the final result 
+
+CA701206 JB February 9, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3171 52  6.530893671357045 BM25
+
+
+Line Numbers Made Cheap
+A technique is described for run-time line number administrationto be used for implementations OF high level LANGUAGES 
+
+CA791004 DB January 17, 1980  9:57 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2786 53  6.365076600321325 BM25
+
+
+A System for Typesetting Mathematics
+For typical EXPRESSIONS , the size and font changes , positioning , line drawing , andthe like necessary to print according to mathematical conventions are all done automatically 
+
+CA750302 JB January 10, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1999 54  6.334664924327187 BM25
+
+
+Optimal Starting Approximations for GeneratingSquare Root for Slow or No Divide
+
+
+CA700906 JB February 10, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1551 55  6.331742078526665 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+On Compiling Algorithms for Arithmetic EXPRESSIONS This paper deals WITH algorithms concerning arithmeticexpressions used in a FORTRAN IV compiler for a HITAC-5020 computer having n accumulators Thealgorithms generate an object code which minimizes the frequency OF storing and recovering the partial resultsof the arithmetic EXPRESSIONS in cases where there are several accumulators 
+
+CA670804 JB February 27, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1309 56  6.316645296326693 BM25
+
+
+A Computer User-Oriented System
+Use OF two special LANGUAGES , EXTRACT and MATRAN , permits selective extraction OF any data subset , efficientprocessing through any computational sequence , and flexible presentation OF results in either tabularor graphical form 
+
+CA650215 JB March 7, 1978  10:51 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1366 57  6.2564257508163905 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+Computer Simulation-Discussion OF theTechnique and Comparison OF LANGUAGES The purpose OF this paper is to present a comparisonof some computer simulation LANGUAGES and OF some OF the involved in comparing software packagesfor digital computers are discussed in Part I The issue is obvious : users OF digital computersmust choose from available LANGUAGES OR write their own Substantial costs can occur , particularly in training , implementation and computer time if an inappropriate language is chosenore and more computer simulationlanguages are being developed : comparisons and evaluations OF existing LANGUAGES are useful for designersand implementers as well as users The second part is devoted to computer simulation and simulationlanguages Part III presents a detailed comparisonof six simulation LANGUAGES and packages : SIMSCRIPT , CLP , CSL , GASP , CPSS and SOL The implications OF this analysis for designers OF LANGUAGES , for users , and for implementers are developed The conclusion OF the paper is that the packages nowavailable for computer simulation offer features which none OF the more general-purpose packages do andthat analysis OF strengths and weaknesses OF each suggests ways in which both current and future simulationlanguages and packages can be improved 
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3128 58  6.254368795306233 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+Synchronization OF concurrent processes requires controlling the relative ordering OF EVENTS in the processes A new synchronization mechanism is proposed , using abstract objects called eventcounts and sequencers , that allows processesto control the ordering OF EVENTS directly , rather than using mutualexclusion to protect manipulations OF shared variables that controlordering OF EVENTS 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1694 59  6.240478899558533 BM25
+
+
+An Algorithm for the Probability ofthe Union of a Large Number of Events
+An Algorithm for the Probability ofthe Union OF a Large Number OF EVENTS An algorithm is presented which efficiently evaluatesthe probability for the union OF n independent and not mutually exclusive EVENTS timecompromise , set union , mutually exclusive EVENTS 
+
+CA680907 JB February 22, 1978  8:45 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0944 60  6.159746026853548 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2002 61  6.1590827448611485 BM25
+
+
+AMESPLOT-A Higher Level Data Plotting Software System
+The system was formulated in a way such that the user could supply the minimum OF information , and it should be fully integrable WITH user 's program writtenin most conventional higher LANGUAGES 
+
+CA700903 JB February 10, 1978 2:08 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1237 62  6.126445975555634 BM25
+
+
+Conversion of Decision Tables To Computer Programs
+In addition to table analysis , the nature OF table-oriented programming LANGUAGES and features is discussed 
+
+CA650618 JB March 6, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0028 63  6.041034343726288 BM25
+
+
+Request for Methods or Programs
+
+
+CA580402 JB March 22, 1978  9:18 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0344 64  6.041034343726288 BM25
+
+
+Ber or Bei Function (Algorithm 57)
+
+
+CA610424 JB March 16, 1978  11:42 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0544 65  6.041034343726288 BM25
+
+
+ Ber or Bei Function (Algorithm 57)
+
+
+CA620717 JB March 17, 1978  8:21 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3138 66  6.030495083610212 BM25
+
+
+A Mathematical Programming Updating Method Using ModifiedGivens Transformations and Applied to LP Problems
+
+
+CA790404 DH May 21, 1979  2:06 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0510 67  5.994592748321281 BM25
+
+
+Ber or Bei Function (Algorithm 57)
+
+
+CA620818 JB March 17, 1978  9:34 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1523 68  5.967457828256252 BM25
+
+
+SHARER, a Time Sharing System for the CDC 6600
+
+
+CA671011 JB February 27, 1978 1:53 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1818 69  5.952157819051057 BM25
+
+
+Associated Legendre Functions of the First Kindfor Real or Imaginary Arguments (Algorithm 47 [S16])
+
+
+CA691112 JB February 15, 1978  12:11 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3110 70  5.921276205878644 BM25
+
+
+Assembling Code for Machines with Span-Dependent Instructions
+An efficient solution is presented for the case in which the operand OF every such `` span-dependent '' instruction is either a label OR an assembly-time expression OF a certain restricted formf this restrictionis relaxed by allowing these operands to be more general assembly-time EXPRESSIONS , thenthe problem is shown to be NP-complete 
+
+CA780406 DH February 26, 1979  3:49 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1287 71  5.903819290912429 BM25
+
+
+Vector Coupling or Clebsch-Gordan Coefficients (Algorithm 252 [Z])
+
+
+CA650404 JB March 7, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2495 72  5.866885124526398 BM25
+
+
+Adapting Optimal Code Generation for ArithmeticExpressions to the Instruction Sets Available on Present-Day Computers
+Adapting Optimal Code Generation for ArithmeticExpressions to the Instruction Sets Available on Present-Day Computers arithmetic EXPRESSIONS , code generation , compilers , object-code optimization , register assignment , trees 
+
+CA730605 JB January 23, 1978  2:24 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2320 73  5.860129010485914 BM25
+
+
+Structured Multiprogramming
+structured multiprogramming , programming LANGUAGES , operating systems , concurrent processes , shared data , mutual exclusion , critical regions , processcommunication , synchronizing EVENTS 
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3196 74  5.819483773904911 BM25
+
+
+   The Reactive Typewriter Program
+
+
+CA630118 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2931 75  5.774186196399933 BM25
+
+
+Logic and Programming Languages
+Logic and Programming LANGUAGES Programming LANGUAGES offer an obvious opportunity as their syntactic formalizationis well advanced ; however , the semantical theory can hardly be said to be complete logic , programming LANGUAGES , automata , denotationalsemantics , a-calculus models , computability , partial functions , approximation , function spaces 
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1223 76  5.761751443694132 BM25
+
+
+High Speed Compilation of Efficient Object Code
+The double scan , one in either direction , performedby the first two passes , allows the compiler to remove locally constant EXPRESSIONS and recursivelycalculable EXPRESSIONS from loops and to do the important part OF common subexpression recognition The discussion is in termsof a FORTRAN-like language , although the technique is applicable to most algebraic LANGUAGES 
+
+CA650801 JB March 6, 1978  8:45 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2771 77  5.725240184982486 BM25
+
+
+The Synthesis of Solids Bounded by Many Faces
+
+
+CA750406 JB January 9, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1162 78  5.7120795430426785 BM25
+
+
+An Assembly Language for Reprogramming
+Assemblylanguages generally provide a one-for-one translation from a symbolic to a numeric version OF a program , thatis , from assembly language to machine language 
+
+CA651207 JB March 6, 1978  4:01 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2998 79  5.689265420412908 BM25
+
+
+An Empirical Study of List Structure in Lisp
+These measurements reveal substantialregularity , OR predictability , among poin ters to atoms and especially among poin ters to lists The use OF such regularities in thespace-efficient representation OF list structure is discussed Linearization OF lists , whereby successivecdrs ( OR cars ) are placed in consecutive memory locations whenever possible , greatly strengthens theobserved regularity OF list structure list structure measurement , Lisp , list structureregularity , poin ter compression , Zipf 's law , list linearization , poin ter entropy Pointersto atoms are found to obey , roughly , Zipf 's law , which governs word frequencies in natural LANGUAGES ; poin tersto lists usually poin t to a location physically nearby in memory 
+
+CA770202 JB December 30, 1977  2:55 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1457 80  5.666691911189252 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+A variety OF data representations which have been used to describestructured information are then examined , and the characteristics OF various processing LANGUAGES areoutlined in the light OF the procedures requiring implementation Advantages OF these programming languagesfor the retrieval application are examined , and suggestions are made for the design OF programmingfacilities to aid in information retrieval 
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2719 81  5.665407840170094 BM25
+
+
+Mechanical Program Analysis
+One means OF analyzing program performanceis by deriving closed-form EXPRESSIONS for their execution behavior This paper discusses the mechanizationof such analysis , and describes a system , Metric , which is able to analyze simple Lisp programsand produce , for example , closed-form expressionsfor their running time expressed in terms OF size OF input analysis OF programs , performance analysis , executiontime , execution behavior , difference equations , generating functions , list processing , Lisp , algebraicmanipulation , programming LANGUAGES , analysis OF algorithms 
+
+CA750905 JB January 6, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2684 82  5.6553544884063225 BM25
+
+
+Production Systems: or Can We Do Better than BNF?
+Since the development OF BNF , the definitionof the syntax OF programming LANGUAGES has been almost universally associated WITH context-free requirements Amore detailed presentation , as well as the application to define abstract syntax and translations between LANGUAGES , is given in a previous paper by the author 
+
+CA740205 JB January 18, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3113 83  5.646757998653926 BM25
+
+
+Optimal Conversion of Extended-EntryDecision Tables with General Cost Criteria
+
+
+CA780403 DH February 26, 1979  4:37 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2267 84  5.644544411243043 BM25
+
+
+Algorithms To Reveal Properties of Floating-Point Arithmetic
+floating-point arithmetic , high-levellanguages , philosophy OF language design 
+
+CA721102 JB January 27, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0719 85  5.555487365485369 BM25
+
+
+Variable Width Stacks
+
+
+CA631006 JB March 13, 1978  6:25 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2439 86  5.542436898946761 BM25
+
+
+Multiple Terminals Under User ProgramControl in a Time-Sharing Environment
+
+
+CA731001 JB January 23, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3040 87  5.535734805746055 BM25
+
+
+Synthesizing Constraint Expressions
+Synthesizing Constraint EXPRESSIONS 
+
+CA781111 DH January 22, 1979  3:43 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1696 88  5.509591461342876 BM25
+
+
+An Algorithm for Identifying the Ergodic Subchainsand Transient States of a Stochastic Matrix
+Applications in Markov renewal programmingand in the construction OF variable length codes are reviewed , and an updating procedure for dealingwith certain sequences OF stochastic matrices is discussed 
+
+CA680905 JB February 22, 1978  9:04 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2815 89  5.494873946948578 BM25
+
+
+High-Level Binding with Low-Level Linkers
+
+
+CA761108 JB January 3, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0628 90  5.471605106595792 BM25
+
+
+On a Floating-Point Number RepresentationFor Use with Algorithmic Languages
+On a Floating-Point Number RepresentationFor Use WITH Algorithmic LANGUAGES 
+
+CA620304 JB March 20, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1462 91  5.469915558933789 BM25
+
+
+Multilevel Operating Systems
+
+
+CA660310 JB March 3, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1519 92  5.4388395343962275 BM25
+
+
+GEORGE 3-A General Purpose Time Sharing and Operating System
+
+
+CA671101 JB February 27, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-1975 93  5.434678905948723 BM25
+
+
+A Multiple-Precision Division Algorithm
+
+
+CA701103 JB February 10, 1978  8:45 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0154 94  5.427781355465572 BM25
+
+
+Rapidly Convergent Expressions for Evaluating e^x
+Rapidly Convergent EXPRESSIONS for Evaluating e^x 
+
+CA600903 JB March 20, 1978  8:49 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2514 95  5.420147846492307 BM25
+
+
+An Array Grammar Programming System
+Examples are given involving array languagesconsisting OF simple geometrical patterns , as well as a language OF `` neuron pictures 
+
+CA730506 JB January 23, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-3042 96  5.383127177423349 BM25
+
+
+Power Trees
+The new class OF Pk trees is presented , whereheight balance is maintained for the nodes Iying on particular paths The number OF nodes OF a Pk treeasymptotically grows as a power OF the HEIGHT , in the worst case 
+
+CA781109 DH January 25, 1979  4:29 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2767 97  5.350836403932723 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+Four algorithms are considered which can be usedto schedule EVENTS in a general purpose discrete simulation system The end-order tree algorithm is shown to be an advantageous , immediate replacement for the algorithm in use WITH current simulation LANGUAGES 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2265 98  5.337667789627903 BM25
+
+
+A Model for Type Checking
+Most current programming LANGUAGES treat computationover different classes OF objects ( e type checking , types , Lambda calculus , models forprogramming LANGUAGES , syntax , semantics , compiler writing , language implementation , formal definition 
+
+CA721104 JB January 27, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-2450 99  5.3217393489556475 BM25
+
+
+Empirical Working Set Behavior
+Althoughthe words `` working set '' are now commonly encountered in the literature DEALING WITH resource allocation , thereis a dearth OF published data on program measurements , in the hope that workers in the field might find experimentalevidence upon which to substantiate and base theoretical work 
+
+CA730905 JB January 23, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+55 Q0 CACM-0413 100  5.263400387356306 BM25
+
+
+A Basic Compiler for Arithmetic Expressions
+A Basic Compiler for Arithmetic EXPRESSIONS 
+
+CA610101 JB March 17, 1978  1:30 AM
+
+

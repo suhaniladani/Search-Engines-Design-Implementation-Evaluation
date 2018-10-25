@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+45 Q0 CACM-2816 1  25.316149951082796 BM25
+
+
+Optimal Reorganization of Distributed Space Disk Files
+A cost function describing the excess costs due to physical disorganization is defined , and this functionis minimized to obtain the optimum REORGANIZATION points Optimal REORGANIZATION of DISTRIBUTED Space Disk Files A basic problem is to establish the proper tradeoff betweenperformance , storage costs , and REORGANIZATION costs disk file , free space , retrieval , insertion , deterioration , REORGANIZATION A disk file organization which allows for DISTRIBUTED free space is described 
+
+CA761107 JB January 3, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2452 2  24.968059633575397 BM25
+
+
+Evaluation and Selection of File Organization-A Model and System
+file organization , file structures , file management , file organization performance , file organization model , file structure design , SECONDARY INDEX organization , simulation , data base , access time , storage requirement , data base analysis , data management Evaluation and SELECTION of File Organization-A Model and System 
+
+CA730903 JB January 23, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2765 3  23.667865967841312 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+data base architecture , inverted file organization , data base performance and measurement , SECONDARY INDEX organization , information storage and retrieval , query answering The formulations presented are necessaryto be used in conjunction with any INDEX SELECTION criteria to determine the optimum set of INDEX keys 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1976 4  21.718123022729543 BM25
+
+
+Multi-attribute Retrieval with Combined Indexes
+In this paper a file organization scheme designed toreplace the use of the popular SECONDARY INDEX filing scheme ( or inverted files on SECONDARY key fields ) is described Through the use of redundancy and storing keys ( or access numbers of the records ) that satisfy different combinationsof SECONDARY INDEX values in `` buckets , '' it is possible to retrieveall keys satisfying any input query derived from a subset offields by a single access to an INDEX file , although each bucket maybe used for many combinations of values and a combination ofbuckets may be required for a given query The method which , in itsdegenerate case , becomes the conventional SECONDARY INDEX filingscheme works similarly but has the following advantages : ( 1 ) the eliminationof multiple accesses in many cases ; ( 2 ) the eliminationof false drops ; ( 3 ) the elimination of computer time to perform intersectionof key sets each qualified for one SECONDARY INDEX fieldonly ; and ( 4 ) the avoidance of long strings of keys when an indexfield appearing in a query has very few possible values Redundancy , in some cases , is the same as the SECONDARY indexing method file organization , SECONDARY INDEX files , inverted files , informationretrieval , data management , access method , SECONDARY keys , storage with buckets , rapid retrieval , balanced filing scheme , eliminationof false drops , combining indexes , query , multi-attribute retrieval Multi-attribute Retrieval with Combined Indexes 
+
+CA701102 JB February 10, 1978  9:00 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2114 5  20.53134233685474 BM25
+
+
+A Formal System for Information Retrieval from Files
+A generalized file structure is providedby which the concepts of keyword , INDEX , record , file , directory , file structure , directory decoding , and record retrieval are definedand from which some of the frequently used file structures suchas inverted files , index-sequential files , and multilist files arederived attribute-value pair , INDEX , keyword , record , record address , K-pointer , K-list , file , directory , generalized filestructure , inverted file , index-sequential-file , multilist file , description , file search , directory search , serial processing oflists , prime keyword , parallel processing of lists 
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2969 6  20.460354492241418 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+computer networks , DATABASES , distributeddatabases , optimal file location 
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2926 7  19.529035138501268 BM25
+
+
+Pagination of B*-Trees with Variable-Length Records
+If records of each length are uniformly DISTRIBUTED within thefile , and if a wide distribution of record lengths exists within the file , then this strategy results in shallowtrees with fast access times B-tree , INDEX , database , tree storage structure , searching 
+
+CA770908 JB December 27, 1977  12:46 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3002 8  19.24310347345911 BM25
+
+
+A Record and File Partitioning Model
+The model that is presented in this paper , both as a nonlinear programming model anda mixed integer programming model , is a very general one ; several types of file systems may be derived fromit by an appropriate SELECTION of its parameters 
+
+CA770103 JB January 3, 1978  12:28 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2437 9  19.066030629515655 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+In this approach the keys ina file are assumed to have been selected from the key space according to a certain probabilistic selectionalgorithm 
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1032 10  18.469175098456855 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2140 11  18.289362719984013 BM25
+
+
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+Lum introduced a technique of file indexing named combined indices file organization , combined INDEX files , invertedfiles , information retrieval , query , multi-attribute retrieval , file update 
+
+CA711203 JB February 2, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2991 12  18.067420296697176 BM25
+
+
+Improving the Access Time for Random Access Files
+The combined effects of these techniqueslead to improved file performance for SECONDARY storage devices , as shown by empirical studies 
+
+CA770301 JB December 30, 1977  2:00 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2631 13  17.979262734654032 BM25
+
+
+An Information-Theoretic Approach toText Searching in Direct Access Systems
+The members of this subset are then used as INDEX keys for retrieval 
+
+CA740615 JB January 17, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1412 14  17.824964568295414 BM25
+
+
+The Banking Information System Concept
+This data base INCLUDES indexes whichfacilitate cross referencing of account information so that all relationships between bank and customer maybe discerned 
+
+CA660702 JB March 2, 1978  9:53 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1194 15  17.669516748155516 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+The main features of the information system are directuser access via on-line teletypewriter console , direct user access to all details of the system organization , unrestricted and expandable search vocabulary , user access through many facets of document indexing , and stochastic search through linked INDEX terms and other file relationships Thesedocuments have been cataloged and indexed and the catalog is scheduled to appear in Computing Reviews The indexing system is described in detail The first contributionto the ACM Repository consisted of 315 documents , relating primarily to early RESEARCH on compilers 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1226 16  17.63887320063295 BM25
+
+
+The Organization of Structured Files
+In many systems , the SELECTION of an organization for the data within the file canbe critical to the system 's operating efficiency 
+
+CA650709 JB March 6, 1978  8:57 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2359 17  17.162682645670397 BM25
+
+
+An Improved Index Sequential Access Method Using Hashed Overflow
+An Improved INDEX Sequential Access Method Using Hashed Overflow The INDEX Sequential Access Method ( ISAM ) isone of the most important file management systems used with moveable head disk devices These conditions are : long overflow chains with significant overflow ; lack of tight disk space constraints ; recordkeys which are small compared to the total record size ; and significant use of the file in the INDEX as opposedto the sequential mode ISAM , INDEX sequential , hashing , scatterstorage , disk , cylinder , overflow 
+
+CA720501 JB January 31, 1978  12:29 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3134 18  16.89480999176652 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3089 19  16.854508319910302 BM25
+
+
+Performance of Rollback Recovery Systems under Intermittent Failures
+
+
+CA780608 DH February 9, 1979  10:26 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2949 20  16.506275677972816 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+A Correctness Proof of a Topology InformationMain tenance Protocol for a DISTRIBUTED Computer Network In order for the nodes of a DISTRIBUTED computernetwork to communicate , each node must have information about the network 's topology DISTRIBUTED computer network , correctness proofs , computer networks , DISTRIBUTED control , network topology , routing problem in networks , DISTRIBUTED operatingsystem , store and forward packet switching , store and forward message switching , traffic control 
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2493 21  16.368589112904253 BM25
+
+
+Optimum Data Base Reorganization Points
+Optimum Data Base REORGANIZATION Points However , the high cost of a REORGANIZATION prohibitsfrequent reorganizations This paper examines strategies for selecting the optimum REORGANIZATION points data base , REORGANIZATION , files , information retrieval 
+
+CA730607 JB January 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2900 22  16.360596063612036 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+File allocation , computer networks , DISTRIBUTED data management 
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3058 23  16.18530787615548 BM25
+
+
+Jump Searching: A Fast Sequential Search Technique
+Jump searching , sequential files , file management , search strategies , database structures , INDEX searching 
+
+CA781003 DH January 29, 1979  6:15 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2680 24  16.06585139294947 BM25
+
+
+Optimal Space Allocation on Disk Storage Devices
+When the amount of space required for file storageexceeds the amount which can be kept on-line , DECISIONS must be made as to which files are to be permanentlyresident and which mountable These DECISIONS will affect the number of mount requests issued to theoperators 
+
+CA740303 JB January 18, 1978  12:32 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2203 25  15.88619363986046 BM25
+
+
+Key-to-Address Transform Techniques: A FundamentalPerformance Study on Large Existing Formatted Files
+
+
+CA710402 JB February 3, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2860 26  15.846780330418701 BM25
+
+
+A Practitioner's Guide To Addressing Algorithms
+This paper consolidates a number of popularrules of thumb which have been suggested for thedesign of record addressing algorithms , and discussesthe applicability of these rules to large commercial DATABASES Particularattention is focused on the reasonableness of common heuristics for determining primary or secondarybucket sizes 
+
+CA760602 JB January 4, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2451 27  15.625556938788801 BM25
+
+
+Design of Tree Structures for Efficient Querying
+
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3137 28  15.54424701914468 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+A Methodology for the Design of DISTRIBUTED Information Systems A macro model of a DISTRIBUTED information system in presented DISTRIBUTED processing , system design , cost minimization , distributeddatabase , interactive computing , economic modeling , transaction processing 
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3129 29  15.458771072932326 BM25
+
+
+Optimal Storage Allocation for Serial Files
+Serial files , storage allocation , REORGANIZATION , partitioned dataset 
+
+CA790208 DH April 12, 1979  10:34 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2160 30  15.267969625325923 BM25
+
+
+Canonical Structure in Attribute Based File Organization
+
+
+CA710904 JB February 2, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2819 31  14.917481896796131 BM25
+
+
+Experiments in Text File Compression
+Various parameters in the algorithms are optimized to obtaina high degree of compression for sample texts 
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0944 32  14.880670193943322 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2032 33  14.730943380738381 BM25
+
+
+File Structures Using Hashing Functions
+A general method of file structuring is proposed which uses a hashingfunction to define tree structure 
+
+CA700705 JB February 13, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2688 34  14.664361356547744 BM25
+
+
+Attribute Based File Organization in a Paged Memory Environment
+
+
+CA740201 JB January 18, 1978  1:37 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2888 35  14.633012656509546 BM25
+
+
+Information Reference Coding
+
+
+CA760105 JB January 5, 1978  10:11 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2978 36  14.623201720380937 BM25
+
+
+Analysis of Design Alternatives for Virtual Memory Indexes
+Qualitative comparisons of the main tenance costs ( insertion , deletion , REORGANIZATION ) of thedesign alternatives are also included Analysis of Design Alternatives for Virtual Memory Indexes A class of INDEX structures for use in a virtualmemory environment is described Design alternatives within this class of INDEX structures are analyzed Thesealternatives include a choice of search strategy , whether or not pages in the INDEX are structured , andwhether or not keys are compressed The average cost of retrieving entries from these indexes is expressedas a wieghted sum of the cost of a basic key comparison and the cost of crossing a page boundary inthe INDEX structure INDEX , INDEX structure , pages , virtual memory , files , retrieval , main tenance , search strategy , key compression 
+
+CA770404 JB December 29, 1977  5:22 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2716 37  14.480609267692461 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+Codd 's relational algebra are presented , anda methodology for composing them to OPTIMIZE the performance of a particular user query is described The basic idea is to employ automatic programming techniquesso that the interface analyzes and efficiently refines the high level query specification supplied bythe user 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2542 38  14.425691457055727 BM25
+
+
+A Software Design and Evaluation System
+
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2319 39  14.328036373517818 BM25
+
+
+Operating System Performance
+
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2307 40  14.302227190560362 BM25
+
+
+Dynamic Document Processing
+Methods are described for an automatic query modificationbased on user needs , and for a continuous REORGANIZATION of the stored information as a function ofearlier file processing and of normal collection growth automatic indexing , automatic search and retrieval , iterative searching , mechanized library processing , collection growth , collection retirement , feedback search 
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3114 41  14.209447114757824 BM25
+
+
+A Technique for Isolating Differences Between Files
+
+
+CA780402 DH February 27, 1979  10:52 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2812 42  14.145992278609013 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+The statement of requirementswas written in ADS ( Accurately Defined Systems ) and analyzed by a Problem Statement Analyzer for ADS computer-aided analysis , information systems , logicalsystem design , problem statement language , problem statement analyzer , physical system design , accurately defined systems , systems optimization and design algorithm Computer-aided analysis consists of a set of procedures and computerprograms specifically designed to aid in the process of applications software design , computer selectionand performance evaluation 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3152 43  14.129406698607307 BM25
+
+
+Storage Reorganization Techniques forMatrix Computation in a Paging Environment
+Storage REORGANIZATION Techniques forMatrix Computation in a Paging Environment An efficientmethod for accomplishing this REORGANIZATION is given The reorganization/block multiplication scheme is shown to be advantageous formatrices and pages of realistic size ; the Strassen adaptation isnot Matrix multiplication , paging , virtual memory , data REORGANIZATION , pagination , transpose 
+
+CA790703 DH August 22, 1979  2:29 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3147 44  14.051990931537633 BM25
+
+
+A Model for Automating File and Program Design in Business Application Systems
+
+
+CA790603 DH August 21, 1979  4:25 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1267 45  13.995999533628128 BM25
+
+
+Performance of Systems Used for Data TransmissionTransfer Rate of Information Bits -An ASA Tutorial Standard
+This discussion INCLUDES the pertinent aspects of information transfer , of determination of transfer rate of information bits ( TRIB ) , of residual errors , and of standard measurementconditions 
+
+CA650504 JB March 7, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1515 46  13.95326401328864 BM25
+
+
+A Computer System for Inference Execution and Data Retrieval
+
+
+CA671105 JB February 26, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2669 47  13.81868117711401 BM25
+
+
+A Simple Linear Model of Demand Paging Performance
+
+
+CA740401 JB January 18, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2623 48  13.762088511433387 BM25
+
+
+A New Technique for Compression and Storage of Data
+
+
+CA740801 JB January 17, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1653 49  13.714793654749233 BM25
+
+
+System Performance Evaluation: Survey and Appraisal
+Throughput , turnaround , andavailability are defined as fundamental measures of performance ; overhead and CPU speed are placed inperspective 
+
+CA670102 JB March 1, 1978  9:10 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2390 50  13.677465796609008 BM25
+
+
+A Proposal for a Computer-Based Interactive Scientific Community
+Because of the problems created by the explosionof papers in the mathematical sciences and the drawbacks that this places on RESEARCH , it is suggestedthat a tree of all mathematical results and terminology be maintained in a multiterminal computer system 
+
+CA720201 JB February 1, 1978  8:51 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2484 51  13.581503772518607 BM25
+
+
+A Note on Information Organization and Storage
+
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1416 52  13.550539263996473 BM25
+
+
+A Fortran Technique for Simplifying Input to Report Generators
+
+
+CA660605 JB March 3, 1978  8:53 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1135 53  13.512146165432823 BM25
+
+
+A General Business-Oriented Language Based on Decision Expressions*
+
+
+CA640208 JB March 10, 1978  4:08 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2288 54  13.491011889412647 BM25
+
+
+File Organization: The Consecutive Retrieval Property
+
+
+CA720902 JB January 27,1978  4:52 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2375 55  13.45077921054634 BM25
+
+
+A Comparative Analysis of Disk Scheduling Policies
+The SELECTION and implementation of a maximum performance two-policy algorithm are discussed 
+
+CA720306JB January 31, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2318 56  13.444639140214854 BM25
+
+
+The Role of Computer System Models in Performance Evaluation
+
+
+CA720710 JB January 30, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2988 57  13.444118435371134 BM25
+
+
+Memory Management and Response Time
+
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0849 58  13.432049056357268 BM25
+
+
+Use of Tree Structures for Processing Files
+The relationof the tree organization to multidimensional indexing and to the trie structure is also discussed 
+
+CA630518 JB March 14, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2629 59  13.384616426310847 BM25
+
+
+The UNIX Time-Sharing system 
+
+
+CA740702 JB January 17, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3084 60  13.355781588344787 BM25
+
+
+Interpolation Search -A Log LogN Search
+It is shown that on the average log logN file accesses are required to retrieve a key , assuming that the N keys are uniformly DISTRIBUTED 
+
+CA780704 DH February 7, 1979  4:50 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3128 61  13.328735520725852 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+The mechanism is defined formally , and then severalexamples of its use are given The relationship of the mechanismto protection mechanisms in the system is explained ; in particular , eventcounts are shown to be applicable to situations where confinementof information matters Direct control of ordering seems to simplifycorrectness arguments and also simplifies implementation in distributedsystems Process synchronization , interprocess communication , distributedsystems , security models , mutual exclusion , semaphores 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0854 62  13.32822081701109 BM25
+
+
+Some Characteristics of Sorting in ComputingSystems Using Random Access Storage Devices 
+In contrast , sorting in a random access-oriented systemencourages the SELECTION of the optimum order of merge from many possible orders 
+
+CA630513 JB March 14, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2356 63  13.3257612020877 BM25
+
+
+A Technique for Software Module Specification with Examples
+The SECONDARY goal is to include in the specification no more informationthan necessary to meet the first goal 
+
+CA720504 JB January 31, 1978  10:47 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0858 64  13.260885320274815 BM25
+
+
+A Tape File Merge Pattern Generator
+
+
+CA630509 JB March 14, 1978  11:21 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2184 65  13.223611642137401 BM25
+
+
+On the Meaning of Names in Programming Systems
+
+
+CA710606 JB February 3, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3148 66  13.209469854122027 BM25
+
+
+High Level Programming for Distributed Computing
+High Level Programming for DISTRIBUTED Computing Programming for DISTRIBUTED and other loosely coupled systemsis a problem of growing interest This paper describes an approachto DISTRIBUTED computing at the level of general purpose programminglanguages DISTRIBUTED computing , modules , messages , assertions 
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0696 67  13.174563060636476 BM25
+
+
+An Automatic Data Acquisition and Inquiry System Using Disk Files
+The system INCLUDES over 200 remote InputStations which collect and transmit Company operating data to a central Data Processing Center 
+
+CA631029 JB March 13, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0409 68  13.171703130398065 BM25
+
+
+CL-1, An Environment for a Compiler
+The system isbased on a master file concept and has provisions for accepting , storing , and retrieving both descriptionsand instances of large and complex data sets , as well as algorithms defined on these data sets 
+
+CA610105 JB March 17, 1978  1:26 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1959 69  13.101065701812985 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2951 70  13.008878941675597 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+This RESEARCH is a first step toward assisting the user in participatingin the vast store of resources available on a network The RESEARCH clearly reveals that sufficientsystem data are currently obtainable , at least for the five diverse ARPA network systems studied in detail , to describe and predict the response time for network time-sharing systems as it depends on somemeasure of system activity or load level 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1514 71  13.001157845205983 BM25
+
+
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+
+
+CA671106 JB February 26, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2849 72  12.929714035101137 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Ethernet : DISTRIBUTED Packet Switching for Local Computer Networks Ethernet is a branching broadcast communicationsystem for carrying digital data packets among locally DISTRIBUTED computing stations Coordination of access to the Ether for packetbroadcasts is DISTRIBUTED among the contending transmitting stations using controlled statistical arbitration Switching of packets to their destinations on the Ether is DISTRIBUTED among the receiving stationsusing packet address recognition computer networks , packet switching , multiprocessing , DISTRIBUTED control , DISTRIBUTED computing , broadcast communication , statistical arbitration 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2722 73  12.912169408445552 BM25
+
+
+Multidimensional Binary Search Trees Used for Associative Searching
+The k-d tree is defined and examples are given 
+
+CA750902 JB January 6, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3181 74  12.824359685697118 BM25
+
+
+Public Protection and Education with EFT
+As a result , any effortto stimulate meaningful public participation in DECISIONS onthe introduction of EFT systems will require a coordinated educationaleffort of considerable scale RESEARCH has revealed the existence of widespreadmisinformation and lack of knowledge about EFT amongbusiness and government as well as consumers In addition , RESEARCH has revealed shortcomings in the present system for defining responsibilities , liabilities , and avenues of recourse THis article presentsseveral possible alternatives for improving the current system , butongoing RESEARCH is also needed to assure that actions taken willbe responsive to the changing environment and consumer needs 
+
+CA791204 DB February 25, 1980  11:33 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2524 75  12.811799383611712 BM25
+
+
+Some Approaches to Best-Match File Searching
+After `` closest , '' in terms ofa metric on the the key space , is suitably defined , three file structures are presented together with theircorresponding search algorithms , which are intended to reduce the number of comparisons required to achievethe desired result 
+
+CA730404 JB January 24, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1210 76  12.800698874566642 BM25
+
+
+File-Handling Within FORTRAN
+
+
+CA650814 JB March 6, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1827 77  12.776340510813421 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0397 78  12.731013996730976 BM25
+
+
+A Card Format for Reference Files in Information Processing
+The referencematerial INCLUDES basically an INDEX , title , source , class , summary and cross reference for each entry The identification INCLUDES basically codes for a matrix of descriptors , an entry number , and the kind , major interest , and source of the reference 
+
+CA610201 JB March 17, 1978  1:08 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1828 79  12.730099415682114 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1700 80  12.686548807823154 BM25
+
+
+PEEKABIT, Computer Offspring of PunchedCard PEEKABOO, for Natural Language Searching
+The `` peekaboo '' idea from punched card informationretrieval methods has been mated with the idea of superimposed punching to produce a programmingtechnique which cuts computer run time in half on a test search of 33,000 subject INDEX entries The present store is made up of over 600,000 subject INDEX entries estimated to average 60 characterseach 
+
+CA680901 JB February 22, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2966 81  12.636302952684018 BM25
+
+
+The Choice of Reference Poin ts in Best-Match File Searching
+
+
+CA770506 JB December 29, 1977  1:57 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3153 82  12.611580971031554 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3028 83  12.559047671721071 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+architecture , INDEX registers , paging , virtualstorage , extra codes , compilers , operating systems , Ferranti , Manchester Mark I , Atlas , ICL 
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3082 84  12.558680585027009 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+The concept of one event happening beforeanother in a DISTRIBUTED system is examined , andis shown to define a partial ordering of the events Time , Clocks , and the Ordering of Events in a DISTRIBUTED System A DISTRIBUTED algorithm is given for synchronizing a system of logical clocks which can be used to totallyorder the events DISTRIBUTED systems , computer networks , clock synchronization , multiprocess systems 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2862 85  12.51480755698808 BM25
+
+
+Analysis of the PFF Replacement Algorithm via a Semi-Markov Model
+
+
+CA760509 JB January 4, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1534 86  12.448829709697993 BM25
+
+
+DAD, The C. Operating System
+The techniques found useful in the developmentof DAD are given , and an assessment is made of the validity of various design DECISIONS 
+
+CA670910 JB February 27, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1936 87  12.434067523861467 BM25
+
+
+Variable Length Tree Structures Having Minimum Average Search Time
+First , trees which have the property that a priori thefilial set of each node is well defined are studied 
+
+CA690202 JB February 20, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2406 88  12.404046708092853 BM25
+
+
+A Data Definition and Mapping Language
+Such languages will be a key systems , as wellas in advanced data management systems and DISTRIBUTED data bases 
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1712 89  12.392826486955643 BM25
+
+
+Recovery of Disk Contents After System Failure
+
+
+CA680802 JB February 22, 1978  11:14 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1908 90  12.371129780612822 BM25
+
+
+Time-Sharing and Batch-Processing:  An ExperimentalComparison of Their Values in a Problem - Solving Situation
+time-sharing vs batch-processing , user performance , man/machine communications , cost effectiveness , on-line vs off-line performance , decision-making performance , user/programmer behavior , programming experimental empirical studies , problem-solving , RESEARCH in man/machinecommunications , man/machine symbiosis 
+
+CA690501 JB February 17, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2344 91  12.328697906187186 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3087 92  12.31424056724672 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+Other system componentsconstruct a formal query for the relational database , and OPTIMIZE the order of searching relations 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0855 93  12.31028257897369 BM25
+
+
+Organization and Structure of Dataon Disk FileMemory Systems for Efficient Sorting and Other Data Processing Programs
+
+
+CA630512 JB March 14, 1978  11:10 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-0492 94  12.273198506398973 BM25
+
+
+Analysis of a File Addressing Method
+
+
+CA620836 JB March 17, 1978  9:02 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2990 95  12.23536305230858 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+By relating term accuracyto the frequency of occurrence of the term in the documents of a collection it is possible to give formalproofs of the effectiveness with respect to a given user query of a number of automatic indexing systemsthat have been used successfully in experimental situations information retrieval , automatic indexing , contentanalysis , term accuracy , frequency weighting , thesaurus and phrase transformations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-3070 96  12.209322883278565 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2928 97  12.145172713009032 BM25
+
+
+Hardware Estimation of a Process' Primary Memory Requirements
+The resulting system 's TUNING parametersdisplay configuration insensitivity , andit is conjectured that the system would also track shiftsin the referencing characteristics of its workload and keep the system in tune 
+
+CA770906 JB December 27, 1977  1:05 PM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2258 98  12.137202321228132 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+45 Q0 CACM-2358 99  12.128960822135802 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+Usually , sharing is accomplished by allowingseveral users to share data via input and output of information stored in files kept in SECONDARY storage 
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+45 Q0 CACM-1173 100  12.124221969577965 BM25
+
+
+The Performance of a System for Automatic Segmentationof Programs Within an ALGOL Compiler (GIER ALGOL)
+
+
+CA651108 JB March 6, 1978  5:00 PM
+
+

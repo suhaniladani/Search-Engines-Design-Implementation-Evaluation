@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+31 Q0 CACM-3047 1  76.03615733825183 BM25
+
+
+Using Synthetic Images to Register Real Images with Surface Models
+Using Synthetic IMAGES to Register Real IMAGES with Surface Models Automatic navigation using visiblelight or radar IMAGES requires exact alignment of such IMAGES with digital terrain models We illustrate the technique using LANDSAT IMAGES and digital terrain models Image registration , synthetic IMAGES , surface models , automatic hill shading , digital terrain models , image transformation , image matching , shaded IMAGES Thesynthetic image intensity is calculated using the reflectance map , a convenient way of DESCRIBING surface reflectionas a function of surface gradient 
+
+CA781104 DH January 26, 1979  11:16 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1686 2  65.0302241770269 BM25
+
+
+Computer Synthesis of Holograms for 3-D Display
+Photographs of the IMAGES reconstructed from digital holograms are presented 
+
+CA681001 JB February 21, 1978  4:27 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3013 3  64.0181174008875 BM25
+
+
+Some New Methods of Detecting Step Edges in Digital Pictures
+
+
+CA780210 JB March 28, 1978  1:56 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2142 4  62.41640440974262 BM25
+
+
+Reconstruction of Pictures from Their Projections
+The most important uses may be the reconstruction of possibly asymmetric particlesfrom electron micrographs and three-dimensional X-ray analysis 
+
+CA711201 JB February 2, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2283 5  61.941386555899996 BM25
+
+
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+It is found that the algorithm operatingwith the triangular array is the most sensitive to image irregularities and NOISE , yet it will yielda thinned image with an overall reduced number of points 
+
+CA720907 JB January 27, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1327 6  60.364351250741194 BM25
+
+
+Use of Decision Tables in Computer Programming
+
+
+CA650110 JB March 8, 1978  2:36 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2125 7  58.11299855011512 BM25
+
+
+A Note on Minimal Length Polygonal Approximation to a Digitized Contour
+
+
+CA700106 JB February 14, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2370 8  57.84202043048675 BM25
+
+
+An Experimental Laboratory for Pattern Recognition and Signal Processing
+
+
+CA720403 JB January 31, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2065 9  57.78228006714613 BM25
+
+
+A Programming System for the On-line Analysis of Biomedical Images
+A Programming System for the On-line Analysis of Biomedical IMAGES 
+
+CA700501 JB February 13, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1144 10  56.97964902804392 BM25
+
+
+Digital Computer Determination of Alpha Source Activity
+
+
+CA640111 JB March 10, 1978  5:14 AM 
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3015 11  55.196097303921576 BM25
+
+
+Relaxation Methods for Image Reconstruction
+
+
+CA780208 JB March 28, 1978  2:13 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2211 12  54.560094767155014 BM25
+
+
+Scanned-Display Computer Graphics
+
+
+CA710301 JB February 3, 1978  4:53 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2826 13  52.23885237447338 BM25
+
+
+Interactive Skeleton Techniques for EnhancingMotion Dynamics in Key Frame Animation
+
+
+CA761005 JB January 3, 1978  4:24 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1891 14  49.7126559929587 BM25
+
+
+Three-Dimensional Computer Display
+To produce a stereographic display the computer calculatesthe projected video IMAGES of an object , viewed from two separate points 
+
+CA690602 JB February 17, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2231 15  48.88559272037764 BM25
+
+
+The Reconstruction of Binary Patterns from Their Projections
+
+
+CA710103 JB February 8, 1978  12:33 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2421 16  48.8613182412603 BM25
+
+
+A Scan Conversion Algorithm with Reduced Storage Requirements
+
+
+CA731105 JB January 20, 1978  10:28 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1741 17  47.15948066171979 BM25
+
+
+BRAD: The Brookhaven Raster Display
+
+
+CA680604 JB February 22, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2004 18  44.47757422239607 BM25
+
+
+A Procedure for Generation of Three-dimensionalHalf-toned Computer Graphics Presentations
+
+
+CA700901 JB February 10, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2674 19  44.40899279366683 BM25
+
+
+Scan Conversion Algorithms for a Cell Organized Raster Display
+
+
+CA740309 JB January 18, 1978  11:08 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0533 20  44.22073486010994 BM25
+
+
+Digital Synthesis of Correlated Stationary Noise
+Digital Synthesis of Correlated Stationary NOISE In this note we propose a method of generatingstationary NOISE with a prescribed auto-covariance function by digital methods The need for such a techniqueoften arises in testing the performance of data processing and engineering systems , where inputscorrupted with correlated NOISE ( of a known form ) are required The technique is quite simple and producesstrict-sense stationary NOISE which agrees approximately with R ( t ) , the prescribed auto-covariancefunction ( acf ) , over an interval [ -T ( 0 ) , T ( 0 ) ] The method consists of approximating the spectral densityby a periodic process with spectral lines , and then synthesizing the periodic NOISE with randomphases and appropriate amplitudes In order to simplify discussion of the statistical properties of thenoise generated , the technique is first presented in terms of exact harmonic analysis 
+
+CA620728 JB March 17, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1543 21  42.73371941148126 BM25
+
+
+Computer Formulation of the Equations of Motion Using Tensor Notation
+
+
+CA670903 JB February 27, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2721 22  42.37020667314129 BM25
+
+
+The Digital Simulation of River Plankton Population Dynamics
+
+
+CA750903 JB January 6, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0605 23  42.31684455083541 BM25
+
+
+Computer Simulation Of City Traffic
+
+
+CA620412 JB March 20, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2829 24  42.06342567363715 BM25
+
+
+Texture and Reflection in Computer Generated Images
+Texture and Reflection in Computer Generated IMAGES In 1974 Catmull developed a new algorithmfor rendering IMAGES of bivariate surface patches Several examples of IMAGES synthesized using these new techniques are included 
+
+CA761002 JB January 4, 1978  8:36 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0078 25  41.87866339845675 BM25
+
+
+Remarks on the Practical Solution of Characteristic Value Problems
+
+
+CA590606 JB March 22, 1978  6:30 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1108 26  41.544748446789626 BM25
+
+
+Digital Data Processor for Tracking the Partially Illuminated Moon*
+
+
+CA640324 JB March 10, 1978  2:02 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2188 27  41.356028582731945 BM25
+
+
+An Approach to the Optimum Design of Computer Graphics Systems
+
+
+CA710602 JB February 3, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0531 28  40.69756422795719 BM25
+
+
+Person-Matching by Electronic Methods
+
+
+CA620730 JB March 17, 1978  7:51 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0893 29  40.678501360312 BM25
+
+
+Significance Arithmetic on a Digital Computer
+
+
+CA630327 JB March 14, 1978  12:47 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1929 30  40.301255699709714 BM25
+
+
+Images from Computers and Microfilm Plotters
+IMAGES from Computers and Microfilm Plotters Regrettably , present models have no provision for producing IMAGES with a continuous gray scale or `` half tones computer IMAGES , half tone pictures , microfilm plotters ; processing 
+
+CA690209 JB February 20, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1261 31  40.24067767239501 BM25
+
+
+Modeling and Simulation of Digital Networks
+Thedigital network is modeled as a set of time-dependent or time-independent Boolean transformations ; each transformationdescribing the input-output relationship of a model element comprising the network mode 
+
+CA650510 JB March 7, 1978  1:15 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1571 32  39.92993207614 BM25
+
+
+A User-Oriented Time-Shared Online System
+
+
+CA670702 JB February 28, 1978  9:08 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1388 33  39.81293053529405 BM25
+
+
+AUTOMAST: Automatic Mathematical Analysis and Symbolic Translation
+A computerprogram is described that reads in a system of such equations and then generates the expansionsfor all of the dependent variables The EXPANSIONS are determined symbolically , hence any non-numeric parametersin the original equations are carried automatically into the final EXPANSIONS 
+
+CA660810 JB March 2, 1978  7:16 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1381 34  39.73056532169924 BM25
+
+
+Impact of Computers on the Undergraduate Mathematics Curriculum 
+
+
+CA660905 JB March 2, 1978  6:31 PM  
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2606 35  39.51632465403387 BM25
+
+
+A New Integration Algorithm for Ordinary DifferentialEquations Based on Continued Fraction Approximations
+It is designed to approximatepoles of small integer order in the solutions of the differential equations by continued fractions obtainedby manipulating the sums of truncated Taylor series EXPANSIONS The Taylor series method and the new method are shownto be superior in speed and accuracy , while the new method is shown to be most superior when the solutionis required near a singularity The new method can finally be seen to pass automatically through singularitieswhere all the other methods which are discussed will have failed ordinary differential equations , initial value problem , integration , Taylor series , singularities , continued fractions , program comparison 
+
+CA740902 JB January 17, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1350 36  39.4789006475771 BM25
+
+
+The Augmented Predictive Analyzer for Context-FreeLanguages-Its Relative Efficiency
+In Section 1 , an algorithm , originally due to Abbott is described standard-form grammar each of whose rules is in standard form , supplementedby additional information DESCRIBING its derivation from the original context-free grammar 
+
+CA661108 JB March 2, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0104 37  39.45677755526132 BM25
+
+
+Digital Simulation of Discrete Flow Systems*
+
+
+CA601212 JB March 20, 1978  6:27 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2819 38  39.43123495154916 BM25
+
+
+Experiments in Text File Compression
+
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3200 39  39.22495293769889 BM25
+
+
+   A FORMAC Program for the Solution of Linear Boundary and Initial Value Problems
+The equations ( in symbolic form ) to be satisfied - the differentialequations , equations DESCRIBING auxiliary conditions such as boundary conditions , etc 
+
+CA660814 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1726 40  39.19644368020127 BM25
+
+
+Preliminary Investigation of Techniquesfor Automated Reading of Unformatted Text
+Other matters related to thedesign of a general purpose page reader , such as the segmentation of printed text , the possibility oftime-sharing the scanner , interactive man-machine operation , and the facsimile reproduction of illustrations , are discussed 
+
+CA680703 JB February 22, 1978  2:52 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1292 41  39.130234523790435 BM25
+
+
+On a Divide-and-Correct Method For Variable Precision Division
+
+
+CA650315JB March 7, 1978  4:16 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2554 42  39.10572910183672 BM25
+
+
+Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+
+
+CA730107 JB January 24, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1423 43  39.010843538421994 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+A simple extension hasbeen found to the conventional orthogonalization method for inverting non-singular matrices , which givesthe generalized inverse with little extra effort and with no additional storage requirements The algorithmgives the generalized inverse for any m by n matrix A , including the special case when m+n and Ais non-singular and the case when m > n and rank ( A ) = n In the second case the algorithm yields the ordinary least squares transformation matrixINV ( A'A ) A ' and has the advantage of avoiding the loss of significance which results in forming the PRODUCT A'A explicitly 
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1664 44  38.97446475910289 BM25
+
+
+An Algorithm for Deriving the Equations ofMathematical Physics by Symbolic Manipulation
+
+
+CA681202 JB February 21, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2020 45  38.971836032726635 BM25
+
+
+The Allocation of Computer Resources-Is Pricing the Answer?
+
+
+CA700801 JB February 10, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2402 46  38.94083798901278 BM25
+
+
+Pictorial Pattern Recognition and thePhase Problem of X-ray Crystallography
+Model buildingby cross-correlations has intrinsic advantages over usual crystallographic techniques based on theautocorrelation or PATTERSON function , especially for large structures 
+
+CA720101 JB February 1, 1978  9:53 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0464 47  38.86001015042888 BM25
+
+
+Syntactic Analysis by Digital Computer
+
+
+CA621016 JB March 17, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2687 48  38.83544864466313 BM25
+
+
+A Cell Organized Raster Display for Line Drawings
+
+
+CA740202 JB January 18, 1978  1:28 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1415 49  38.78310876754524 BM25
+
+
+Automatic Derivation of Microsentences
+
+
+CA660606 JB March 3, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2189 50  38.63368493118513 BM25
+
+
+Generation of Rosary Permutations Expressed in Hamiltonian Circuits
+
+
+CA710601 JB February 3, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3160 51  38.47579726723753 BM25
+
+
+Rejuvenating Experimental Computer Science
+
+
+CA790901 DB January 14, 1980  10:05 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1366 52  38.43353116772109 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2051 53  38.34435698019038 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+The ARTICLE explains the usefulness , as well as the limitations , of the programs , and illustrates itsuse with a small portion of hypothetical data 
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0670 54  38.22614349842812 BM25
+
+
+Some Legal Implications of the Use of Computers in the Banking Business
+
+
+CA631204 JB March 13, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2893 55  37.964716220841176 BM25
+
+
+Computers as an Innovation in American Local Governments
+
+
+CA771207 JB December 22, 1977  12:17 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1961 56  37.79792402841414 BM25
+
+
+An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+
+
+CA701202 JB February 9, 1978 4:12 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1928 57  37.79562375176356 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2913 58  37.728198420797376 BM25
+
+
+The Aliasing Problem in Computer-Generated Shaded Images
+The Aliasing Problem in Computer-Generated Shaded IMAGES Certain defects , such as jagged edges anddisappearing detail , have long been an annoyance in digitally generated shaded IMAGES 
+
+CA771103 JB December 27, 1977  7:56 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2931 59  37.7145463186275 BM25
+
+
+Logic and Programming Languages
+
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1046 60  37.64360399223138 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number of ARTICLES published during thepast two years , R 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1847 61  37.62736656390851 BM25
+
+
+An Algorithm for Finding a Fundamental Set of Cycles of a Graph
+
+
+CA690909 JB February 15, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1700 62  37.569274487716925 BM25
+
+
+PEEKABIT, Computer Offspring of PunchedCard PEEKABOO, for Natural Language Searching
+If , at searchtime , the logical PRODUCT ( using the AND operation ) of this mask and a similarly constructed question maskis not equal to the question mask , then one or more question words are not present in the store item 
+
+CA680901 JB February 22, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3059 63  37.54580800846108 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0894 64  37.47978471999258 BM25
+
+
+An Iterative Factorization Technique for Polynomials
+
+
+CA630326 JB March 14, 1978  12:51 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1625 65  37.372999099091984 BM25
+
+
+On the Automatic Simplification of Source-Language Programs
+
+
+CA670304 JB February 28, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3198 66  37.269519215366785 BM25
+
+
+   Microprogramming, Emulators and Programming Languages
+
+
+CA660318 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1428 67  37.24662890277332 BM25
+
+
+SHOCK III, A Computer System As an Aidin the Management of Critically III Patients
+
+
+CA660509 JB March 3, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2302 68  37.136612117527505 BM25
+
+
+Computers and Employment
+The most obviouseffect is that increase in productivity due to technology can eliminate jobs 
+
+CA720726 JB January 30, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2341 69  37.02978417351193 BM25
+
+
+Blocks-A New Data type for SNOBOL4
+
+
+CA720604 JB January 30, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1862 70  36.968237639855325 BM25
+
+
+Computing Capabilities at Argentine and Chilean Universities
+The author reports on a trip to universities inArgentina and Chile during November 1968 , DESCRIBING university conditions and computing activities 
+
+CA690801 JB February 15, 1978  6:21 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0724 71  36.95617762702996 BM25
+
+
+A Profile of the Programmer
+
+
+CA631001 JB March 13, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0616 72  36.892401602549825 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1206 73  36.84313717116184 BM25
+
+
+The Self-Judgment Method of Curve Fitting
+
+
+CA650818 JB March 6, 1978  7:50 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1529 74  36.82646312614762 BM25
+
+
+Decomposition Programming An Analysis of Matrix Substructure 
+
+
+CA671004 JB February 27, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1392 75  36.75717819830941 BM25
+
+
+Experience with FORMAC Algorithm Design
+
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2054 76  36.60671562966067 BM25
+
+
+On the Feasibility of Voice Input toan On-line Computer Processing System
+
+
+CA700601 JB February 13, 1978  12:12 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0329 77  36.58730155569388 BM25
+
+
+Automatic Abstracting and Indexing Survey and Recommendations
+
+
+CA610505 JB March 16, 1978  11:08 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1379 78  36.56994087169751 BM25
+
+
+A Final Solution to the Dangling Else of ALGOL 60 and Related Languages
+
+
+CA660908 JB March 2, 1978  6:18 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2643 79  36.53389458490818 BM25
+
+
+The Minimization of Spatially-Multiplexed Character Sets
+
+
+CA740603 JB January 17, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1783 80  36.50065767804051 BM25
+
+
+In-and-Out Conversions
+
+
+CA680111 JB February 23, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1384 81  36.462303560835565 BM25
+
+
+Mathematics for Undergraduate Computer Scientists
+
+
+CA660902 JB March 2, 1978  6:46 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2274 82  36.45169356905013 BM25
+
+
+Generating English Discourse from Semantic Networks
+
+
+CA721004 JB January 27, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2304 83  36.428804608689546 BM25
+
+
+A Western View of Computer History
+This ARTICLE records the events of the early years in a personal way 
+
+CA720724 JB January 30, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2321 84  36.413513075643024 BM25
+
+
+On the Interface Between Computers and Data Communications Systems
+
+
+CA720707 JB January 30, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1409 85  36.32738457188123 BM25
+
+
+NEBULA: A Digital Computer Using a 20 Mc Glass Delay Line Memory
+
+
+CA660705 JB March 2, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1721 86  36.30175391901368 BM25
+
+
+Determination of the Intersection Points of TwoPlane Curves by Means of Differential Equations
+The theory of SINGULAR points off a system of two differential equationsis used in developing the method The intersection point to be determined is identified with such a singularpoint and appropriate modifications are applied to the system to ensure that the SINGULAR point be stable , i all integrals which start in the neighborhood of the SINGULAR point will always approach this pointif the integral parameter tends to infinity plane curves , intersection points , intersectionsplane curves , integration , differential equations , matrix iteration , SINGULAR points , nonlinear differentialequations , eigenvalues , complex roots , roots , stationary points , Runge Kutta , stable singularity , unstable singularity 
+
+CA680708 JB February 22, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0696 87  36.24612137455054 BM25
+
+
+An Automatic Data Acquisition and Inquiry System Using Disk Files
+
+
+CA631029 JB March 13, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-0730 88  36.237589853604746 BM25
+
+
+MIRFAG: A Compiler Based on StandardMathematical Notation And Plain English
+
+
+CA630928 JB March 13, 1978  7:06 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1476 89  36.153837573193094 BM25
+
+
+Control Procedures for Data Communication-An ASA Progress Report
+
+
+CA660208JB March 3, 1978  3:04 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1325 90  36.14684954744616 BM25
+
+
+Remote, On-Line, Real-time Computer Diagnosisof the Clinical Electrocardiogram
+
+
+CA650112 JB March 8, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1806 91  36.14262494550391 BM25
+
+
+On the Downhill Method
+
+
+CA691206 JB February 15, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2367 92  36.124432668816574 BM25
+
+
+Computers and Society: A Proposed Course for Computer Scientists
+
+
+CA720406 JB January 31, 1978  1:06 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2163 93  36.115977135596864 BM25
+
+
+Education Related to the Use of Computers in Organizations
+
+
+CA710901 JB February 2, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-3076 94  36.093872495195434 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+Thesetopics are analyzed in this ARTICLE and related to the value positions held by concerned parties 
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1671 95  36.075722019853416 BM25
+
+
+A Phonological Rule Tester
+
+
+CA681108 JB February 21, 1978  2:41 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1433 96  36.05969112021961 BM25
+
+
+A Note on Linear Programming Algorithm Design: A Combinatorial Problem
+
+
+CA660504 JB March 3, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1194 97  36.026229024020616 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-2925 98  36.02398665120691 BM25
+
+
+Optimal Surface Reconstruction from Planar Contours
+An illustrated example whichinvolves the construction of a minimum area surface DESCRIBING a human head is included 
+
+CA771001 JB December 27, 1977  12:40 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1154 99  36.00669183990042 BM25
+
+
+Multi-Tape and Infinite-State Automata -- A Survey
+
+
+CA651215 JB March 6, 1978  3:24 PM
+
+
+--------------------------------------------------------------
+31 Q0 CACM-1032 100  35.99738621886011 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+
+
+CA640715 JB March 9, 1978  7:55 PM
+
+

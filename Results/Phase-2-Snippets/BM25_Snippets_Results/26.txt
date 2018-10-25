@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+26 Q0 CACM-2626 1  10.607159452822412 BM25
+
+
+Protection and the Control of Information Sharing in Multics
+The design of MECHANISMS to CONTROL the sharingof information IN the Multics system is described The key MECHANISMS described include access CONTROL lists , hierarchical CONTROL of access specifications , identification and authentication of users , and primarymemory protection Protection and the CONTROL of Information Sharing IN Multics Multics , protection , security , privacy , access CONTROL , authentication , computer utilities , time-sharing SYSTEMS , proprietary programs , protected subsystems , virtual memory , descriptors 
+
+CA740705 JB January 17, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2840 2  10.145155345361273 BM25
+
+
+Protection in Operating Systems
+A model of protection MECHANISMS IN computingsystems is presented and its appropriateness is argued Protection IN OPERATING SYSTEMS protection , protection system , operatingsystem , decidability , Turing machine The `` safety '' problem for protection systemsunder this model is to determine IN a given situation whether a subject can acquire a particular right toan object 
+
+CA760804 JB January 4, 1978  10:12 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3068 3  9.323472216377427 BM25
+
+
+A Model for Verification of Data Security in Operating Systems
+A Model for Verification of Data Security IN OPERATING SYSTEMS Aprecise definition of data security is developed here IN terms of a general model for OPERATING SYSTEMS This model is suitable as a basis for verifying many of those properties of an OPERATING system whichare necessary to assure reliable enforcement of security The application of this approach to theUCLA secure OPERATING system is also discussed OPERATING SYSTEMS , security , protection , program verification Program verification applied to kernel architecturesforms a promising method for providing uncircumventably secure , shared computer SYSTEMS 
+
+CA780904 DH February 5, 1979  2:40 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3105 4  9.231600555269774 BM25
+
+
+A Language Extension for Expressing Constraints on Data Access
+Controlled sharing of information is needed anddesirable for many applications and is supported IN OPERATING SYSTEMS by access CONTROL MECHANISMS Thispaper shows how to extend programming languages to provide controlled sharing Programming languages , access CONTROL , data types , abstract data types , type checking , capabilities 
+
+CA780502 DH February 26, 1979  3:19 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1750 5  9.155751503870746 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+multiple computer SYSTEMS , extended core storage , multiprogrammed OPERATING SYSTEMS , multiprocessor OPERATING SYSTEMS , CONTROL data corporation 6600 , OPERATING system with ECS 
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2632 6  8.888537663893059 BM25
+
+
+HYDRA: The Kernel of a Multiprocessor Operating System
+MECHANISMS are presented for dealing with objects , including the creation of newtypes , specification of new operations applicable to a given type , sharing , and protection of any referenceto a given object against improper application of any of the operations defined with respect to thattype of object The MECHANISMS provide a coherent basis for extension of the system IN two directions : theintroduction of new facilities , and the creation of highly secure SYSTEMS HYDRA : The Kernel of a Multiprocessor OPERATING System This paper describes the design philosophy ofHYDRA-the kernel of an OPERATING system for C OPERATING system , kernel , nucleus , protection , security 
+
+CA740614 JB January 17, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3128 7  8.747229170488735 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+The relationship of the mechanismto protection MECHANISMS IN the system is explained ; IN particular , eventcounts are shown to be applicable to situations where confinementof information matters Synchronization of concurrent processes requires controlling the relative ordering of events IN the processes A new synchronization mechanism is proposed , using abstract objects called eventcounts and sequencers , that allows processesto CONTROL the ordering of events directly , rather than using mutualexclusion to protect manipulations of shared variables that controlordering of events Direct CONTROL of ordering seems to simplifycorrectness arguments and also simplifies implementation IN distributedsystems Process synchronization , interprocess communication , distributedsystems , security models , mutual exclusion , semaphores 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2080 8  8.68559078425685 BM25
+
+
+The Nucleus of a Multiprogramming System
+This paper describes the philosophy and structure of a multiprogramming system that can be extended with a hierarchy of OPERATING SYSTEMS to suit diverse requirements of program scheduling and resource allocation The systemnucleus simulates an environment IN which program execution and input/outputare handled uniformly as parallel , cooperating processes multiprogramming , OPERATING SYSTEMS , parallel processes , process concept , process communication , message buffering , processhierarchy , process creation , process removal A fundamental set of primitives allows the dynamic creation and controlof a hierarchy of processes as well as the communication among them 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2372 9  8.460568054393283 BM25
+
+
+On the Implementation of Security Measures in Information Systems
+The model is used to explain security features of several existing SYSTEMS , and servesas a framework for a proposal for general security system implementation within today 's languages and OPERATING SYSTEMS security , privacy , access CONTROL confidentiality , OPERATING SYSTEMS , access management , data banks , management information SYSTEMS On the Implementation of Security Measures IN Information SYSTEMS 
+
+CA720401 JB January 31, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2939 10  8.30150917841847 BM25
+
+
+Abstraction Mechanisms in CLU
+Abstraction MECHANISMS IN CLU CLU provides , IN addition to procedures , novel linguisticmechanisms that support the use of data and CONTROL abstractions This paper provides an IN troductionto the abstraction MECHANISMS IN CLU Work IN programming methodology has led to the realizationthat three kinds of abstractions-procedural , CONTROL , and especially data abstractions-are usefulin the programming process programming languages , data types , data abstractions , CONTROL abstractions , programming methodology , separate compilation 
+
+CA770804 JB December 28, 1977  7:49 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2320 11  8.263197525353917 BM25
+
+
+Structured Multiprogramming
+These concepts are sufficiently safe to use not only withinoperating SYSTEMS but also within user programs structured multiprogramming , programming languages , OPERATING SYSTEMS , concurrent processes , shared data , mutual exclusion , critical regions , processcommunication , synchronizing events A combination ofcritical regions and event variables enables the programmer to CONTROL scheduling of resources amongcompeting processes to any degree desired 
+
+CA720708 JB January 30, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1728 12  8.144246043600855 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+Results are summarized from an empirical studydirected at the measurement of program OPERATING behavior IN those multiprogramming SYSTEMS IN whichprograms are organized into fixed length pages paging SYSTEMS , paging , dynamic program behavior , programbehavior , virtual memory SYSTEMS , single-level storage , one-level storage , OPERATING system simulation , OPERATING SYSTEMS , supervisor simulation , machine language program interpretation 
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2317 13  8.059010948429648 BM25
+
+
+Programming Systems and Languages 1965-1975
+IN the OPERATING system area all major computer manufacturers set out to produce very ambitious multiprogrammingsystems , and they all ran into similar problems A number of university projects , though notdirectly comparable to those of the manufacturers , have contributed greatly to a better understandingof OPERATING system principles languages , OPERATING SYSTEMS , programmingsystems , multiprogramming , history Programming SYSTEMS and Languages 1965-1975 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2111 14  8.053329089120663 BM25
+
+
+Spelling Correction in Systems Programs
+Several specialized techniques are shown for efficientlyincorporating spelling correction algorithms into compilers and OPERATING SYSTEMS spelling correction , error correction , debugging , compilers , OPERATING SYSTEMS , diagnostics , error detection , misspelling , lexical analysis SYSTEMS programming Spelling Correction IN SYSTEMS Programs By using SYSTEMS which perform spelling correction , the number of debugging runs per program has been decreased , saving both programmer and machine time 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2867 15  7.951264619544123 BM25
+
+
+Modularization and Hierarchy in a Family of Operating Systems
+Modularization and Hierarchy IN a Family of OPERATING SYSTEMS This paper describes the design philosophyused IN the construction of a family of OPERATING SYSTEMS 
+
+CA760504 JB January 4, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1680 16  7.814971211026057 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+It is written IN FORTRAN IV ( G ) for the IBM System/360 , Model 40 , and the IBM 2250display Unit under OPERATING System/360 Adept is a cataloged program that controls the standard operatingsystem by terminating and rescheduling itself automatically , relinquishing computer resources allocatedto it , and surrendering CONTROL to the OPERATING system to perform other jobs It expands the powerand flexibility of computer-assisted instruction by making immediately available to students , teachers , and other users , the full resources ( system-cataloged programs ) of the OPERATING system computer-assisted instruction , tutorial SYSTEMS , programming , simulation , modeling , information retrieval OPERATING SYSTEMS , graphics , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2377 17  7.76607361505043 BM25
+
+
+A Hardware Architecture for Implementing Protection Rings
+This paper describes hardware processor MECHANISMS for implementing these ringsof protection The MECHANISMS for implementing these rings of protection The MECHANISMS allow cross-ringcalls and subsequent returns to occur without trapping to the supervisor The mechanismsof passing and referencing arguments are the same IN both cases as well protection , protection rings , protection hardware , access CONTROL , hardware access CONTROL , computer utility , time-sharing , shared information , segmentation , virtual memory , Multics 
+
+CA720304 JB January 31, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1677 18  7.680831441311106 BM25
+
+
+Storage Organization in Programming Systems
+storage allocation , storage organization , storagecontrol , codewords , data representation , program representation , data structures , storage protection , addressing MECHANISMS , paging , segmentation , file handling The application of labeled blocks may be extended to areas of time-sharing and multimedia storagecontrol Storage Organization IN Programming SYSTEMS This storage arrangementis discussed with its realized advantages or programming SYSTEMS : simplicity of programmed addressing , flexibility of data structures , efficiency of memory utilization , variability of system compositionduring execution , means of linkage between programs and from programs to data , and basis for storage protection 
+
+CA681102 JB February 21, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1747 19  7.677298723859762 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+computer design , computer design criteria , computersystems , computer SYSTEMS design , input equipment , input equipment design , OPERATING SYSTEMS , operatingsystems design , multiprogramming , multiprogrammed SYSTEMS , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , information security , information privacy , computing reliability , debugging , program debugging , program testing , parallel processing , parallel programming , multiprocessing These criteriaimply that a user can , if he desires , either know or CONTROL all the influences affecting the contentand extent of his computer 's output Three Criteria for Designing Computing SYSTEMS to Facilitate Debugging Examples of applicationsof the criteria concern the reading of a time-of-day clock , the synchronization of parallelprocesses , protection IN multiprogrammed SYSTEMS , and the assignment of capability indexes 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2541 20  7.583356418227785 BM25
+
+
+An Overview of the ISPL Computer System Design
+This freedom simplified both incremental compilation and the system 's addressing structure , and centralized thecommunication MECHANISMS enabling the construction of hierarchical subsystems This paper explores the advantages of the concurrentdesign of the language , OPERATING system , and machine ( via microcode ) to create an interactive programminglaboratory It also suggested an importantnew concept for OPERATING SYSTEMS : separation of the scheduling from the maintenance functions IN resourceallocation concurrent design , operating-system , scheduling , interprogram communication , incremental compilation , virtual addressing , debugging , hierarchical subsystems 
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2578 21  7.581575050339154 BM25
+
+
+Self-stabilizing Systems in Spite of Distributed Control
+Self-stabilizing SYSTEMS IN Spite of Distributed CONTROL multiprocessing , networks , self-stabilization , synchronization , mutual exclusion , robustness , sharing , error recovery , distributed CONTROL , harmonious cooperation , self-repair 
+
+CA741106 JB January 16,1978  10:18 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1591 22  7.568129312328034 BM25
+
+
+A Model for a Multifunctional Teaching System
+A teaching system model that was incorporatedinto an OPERATING system of a large computer is described The model transferred CONTROL to theoperating system to execute functions other than teaching , and then recovered CONTROL IN order to resumeteaching The teaching system ( ABAC-II ) was written to run under the OPERATING system ( IBSYS ) forthe IBM 7044 Graphic System During the latter , the full resources of the OPERATING system ( language processors , compilers , library and user 's programs ) were at his disposal He could for example , write , assemble , debug , and execute at the terminal a program written IN any language processed by the OPERATING system 
+
+CA670601 JB February 28, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2314 23  7.566490423264948 BM25
+
+
+Requirements for Advanced Programming Systems for List Processing
+Three aspects of programmingsystems are highlighted : good interactive facilities , programmable CONTROL structures , and sophisticateddata communication MECHANISMS Implementation of a generalized environmentstructure model specified would allow programming of various CONTROL regimes including multiprocesses , coroutines and backtracking list processing , programming languages , design ofprogramming languages , interactive SYSTEMS , CONTROL structures , data structures , programming primitives , semantics , advanced programming SYSTEMS Requirements for Advanced Programming SYSTEMS for List Processing List processing SYSTEMS should be designed tofacilitate production of large programs to manipulate large complex symbolic data stores Because of this general framework , the requirements specified are applicableto the design of advanced programming SYSTEMS for a wide range of applications 
+
+CA720714 JB January 30, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3026 24  7.421825022956737 BM25
+
+
+The Evolution of the Sperry Univac 1100Series: A His tory, Analysis, and Projection
+The 1100 OPERATING System is designed to support a symmetrical multiprocessor configurationsimultaneously providing multiprogrammed batch , timesharing , and transaction environments 1100 computer series , computer architecture , multiprocessinglanguages , data management SYSTEMS , end user facilities , executive CONTROL software The 1100 series SYSTEMS are Sperry Univac'slarge-scale main frame computer SYSTEMS 
+
+CA780104 JB March 28, 1978  5:38 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2036 25  7.378672209943369 BM25
+
+
+An Interactive Command Generating Facility
+time-sharing , command languages , pseudo-teletype , interaction , conditional job CONTROL , OPERATING SYSTEMS A facility to permit conversationally controlled tasksto be executed IN a noninteractive environment is proposed A set of functions to accomplish the above which could be embedded into any string processing language is suggested , and necessary information pertinent to implementation of the facility on existing time-sharing SYSTEMS is given 
+
+CA700701 JB February 13, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1247 26  7.250568308708184 BM25
+
+
+An Operating Environment for Dynamic-RecursiveComputer Programming Systems
+An OPERATING Environment for Dynamic-RecursiveComputer Programming SYSTEMS Presented IN this paper is a brief nontechnicalintroduction to OEDIPUS , a computer programming system which can serve as an OPERATING environment fordynamic and/or recursive programs and programming SYSTEMS 
+
+CA650608 JB March 6, 1978  10:18 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2319 27  7.158185693420834 BM25
+
+
+Operating System Performance
+OPERATING System Performance An overview of the current and future positionswith respect to OPERATING system performance is given Because of thesevere interactions between the various subsystems of an OPERATING system , an overall model of the totalsystem must be developed to be able to analyze and design the performance aspects of an OPERATING systemalthough such total system designs are exceptional today , it is projected that they will become increasinglymore common and necessary IN the near future Such a design philosophy will clearly have a severe impacton the way we go about modularizing OPERATING and computer SYSTEMS computer system , OPERATING system , performanceevaluation , performance measurement , measurement , techniques , modularity , layering , structured programming , paging , virtual memory , input/output , disk storage facility , drum storage facility , sector queueing While a great deal of information and a largenumber of models for subsystems have been developed , gaps still exist IN out knowledge 
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1461 28  7.098826545235113 BM25
+
+
+Discussion Summary on Operating Systems
+Discussion Summary on OPERATING SYSTEMS 
+
+CA660311 JB March 3, 1978  1:26 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1341 29  6.977165702412729 BM25
+
+
+Levels of Computer Systems
+IN building current computer SYSTEMS , we tendto break them down into `` levels '' of CONTROL , command and communication ; IN using the system , we breakour problems down correspondingly Levels of Computer SYSTEMS The continued use of such a structure raises questions about its effectson the usefulness of future SYSTEMS , particularly with regard to such trends as time sharing , parallelprogramming , and , eventually , SYSTEMS which learn 
+
+CA661208 JB March 2, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2151 30  6.977006948258666 BM25
+
+
+User Program Measurement in a Time-Shared Environment
+OPERATING SYSTEMS , multiprogramming SYSTEMS , time-sharingsystems , software measurement , user program measurement , measurement technology , TX-2 computer , virtual computers , performance improvement A general discussion of the measurement ofsoftware SYSTEMS is followed by a description of a hardware and software scheme for measuring user programsin a time-shared environment Finally , it is shown how other time-sharing SYSTEMS may provide similar measuring facilities 
+
+CA711005 JB February 2, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1476 31  6.937380059567392 BM25
+
+
+Control Procedures for Data Communication-An ASA Progress Report
+CONTROL Procedures for Data Communication-An ASA Progress Report 4 , with the responsibility to `` Define and specifyfunctional CONTROL requirements and characteristics governing the operation of digital data generating andreceiving SYSTEMS interconnected by communication system This paper represents a progressreport on the work of this group toward a proposal for national and international standardization IN thefield of CONTROL procedures The new workis presented IN detail , while the work that has been presented IN earlier papers [ `` CONTROL Procedures forData Communication , '' Task Group document X3 4/44 , May 1964 : `` Transparent-Mode CONTROL Procedures for DataCommunication , '' Task Group document X3 1965 ) , 203-206 ; `` ControlProcedures for Data Communications , '' Task Group document X3 `` This effort is primarily directed toward systemsemploying the American Standard Code for Information Interchange ( ASCII ) 
+
+CA660208JB March 3, 1978  3:04 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2621 32  6.914974897102744 BM25
+
+
+A High Security Log-in Procedure
+OPERATING SYSTEMS , time sharing SYSTEMS , security , cryptography The protection of time sharing SYSTEMS fromunauthorized users is often achieved by the use of passwords 
+
+CA740803 JB January 17, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2878 33  6.907572776218317 BM25
+
+
+Joining Policies in a Multipriority Multiclass Batch Computer System
+priority queues , semi-Markov process , price scheduling , OPERATING system The optimal joining policy is one of arriving users who may join the systemat some of its queues is a CONTROL limit policy , with a single CONTROL number for any possible queueand the user 's class ; a newly arriving user will join a queue that is not filled up to the CONTROL numbercorresponding to this queue and the user 's class IN this paper CONTROL numbers , as well as lower and upperbounds for the CONTROL numbers and the capacities of the system 's queues , are derived 
+
+CA760302 DMM January 9, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2597 34  6.898350203058106 BM25
+
+
+Monitors: An Operating System Structuring Concept
+Monitors : An OPERATING System Structuring Concept This paper develops Brinch-Hansen 's concept ofa monitor as a method of structuring an OPERATING system monitors , OPERATING SYSTEMS , scheduling , mutualexclusion , synchronization , system implementation languages , structured multiprogramming 
+
+CA741001 JB January 16, 1978  1:23 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1462 35  6.880277185638794 BM25
+
+
+Multilevel Operating Systems
+Multilevel OPERATING SYSTEMS The Basic software for all newer computersis built on the well-established need for standard OPERATING SYSTEMS Large applications require supervisory monitors which handle problems similar to those ofthe OPERATING SYSTEMS , but at a different level This leads naturally to the concept of multilevel systems-similar vertically , but different horizontally 
+
+CA660310 JB March 3, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2870 36  6.85328048161268 BM25
+
+
+A Lattice Model of Secure Information Flow
+This paper investigates MECHANISMS that guaranteesecure information flow IN a computer system These MECHANISMS are examined within a mathematical frameworksuitable for formulating the requirements of secure information flow among security classes The lattice properties permit concise formulations of the security requirementsof different existing SYSTEMS and facilitate the construction of MECHANISMS that enforce security It also leads to the constructionof automatic program certification MECHANISMS for verifying the secure flow of information through a program The model provides a unifying view of all SYSTEMS that restrict information flow , enables a classificationof them according to security objectives , and suggests some new approaches 
+
+CA760501 JB January 4, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2424 37  6.789774117100804 BM25
+
+
+Dynamic Verification of Operating System Decisions
+Dynamic Verification of OPERATING System Decisions The dynamic verification of OPERATING system decisions is used on the PRIME systembeing designed and constructed at the University of California , Berkeley The technique of dynamic verification allows the construction of an OPERATING system which does not make certaindecisions improperly even IN the presence of a single hardware or software fault OPERATING SYSTEMS , data security , fault tolerance , software reliability , data privacy , program verification , modular computer SYSTEMS 
+
+CA731102 JB January 20, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0059 38  6.772753648545741 BM25
+
+
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing in Businessand Management control Systems of the FederalGovernment, as of December 1957-III
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing IN Businessand Management CONTROL SYSTEMS of the FederalGovernment , as of December 1957-III 
+
+CA590910 JB March 22, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3183 39  6.757299512672267 BM25
+
+
+Policy, Values, and EFT Research: Anatomy of a Research Agenda
+These value conflicts are highlightedin a six-part research agenda : technological issues IN EFT , EFT impacts on people , economic impact of EFT , regulation and CONTROL ofEFT , and evaluating and monitoring EFT SYSTEMS EFTs , research agenda , value conflicts , impacts on people , economic impacts , regulation and CONTROL , monitoring EFT There is an emerging recognition that EFT SYSTEMS have the potential tovastly alter the payment and fund transfer system IN American society 
+
+CA791206 DB February 25, 1980  2:10 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3011 40  6.729914745980782 BM25
+
+
+Management Utilization of Computers in American Local Governments
+Management computing is mostprevalent IN those governments with professional management practices where top management is supportiveof computing and tends to CONTROL computing decisions and where department users have less CONTROL over designand implementation activities Traditional concepts of management informationsystems ( MIS ) bear little relation to the information SYSTEMS currently IN use by top management IN most US localgovernments Despite the unsophisticated nature of these SYSTEMS , management use of computing issurprisingly common , but also varied IN its extent among local governments 
+
+CA780302 JB March 28, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3141 41  6.712101726858017 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+Decentralized algorithms , distributed SYSTEMS , OPERATING SYSTEMS This note presents an improvement to LeLann'salgorithm for finding the largest ( or smallest ) of a set of uniquelynumbered processes arranged IN a circle , IN which no centralcontroller exists and the number of processes is not known a priori 
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1290 42  6.696821015864174 BM25
+
+
+Transparent-Mode Control Procedures for DataCommunication, Using the American Standard Code for Information Interchange -A Tutorial
+Transparent-Mode CONTROL Procedures for DataCommunication , Using the American Standard Code for Information Interchange -A Tutorial 4 IN the area of transparent-mode data communication CONTROL philosophy The appearance of thispaper was forecast ( underthe name of `` second-level CONTROL '' ) IN the earlier tutorial paper , `` CONTROL Proceduresfor Data Communications , '' Task Group document X3 The present paper elaboratesupon solutions to the problems of transparency to the basic ASCII communication CONTROL charactersas outlined IN the previous paper mentioned above Moreover , it goes on to cover the additional CONTROL problemsof handling material such as off line encrypted data or non-ASCII codes by means of SYSTEMS providingcomplete character transparency IN conjunction with the earlier tutorialpaper , this paper is expected to lead to a proposal for stand ardizationof data communication CONTROL proceduresusing the American Stand ard Code for Information Interchange 
+
+CA650401 JB March 7, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2558 43  6.652226762706555 BM25
+
+
+Protection in Programming Languages
+Linguistic MECHANISMS which can be used to protectone subprogram from another 's malfunctioning are described protection , types , environments , trademarks , seals , access keys , access CONTROL authentication , secrecy 
+
+CA730103JB January 24, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3025 44  6.597820510542708 BM25
+
+
+The Evolution of the DEC system 10
+The origin and evolution of the hardware , OPERATING system , and languagesare described IN terms of technological change , user requirements , and user developments computer structures , architecture , OPERATING system , timesharing The DEC system 10 , also known as the PDP-10 , evolvedfrom the PDP-6 ( circa 1963 ) over five generations of implementations to presently include SYSTEMS coveringa price range of five to one The PDP-10'scontributions to computing technology include : accelerating the transition from batch oriented to timesharing computing SYSTEMS ; transferring hardware technology within DEC ( and elsewhere ) to minicomputerdesign and manufacturing ; supporting minicomputer hardware and software development ; and serving as amodel for single user and timeshared interactive minicomputer/microcomputer SYSTEMS 
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2379 45  6.595231499647455 BM25
+
+
+The Design of the Venus Operating System
+The Design of the Venus OPERATING System The Venus OPERATING System is an experimentalmultiprogramming system which supports five or six concurrent users on a small computer The microprogram defines a machine with some unusual architecturalfeature ; the software exploits these features to define the OPERATING system as simply as possible OPERATING SYSTEMS , system design , levels of abstraction , machine architecture , microprogramming , segments , semaphores , multiprogramming , virtual machines , processes , process communication , virtual devices , data sharing , resource management , deadlock 
+
+CA720302 JB January 31, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0084 46  6.594614816195414 BM25
+
+
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing in Businessand Management Control Systems of the Federal Government,as of December 1957-II (Part 2 see CA590406)
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing IN Businessand Management CONTROL SYSTEMS of the Federal Government , as of December 1957-II ( Part 2 see CA590406 ) 
+
+CA590502 JB March 22, 1978  6:42 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2876 47  6.578694477395027 BM25
+
+
+Intentional Resolution of Privacy Protection in Database Systems
+Traditionally , privacy protection IN databasesystems is understood to be the CONTROL over what information a given user can get from a database This paper is concerned with another , independent , dimension of privacy protection , the CONTROL over whata user is allowed to do with a piece of information supplied to him by the database IN particular , it appears to be necessary for the database to impose a certain amount of CONTROL over the internalbehavior of users ' programs which interact with it A model for user-database interactionwhich admits such a CONTROL is developed Intentional Resolution of Privacy Protection IN Database SYSTEMS 
+
+CA760304 JB January 4, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1751 48  6.563443999302198 BM25
+
+
+The Working Set Model for Program Behavior
+general OPERATING system concepts , multiprocessing , multiprogramming , OPERATING SYSTEMS , program behavior , program models , resource allocation , scheduling , storage allocation Probably the most basic reason behind the absenceof a general treatment of resource allocation IN modern computer SYSTEMS is an adequate model forprogram behavior 
+
+CA680505 JB February 23, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2950 49  6.563443999302198 BM25
+
+
+A Unifying Approach to Scheduling
+The abstract model providesa framework for implementing flexible schedulers IN real OPERATING SYSTEMS scheduling algorithms , scheduling models , priority , OPERATING SYSTEMS , processor sharing , implementation efficiency 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2888 50  6.536460865261333 BM25
+
+
+Information Reference Coding
+IN business SYSTEMS associated with large collections of integrated files ( database ) it is vital to assign codes IN a methodical way so as to CONTROL future extension and changes while maintainingcorrect program action Items IN business SYSTEMS have to be identifiedby reference codes , which can later be used as data codes and file keys IN an associated data processingsystem data , file , reference code , systemsanalysis , information modeling , database 
+
+CA760105 JB January 5, 1978  10:11 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2938 51  6.515369424821508 BM25
+
+
+Toward a Discipline of Real-Time Programming
+By adhering to a strict programming discipline and by using a suitablehigh-level language molded after this discipline , the complexity of reasoning about CONCURRENCY and executiontime constrain ts may be drastically reduced This may be the only practical way to make real-timesystems analytically verifiable and ultimately reliable 
+
+CA770805 JB December 28, 19777:39 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2358 52  6.500752686778377 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+As experience with use of on-line operatingsystems has grown , the need to share information among system users has become increasingly apparent OPERATING system , Multics , virtual memory , segmentation , information sharing , paging , memory management , memory hierarchy Many contemporary SYSTEMS permit some degree of sharing Since the size of main memory on contemporary SYSTEMS is rather limited , it is then shown how the Multicssoftware achieves the effect of a large segmented main memory through the use of the Honeywell645 segmentation and paging hardware 
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3127 53  6.4805622296722785 BM25
+
+
+Thoth, a Portable Real-Time Operating System 
+Thoth , a Portable Real-Time OPERATING System Thoth isa real-time OPERATING system which is designed to be portableover a large set of machines Portability , real time , OPERATING SYSTEMS , minicomputer 
+
+CA790206 DH April 12, 1979  9:10 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2321 54  6.474381011377412 BM25
+
+
+On the Interface Between Computers and Data Communications Systems
+When specifying these interfaces , consideration must be given to problems of coordination , synchronization , error CONTROL , signaling , stream multiplexing , and switch CONTROL , IN addition to minimizingthe technological interdependence of specific subsystem designs On the Interface Between Computers and Data Communications SYSTEMS Future SYSTEMS that combine computers , digitalterminals , and communications equipment present design optimization problems that require reconsiderationof the traditional functional responsibilities of the respective subsystems Several `` standard '' interfaces , by means of which computers and digital terminals connect to the communications SYSTEMS willbe required 
+
+CA720707 JB January 30, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2629 55  6.460075162280033 BM25
+
+
+The UNIX Time-Sharing system 
+UNIX is a general-purpose , multi-user , interactiveoperating system for the Digital Equipment Corporation PDP-11/40 and 11/45 computers It offersa number of features seldom found even IN larger OPERATING SYSTEMS , including : ( 1 ) a hierarchical file systemincorporating demountable volumes ; ( 2 ) compatible file , device , and inter-process I/O ; ( 3 ) the ability toinitiate asynchronous processes ; ( 4 ) system command language selectable on a per-user basis ; and ( 5 ) over100 subsystems including a dozen languageshis paper discusses the nature and implementation of thefile system and of the user command interface time-sharing , OPERATING system , file system , command language , PDP-11 
+
+CA740702 JB January 17, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2817 56  6.435373485649414 BM25
+
+
+The Notions of Consistency and Predicate Locks in a Database System
+consistency , lock , database , CONCURRENCY , transaction IN database SYSTEMS , users access shared dataunder the assumption that the data satisfies certain consistency constraints 
+
+CA761106 JB January 3, 1978  3:14 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1636 57  6.423828810733317 BM25
+
+
+Invariant Imbeding and the Numerical Integrationof Boundary-Value Problems for Unstable Linear Systems of Ordinary Differential Equations
+IN such diverse areas as radiative transferin planetary atmospheres and optimal guidance and CONTROL , two-point boundary-value problems for unstablesystems arise , greatly complicating the numerical solution Invariant Imbeding and the Numerical Integrationof Boundary-Value Problems for Unstable Linear SYSTEMS of Ordinary Differential Equations 
+
+CA670206 JB February 28, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1754 58  6.4213797778829775 BM25
+
+
+Dynamic Storage Allocation Systems
+segmentation , paging , multiprogramming , storageallocation , storage management , virtual memories , storage fragmentation , storage hierarchies , addressing MECHANISMS Dynamic Storage Allocation SYSTEMS A method of characterizingdynamic storage allocation systems-according to the functional capabilities provided and the underlyingtechniques used-is presented A brief survey of storage allocationfacilities IN several representative computer SYSTEMS is included as an appendix 
+
+CA680502 JB February 23, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2985 59  6.419898163445798 BM25
+
+
+Effects of Chargeout on User/Manager Attitudes
+Both factorsare important to the user/manager involvement necessary for effective CONTROL of computer-based SYSTEMS computer management , computer budget , chargeout , stage hypothesis , CONTROL The relationship of IN ternal pricing systemsfor computer services ( chargeout SYSTEMS ) and user management attitudes about their computer-basedinformation SYSTEMS is investigated The results alsoindicate that the chargeout SYSTEMS characteristic of advanced EDP stage environments are associated withrelatively high levels of positive user attitudes and marked increases IN EDP training for users Development and main tenance of computer-based SYSTEMS is asserted to be a category of organizationalchange 
+
+CA770307 JB December 29, 1977  6:43 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0104 60  6.388194506551837 BM25
+
+
+Digital Simulation of Discrete Flow Systems*
+IN the other , air traffic flow and CONTROL procedures are simulated to compare the effects of alternative CONTROL decisions Digital Simulation of Discrete Flow Systems* The discrete flow SYSTEMS discussed are characterizedby the movement of randomly arriving items along interacting channels Programing a digitalcomputer to simulate such SYSTEMS utilizes some techniques not common IN other approaches to physicalproblems 
+
+CA601212 JB March 20, 1978  6:27 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2138 61  6.3707428849002365 BM25
+
+
+BLISS: A Language for Systems Programming
+This languageis designed so as to be especially suitable for use IN writing production software SYSTEMS for aspecific machine ( the PDP-10 ) : compilers , OPERATING SYSTEMS , etc BLISS : A Language for SYSTEMS Programming Prime design goals of the design are theability to produce highly efficient object code , to allow access to all relevant hardware features ofthe host machine , and to provide a rational means by which to cope with the evolutionary nature of systemsprograms programming languages , implementation language , SYSTEMS programming , data structures 
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0696 62  6.3637586311498096 BM25
+
+
+An Automatic Data Acquisition and Inquiry System Using Disk Files
+The system includes over 200 remote InputStations which collect and transmit Company OPERATING data to a central Data Processing Center Two RCA 301EDP SYSTEMS are used to record and CONTROL the flow of data transmitted to the Data Processing Center 
+
+CA631029 JB March 13, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2821 63  6.30882186741429 BM25
+
+
+Cobol Under Control
+Cobol Under CONTROL These standards constrain code to be developed IN a `` structured '' form for both data andcontrol structures These standards have proved extremely valuablein practice and have reduced the cost and time to produce and maintain large software SYSTEMS that havebeen deployed IN live multiple customer environments 
+
+CA761102 JB January 3, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0618 64  6.3044283943361545 BM25
+
+
+Computers- The Key to Total Systems Control: An Industrial Viewpoint
+Computers- The Key to Total SYSTEMS CONTROL : An Industrial Viewpoint 
+
+CA620314 JB March 20, 1978  2:53 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0086 65  6.265044940138227 BM25
+
+
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing in Business and Management Control Systems of the Federal Government, as of December 1957
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing IN Business and Management CONTROL SYSTEMS of the Federal Government , as of December 1957 Controller General of the United States to the Congress of the United States 
+
+CA590406 JB March 22, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1534 66  6.204328666595237 BM25
+
+
+DAD, The C. Operating System
+OPERATING System OPERATING system , DAD , is described IN detail This system is designed for the CONTROL Data 3600 usinga large drum backing store and is intended to allow the integration of a remote console ( display ) subsysteminto a conventional job stack environment 
+
+CA670910 JB February 27, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3028 67  6.187904230398827 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+architecture , index registers , paging , virtualstorage , extra codes , compilers , OPERATING SYSTEMS , Ferranti , Manchester Mark I , Atlas , ICL IN 30 years of computer design at Manchester Universitytwo SYSTEMS stand out : the Mark I ( developed over the period 1946-49 ) and the Atlas ( 1955-62 ) This paper places each computer IN its his torical context and then describes the architecture and systemsoftware IN present-day terminology 
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2378 68  6.104424866174453 BM25
+
+
+An Operating System Based on the Concept of a Supervisory Computer
+An OPERATING System Based on the Concept of a Supervisory Computer An OPERATING system which is organized as asmall supervisor and a set of independent processes are described OPERATING SYSTEMS , supervisors , multiprogramming , time-sharing , cooperating processes 
+
+CA720303 JB January 31, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2297 69  6.08901821123852 BM25
+
+
+A Model of Memory Contention in a Paging Machine
+This paper is concerned with certain aspects of contentionfor main memory resources IN a multiprogrammed computer system OPERATING under demand paging paging machines , demand paging , OPERATING systemsstudies , queuing analysis , memory contention , memory management 
+
+CA720805 JB January 30, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2522 70  6.051014556412017 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+working set , dispatcher , scheduler , time-sharingsystems , resource allocation , software evaluation , OPERATING SYSTEMS , supervisory SYSTEMS This report discusses the design and implementation of a dispatcher based on the working setprinciple , presents data to permit analysis of its behavior , and indicates future directions of researchon methods of controlling a computer system Recent research IN time-sharing paging SYSTEMS has developed the working set model for program behavior , and are source allocation strategy based on this model has been proposed 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2482 71  6.040510585094424 BM25
+
+
+Mixed Solutions for the Deadlock Problem
+This paper presents a method , based on the concept of the hierarchical operatingsystem , for constructing appropriate mixtures and suggests appropriate subsystems for the most frequentlyoccurring resource allocation problems deadlocks , resource allocation , OPERATING SYSTEMS , multiprogramming , hierarchical SYSTEMS 
+
+CA730704 JB January 23, 1978  12:46 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1236 72  5.9916265454983755 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+A fully automatic document retrieval systemoperating on the IBM 7094 is described The system is used not only to simulate an actual operatingenvironment , but also to test the effectiveness of the various available processing methods A typical search request is used as an example IN the present report to illustratesystems operations and evaluation procedures 
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2438 73  5.973219707948331 BM25
+
+
+A Model and Stack Implementation of Multiple Environments
+Many CONTROL and access environment structuresrequire that storage for a procedure activation exist at times when CONTROL is not nested within theprocedure activated This paper presents an implementationtechnique using a single stack to hold procedure activation storage which allows retentionof that storage for durations not necessarily tied to CONTROL flow IN the initial model , a single real processor is assumed , and the implementationassumes multiple-processes coordinate by passing CONTROL explicitly to one another CONTROL structures , environments , stack allocation , dendrarchy , retention , dynamic storage allocation , access environments , FUNARG problem , multitasking , coroutines , backtracking , label-valued variables , functional arguments , multiprocessor SYSTEMS , extensible CONTROL structures 
+
+CA731002 JB January 23, 1978  8:27 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0300 74  5.966848087196926 BM25
+
+
+COBOL: A Sample Problem
+A simplified Merchandise CONTROL problem hasbeen chosen for presenting COBOL to users and potential users of computing SYSTEMS 
+
+CA610804 JB March 16, 1978  10:12 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2740 75  5.936809745099877 BM25
+
+
+A Large Semaphore Based Operating System
+A Large Semaphore Based OPERATING System The paper describes the internal structure ofa large OPERATING system as a set of cooperating sequential processes The design principle is an alternative to Dijkstra 's hierarchical structuringof OPERATING SYSTEMS The operatingsystem is the first large one using the RC 4000 multiprogramming system cooperating processes , OPERATING system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , OPERATING system structure , asynchronous structuring , buffering , parallel processes , synchronizingprimitives , reentrant code , RC 4000 , project management , time schedule , debugging , project planning , project scheduling , reliability , program proving , coroutines , correctness , program maintenance , software paging 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1951 76  5.93563875101281 BM25
+
+
+Estimates of Distributions of Random Variablesfor Certain Computer Communications Traffic Models
+computer communications , time-sharing , OPERATING SYSTEMS , optimization models Data were examinedfrom four operational multiaccess SYSTEMS , and the model is shown tobe robust ; that is each of the variables of the model has thesame distribution independent of which of the four SYSTEMS is being examined Approximations to the gamma distributionby the exponential distribution are discussed for the SYSTEMS studied 
+
+CA701212 JB February 9, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3153 77  5.9032313002039585 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+The CONTROL of Response Times IN Multi-ClassSystems by Memory Allocations Numerical solutions and economical lower bounds for theexpected response times as functions of the CONTROL parametersare obtained Queueing networks , paging , virtual memory , performance CONTROL A way of applying the results to SYSTEMS with morethan two job classes is indicated 
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2936 78  5.8554719306378065 BM25
+
+
+An Efficient Data Structure for the Simulation Event Set
+simulation , time flow MECHANISMS , eventscanning MECHANISMS , multilinked lists Recently algorithms have been presented for therealization of event scheduling routines suitable for general purpose discrete event simulation SYSTEMS 
+
+CA770807 JB December 28, 1977  7:15 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2624 79  5.831341819428223 BM25
+
+
+Formal Requirements for Virtualizable Third Generation Architectures
+OPERATING system , third generation architecture , sensitive instruction , formal requirements , abstract model , proof , virtual machine , virtual memory , hypervisor , virtual machine monitor Virtual machine SYSTEMS have been implementedon a limited number of third generation computer SYSTEMS , e From previousempirical studies , it is known that certain third generation computer SYSTEMS , e 
+
+CA740707 JB January 17, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2069 80  5.800357676133135 BM25
+
+
+Comments on a Paper by Wallace and Mason
+page-on-demand , demand paging , time-sharing multiprogramming , Markovian computer models , scheduling strategies , OPERATING SYSTEMS , memory management 
+
+CA700415 JB February 13, 1978  2:36 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1463 81  5.772121913686477 BM25
+
+
+More on Extensible Machines
+It is the intent of this paper to expand and clarify the remarksconcerning program-to-program and program-to-data linkage that were embodied IN the authors ' previouspaper on the EM concepts , and to , finally , trace the employment of linkage MECHANISMS throughvarious levels of programming languages One of the most salient characteristics of extensiblemachines ( EM ) is the facility for providing system CONTROL over program-to-program and program-to-datalinkage ( e 
+
+CA660309 JB March 3, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1226 82  5.7495818084292 BM25
+
+
+The Organization of Structured Files
+IN many SYSTEMS , the selection of an organization for the data within the file canbe critical to the system 's OPERATING efficiency This paper provides the SYSTEMS designer with an informationsource which describes ten techniques that may be employed for organizing structured data 
+
+CA650709 JB March 6, 1978  8:57 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1844 83  5.74866079114142 BM25
+
+
+A Modular Computer Sharing System
+One of the computersserves as the master or CONTROL computer and supervises the collection and distribution of messagesfrom and to the remote terminals multiple terminal SYSTEMS , terminal oriented SYSTEMS , multiple processor SYSTEMS , high availability , conversational SYSTEMS , general purpose time-sharing SYSTEMS , real-time response system , modular constructed SYSTEMS , modular computer-sharing SYSTEMS , graphics , file switch , intercomputer communications , CONTROL computer , problem computer , roll-in , roll-out Economic configurationsare possible for a range of SYSTEMS sizes that span at least one order of magnitude 
+
+CA691002 JB February 15, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0251 84  5.728280628627248 BM25
+
+
+Ballistic Cam Design 
+This paper presents a digital computer programfor the rapid calculation of manufacturing data essential to the design of preproduction cams whichare utilized IN ballistic computers of tank fire CONTROL SYSTEMS 
+
+CA611117 JB March 15, 1978  10:37 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1552 85  5.7095431350162755 BM25
+
+
+The AED Free Storage Package
+Blocks may be ofany size , and special provisions allow efficient handling of selected sizes , CONTROL of shattering andgarbage collection , and sharing of physical space between zones The routines of the package performhigh level functions automatically , but also allow access and CONTROL of fine internal details as well The most fundamental underlying problem IN sophisticatedsoftware SYSTEMS involving elaborate , changing data structure is dynamic storage allocationfor flexible problem modeling The Free Storage Package of the AED-1 Compiler SYSTEMS allows blocksof available storage to be obtained and returned for reuse 
+
+CA670803 JB February 27, 1978  4:40 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0322 86  5.693456544894515 BM25
+
+
+Operational Compatibility of Systems-CONVENTIONS
+The General Standards Committee of the SHAREorganization has devoted considerable effort to the problem of OPERATING a computer efficiently inview of the growing number of programming SYSTEMS available Operational Compatibility of Systems-CONVENTIONS Each of these programming SYSTEMS has beencoded to utilize a fixed set of hardware components without recognizing the fact that others may be occupyinga storage medium required by the first 
+
+CA610603 JB March 16, 1978  10:55 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2374 87  5.632651748870893 BM25
+
+
+A Study of Storage Partitioning Using a Mathematical Model of Locality
+By means of thismodel dynamic storage partitioning is shown to provide substantial increases IN storage utilizationand OPERATING efficiency over fixed partitioning Both fixed and dynamic storage partitioningprocedures are examined for use IN multiprogramming SYSTEMS 
+
+CA720307 JB January 31, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3006 88  5.620087563611361 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+Five types of anomalous behavior which mayoccur IN paged virtual memory OPERATING SYSTEMS a redefined 
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1264 89  5.575714837728652 BM25
+
+
+BLNSYS-A 1401 Operating System with Braille Capabilities
+BLNSYS-A 1401 OPERATING System with Braille Capabilities BLNSYS is an OPERATING system designed fora 4K 1401 with common optional features and two attached tape drives This system will perform any or all of the following users specifiedfunctions : assemble SPS source decks , post list , produce condensed or uncondensed object decks , executeuser 's program , list card input to a program , list punched output , provide a storage dump , executea program submitted for execution as an uncondensed object deck under debugging trace CONTROL , card-to-brailleconversion , brailled listings of 7040 IBSYS batch output , and update or duplicate the system tapeitself 
+
+CA650507 JB March 7, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2949 90  5.553881576076355 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+distributed computer network , correctness proofs , computer networks , distributed CONTROL , network topology , routing problem IN networks , distributed operatingsystem , store and forward packet switching , store and forward message switching , traffic CONTROL One of the major constrain tson such a topology information scheme is that it may not involve a central controller 
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2184 91  5.504982415141411 BM25
+
+
+On the Meaning of Names in Programming Systems
+It is assumed that there is a similarity offunction between the data names of a programming language and the file names of an OPERATING system file , OPERATING system , programming language , functions , names , context , file directory , file dictionary , lambda calculus , theory of programming On the Meaning of Names IN Programming SYSTEMS 
+
+CA710606 JB February 3, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3072 92  5.497037458800763 BM25
+
+
+Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor Computer System
+The basic CONTROL variablesused are the data-flow rates for the processes executing on the CPU Model studies of some integrated , feedback-drivenscheduling SYSTEMS for multiprogrammed- multiprocessor computer SYSTEMS are presented The model SYSTEMS feature simulatedcontinuous-flow and preempt-resume scheduling of input-output activity Integrated schedulers , feedback scheduling , multiprogramming SYSTEMS , I/O system scheduling 
+
+CA780806 DH February 5, 1979  4:01 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1752 93  5.489434898550353 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+Resource Management for a Medium Scale Time-Sharing OPERATING system time-sharing , OPERATING SYSTEMS , resource management , task scheduling , paging , system simulation , memory management , virtual memories 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1892 94  5.476489908710667 BM25
+
+
+Degree of Multiprogramming in Page-on-Demand Systems
+page-on-demand , demand paging , time-sharing multiprogramming , Markovian computer models , scheduling strategies , OPERATING SYSTEMS , memory management Degree of Multiprogramming IN Page-on-Demand SYSTEMS A simple stochastic model is described whichoffers a base for understanding the relationship between the number of programs permitted to share memory ( the degree of multiprogramming ) , drum traffic rates , and central processing unit utilization IN page-on-demand , multiprogrammed , time-shared computer SYSTEMS 
+
+CA690601 JB February 17, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1464 95  5.448739557551916 BM25
+
+
+An ALGOL Compiler: Construction and Usein Relation to an Elaborate Operating System
+An ALGOL Compiler : Construction and Usein Relation to an Elaborate OPERATING System An ALGOL translator has been prepared and integratedinto the IBSYS OPERATING System 
+
+CA660308 JB March 3, 1978  1:41 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-3050 96  5.411699539807659 BM25
+
+
+Systems Design Education: A Gaming Approach
+The player of the game receives a set of detailed reports on the cost of his choicesand a simulated run of the center OPERATING under his choices This paper presents a management game that allowsthe player to configure a computer system to meet a hypothetical job mix is under the CONTROL of a game administratorand can be varied to simulate a variety of real-world situations ( I/O bound jobs , compute boundjobs , etc SYSTEMS Design Education : A Gaming Approach 
+
+CA781101 DH January 29, 1979  11:43 AM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1033 97  5.3624936534801275 BM25
+
+
+Experimental Personalized Array Translator System
+The completely symbolicoperating system includes display and entry of program and data Sequence CONTROL is aided by an interruptswitch which allows the user to interact with the program during execution 
+
+CA640714 JB March 9, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-2849 98  5.35967838820306 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Design principles and implementation are described , based on experiencewith an OPERATING Ethernet of 100 nodes along a kilometer of coaxial cable An Ethernet 's shared communication facility , its Ether , is a passive broadcast medium with no central CONTROL Coordination of access to the Ether for packetbroadcasts is distributed among the contending transmitting stations using controlled statistical arbitration A model for estimating performanceunder heavy loads and a packet protocol for error controlled communication are included for completeness computer networks , packet switching , multiprocessing , distributed CONTROL , distributed computing , broadcast communication , statistical arbitration The packettransport mechanism provided by Ethernet has been used to build SYSTEMS which can be viewed as either localcomputer networks or loosely coupled multiprocessors 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-0617 99  5.35924638308776 BM25
+
+
+POSEIDON
+Any computer that forms part of a CONTROL system-whethercompletely automatic or partly human-must work at the same speed as the CONTROL system It mustperform its calculations or data processing fast enough for the results to be available at the requiredinstants IN the action of the CONTROL system 
+
+CA620315 JB March 20, 1978  2:51 PM
+
+
+--------------------------------------------------------------
+26 Q0 CACM-1199 100  5.325318855299032 BM25
+
+
+A Computer Center Simulation Project
+IN this paper , a mathematical model of the Lockheed Central Computer Center is formulatedthat describes the operation of a computation center IN terms of information nets , decision processes , and CONTROL functions Today 's computation centers are based on rapidlychanging technologies of hardware and software SYSTEMS 
+
+CA650907JB March 6, 1978  7:29 PM
+
+

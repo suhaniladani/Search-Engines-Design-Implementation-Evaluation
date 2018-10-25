@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+40 Q0 CACM-2956 1  58.94942968092408 BM25
+
+
+Some Ideas on Data Types in High-Level Languages
+
+
+CA770607 JB December 28, 1977  1:27 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2941 2  53.79867353706196 BM25
+
+
+Early Experience with Mesa
+
+
+CA770802 JB December 28, 1977  8:07 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3105 3  52.91031860573568 BM25
+
+
+A Language Extension for Expressing Constraints on Data Access
+
+
+CA780502 DH February 26, 1979  3:19 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1098 4  48.91269961275081 BM25
+
+
+A Comparison of List-Processing Computer Languages(Including a Detailed Comparison of COMIT, IPL-V, LISP 1.5, and SLIP)
+
+
+CA640410 JB March 10, 1978  1:37 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2940 5  48.546653422493655 BM25
+
+
+Abstraction and Verification in Alphard: Definingand Specifying Iteration and Generators
+
+
+CA770803 JB December 28, 1977  7:59 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2651 6  47.91180275217841 BM25
+
+
+The Treatment of Data Types in EL1
+
+
+CA740502 JB January 17, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2254 7  47.585171983558766 BM25
+
+
+Dynamic Partitioning for Array Languages
+
+
+CA721201 JB January 27, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2939 8  46.8948388507291 BM25
+
+
+Abstraction Mechanisms in CLU
+
+
+CA770804 JB December 28, 1977  7:49 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1485 9  46.74780105547827 BM25
+
+
+The Structure of Programming Languages
+Many examples , FREQUENTLY from list processing languages , illustrate the forms described 
+
+CA660202 JB March 3, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2470 10  46.57922123219257 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2406 11  46.48609302003027 BM25
+
+
+A Data Definition and Mapping Language
+
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2265 12  44.81066588905295 BM25
+
+
+A Model for Type Checking
+
+
+CA721104 JB January 27, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1588 13  44.41505916412583 BM25
+
+
+PL/I List Processing
+
+
+CA670604 JB February 28, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2705 14  43.96252035900131 BM25
+
+
+Programming Languages, Natural Languages, and Mathematics
+
+
+CA751202 JB January 6, 1978  8:30 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1366 15  43.89599246806117 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1457 16  42.95159354292385 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2316 17  42.884777632191366 BM25
+
+
+Programming Languages: History and Future
+
+
+CA720712 JB January 30, 1978  1:38 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1459 18  42.17832590324339 BM25
+
+
+Requirements for Real-Time Languages
+
+
+CA660313 JB March 3, 1978  11:48 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2051 19  41.9357010871698 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1678 20  41.45006265885137 BM25
+
+
+Automata, Formal Languages, Abstract Switching,and Computability in a Ph. Computer Science Program
+
+
+CA681101 JB February 21, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2198 21  41.367965968676984 BM25
+
+
+Introduction to "Feature Analysis ofGeneralized Data Base Management Systems"
+
+
+CA710501 JB February 3, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2078 22  40.8527889469617 BM25
+
+
+Representations for Space Planning
+
+
+CA700406 JB February 13, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2958 23  40.83582410426462 BM25
+
+
+Abstract Data Types and the Development of Data Structures
+
+
+CA770605 JB December 29, 1977  1:17 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2603 24  40.829183892580765 BM25
+
+
+The Equivalence of Reducing TransitionLanguages and Deterministic Languages
+
+
+CA740905 JB January 17, 1978  8:52 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1835 25  40.617084899938604 BM25
+
+
+The IITRAN Programming Language
+
+
+CA691011 JB February 15, 1978  1:54 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2252 26  38.88112900932341 BM25
+
+
+A Method for Incrementally CompilingLanguages with Nested Statement Structure
+
+
+CA721203 JB January 27, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3198 27  38.564608095889994 BM25
+
+
+   Microprogramming, Emulators and Programming Languages
+
+
+CA660318 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2645 28  38.520796598699874 BM25
+
+
+Two Languages for Estimating Program Efficiency
+
+
+CA740601 JB January 17, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1324 29  38.38679625036425 BM25
+
+
+Answering English questions by Computer: A Survey
+The most difficult and important research questions for the advancement of general-purpose languageprocessors are seen to be concerned with measuring , DEALING with ambiguities , translating into formallanguages and searching large tree structures 
+
+CA650113 JB March 8, 1978  2:21 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2710 30  38.23930947265517 BM25
+
+
+Specifying Queries as Relational Expressions:The SQUARE Data Sublanguage
+
+
+CA751102 JB January 6, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1861 31  38.11002862275177 BM25
+
+
+The MAD Definition Facility
+
+
+CA690802 JB February 15, 1978  6:07 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2957 32  37.97949576485679 BM25
+
+
+Database Abstractions: Aggregation
+
+
+CA770606 JB December 29, 1977  12:33 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2305 33  37.90509231952989 BM25
+
+
+The "Plankalkul" of Konrad Zuse: A Forerunnerof Today's Programming Languages
+
+
+CA720723 JB January 30, 1978  10:46 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2652 34  37.67739943627583 BM25
+
+
+Reduction of Compilation Costs Through Language Contraction
+
+
+CA740501 JB January 17, 1978  4:39 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2931 35  37.380349135750755 BM25
+
+
+Logic and Programming Languages
+
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2295 36  37.29061039739325 BM25
+
+
+Comment on the Composition of Semantics in Algol 68
+
+
+CA720807 JB January 30, 1978  9:29 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1456 37  37.12069921294521 BM25
+
+
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+
+
+CA660316 JB March 3, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1470 38  37.067445293365374 BM25
+
+
+The Structure of Programming Languages
+Many examples , FREQUENTLY fromlist processing languages , illustrate the forms described 
+
+CA660302 JB March 3, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2060 39  36.841574926272976 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2148 40  36.659695700682775 BM25
+
+
+The Composition of Semantics in Algol 68
+
+
+CA711101 JB February 2, 1978  11:49 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3103 41  36.59834049372456 BM25
+
+
+Automatic Data Structure Selection: An Example and Overview
+
+
+CA780504 DH February 26, 1979  1:51 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2003 42  36.52028411329469 BM25
+
+
+An Interactive Software System for Computers-AidedDesign:  An Application to Circuit Project
+
+
+CA700902 JB February 10, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1902 43  36.165067350728584 BM25
+
+
+An Automatic Grading Scheme for Simple Programming Exercises
+
+
+CA690507 JB February 17, 1978  3:35 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2317 44  36.13797036954771 BM25
+
+
+Programming Systems and Languages 1965-1975
+
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2264 45  36.12868576942397 BM25
+
+
+Derived Semantics for Some Programming Language Constructs
+
+
+CA721105 JB January 27, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2081 46  35.861129120677084 BM25
+
+
+Some Complete Calculi for Matrices
+
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1237 47  35.74767105192687 BM25
+
+
+Conversion of Decision Tables To Computer Programs
+
+
+CA650618 JB March 6, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-0303 48  35.63838017632186 BM25
+
+
+Some Basic Terminology Connected WithMechanical Languages and Their Processors
+
+
+CA610801 JB March 16, 1978  10:16 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1614 49  35.627037620150574 BM25
+
+
+A Proposal for Definitions in ALGOL
+
+
+CA670401 JB February 28, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1937 50  35.562141035787434 BM25
+
+
+CODAS: A Data Display System
+
+
+CA690201 JB February 20, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2546 51  35.30472575709151 BM25
+
+
+The Use of Grammatical Inference for Designing Programming Languages
+
+
+CA730202 JB January 24, 1978  3:20 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2002 52  35.21245836505078 BM25
+
+
+AMESPLOT-A Higher Level Data Plotting Software System
+
+
+CA700903 JB February 10, 1978 2:08 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1852 53  35.06111062974696 BM25
+
+
+A Base for a Mobile Programming System
+
+
+CA690903 JB February 15, 1978  4:54 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3077 54  34.98129191161267 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2138 55  34.94895505479431 BM25
+
+
+BLISS: A Language for Systems Programming
+
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2937 56  34.87181490519002 BM25
+
+
+An Experimental Evaluation of Data Type Conventions
+
+
+CA770806JB December 28, 1977  7:32 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1467 57  34.863181083806495 BM25
+
+
+A Graphical ServiceSystem With Variable Syntax
+
+
+CA660305 JB March 3, 1978  1:49 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1769 58  34.665501825521865 BM25
+
+
+The Expanding World of Computers
+
+
+CA680401 JB February 23, 1978  11:36 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-0867 59  34.664634118422576 BM25
+
+
+Least Squares Fitting of Planes to Surfaces Using Dynamic Programming
+
+
+CA630424 JB March 14, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1350 60  34.620678374226046 BM25
+
+
+The Augmented Predictive Analyzer for Context-FreeLanguages-Its Relative Efficiency
+
+
+CA661108 JB March 2, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-0949 61  34.56246637961427 BM25
+
+
+Integer and Signed Constants in ALGOL
+
+
+CA641222 JB March 9, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2767 62  34.51882176970105 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-0990 63  34.39173465469041 BM25
+
+
+Constraint-Type Statements in Programming Languages
+
+
+CA641012 JB March 9, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1282 64  34.356062408244014 BM25
+
+
+The Use of FORTRAN in Subroutines with COBOL Main Programs
+
+
+CA650409 JB March 7, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1143 65  34.23819212513362 BM25
+
+
+Analysis of Decay-Type Data*
+
+
+CA640112 JB March 10, 1978 5:11 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1710 66  34.17235728096848 BM25
+
+
+ASP-A Ring Implemented Associative Structure Package
+
+
+CA680804 JB February 22, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2886 67  34.14916314502636 BM25
+
+
+Semantic Evaluation from Left to Right
+
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3150 68  33.98927706316577 BM25
+
+
+Beyond Programming Languages
+
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1703 69  33.936995969405565 BM25
+
+
+Accommodating Standards and Identification of Programming Languages
+
+
+CA680811 JB February 22, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2184 70  33.856303618525914 BM25
+
+
+On the Meaning of Names in Programming Systems
+
+
+CA710606 JB February 3, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3148 71  33.803742070145454 BM25
+
+
+High Level Programming for Distributed Computing
+
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1693 72  33.77312770578263 BM25
+
+
+GPL, a Truly General Purpose Language
+
+
+CA680908 JB February 22, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2314 73  33.76360715995811 BM25
+
+
+Requirements for Advanced Programming Systems for List Processing
+
+
+CA720714 JB January 30, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1135 74  33.736984436151474 BM25
+
+
+A General Business-Oriented Language Based on Decision Expressions*
+
+
+CA640208 JB March 10, 1978  4:08 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3030 75  33.64488941262773 BM25
+
+
+An Example of Hierarchical Design and Proof
+
+
+CA781209 DH January 16, 19794:43 PM  
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2632 76  33.57907826396645 BM25
+
+
+HYDRA: The Kernel of a Multiprocessor Operating System
+Mechanisms are presented for DEALING with objects , including the creation of newtypes , specification of new operations applicable to a given type , sharing , and protection of any referenceto a given object against improper application of any of the operations defined with respect to thattype of object 
+
+CA740614 JB January 17, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2341 77  33.56304182348208 BM25
+
+
+Blocks-A New Data type for SNOBOL4
+
+
+CA720604 JB January 30, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1051 78  33.53993425146504 BM25
+
+
+Multiword List Items
+Thispaper attempts to draw together various recent PAPERS which have applied some of these concepts in differentways , and indicate how they relate to the more general problems 
+
+CA640616 JB March 9, 1978  9:15 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1379 79  33.28511559422831 BM25
+
+
+A Final Solution to the Dangling Else of ALGOL 60 and Related Languages
+
+
+CA660908 JB March 2, 1978  6:18 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2717 80  33.174351662176 BM25
+
+
+CONVERT: A High Level TranslationDefinition Language for Data Conversion
+
+
+CA751002 JB January 6, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2699 81  33.097823617957715 BM25
+
+
+Automatic Data Structure Choice in a Language of Very High Level
+
+
+CA751208 JB January 5, 1978  3:53 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3185 82  33.09775876971173 BM25
+
+
+   The Humble Programmer
+
+
+CA721010 ES March 18, 1982 10:00 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1612 83  33.06854586599052 BM25
+
+
+Top-to-bottom Parsing Rehabilitated?
+The essential weakness of the method is in DEALING with complicatedsyntactic structures which are in practice only sparsely occupied , e 
+
+CA670403 JB February 28, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3101 84  33.05019261065831 BM25
+
+
+The SL5 Procedure Mechanism
+
+
+CA780506 DH February 26, 1979  1:36 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2450 85  33.03349092616242 BM25
+
+
+Empirical Working Set Behavior
+Althoughthe words `` working set '' are now commonly encountered in the literature DEALING with resource allocation , thereis a dearth of published data on program measurements , in the hope that workers in the field MIGHT find experimentalevidence upon which to substantiate and base theoretical work 
+
+CA730905 JB January 23, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1641 86  32.883997218250904 BM25
+
+
+A Use of Fast and Slow Memories in List-Processing Languages
+
+
+CA670202 JB February 28, 1978  4:06 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-3006 87  32.866587450926616 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1488 88  32.78211712024747 BM25
+
+
+Programming Decision Tables in FORTRAN, COBOL or ALGOL
+
+
+CA660107 JB March 3, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1911 89  32.65811273603853 BM25
+
+
+On Coordination Reduction and Sentence Analysis
+
+
+CA690406 JB February 17, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2929 90  32.48031095814556 BM25
+
+
+An Analysis of Inline Substitution for a Structured Programming Language
+
+
+CA770905 JB December 27, 1977  1:23 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1474 91  32.41745507548236 BM25
+
+
+Tests of Probabilistic Models for Propagation of Roundoff Errors
+
+
+CA660210 JB March 3, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1425 92  32.38794116222472 BM25
+
+
+Flow Diagrams, Turing Machines AndLanguages With Only Two Formation Rules
+
+
+CA660512 JB March 3, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1306 93  32.35155636418452 BM25
+
+
+A Class of Unambiguous Computer Languages
+
+
+CA650301 JB March 7, 1978  6:26 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-1223 94  32.26700569197943 BM25
+
+
+High Speed Compilation of Efficient Object Code
+
+
+CA650801 JB March 6, 1978  8:45 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-0435 95  32.04514463696402 BM25
+
+
+A Decision Matrix as the Basis for a Simple Data Input Routine
+
+
+CA621204 JB March 17, 1978  5:15 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2684 96  32.0079444604804 BM25
+
+
+Production Systems: or Can We Do Better than BNF?
+Yet numerous INTERESTING and difficult issues in syntax stem from the context-sensitive requirements , notably the compatibility between the declaration of an identifier and its uses , the correspondencebetween actual and formal parameters , and issues arising from block structure 
+
+CA740205 JB January 18, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2838 97  31.900789599840824 BM25
+
+
+Analysis of an Algorithm for Real Time Garbage Collection
+
+
+CA760901 JB January 4, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2092 98  31.88593344236144 BM25
+
+
+A Deductive Question-Answer for Natural Language Inference
+
+
+CA700306 JB February 13, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2253 99  31.86870467004095 BM25
+
+
+Index Ranges for Matrix Calculi
+
+
+CA721202 JB January 27, 1978  1:12 PM
+
+
+--------------------------------------------------------------
+40 Q0 CACM-2033 100  31.837403077124414 BM25
+
+
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+In such applications , it is envisaged that overall performancecould be improved by using a smaller core resident hash area inconjunction with the new methods and , when necessary , by using somesecondary and perhaps time-consuming test to `` CATCH '' the smallfraction of errors associated with new methods 
+
+CA700704 JB February 13, 1978  9:18 AM
+
+

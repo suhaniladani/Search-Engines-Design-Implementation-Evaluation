@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+43 Q0 CACM-2569 1  28.267400612107433 BM25
+
+
+Computer Generation of Gamma Random Variateswith Non-integral Shape Parameters
+COMPUTER Generation of Gamma Random Variateswith Non-integral SHAPE Parameters When the SHAPE parameter , a , is integral , generating gamma random variables with a digital COMPUTER is straightforward There is no simple methodfor generating gamma random variates with non-integral SHAPE parameters 
+
+CA741205 JB January 16, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3046 2  25.169378258759327 BM25
+
+
+Computer Generation of Gamma Random Variables - II
+A rejection method is proposed for generatinggamma variates with nonintegral SHAPE parameter a , a > 1 COMPUTER Generation of Gamma Random Variables - II Gamma variables , rejection method , COMPUTER methods 
+
+CA781105 DH January 26, 1979  11:02 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2771 3  24.41016648096975 BM25
+
+
+The Synthesis of Solids Bounded by Many Faces
+computational geometry , computer-aided design , graphics , machined components , polyhedra , SHAPE synthesis , three-dimensional modeling A technique is presented which allows a classof solid objects to be synthesized and stored using a COMPUTER 
+
+CA750406 JB January 9, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3052 4  24.16579281611412 BM25
+
+
+Cold-Start vs. Warm-Start Miss Ratios
+Use of `` warm-start '' rather than `` cold-start '' miss ratios cast doubt on the widespread belief that the observed `` S-shape '' oflifetime ( reciprocal of miss ratio ) versus capacity curve indicates a property of behavior of programs thatmaintain a constant number of pages in main storage Miss ratio , cold start , warm start , storage hierarchy , lifetime function , multiprogramming , S-shape In a two-level COMPUTER storage hierarchy , missratio measurements are often made from a `` cold start , '' that is made with the first-level store initiallyempty 
+
+CA781009 DH January 29, 1979  5:16 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2847 5  23.896390842065692 BM25
+
+
+Sampling from the Gamma Distribution on a Computer
+For large SHAPE parameter ( a ) ; the cost of computation is proportional to ( a ) , whereas Wallace 's method is proportional to ( a ) Sampling from the Gamma Distribution on a COMPUTER 
+
+CA760706 JB January 4, 1978  12:34 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2455 6  23.708838318574237 BM25
+
+
+A Generalization of AVL Trees
+A generalization of AVL trees is proposed inwhich imbalances up to ( triangle SHAPE ) is a small integer 
+
+CA730819 JB January 23, 1978  10:13 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2754 7  22.982746957098296 BM25
+
+
+A Syntactic Algorithm for Peak Detectionin Waveforms with Applications to Cardiography
+Several parameters serveto identify the waveform context enabling accurate measurement of peak amplitude , duration , and SHAPE 
+
+CA750513 JB January 9, 1978  2:18 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3098 8  22.75103786075494 BM25
+
+
+Computer Generation of Gamma Random Variables
+A new method for generating random variablesfrom the gamma distribution with nonintegral SHAPE parameter a is proposed COMPUTER Generation of Gamma Random Variables Gamma variables , rejection method , COMPUTER methods 
+
+CA780509 DH February 26, 1979  1:10 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3107 9  22.685528078736386 BM25
+
+
+Generating Beta Variates with Nonintegrel Shape Parameters
+Generating Beta Variates with Nonintegrel SHAPE Parameters The method is compared with previously published methods both theoretically and throughcomputer timings 
+
+CA780409 DH February 26, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3125 10  22.644113310842688 BM25
+
+
+Global Optimization by Suppression of Partial Redundancies
+Moreover , the algorithm does not require any graphicalinformation or restrictions on the SHAPE of the program graph Optimizer , optimization , compiler , compilation , redundancy elimination , invariant computation elimination , partial redundancy , data flow ANALYSIS , Boolean systems 
+
+CA790204 DH April 10, 1979  4:19 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2883 11  20.55318506672642 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+Some experimental results are given ; these show how various information about theshape of the contour of an object can be embeddedin the figure of merit , thus allowing the extractionof contours from noisy picture and the separation of touching objects picture processing , pattern RECOGNITION , edgedetection , contour detection , contour following , optimization problems , dynamic programming , shortestpath , heuristic search methods , problem solving methods 
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2829 12  20.50134500132833 BM25
+
+
+Texture and Reflection in Computer Generated Images
+The shapeand size of this weighting function are chosen using digital signal processing theory Texture and Reflection in COMPUTER Generated Images COMPUTER graphics , graphic display , shading , hidden surface removal 
+
+CA761002 JB January 4, 1978  8:36 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1528 13  20.06494425402198 BM25
+
+
+Three Fonts of Computer Drawn Letters
+Letter SHAPES are entirely described by numbers Detailed DESCRIPTIONS are given for three fontsof letters The basic vectors are in a general formso the fonts may be easily drawn on a variety of COMPUTERS and cathode-ray tubes Three Fonts of COMPUTER Drawn Letters 
+
+CA671005 JB February 27, 1978  2:24 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2113 14  19.363138855724173 BM25
+
+
+The Multistore Parser for Hierarchical Syntactic Structures
+Particularemphasis is given to the system of `` significant addresses '' by meansof which processing times for large-scale MATCHING procedurescan be substantially reduced By structuringan area of the COMPUTER 's central core storage in such a waythat the individual locations of bytes and bits come to represent thedata involved in the MATCHING procedure , the shifting of informationis reduced to a minimum , and the searching of lists is eliminatedaltogether parsing , syntactic ANALYSIS , natural-language ANALYSIS , linguistic dataprocessing , computational linguistics , correlational grammar , structurerecognition , pattern RECOGNITION , MATCHING procedures , tree-structure interpretation , machine translation , automatic abstracting 
+
+CA700202 JB February 14, 1978  12:57 PM 
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2341 15  17.96296410879663 BM25
+
+
+Blocks-A New Data type for SNOBOL4
+Some blocks adapt in size and SHAPE to their environment 
+
+CA720604 JB January 30, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2924 16  17.697496136205213 BM25
+
+
+An Interactive Computer Graphics Approach to Surface Representation
+Complex surfaces can be created by the combinationof a number of SHAPES that have been separately generated and automatically joined An in teractive COMPUTER graphics method has beendeveloped for the rapid generation of arbitrary shaped three-dimensional surfaces An Interactive COMPUTER Graphics Approach to Surface Representation COMPUTER graphics , three-dimensional surface representation , splines , lofting , finite element input methods 
+
+CA771002 JB December 27, 1977  11:53 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2402 17  17.46259991350891 BM25
+
+
+Pictorial Pattern Recognition and thePhase Problem of X-ray Crystallography
+Pictorial Pattern RECOGNITION and thePhase Problem of X-ray Crystallography Pictorial pattern RECOGNITION techniques make possible a number of approachesto X-ray structure determination based on molecular model building , i Application of standard pattern RECOGNITION algorithms is hindered by the factthat the cross-correlation between a model and the correct structure can not be computed because ofa fundamental incompleteness in the measured data pictorial pattern RECOGNITION , phase problem , X-ray crystallography , interactive graphics The availability of interactive , three-dimensional , COMPUTER graphics systems coupled to powerful digital COMPUTERS encourages the development of algorithmsadapted to this environment 
+
+CA720101 JB February 1, 1978  9:53 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1265 18  17.33624198377016 BM25
+
+
+On the Relative Efficiencies of Context-Free Grammar Recognizers
+A number of diverse RECOGNITION proceduresthat have been proposed for parsing sentences with respect to a context-free grammar are described in thispaper by means of a common device An attempt has been made to compare RECOGNITION efficiencies for theprocedures defined Empiricalcomparison of the RECOGNITION of more realistic programming languages such as LISP and ALGOL has beenmade by means of a program which simulates the Turing Machine on the Univac M-460 COMPUTER Severalalgorithms for producing grammars equivalent to a given context-free grammar have been considered , andthe increase in RECOGNITION efficiency they afford has been empirically investigated 
+
+CA650506 JB March 7, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0462 19  17.08501731037489 BM25
+
+
+Computer Pattern Recognition Techniques: Electrocardiographic Diagnosis
+COMPUTER Pattern RECOGNITION Techniques : Electrocardiographic Diagnosis The use of programmed digital COMPUTERS as generalpattern classification and RECOGNITION devices is one phase of the current lively interest in artificialintelligence It is important to choose a class of signals which is , at present , undergoing agood deal of visual inspection by trained people for the purpose of pattern RECOGNITION 
+
+CA621018 JB March 17, 1978  7:04 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1553 20  16.90343973678262 BM25
+
+
+Contextual Understanding by Computers
+It is argued that the adequacy of the level of understandingachieved in a particular conversation depends on the purpose of that conversation , and that absoluteunderstanding on the part of either HUMANS or machines is impossible Contextual Understanding by COMPUTERS A further development of a COMPUTER program ( ELIZA ) capable of conversing in natural language is discussed 
+
+CA670802 JB February 27, 19784:44 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1590 21  16.840585521354605 BM25
+
+
+Pitch Period Determination of Speech Sounds
+A COMPUTER procedure which determines pitchperiods by the RECOGNITION of the peak structure of the speech waveform is described These utterances were recorded at the normal noise level of the COMPUTER room but were notband-compressed or phase-distorted in any manner 
+
+CA670602 JB February 28, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2287 22  16.70887328786111 BM25
+
+
+A New Approach to Automatic Scanning of Contour Maps
+The problem of detection and RECOGNITION of contourlines is solved by a two color labeling method automatic scanning , contour maps , digitizing , contour lines , topology , detection and RECOGNITION The `` tangency problem '' involvedin practical scanning is discussed , and a solution based on minimizing COMPUTER memory space andsimplifying control program is suggested 
+
+CA720903 JB January 27, 1978  4:46 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2841 23  16.455907105729377 BM25
+
+
+Designing Surfaces in 3-D
+The principal features of the system are : ( 1 ) the surfaces are rendered as isoparametricline drawings on a head-mounted display , and they are designed with the aid of a three-dimensional '' wand , '' which allows 3-D movements of the points controlling the SHAPES of the surfaces , ( 2 ) all of theinteractions with the surfaces are in real-time , and ( 3 ) the mathematical formulations used assume noknowledge of them by the user of the system An experimental system for computer-aideddesign of free-form surfaces in three dimensions is described real-time graphics , computer-aided design , picture processing , B-splines , 3-D displays 
+
+CA760803 JB January 4, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1726 24  16.406854231064237 BM25
+
+
+Preliminary Investigation of Techniquesfor Automated Reading of Unformatted Text
+These areas are then rescanned at a higherresolution suitable for character RECOGNITION pattern RECOGNITION , character RECOGNITION , textreading , information retrieval , unformatted text operator-controlled reader , online reader , text-image discrimination , reading machine Here , the textual portions of the page are located duringa rapid prescan by a rudimentary form of frequency ANALYSIS Methods for converting unstructured printedmaterial into COMPUTER code are experimentally investigated 
+
+CA680703 JB February 22, 1978  2:52 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2812 25  16.31229369733495 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+Computer-Aided ANALYSIS and Design of Information Systems This paper describes the use of computer-aidedanalysis for the design and development of an integrated financial management system by the Navy MaterialCommand Support Activity ( NMCSA ) Computer-aided ANALYSIS consists of a set of procedures and computerprograms specifically designed to aid in the process of applications software design , COMPUTER selectionand performance evaluation computer-aided ANALYSIS , information systems , logicalsystem design , problem statement language , problem statement analyzer , physical system design , accurately defined systems , systems optimization and design algorithm 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2828 26  16.169195522424232 BM25
+
+
+Hierarchical Geometric Models for Visible Surface Algorithms
+The geometric structure inherent in the definitionof the SHAPES of three-dimensional objects and environments is used not just to define their relativemotion and placement , but also to assist in solving many other problems of systems for producingpictures by COMPUTER 
+
+CA761003 JB January 3, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2494 27  16.049638541245933 BM25
+
+
+A Computer Generated Aid for Cluster Analysis
+A COMPUTER Generated Aid for Cluster ANALYSIS A COMPUTER generated graphic method , whichcan be used in conjunction with any hierarchical scheme of cluster ANALYSIS , is described and illustrated A well-known set of data consisting of the correlations of 24 psychological testsis used to illustrate the comparison of groupings by four methods of factor ANALYSIS and two methods of cluster ANALYSIS COMPUTER graphics , cluster ANALYSIS , numericaltaxonomy , hierarchical clustering , factor ANALYSIS The graphic principle used is the representation of the elements of a data matrix of similarities or dissimilaritiesby COMPUTER printed symbols ( of character overstrikes ) of various shades of darkness , where adark symbol corresponds to a small dissimilarity 
+
+CA730606 JB January 23, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3165 28  16.040371932370157 BM25
+
+
+Approximation of Polygonal Maps by Cellular Maps
+The approximation algorithm presented operates on such anorganization , eliminating the need for the RECOGNITION of region boundaries The algorithm isapplied to a set of soil maps converted to computer-readableform by means of a coordinate digitizer Polygon maps , cellularization , gridding , geographic data structures , computational geometry , COMPUTER cartography , automated cartography 
+
+CA790906 DB January 14, 1980  12:04 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3049 29  15.98699904352589 BM25
+
+
+A Simply Extended and Modified BatchEnvironment Graphical System (SEMBEGS)
+SEMBEGSis built around a Basic Graphical Data Management System ( BAGDAMS ) which provides a common means of communicatingthe DESCRIPTIONS of graphical entities between the various components of SEMBEGS BAGDAMSprovides facilities for storing , retrieving , and manipulating the DESCRIPTIONS of graphical entitiesprovided by , and received by application programs , graphics packages , and graphical devices The design of SEMBEGS is foundedupon the basic assumption that the true aim of COMPUTER graphics is to describe graphical entities , rather than , as commonly held , to provide graphical input and output functional capabilities COMPUTER graphics , data structures , graphic display , graphic input , graphical database , device independent graphics 
+
+CA781102 DH January 26, 1979  1:30 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2746 30  15.964655860090685 BM25
+
+
+Efficient String Matching: An Aid to Bibliographic Search
+Efficient String MATCHING : An Aid to Bibliographic Search The algorithmconsists of constructing a finite state pattern MATCHING machine from the keywords and then using thepattern MATCHING machine to process the text string in a single pass Construction of the pattern matchingmachine takes time proportional to the sum of the lengths of the keywords The number of state transitionsmade by the pattern MATCHING machine in processing the text string is independent of the numberof keywords keywords and phrases , string pattern MATCHING , bibliographicsearch , information retrieval , text-editing , finite state machines , computational complexity 
+
+CA750607 JB January 9, 1978  1:03 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1399 31  15.959388231401759 BM25
+
+
+On Top-to-Bottom Recognition and Left Recursion
+A procedure is given for obtaining structuraldescriptions in a context-free grammar by performing the RECOGNITION according to a strongly equivalent , left-recursion-freegrammar On Top-to-Bottom RECOGNITION and Left Recursion 
+
+CA660713 JB March 2, 1978  8:29 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2751 32  15.92524481072703 BM25
+
+
+Illumination for Computer Generated Pictures
+Human visualperception and the fundamental laws of optics are considered in the development of a shading rule thatprovides better quality and increased realism in generated images Illumination for COMPUTER Generated Pictures The quality of COMPUTER generated images ofthree-dimensional scenes depends on the shading technique used to paint the objects on the cathode-raytube screen COMPUTER graphics , graphic display , hidden surface removal 
+
+CA750602 JB January 9, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2187 33  15.853980543045502 BM25
+
+
+Computer Science: A Conceptual Framework for Curriculum Planning
+An approach to curriculum planning in COMPUTER science is presentedwhich is guided by the structure of the field , by the fact that change is an important feature of thesituation , and by the expectation that computerscience will continue to increase its working contacts with other disciplines COMPUTER Science : A Conceptual Framework for Curriculum Planning Two views of COMPUTER science are considered : a global view which attempts to capture broad characteristics of the field and its relationships toother fields , and a local view which focuses on the inner structure of the field COMPUTER science , curriculum planning , education 
+
+CA710603 JB February 3, 1978  10:17 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3078 34  15.578820356903453 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+ANALYSIS of the Availability of ComputerSystems Using Computer- Aided Algebra Analytical results , related to the availabilityof a COMPUTER system constructed of unreliable processors , are presented in this paper These resultsare obtained by using various computer-aided algebraic manipulation techniques Computer-aided algebra , symbol manipulation , Markovprocess , reliability , redundant structures , on-line COMPUTER system 
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2054 35  15.552367896096191 BM25
+
+
+On the Feasibility of Voice Input toan On-line Computer Processing System
+speech RECOGNITION , word RECOGNITION , pattern-matching , patternrecognition , time-sharing , remote access , voice input , speech input , telephone input/output , acoustic signal , spoken-word input , talking to COMPUTERS , man-machine interaction Details of a specific word RECOGNITION program are given On the Feasibility of Voice Input toan On-line COMPUTER Processing System An on-line digital COMPUTER processing system is considered in which an ordinary telephone is the complete terminal device , input to the COMPUTER being provided as a sequence of spoken words , and output to the user being audio responses from the machine The results show that at this time it is both economically and logically feasible to handle at least 40 users at a time with an IBM 360/65 COMPUTER 
+
+CA700601 JB February 13, 1978  12:12 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1527 36  15.444719774214548 BM25
+
+
+A Grammar Base Question Answering Procedure
+This procedure makes use of a sentence recognitiondevice for the class of grammars which will correctly decide between the grammatical and ungrammaticalsentences of a natural language It is possible to make use of a RECOGNITION device of thissort for the following reason : Much data is fully expressible as a set of sentences in a natural language , a set which can be exhaustively and exclusively generated by a grammar Since the recognitionfunction succeeds just in case the posed question is drawn from the set of sentences expressing the data , or , more correctly , is grammatical in terms of the grammar for this set of sentences , sentence recognitionitself is a procedure for retrieving information When the RECOGNITION function succeeds , itsvalue represents the requested information 
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2966 37  15.426782962486437 BM25
+
+
+The Choice of Reference Poin ts in Best-Match File Searching
+MATCHING , file searching , best match , nearest-neighbor classification The results of COMPUTER simulations are presented whichshow that large improvements can be achieved by the proper choice and location of multiple reference poin ts 
+
+CA770506 JB December 29, 1977  1:57 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1272 38  15.392787159263131 BM25
+
+
+Expanding the Editing Function In Language Data Processing
+Applications are described , such as the quick , unbiased evaluationof a large volume of incoming mail or telegrams , yielding summary reports not possible for eitherhumans or COMPUTERS to produce alone Other opportunities for heavy editing are described , chief among them being interpretation andexpansion of COMPUTER output in such processes as factor ANALYSIS Applications are described , such processes as factor ANALYSIS `` Heavy editing , '' which goes beyond mere correctionand improvement of COMPUTER output , is exemplified by the use of a concordance in preparing a survey articleor lecture 
+
+CA650419 JB March 7, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1308 39  15.336178791599114 BM25
+
+
+A Mathematical Model for Mechanical part Description
+Physical part characteristics , such as center of gravity , can be computed by subprograms and used indynamic ANALYSIS work The flexibility of a mathematical model takesadvantage of the common information requirements of computer-aided engineering drawing , numerical controltape generation , and physical characteristic computation 
+
+CA650216 JB March 7, 1978  10:46 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0531 40  15.321662905326427 BM25
+
+
+Person-Matching by Electronic Methods
+Person-Matching by Electronic Methods Herewe present in more detail our initial procedures for the person-matching process in order to elicit commentsand suggestions from persons who have had experience in MATCHING An earlier paper [ 1 ] describesour general procedures for register maintenance by use of a digital COMPUTER ( Honeywell 800 ) 
+
+CA620730 JB March 17, 1978  7:51 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3100 41  15.271545947480604 BM25
+
+
+An Interference Matching Technique for Inducing Abstractions
+An Interference MATCHING Technique for Inducing Abstractions The proposed method , interference MATCHING , induces abstractionsby finding relational properties common to two or more exemplars Three tasks solved by a programthat uses an interference-matching algorithm are presented Several problems concerning the descriptionof the training examples and the adequacy of interference MATCHING are discussed , and directionsfor future research are considered Rule induction , knowledge acquisition , partialmatching , interference , graph MATCHING , learning , induction , knowledge representation , informal retrieval , abstraction , generalization , language learning , complexity , predicate discovery 
+
+CA780507 DH February 26, 1979  1:26 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2811 42  15.219864516830793 BM25
+
+
+Structural Pattern Recognition Of Carotid PulseWaves Using A General Waveform Parsing System
+Structural Pattern RECOGNITION Of Carotid PulseWaves Using A General Waveform Parsing System A general waveform parsing system with applicationto structural pattern RECOGNITION of carotid pulse waves is described structural pattern RECOGNITION , parsing , waveform ANALYSIS , pulse waves The syntax-driven waveform ANALYSIS system has been applied with good results to these pulsewaves to detect and measure structural variations 
+
+CA761204 JB January 3, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1003 43  15.215489853412315 BM25
+
+
+A Computer Analysis Method For Thermal Diffusion in Biochemical Systems
+A COMPUTER ANALYSIS Method For Thermal Diffusion in Biochemical Systems A COMPUTER ANALYSIS method is here regardedas one in which the physical laws of a process are used explicitly in the program To handle the complexities arising from varying thermal-relaxation times of concentric insulatinglayers , a COMPUTER program was developed which gives the temperature distribution of the systemas a function of radius and time The program is based on a direct statement of Fourier 's law of heat conduction and the chemical rateequation to provide a `` bookkeeping law '' to follow the reactants and the flow of heat packets , in such away that the COMPUTER continually stores the heat distribution The construction of COMPUTER programs based on the directstatement of the physical laws is a principle of general applicability which has been appliedto several other physical phenomena 
+
+CA640908 JB March 9, 1978  5:13 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1628 44  15.164151587617734 BM25
+
+
+The Emergence of a Profession
+COMPUTER programming deals with an enormousvariety of activities and is carried on by people with a great variety of backgrounds 
+
+CA670301 JB February 28, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2390 45  15.159042984440152 BM25
+
+
+A Proposal for a Computer-Based Interactive Scientific Community
+A Proposal for a Computer-Based Interactive Scientific Community Because of the problems created by the explosionof papers in the mathematical sciences and the drawbacks that this places on research , it is suggestedthat a tree of all mathematical results and terminology be maintained in a multiterminal COMPUTER system Users of the system can store in the COMPUTER an updated file of their current knowledge , and on selectinga paper to read , they can obtain from the COMPUTER the minimum subtree of theorems required to bringthem from what they already know to the background knowledge which the paper assumes interactive system , organization of scientific community , readers , writers , commentators , COMPUTER utility , information retrieval , trees , data structures 
+
+CA720201 JB February 1, 1978  8:51 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2308 46  15.142801654558111 BM25
+
+
+Computers and Urban Society
+COMPUTERS and Urban Society This brief survey of the use of COMPUTERS inurban society covers the broad range of activities found in any city urban systems , urban applications , data acquisition , data management , engineering ANALYSIS , information systems The COMPUTER can be , if properly used , with respect for human dignity and civil liberty , a significant factor in improving the efficiency of the urban process It is expected that the benefitsof such COMPUTER usage will outweigh the costs and that we may look forward to an expansion of such usage 
+
+CA720720 JB January 30, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1764 47  15.123420101292483 BM25
+
+
+Panel Discussion on Computer Appreciation
+Panel Discussion on COMPUTER Appreciation Session 19 of the ACM 20 th Anniversary Conferenceon August 31 , 1967 , was entitled Education , Design Experiments , and COMPUTER Appreciation Its secondhalf consisted of a panel discussion on COMPUTER appreciation , organized and chaired by Elliot I COMPUTER appreciation , students ' liberal arts courses , survey courses , beginning programming , course content , COMPUTER courses dropout rates , college versusprecollege , teaching and social responsibility 
+
+CA680406 JB February 23, 1978  10:34 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1182 48  15.121446487321574 BM25
+
+
+Contextual Correlates of Synonymy
+The SHAPES of the functions , however , indicate that similarity of context is reliable as criterion only for detecting pairsof words that are very similar in meaning 
+
+CA651013 JB March 6, 1978  6:29 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1543 49  15.115129924437863 BM25
+
+
+Computer Formulation of the Equations of Motion Using Tensor Notation
+A means is described for extending the areaof application of digital COMPUTERS beyond the numerical data processing stage and reducing the need forhuman participation in the formulation of certain types of COMPUTER problems COMPUTER Formulation of the Equations of Motion Using Tensor Notation By the use of tensor calculusand a COMPUTER language designed to facilitate symbolic mathematical computation , a method has beendevised whereby a digital COMPUTER can be used to do non-numeric work , that is , symbolic algebraic manipulationand differentiation To illustrate the techniques involved , a digital COMPUTER has been usedto derive the equations of motion of a point mass in a general orthogonal curvilinear coordinate system Since this operation involves a formulation in terms of first- and second-order differential coefficients , it provides a good demonstration of a COMPUTER 's capability to do non-numeric work and to assist in theformulation process which normally precedes the numerical data processing stage With the programprepared for this purpose the COMPUTER will derive the equations of motion in any coordinate systemrequested by the user 
+
+CA670903 JB February 27, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1404 50  15.102756304649795 BM25
+
+
+Computational Aspects of Multiple CovarianceAnalysis on a Multifactor Structure
+Computational Aspects of Multiple CovarianceAnalysis on a Multifactor Structure The computational procedure for the analysisof multiple covariance in statistics is discussed with reference to the ANALYSIS of variance A specialoperator calculus developed by Hartly for programming ANALYSIS of variance for multifactor experiments is extendedto cover the ANALYSIS of covariance This extension is accomplished by utilizing the connectionbetween the ANALYSIS of covariance and the ANALYSIS of variance and by introducing a new operator Theresults are illustrated by a numerical example for ANALYSIS of covariance , in which the basic computationsare shown to be carried out by an analysis-of-variance program 
+
+CA660708 JB March 2, 1978  9:18 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3143 51  15.093647839267412 BM25
+
+
+Reasoning About Arrays
+The effectivenessof these ideas is illustrated by informal DESCRIPTIONS ofalgorithms for binary search and merging , and by a short formal proof 
+
+CA790504 DH June 5, 1979  3:33 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1517 52  15.05414484153412 BM25
+
+
+Methods for Analyzing Data from Computer Simulation Experiments
+The paper adopts the position that the particular technique of ANALYSIS ( possibly not any one of the above ) chosen by the experimenter should be an expression of his experimental objective : The F-test tests the homogeneityof the plans ; multiple comparison methods quantify their differences ; and multiple ranking methodsdirectly identify the one best plan or best plans Methods for Analyzing Data from COMPUTER Simulation Experiments This paper addresses itself to the problem ofanalyzing data generated by COMPUTER simulations of economic systems 
+
+CA671103 JB February 26, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0644 53  15.038259577454959 BM25
+
+
+A String Language for Symbol Manipulation Based on ALGOL 60
+An artificial COMPUTER programming languageis proposed for describing the manipulation of strings of characters and symbols A primer or informal description of thelanguage is followed by examples , a description of experiments with the language on an IBM 704 COMPUTER , and a formal description which , taken with the ALGOL 60 Report , defines the proposed string language 
+
+CA620115 JB March 20, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2310 54  14.953932439663438 BM25
+
+
+Language Analysis in the Humanities
+language ANALYSIS , humanities , science of the humanities , pattern RECOGNITION , pattern generation , interdisciplinary cooperation Language ANALYSIS in the Humanities This paper argues that the COMPUTER 's major role as to language ANALYSIS in the humanities will be theestablishing of such a sciencehus , for those areas of the humanities for which rigor and precisionare necessary ( e The use of the COMPUTER in the language-orientedhumanities for exhaustive listing of detail ( as in indices and concordances ) is widespread and acceptedas desirable The implications of the COMPUTER for a `` science '' of the humanities-a science entailinggathering data for the construction and testing of models-are neither widely recognized nor accepted analyzing literature or teaching a student to write a composition ) the computercan be a critically important facilitator 
+
+CA720718 JB January 30, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2519 55  14.922340001164761 BM25
+
+
+On the Problem of Communicating Complex Information
+The nature of the difficulty involved in communicatingmathematical results between scientists using a COMPUTER based information retrieval systemis examined These include ways of augmenting writtennatural language by various notational and linguistic devices , the exhibition of the structure inherent in theinformation we are communicating , and a sophisticated interactive system controlled by COMPUTER 
+
+CA730501 JB January 24, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1834 56  14.91523401944524 BM25
+
+
+An Axiomatic Basis for Computer Programming
+An Axiomatic Basis for COMPUTER Programming In this paper an attempt is made to explorethe logical foundations of COMPUTER programming by use of techniques which were first applied in thestudy of geometry and have later been extended to other branches of mathematics This involves the elucidationof sets of axioms and rules of inference which can be used in proofs of the properties of computerprograms 
+
+CA691012 JB February 15, 1978  1:48 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2962 57  14.896611677714393 BM25
+
+
+Production and Employment of Ph.'s in Computer Science-1976
+'s in COMPUTER Science-1976 's in COMPUTER science for the calendar year 1975-76 COMPUTER science , production of Ph 
+
+CA770601 JB December 29, 1977  1:39 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3117 58  14.896471783974382 BM25
+
+
+The Impact and Use of Computer Technology by the Police
+The Impact and Use of COMPUTER Technology by the Police Over the past decade there has been a significant growthin the use of COMPUTER technology by U Further , when COMPUTER applications extendbeyond `` routine '' uses to `` nonroutine '' efforts , such as resource allocationor computer-aided-dispatch systems where the machine begins to becomea tool for decision making , strategic planning and person/machineinteraction , the results of the technology to date have beenmixed This paper reports on case studies and surveys which provinsights on the implementation and impact of police COMPUTER technologyand the relationship of this technology to law enforcement and society COMPUTER technology , innovation , police resource allocation , police command and control , COMPUTER aided dispatch , law enforcement , technology transfer 
+
+CA790102 DH April 10, 1979  11:32 AM 
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0096 59  14.895944187752193 BM25
+
+
+On Computing Radiation Integrals
+These methodsare desk machine evaluation of a finite series , integration of the appropriate differential equationby a Reeves Electronic Analog COMPUTER and by a Litton 40 IBM 704 COMPUTER 
+
+CA590205 JB March 22, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1769 60  14.876988299802669 BM25
+
+
+The Expanding World of Computers
+The Expanding World of COMPUTERS Online COMPUTERS and time-sharing also rate highby this measure COMPUTER developments in hardware , programming , time-sharing , education , data communication , and displays are judged by how effectively they remove thesebarriers , and their barrier-smashing potentialities indicate continued rapid expansion Education and increased understanding are basic to all progress with the COMPUTER barriers , philosophy , developments , computer-aided design , problem-oriented languages , data communication , education , COMPUTER science , forecast , survey , introduction 
+
+CA680401 JB February 23, 1978  11:36 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3055 61  14.866715068222984 BM25
+
+
+An Analysis of Algorithms for the Dutch National Flag Problem
+An ANALYSIS of Algorithms for the Dutch National Flag Problem Algorithmic ANALYSIS , Dutch National FlagProblem , refinement , structured programming 
+
+CA781006 DH January 29, 1979  5:47 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1855 62  14.815078746594317 BM25
+
+
+A Program for the Syntactic Analysis of English Sentences
+syntactic ANALYSIS , language processing , languageanalysis , parsing , ANALYSIS procedure , RECOGNITION procedure , English sentences , linguistics , psycholinguistics , transformational grammar , limited dictionary , predictive ANALYSIS A Program for the Syntactic ANALYSIS of English Sentences The main features of theanalyzer are that it uses only a limited dictionary of English words and that it pursues all ANALYSIS pathssimultaneously while processing the sentence from left to right The form of representation usedfor the dictionary and the grammar is indicated and an outline account is given of the ANALYSIS procedure Techniques for keeping the size of the ANALYSIS record within reasonable limits and for avoiding the needfor dynamic application of certain transformational rules are described 
+
+CA690808 JB February 15, 1978  5:24 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2383 63  14.74668662388857 BM25
+
+
+Music and Computer Composition
+Music and COMPUTER Composition The problem discussed is that of simulating humancomposition of Western popular music by COMPUTER and some relevant theories of music and harmony are given Severalprevious COMPUTER compositions are discussed , including the ILLIAC Suite artificial intelligence , heuristic programming , models of cognitive processes , COMPUTER music , COMPUTER composition , music theory 
+
+CA720208 JB January 31, 1978  3:54 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2999 64  14.74113548509022 BM25
+
+
+An Approach to Multidimensional Data Array Processing by Computer
+array processing , table processing , statisticalanalysis , data retrieval , data processing , syntax for data structures , computing techniques , time series , cross tabulation An Approach to Multidimensional Data Array Processing by COMPUTER Some recent work on the development of general-purposecomputer-based statistical and data processing capabilities for handling multidimensionalarrays of data is presented 
+
+CA770201 JB December 30, 1977  3:12 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2486 65  14.703563116399447 BM25
+
+
+Computer Photocomposition of Technical Text
+COMPUTER Photocomposition of Technical Text In COMPUTER assisted typesetting by means ofphotocomposition , special problems arise in highly technical material such as mathematical formulas 
+
+CA730614 JB January 23, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2197 66  14.682361519275048 BM25
+
+
+The Merit of Regional Computing Networks
+A major impact of the network was not so much the COMPUTER power delivered to the schoolsas the awakening of computing awareness and the fostering of capability development at these schools A regional network brings many benefitsand should not be judged as a purveyor of raw COMPUTER power alone COMPUTER sharing , COMPUTER utility , cooperative networks , curriculum development , educational computing , network computing , regional computing networks , remote computing , shared computing 
+
+CA710502 JB February 3, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1260 67  14.681793284740648 BM25
+
+
+Least-Squares Analysis of Resonance Spectra on Small Computers
+Least-Squares ANALYSIS of Resonance Spectra on Small COMPUTERS By using the cut step procedure for convergence and by imposing physicalconstraints on the functional form of the calculation it is possible to make the ANALYSIS on asmall COMPUTER The ANALYSIS has been carried out on an IBM 1410 COMPUTER with a 40,000 BCD core memory 
+
+CA650511 JB March 7, 1978  1:10 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0464 68  14.673695718203728 BM25
+
+
+Syntactic Analysis by Digital Computer
+Syntactic ANALYSIS by Digital COMPUTER This paper provides an account of the Shadowlanguage that is used to describe syntax and of a corresponding subroutine that enables a computerto perform syntactic ANALYSIS The outputconsists of a trace table that expresses the results of the syntactic ANALYSIS in a tabular form 
+
+CA621016 JB March 17, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1939 69  14.673649365578584 BM25
+
+
+Directed Random Generation of Sentences
+A solution is offered in the form of a COMPUTER program which allows the user to constrain and directthe generation by the simple but powerful device of restricted subtrees The program is writtenin FORTRAN IV for the IBM 360/67 and is partof a unified COMPUTER system for transformational grammar 
+
+CA690110 JB February 20, 1978  11:44 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1427 70  14.672950667587184 BM25
+
+
+Simulation of Radioisotope Scans by Computer
+Simulation of Radioisotope Scans by COMPUTER To studythe output of scanners with various characteristics , a program which simulates radioisotope scans has beenwritten for a PDP-1 COMPUTER with auxiliary disk storage and cathode ray tube display 
+
+CA660510 JB March 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0303 71  14.645959727184405 BM25
+
+
+Some Basic Terminology Connected WithMechanical Languages and Their Processors
+The suggestions in this paper are part of theterminology used in work for the University of Pennsylvania 's Office of COMPUTER Research and Education 
+
+CA610801 JB March 16, 1978  10:16 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2367 72  14.614916188874227 BM25
+
+
+Computers and Society: A Proposed Course for Computer Scientists
+COMPUTERS and Society : A Proposed Course for COMPUTER Scientists The purpose of this paper is to describe a courseconcerned with both the effects of COMPUTERS on society and the responsibilities of COMPUTER scientiststo society The impact of COMPUTERS is divided into five components : political , economic , cultural , social , and moral ; the main part of the paper defines each component and presents examples of the relevantissues COMPUTERS and society , social implications , course proposal 
+
+CA720406 JB January 31, 1978  1:06 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2535 73  14.603461369382382 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+The Effects of Multiplexing on a Computer-Communications System A study is made of the way in which asynchronoustime division multiplexing changes the stochastic nature of the arrival process from a user to the computerand , consequently , affects the performance of a time-shared computer-communications system It isconcluded that while , for certain values of system parameters , there is noticeable improvement in theperformance of the COMPUTER ( model ) , in the sense that time-shared scheduling delays are reduced , theseimprovements are offset by the transmission delays imposed by multiplexing so that there may be little orno change in the computer-communications system performance Analytical and simulation results arebased on the model of the computer-communications system being an M/D/1 queue ( the multiplexor ) in tandemwith a single exponential server ( the COMPUTER ) COMPUTER communications , time-sharing , multiplexing , scheduling algorithms , operating systems 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2215 74  14.591515508690968 BM25
+
+
+Application of Game Tree Searching Techniquesto Sequential Pattern Recognition
+Application of Game Tree Searching Techniquesto Sequential Pattern RECOGNITION A sequential pattern RECOGNITION ( SPR ) proceduredoes not test all the features of a pattern at once Some COMPUTER simulated experiments in character recognitionare presented sequential pattern RECOGNITION , game tree searching , game against nature , gamma procedure , mini average backing-up procedure , dynamic programming , branch-and-boundapproach , optimal solution 
+
+CA710206 JB February 8, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1890 75  14.54132273250505 BM25
+
+
+Simulation of Traffic Flows in a Network
+A COMPUTER simulation program which dealswith traffic flows in the network of a large area is described Each road is segmented into blocks ofseveral ten-meter lengths and is represented by a bidirectional list in COMPUTER memory traffic simulation , traffic flow , traffic networktraffic control , traffic density , intersection , signal setting , vehicle , road network , list structure , COMPUTER simulation 
+
+CA690603 JB February 17, 1978  1:26 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2232 76  14.523733212093518 BM25
+
+
+Pattern Width at a Given Angle
+feature extraction , pattern RECOGNITION , figureproperties , picture processing , integral geometry , width-at-angle , extent , integral projections , linear pattern MEASURES , width functions The results consist of a set-theoreticdefinition of width-at-angle , a theorem relating it to the pattern boundary radius vector , and descriptionsof alternate widths That the pattern feature `` width as a functionof angle '' possesses several possible interpretations is demonstrated in this paper , which is a review ofthe width concept in pattern RECOGNITION and the geometrical concept itself The object of the workis to clarify how the word description can be made precise so that COMPUTER algorithms for feature extractionmay be obtained ; the focus is on the theoretical subject matter 
+
+CA710102 JB February 8, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2181 77  14.515978770359052 BM25
+
+
+The State of Computer Oriented Curricula in Business Schools 1970
+An ANALYSIS of the minutes of the meetingsrevealed a common set of experiences which raised similar pedagogic and economic issues The State of COMPUTER Oriented Curricula in Business Schools 1970 The ACM Committee on COMPUTER Education for Management , supported by a National Science Foundation Grant , is established to appraise the state of the artand to develop a series of recommendations for improving COMPUTER education for management Three topics were covered : curricula forthe general manager ; computer-related material in required and functional courses ; and curricula for studentsconcentrating on computer-based information systems Preliminary to the Committee 's recommendationsfor improving COMPUTER education for management , this report has been prepared to provide the participantsand the administrators of their institutions with background information for the ongoing task of coursedevelopment 
+
+CA710701 JB February 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1445 78  14.507430854193125 BM25
+
+
+Use of the Computer to Teach Introductory Statistics
+Use of the COMPUTER to Teach Introductory Statistics It has always been obvious that the aid to calculationoffered by the COMPUTER forces a change in the curricula of mathematics , statistics , physics , engineering and other courses Not so obvious are the many pedagogic aids the COMPUTER can offer inteaching the subject matter 
+
+CA660404 JB March 3, 1978  10:48 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1518 79  14.507101683344898 BM25
+
+
+An Experimental Model of System/360
+The MEASURES of system performanceproduced by the model consist of statistics relating to turnaround time , throughput , hardware utilization , software utilization , and queueing processes The problem of predicting the performance ofmodern COMPUTER systems is formidable 
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2903 80  14.48673400306647 BM25
+
+
+Improving Programs by the Introduction of Recursion
+A new technique of program transformation , called `` recursion in troduction , '' is described and applied to two algorithms which solve pattern MATCHING problems In particular , it is shown how the fast linear pattern MATCHING algorithm of Knuth , Morris , and Pratt can be derived in a few steps from a simple nonlinear stack algorithm program transformation , optimization of programs , recursion elimination , pattern MATCHING algorithms , stacks , computational induction 
+
+CA771113 JB December 27, 1977  6:29 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3070 81  14.480551882253005 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+Hybrid Simulation Models of COMPUTER Systems In an example based on a simple hypotheticalcomputer system , discrete-event simulation is used to model the arrival and activation of jobs , and acentral-server queueing network models the use of system processors 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1188 82  14.480529621010117 BM25
+
+
+An ALGOL-like Computer Design Language
+An ALGOL-like COMPUTER Design Language The idea of constructing a COMPUTER designlanguage by making use of an ALGOL-like programming language is presented A COMPUTER designer can benefitfrom using a design language at a higher level just as a COMPUTER user can benefit from a higher levelprogramming language To achieve mostof the purposes a translator is required to translate a design of COMPUTER logic into a set of Boolean equations 
+
+CA651007 JB March 6, 1978  6:48 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2538 83  14.474775171444522 BM25
+
+
+A Computer Science Course Program for Small Colleges
+A COMPUTER Science Course Program for Small Colleges The ACM Subcommittee on Small College Programsof the Committee on Curriculum in COMPUTER Science ( CCCS ) was appointed in 1969 to consider the uniqueproblems of small colleges and universities , and to make recommendations regarding COMPUTER science programsat such schools COMPUTER science education , course proposals , smallcolleges , programming course , social implications course , COMPUTER organization course , file organization course , bibliographies 
+
+CA730301 JB January 24, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1902 84  14.463175718157556 BM25
+
+
+An Automatic Grading Scheme for Simple Programming Exercises
+Exercisesrun under the scheme may be mixed with other programs , and no special RECOGNITION of exercises by the operators is necessary In this computer-controlled grading scheme provisionis made for testing with programmer-supplied data and for final runs with system-supplied data 
+
+CA690507 JB February 17, 1978  3:35 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1630 85  14.44929538149323 BM25
+
+
+Computer Representation of Planar Regions by Their Skeletons
+COMPUTER Representation of Planar Regions by Their Skeletons 
+
+CA670212 JB February 28, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1487 86  14.44550926895027 BM25
+
+
+ELIZA-A Computer Program For the Study ofNaturalLanguage Communication Between Man And Machine
+ELIZA-A COMPUTER Program For the Study ofNaturalLanguage Communication Between Man And Machine ELIZA is a program operating within the MACtime-sharing system at MIT which makes certain kinds of natural language conversation between man andcomputer possible 
+
+CA660108 JB March 3, 1978  4:00 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1325 87  14.438007540610734 BM25
+
+
+Remote, On-Line, Real-time Computer Diagnosisof the Clinical Electrocardiogram
+Currentattempts by the authors to extend the diagnostic capabilities of the present system are particularly concernedwith increasing the fidelity of the adaptive matched filters , the development of three dimensional pattern ANALYSIS , the ANALYSIS of parallel electrocardiographer-computer diagnostic interaction , and a study of the possibilityof introducing major , tree-like branching decisions early in the diagnostic process Remote , On-Line , Real-time COMPUTER Diagnosisof the Clinical Electrocardiogram Presented in this paper is a brief report onthe hardware , software , system configuration and function of a system for the remote , online , real-time digitalcomputer diagnosis of clinical electrocardiograms 
+
+CA650112 JB March 8, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0824 88  14.428500625447626 BM25
+
+
+DESCRIPTRAN-Automated Descriptive Geometry*
+When one can call subroutines that compute new coordinates that correspond to those obtainable fromthe graphical constructions , there is the three-way advantage of the approach of descriptive geometry , theaccuracy of computation and the speed of the digital COMPUTER 
+
+CA630625 JB March 14, 1978  9:56 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2874 89  14.422566166062637 BM25
+
+
+A Comparative Evaluation of Versions of BASIC
+
+
+CA760402 JB January 4, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3047 90  14.403639676145715 BM25
+
+
+Using Synthetic Images to Register Real Images with Surface Models
+We achieve the required alignment by MATCHING the realimage with a synthetic image obtained from a surface model and known positions of the light sources Image registration , synthetic images , surface models , automatic hill shading , digital terrain models , image transformation , image MATCHING , shaded images A number of image ANALYSIS tasks can benefitfrom registration of the image with a model of the surface being imaged 
+
+CA781104 DH January 26, 1979  11:16 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1592 91  14.396621098470856 BM25
+
+
+String Similarity and Misspellings
+The problem of programming a COMPUTER to determinewhether or not a string of characters is a misspelling of a given word was considered 
+
+CA670510 JB February 28, 1978  10:28 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0040 92  14.393721248265038 BM25
+
+
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+The binary number system offers many advantagesover a decimal representation for a high-performance , general-purpose COMPUTER On the other hand , decimal numbers are essential forcommunicating between man and the COMPUTER In applications requiring the processing of a large volumeof inherently decimal input and output data , the time for decimal-binary conversion needed by a purelybinary COMPUTER may be significant 
+
+CA591202 JB March 22, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1183 93  14.390228920996293 BM25
+
+
+A Note on the Use of a Digital Computerfor Doing Tedious Algebra and Programming
+A Note on the Use of a Digital Computerfor Doing Tedious Algebra and Programming A special purpose compiler was written withFORTRAN II language and made possible the writing of very long programs by the COMPUTER 
+
+CA651012 JB March 6, 1978  6:31 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-3003 94  14.384420472698206 BM25
+
+
+A Survey of the Literature in ComputerScience Education Since Curriculum '68
+A Survey of the Literature in ComputerScience Education Since Curriculum '68 A bibliography of approximately two hundredreferences in COMPUTER science education appearing in the literature since the publication of `` Curriculum'68 '' is presented education , COMPUTER science , curricula 
+
+CA770102 JB January 3, 1978  12:34 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1542 95  14.372612030824786 BM25
+
+
+A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+The structure and content of a higher level language can be matched by an appropriateinterpretive language which can be executed efficiently by microprograms on existing COMPUTER hardware 
+
+CA670904 JB February 27, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-2152 96  14.362791729653065 BM25
+
+
+Display Procedures
+Although the use of structured display filesis widespread in interactive COMPUTER graphics , these structures present a number of problems whichtend to restrict their generality and usefulness COMPUTER graphics , programming languages , display files 
+
+CA711004 JB February 2, 1978  1:11 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-0962 97  14.324064554282662 BM25
+
+
+Double-Precision Squares Root for The CDC-3600
+Maehly completeda summary of approximations to the elementary functions for the CDC-1604 COMPUTER The approximationsand techniques suggested by Maehly are equally applicable to the second large COMPUTER in the CDC line , the 3600 
+
+CA641209 JB March 9, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1703 98  14.315076355335508 BM25
+
+
+Accommodating Standards and Identification of Programming Languages
+These methods can be usefully applied to other programming languages and COMPUTER services 
+
+CA680811 JB February 22, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1001 99  14.308886246682679 BM25
+
+
+Copyright Aspects of Computer Usage
+Copyright Aspects of COMPUTER Usage This paper is concerned with the question ofwhat constitutes infringement of a copyright on a book or other nondramatic literary work when the workis fed into a COMPUTER and is indexed , analyzed , partially reprinted , or otherwise utilized by the computerto produce eye-readable output 
+
+CA641001 JB March 9, 1978  4:59 PM
+
+
+--------------------------------------------------------------
+43 Q0 CACM-1621 100  14.275708581853344 BM25
+
+
+Computer Typesetting of ALGOL
+COMPUTER Typesetting of ALGOL An application of computer-aided typesettingis introduced A working method is described for publishing ALGOL by computerized translation fromHardware into Reference representation , computerized planning of typographical lay-out and computerized controlof a typesetting machine 
+
+CA670308 JB February 28, 1978  1:12 PMB
+
+

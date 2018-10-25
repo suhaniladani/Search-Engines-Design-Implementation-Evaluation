@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+59 Q0 CACM-1456 1  32.23854148149886 BM25
+
+
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+An experimental system that uses LISP to makea conceptual DICTIONARY is described The DICTIONARY associates with each ENGLISH word the syntactic information , definitional material , and references to the contexts in which it has been used to define other WORDS Examples of methods of inputting information and answering simple ENGLISH questions are given 
+
+CA660316 JB March 3, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0144 2  27.31250994974843 BM25
+
+
+Do It by the Numbers-Digital Shorthand
+Provision is made for transmission of purely numeric and/or binary streams , and for singlecharacter-transmission of non-dictionary WORDS such as the names of people or places Since ENGLISH WORDS form onlya sparse set of all possible alphabetic combinations , present methods are inefficient when computer systemsare substituted for these terminals Using numeric representations of entire WORDS or common phrases ( ratherthan character-by-character representations ) requires approximately one-third of present transmissiontime 
+
+CA601004 JB March 20, 1978  8:27 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1235 3  26.442933439791833 BM25
+
+
+A Stochastic Approach to the Grammatical Coding of English
+About half of the word-events in a corpus are identifiedthrough the use of a small DICTIONARY of function WORDS and frequently occurring LEXICAL WORDS A Stochastic Approach to the Grammatical Coding of ENGLISH A computer program is described which willassign each word in an ENGLISH text to its form class or part of speech Some suffixtests and logical-decision rules are employed to code additional WORDS Finally , the remaining wordsare assigned to one class or another on the basis of the most probable form classes to occur within the alreadyidentified contexts 
+
+CA650620 JB March 6, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2905 4  25.979644988702812 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+Perfect HASHING Functions : A SingleProbe Retrieving Method for Static Sets A refinement of HASHING which allows retrievalof an item in a static table with a single probe is considered Given a set I of identifiers , two methodsare presented for building , in a mechanical way , perfect HASHING functions , i The first method , the `` quotient reduction '' method , isshown to be complete in the sense that for every set I the smallest table in which the elements of Ican be stored and from which they can be retrieved by using a perfect HASHING function constructed by thismethod can be found A roughcomparison with ordinary HASHING is given which shows that this method can be used convenientlyin several practical applications HASHING , HASHING methods , hash coding , direct addressing , identifier-to-address transformations , perfect HASHING functions , perfect hash coding , reduction , scatter storage 
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2437 5  25.480315053526947 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+HASHING , HASHING techniques , HASHING methods , hash coding , key transformation , key-to-address transformation , direct addressing , randomizing , random access , scatterstorage , information retrieval , HASHING analysis , randomization performance analysis 
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3087 6  25.315549629099504 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+An ENGLISH Language Question Answering Systemfor a Large Relational Database By typing requests in ENGLISH , casual userswill be able to obtain explicit answers from a large relational database of aircraft flight and maintenancedata using a system called PLANES 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2127 7  25.26042985368906 BM25
+
+
+Natural Language Question-Answering Systems: 1969
+Recent experiments in programming naturallanguage question-answering systems are reviewedto summarize the methods that have been developed for syntactic , semantic , and logical analysis of ENGLISH strings Current approaches to semanticanalysis and logical inference are seen to be effective beginningsbut of questionable generality with respect either to subtle aspects of meaning or to applications over large subsets of ENGLISH 
+
+CA700104 JB February 14, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1855 8  25.152723674419338 BM25
+
+
+A Program for the Syntactic Analysis of English Sentences
+The main features of theanalyzer are that it uses only a limited DICTIONARY of ENGLISH WORDS and that it pursues all analysis pathssimultaneously while processing the sentence from left to right The form of representation usedfor the DICTIONARY and the grammar is indicated and an outline account is given of the analysis procedure syntactic analysis , language processing , languageanalysis , parsing , analysis procedure , recognition procedure , ENGLISH sentences , linguistics , psycholinguistics , transformational grammar , limited DICTIONARY , predictive analysis A Program for the Syntactic Analysis of ENGLISH Sentences A program is described which produces syntacticanalyses of ENGLISH sentences with respect to a transformational grammar 
+
+CA690808 JB February 15, 1978  5:24 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1112 9  24.812158931381774 BM25
+
+
+A Technique for Computer Detection and Correction of Spelling Errors*
+A Technique for Computer Detection and Correction of SPELLING Errors* The method described assumes that a wordwhich can not be found in a DICTIONARY has at most one error , which might be a wrong , missing or extra letteror a single transposition The unidentified input word is compared to the DICTIONARY again , testingeach time to see if the WORDS match-assuming one of these errors occurred 
+
+CA640320 JB March 10, 1978  2:21 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1700 10  24.37417163102772 BM25
+
+
+PEEKABIT, Computer Offspring of PunchedCard PEEKABOO, for Natural Language Searching
+As an item is entered in the store , an 18-byte mask is created from the item 's meaningful WORDS using the inclusive OR operation If , at searchtime , the logical product ( using the AND operation ) of this mask and a similarly constructed question maskis not equal to the question mask , then one or more question WORDS are not present in the store item An equality is in conclusive ; the WORDS of the store item must be unpacked and compared with questionwords 
+
+CA680901 JB February 22, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1681 11  24.269409117277213 BM25
+
+
+Easy English,a Language for InformationRetrieval Through a Remote Typewriter Console
+Easy ENGLISH , a Language for InformationRetrieval Through a Remote Typewriter Console Easy ENGLISH is a natural command languagedesigned to simplify communication between man and machine through remote typewriter console Operation of easy ENGLISH is detailed by illustrationof the transformations performed upon a sample request up to the point at which the request stringis sent to the system A macro flowchart of Easy ENGLISH is included , and an Appendix providesthe printout of a retrieval demonstration 
+
+CA681006 JB February 21, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2203 12  24.13961731932782 BM25
+
+
+Key-to-Address Transform Techniques: A FundamentalPerformance Study on Large Existing Formatted Files
+HASHING , HASHING techniques , HASHING methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access method , randomizing , random access , file addressing , file organizations , file structures , scatter storage , search , collisions , clusters , information retrieval 
+
+CA710402 JB February 3, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1457 13  23.41568912102185 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2032 14  23.180237071929334 BM25
+
+
+File Structures Using Hashing Functions
+File Structures Using HASHING Functions A general method of file structuring is proposed which uses a hashingfunction to define tree structure Data structures , tree structures , file structures , scattertables , HASHING functions , information retrieval 
+
+CA700705 JB February 13, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2111 15  22.88777552527625 BM25
+
+
+Spelling Correction in Systems Programs
+SPELLING Correction in Systems Programs Several specialized techniques are shown for efficientlyincorporating SPELLING correction algorithms into compilers and operating systems These include the use of syntaxand semantics information , the organization of restricted keywordand symbol tables , and the consideration of a limited class of spellingerrors Sample 360 coding for performing SPELLING correctionis presented By using systems which perform SPELLING correction , the number of debugging runs per program has been decreased , saving both programmer and machine time SPELLING correction , error correction , debugging , compilers , operating systems , diagnostics , error detection , misspelling , LEXICAL analysis systems programming 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0944 16  22.173507220032647 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+Of prime interestis the application where a symbol table , DICTIONARY or similar file is to be stored and searched 
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3041 17  21.708434299753897 BM25
+
+
+Median Split Trees: A Fast Lookup Technique for Frequently Occuring Keys
+A split tree is a binary search tree each node of whichcontains two key values-a node value which is a maximally frequent key in that subtree , and a splitvalue which partitions the remaining keys ( with respect to their LEXICAL ordering ) between the left andright subtrees A median split tree ( MST ) uses the LEXICAL median of a node 's descendents as its splitvalue to force the search tree to be perfectly balanced , achieving both a space efficient representationof the tree and high search speed A discussion of the application of MST 's to DICTIONARY lookup for ENGLISH ispresented , and the performance obtained is contrasted with that of other techniques Tree search , DICTIONARY lookup , binary search , heaps , balanced trees , Zipf 's Law , information retrieval 
+
+CA781110 DH January 25, 1979  9:49 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2991 18  21.695725531918022 BM25
+
+
+Improving the Access Time for Random Access Files
+HASHING , HASHING techniques , HASHING methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access , directaccess method , randomizing , random access , file addressing , file organizations , file structures , scatterstorage , search method , collisions , synonyms , clustering , information retrieval , open addressing , openchaining , buckets , bucket size , shadow buckets , combinatorics 
+
+CA770301 JB December 30, 1977  2:00 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3046 19  21.651902150371175 BM25
+
+
+Computer Generation of Gamma Random Variables - II
+
+
+CA781105 DH January 26, 1979  11:02 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2846 20  21.620597515640547 BM25
+
+
+Compressed Tries
+
+
+CA760707 JB January 4, 1978  12:26 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2484 21  21.541039332650335 BM25
+
+
+A Note on Information Organization and Storage
+There are three important elements in this general CONSTRUCTION method ; namely , a set ofbinary relations , an algorithm for constructing subsets of a set , and an algorithm for selecting anelement from the given set of objects 
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2688 22  21.289798519906025 BM25
+
+
+Attribute Based File Organization in a Paged Memory Environment
+The high cost of page ACCESSING implies a needfor more careful data organization in a paged memory than is typical of most inverted file and similarapproaches to multi-key retrieval This article analyses that cost and proposes a method called multiplekey HASHING which attempts to minimize it file organization , paging , retrieval algorithm , inverted file , multiple key HASHING 
+
+CA740201 JB January 18, 1978  1:37 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2307 23  21.127934625699577 BM25
+
+
+Dynamic Document Processing
+automatic INDEXING , automatic search and retrieval , iterative searching , mechanized library processing , collection growth , collection retirement , feedback search The proposed procedures provide powerful toolsfor information retrieval and for the control of dynamic library collections in which new itemsare continually added and old ones are retired 
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3134 24  20.942705536559338 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+This method is particularlysuitable for queries requesting a group of information ITEMS , all of which possess a particular set of attributes ( and possiblysome other attributes as well ) 
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1665 25  20.893814649087478 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques The practical application of the theory offinite-state automata to automatically generate LEXICAL processors is dealt with in this tutorial articleby the use of the AED RWORD system , developed at M The output of the system is a LEXICAL processor which reads a stringof characters and combines them into the ITEMS as defined by the regular expressions Each state of a `` machine '' corresponds to a unique condition in the LEXICAL processing of a characterstring LEXICAL processors for AED-O and MAD are among the many which have beenproduced This allows the system to be used in arange of applications outside the area of LEXICAL processing In designing a system for automatic generation of alexical processor , the goal was a processor which completely eliminated backup or rereading , which was nearlyas fast as hand-coded processors , which would analyze the language and detect errors , andwhich would be convenient and easy to use character string , compiler , finite-state automata , finite-statemachine , LEXICAL processor , nondeterministic machine , parsing , plex structure , regular expressions , sequentialmachine , syntactic analysis This systemaccepts as input description of the multicharacter ITEMS or of WORDS allowable in a language given in termsof a subset of regular expressions The techniques employed are independent of the nature of the ITEMS being evaluated 
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2050 26  20.74473296441119 BM25
+
+
+Automatic Parsing for Content Analysis
+
+
+CA700605 JB February 13, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2258 27  20.274989693601334 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+HASHING , HASHING techniques , HASHING methods , hashcoding , keys , key transformation , key-to-address transformation , direct addressing , direct access method , randomizing , random access file organization , file search , scatter storage , information retrieval 
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2141 28  20.207936642005578 BM25
+
+
+Algorithmic Selection of the BestMethod for Compressing Map Data Strings
+
+
+CA711202 JB February 2, 1978  10:23 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2646 29  20.156709880271134 BM25
+
+
+A Model for Masking Rotational Latency by Dynamic Disk Allocation
+
+
+CA740507 JB January 17, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1699 30  19.96684476480926 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1725 31  19.889377117447907 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+An efficient method of ordered retrieval of binarywords from an associative memory , as describedby Lewin , is based on the use of special readout circuitswhich indicate the digit values present in the individual digit columns of the memory The use of these circuits , whichin this paper are termed column value indicators , reduces considerably the number of memory accesses necessaryto retrieve in order a number of distinct WORDS from the memory Lewin proves that , for the readoutby the described method of m distinct binary WORDS , 2m - 1 memory accesses are necessary 
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1711 32  19.693434581323626 BM25
+
+
+When Your Computer Needs a Lawyer
+
+
+CA680803 JB February 22, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0695 33  19.583927963646488 BM25
+
+
+Use of the Disk File on Stretch
+Physical characteristics of the two-disk system ( 4,194,304 72-bit WORDS , 8 usec-per-wordtransmission rate , etc Approximately 260,000 WORDS of disk storage are reservedfor the storage of systems programs and the subroutine library Certain programming techniques are discussed for transmitting WORDS betweendisk and core storage with minimum delaying and interruption of the arithmetic unit 
+
+CA631030 JB March 13, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1886 34  19.57769354104797 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1888 35  19.46025193218509 BM25
+
+
+Spline Function Methods for Nonlinear Boundary-Value Problems
+
+
+CA690605 JB February 17, 1978  11:07 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1032 36  19.347284619980925 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1331 37  19.14662281203207 BM25
+
+
+Code Structures for Protection and Manipulation of Variable-Length Items
+Code Structures for Protection and Manipulation of Variable-Length ITEMS When ITEMS are made up of a variable numberof characters , each containing the same number of bits , certain control information ( partition symbols ) is inserted to mark their separations 
+
+CA650106 JB March 8, 1978  2:48 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3053 38  19.118965318815995 BM25
+
+
+Packed Scatter Tables
+The techniques areprimarily suited for important fixed ( but possibly quite large ) tables for which reference frequencies maybe known : op-code tables , SPELLING dictionaries , access arrays Assignment problem , backtrack programming , HASHING , openaddressing , recursion , scatter table rearrangements 
+
+CA781008 DH January 29, 1979  5:30 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2559 39  19.096268883810172 BM25
+
+
+The Reallocation of Hash-Coded Tables
+The technique is independent of both the length of the table and the hashingfunction used , and can be utilized in conjunction with a linear reallocation of the table being rescattered Moreover , it can be used to eliminate previously flagged deletions from any hash-coded table , or to changefrom one HASHING method to another 
+
+CA730102 JB January 24, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2091 40  19.077734528893572 BM25
+
+
+PDEL-A Language for Partial Differential Equations
+
+
+CA700307 JB February 13, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1402 41  19.007540820984765 BM25
+
+
+Partial Step Integration
+
+
+CA660710 JB March 2, 1978  9:08 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1527 42  18.86051229514218 BM25
+
+
+A Grammar Base Question Answering Procedure
+
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1929 43  18.84898400189887 BM25
+
+
+Images from Computers and Microfilm Plotters
+
+
+CA690209 JB February 20, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1324 44  18.776802608297245 BM25
+
+
+Answering English questions by Computer: A Survey
+Answering ENGLISH questions by Computer : A Survey Fifteen experimental ENGLISH language question-answeringsystems which are programmed and operating are described and reviewed The systems range from a conversationmachine to programs which make sentences about pictures and systems which translate from Englishinto logical calculi 
+
+CA650113 JB March 8, 1978  2:21 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1856 45  18.727058962152995 BM25
+
+
+The Teachable Language Comprehender: A Simulation Program and Theory of Language
+The Teachable Language Comprehender ( TLC ) isa program designed to be capable of being taught to `` comprehend '' ENGLISH text 
+
+CA690807 JB February 15, 1978  5:46 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2033 46  18.682642272580026 BM25
+
+
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+
+
+CA700704 JB February 13, 1978  9:18 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1051 47  18.463861871704125 BM25
+
+
+Multiword List Items
+Multiword List ITEMS Following a brief description of standard list structures with single-word ITEMS , themultiword ITEMS are introduced Then variable-length ITEMS are described , along with the corresponding space-utilizationproblems The list concept as originally proposed byNewell , Simon and Shaw specified single computer WORDS as elements of a list This report describes theuse of two or more consecutive WORDS as one element 
+
+CA640616 JB March 9, 1978  9:15 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1441 48  18.44708869137297 BM25
+
+
+Methods of Numerical Integration Applied toa System Having Trivial Function Evaluations
+
+
+CA660408 JB March 3, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2623 49  18.278169672724015 BM25
+
+
+A New Technique for Compression and Storage of Data
+
+
+CA740801 JB January 17, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2274 50  18.25400312657114 BM25
+
+
+Generating English Discourse from Semantic Networks
+Generating ENGLISH Discourse from Semantic Networks A system is described for generating Englishsentences from a form of semantic nets in which the nodes are word-sense meanings and the paths areprimarily deep case relations 
+
+CA721004 JB January 27, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2572 51  18.24149573165234 BM25
+
+
+Arguments for a Moratorium on the Constructionof a Community Information Utility
+Arguments for a Moratorium on the Constructionof a Community Information Utility Current proposals for community information utilities are examined in thisframework , and the conclusion is drawn that society is not yet in a position to justify either the constructionof an information utility in a prototype community or the acceptance of a policy infavor of its widespread implementation 
+
+CA741202 JB January 16, 1978  10:02 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2968 52  18.229959369427313 BM25
+
+
+A Comparison of Tree-Balancing Algorithms
+
+
+CA770504 JB December 29, 1977  2:16 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1808 53  18.193876502268395 BM25
+
+
+Advanced Cryptographic Techniques for Computers
+
+
+CA691204 JB February 15, 1978  4:20 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2153 54  18.188555005917628 BM25
+
+
+Experiments with an Automated Instructional System for Numerical Methods
+
+
+CA711003 JB February 2, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1486 55  18.12051092089142 BM25
+
+
+A Reprogramming Machine
+In this paper a description is given of a modelprogramming system which is directed by a programming language and has a library for storing the user 's ITEMS Rules are given for transforming programs written in the language and for rearranging the ITEMS in thelibrary so that they share their common parts Some speculations are made about how the mechanicaldetection of common parts or patterns of library ITEMS could help a user to solve his problems , and aboutthe relationships between the behavior of the reprogramming machine and human intelligent behavior 
+
+CA660201 JB March 3, 1978  3:50 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2753 56  18.031181751157636 BM25
+
+
+A Heuristic Problem Solving Design Systemfor Equipment or Furniture Layouts
+
+
+CA750514 JB January 9, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2860 57  17.974503671388405 BM25
+
+
+A Practitioner's Guide To Addressing Algorithms
+data management , file retrieval , searching , addressingtechniques , HASHING functions , synonym resolution , loading factor , bucket size , heuristic design , rules of thumb 
+
+CA760602 JB January 4, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1236 58  17.94264768688603 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1517 59  17.897430981337575 BM25
+
+
+Methods for Analyzing Data from Computer Simulation Experiments
+
+
+CA671103 JB February 26, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0440 60  17.874803670724827 BM25
+
+
+Record Linkage
+The underlying problem is that of making nearlymaximum use of ITEMS of identifying information that are individually unreliable but that may collectivelybe of considerable discriminating power 
+
+CA621121 JB March 17, 1978  5:51 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2267 61  17.857835050707262 BM25
+
+
+Algorithms To Reveal Properties of Floating-Point Arithmetic
+
+
+CA721102 JB January 27, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3126 62  17.821781660501415 BM25
+
+
+Comments on Perfect Hashing Functions: A SingleProbe Retrieving  Method for Static Sets
+Comments on Perfect HASHING Functions : A SingleProbe Retrieving Method for Static Sets HASHING , HASHING methods , hash coding , direct addressing , identifier-to-address transformations , perfect HASHING functions , perfecthash coding , reduction , retrieving , scatter storage , searching 
+
+CA790205 DH April 10, 1979  4:25 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2229 63  17.801395066538248 BM25
+
+
+Construction of Rational and Negative Powers of a Formal Series
+CONSTRUCTION of Rational and Negative Powers of a Formal Series 
+
+CA710105 JB February 8, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2795 64  17.791348712663257 BM25
+
+
+Sentence Paraphrasing from a Conceptual Base
+The model encompasses several diverse classes of linguisticknowledge , which include : ( 1 ) executable tests of conceptual properties stored in discrimination nets ; ( 2 ) information relating conceptual to syntactic roles , stored in a word-sense DICTIONARY , and ( 3 ) surfacegrammatical knowledge , stored in a formal grammar 
+
+CA750204 JB January 12, 1978  8:43 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2046 65  17.653772906229307 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+
+
+CA700609 JB February 13, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2631 66  17.62400950224819 BM25
+
+
+An Information-Theoretic Approach toText Searching in Direct Access Systems
+This method treats text as a string of characters ratherthan WORDS bounded by spaces , and chooses subsets of strings such that their frequencies of occurrence aremore even than those of word types 
+
+CA740615 JB January 17, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2711 67  17.572353927983656 BM25
+
+
+A Vector Space Model for Automatic Indexing
+A Vector Space Model for Automatic INDEXING In a document retrieval , or other pattern matchingenvironment where stored entities ( documents ) are compared with each other or with incoming patterns ( search requests ) , it appears that the best INDEXING ( property ) space is one where each entity lies as far awayfrom the others as possible ; in these circumstances the value of an INDEXING system may be expressibleas a function of the density of the object space ; in particular , retrieval performance may correlate inverselywith space density An approach based on space density computations is used to choose an optimumindexing vocabulary for a collection of documents automatic information retrieval , automaticindexing , content analysis , document space 
+
+CA751101 JB January 6, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2931 68  17.485942708397296 BM25
+
+
+Logic and Programming Languages
+
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1629 69  17.411156967041432 BM25
+
+
+Stat-Pack: A Biostatistical Programming Package
+A package of FORTRAN statistical programs for useon almost any small to medium size ( 40k characters or 8k WORDS ) for which a FORTRAN II compiler existsis described and its availability is announced 
+
+CA670213 JB February 28,1978  1:57 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2989 70  17.32483932289364 BM25
+
+
+Empirical Evaluation of Some Featuresof Instruction Set Processor Architectures
+
+
+CA770303 JB December 30, 1977  1:00 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2107 71  17.312979112001955 BM25
+
+
+The Quadratic Quotient Method: A HashCode Eliminating Secondary Clustering
+Secondary clustering as a cause of hash code inefficiency is discussed , and a new HASHING method based on its elimination is presented HASHING , hash code , scatter storage , calculated address , clustering , search , symbol table , collisions , keys , table look-up 
+
+CA700208 JB February 14, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2819 72  17.22649984086436 BM25
+
+
+Experiments in Text File Compression
+The method is general , and applies equally well toEnglish , to PL/I , or to digital data 
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3139 73  17.197798796811124 BM25
+
+
+New Methods to Color the Vertices of a Graph
+
+
+CA790405 DH June 5, 1979  2:05 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1645 74  17.13709620673664 BM25
+
+
+A Note on Computing Approximations to the Exponential Function
+
+
+CA670110JB February 28, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2978 75  17.10150856036988 BM25
+
+
+Analysis of Design Alternatives for Virtual Memory Indexes
+
+
+CA770404 JB December 29, 1977  5:22 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2650 76  17.07940434409239 BM25
+
+
+Order-n Correction for Regular Languages
+The method should find applications in informationretrieval , artificial intelligence , and SPELLING correction systems error correction , regular languages , regular events , finite state automata , compiler error recovery , SPELLING correction , string best match problem , correction , corrector , errors , nondeterministic finite-state automata 
+
+CA740503 JB January 17, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1504 77  16.991443120677985 BM25
+
+
+Algorithms for Finding a Fundamental Setof Cycles for an Undirected Linear Graph
+
+
+CA671204 JB February 26, 19782:35 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1516 78  16.971051345662353 BM25
+
+
+Automatic Data Compression
+
+
+CA671104 JB February 26, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1930 79  16.956519528078363 BM25
+
+
+Extremely Portable Random Number Generator
+
+
+CA690208 JB February 20, 1978  10:43 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0891 80  16.940528100322076 BM25
+
+
+Everyman's Information Retrieval System
+
+
+CA630329 JB March 14, 1978  12:37 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1264 81  16.86347247612903 BM25
+
+
+BLNSYS-A 1401 Operating System with Braille Capabilities
+Printed output of this systemor of executing programs may be in either ENGLISH or braille 
+
+CA650507 JB March 7, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2517 82  16.802857680016192 BM25
+
+
+Some Comments on the Use of Ambiguous DecisionTables and Their Conversion to Computer Programs
+
+
+CA730503 JB January 24, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0096 83  16.796030478612828 BM25
+
+
+On Computing Radiation Integrals
+
+
+CA590205 JB March 22, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-0095 84  16.78956184472483 BM25
+
+
+Elimination of Special Functions from Differential Equations
+
+
+CA590301 JB March 22, 1978  8:08 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1620 85  16.78680225848734 BM25
+
+
+Methods of Evaluating Polynomial Approximationsin Function Evaluation Routines
+
+
+CA670309 JB February 28, 1978  1:08 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1650 86  16.77473152951189 BM25
+
+
+A Unifying Computational Method for theAnalysis of Complete Factorial Experiments
+
+
+CA670105 JB February 28, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2543 87  16.774422578039385 BM25
+
+
+Reducing the Retrieval Time of Scatter Storage Techniques
+
+
+CA730205 JB January 24, 1978  2:12 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2924 88  16.774107348950842 BM25
+
+
+An Interactive Computer Graphics Approach to Surface Representation
+
+
+CA771002 JB December 27, 1977  11:53 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2273 89  16.768366100662753 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2990 90  16.762965189437946 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+By relating term accuracyto the frequency of occurrence of the term in the documents of a collection it is possible to give formalproofs of the effectiveness with respect to a given user query of a number of automatic INDEXING systemsthat have been used successfully in experimental situations information retrieval , automatic INDEXING , contentanalysis , term accuracy , frequency weighting , thesaurus and phrase transformations Among these are inverse document frequencyweighting , thesaurus CONSTRUCTION , and phrase generation 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2233 91  16.760881746732355 BM25
+
+
+Signature Simulation and Certain Cryptographic Codes
+For the benefit of the uninitiated , the encoding method used in thesecond cypher employs a specified document whose WORDS are simply numbered consecutively , and first lettersof these WORDS are sought out at random to match the letters of these WORDS are sought out at randomto match the letters of the clear text or message Modern computer technology couldobviously perform signature analyses the process of encoding itself so as to yield new clues and deeperinsights into their CONSTRUCTION 
+
+CA710101 JB February 8, 1978  1:15 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2092 92  16.67374993320435 BM25
+
+
+A Deductive Question-Answer for Natural Language Inference
+
+
+CA700306 JB February 13, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2883 93  16.662083659608246 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2923 94  16.633683593959237 BM25
+
+
+High-Level Data Flow Analysis
+
+
+CA771003 JB December 27, 1977  11:41 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2722 95  16.573241139266898 BM25
+
+
+Multidimensional Binary Search Trees Used for Associative Searching
+
+
+CA750902 JB January 6, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2160 96  16.57278590166863 BM25
+
+
+Canonical Structure in Attribute Based File Organization
+address calculation , atoms of Boolean algebra , attributes , Boolean functions , Boolean queries , file organization , information retrieval , invertedfile , key WORDS , multilist , queries , searches 
+
+CA710904 JB February 2, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-1206 97  16.55742078924027 BM25
+
+
+The Self-Judgment Method of Curve Fitting
+
+
+CA650818 JB March 6, 1978  7:50 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2396 98  16.551547767518414 BM25
+
+
+MUSE: A Model To Understand Simple English
+MUSE : A Model To Understand Simple ENGLISH MUSE , from a Model to UnderstandSimple ENGLISH , processes ENGLISH sentences of unrestricted content but somewhat restricted format 
+
+CA720107 JB February 1, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-3138 99  16.5285145904601 BM25
+
+
+A Mathematical Programming Updating Method Using ModifiedGivens Transformations and Applied to LP Problems
+
+
+CA790404 DH May 21, 1979  2:06 PM
+
+
+--------------------------------------------------------------
+59 Q0 CACM-2532 100  16.516553118256674 BM25
+
+
+On Harrison's Substring Testing Technique
+string , substring , HASHING , information storage and retrieval 
+
+CA730307 JB January 24, 1978  10:30 AM
+
+

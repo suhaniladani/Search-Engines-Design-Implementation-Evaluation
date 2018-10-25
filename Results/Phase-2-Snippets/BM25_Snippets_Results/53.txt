@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+53 Q0 CACM-0514 1  23.61090575850696 BM25
+
+
+Binomial Coefficients (Algorithm 19)
+BINOMIAL Coefficients ( Algorithm 19 ) 
+
+CA620814 JB March 17, 1978  9:40 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0569 2  23.61090575850696 BM25
+
+
+Binomial Coefficients (Algorithm 19)
+BINOMIAL Coefficients ( Algorithm 19 ) 
+
+CA620616 JB March 17, 1978  9:22 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0139 3  23.425107368786684 BM25
+
+
+Binomial Coefficients (Algorithm 19)
+BINOMIAL Coefficients ( Algorithm 19 ) 
+
+CA601009 JB March 20, 1978  8:14 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1186 4  20.93227113962817 BM25
+
+
+Recursive Solution of a Class Of Combinatorial Problems: An Example
+Combinatorial problems requiring the selectionof n elements from a set of m elements may be solved by a recursion process analogous to that forcomputing BINOMIAL coefficients 
+
+CA651009 JB March 6, 1978  6:40 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2210 5  20.273446879542806 BM25
+
+
+Toward Automatic Program Synthesis
+It is emphasized that in order to construct a program with loops or withrecursion , the principle of mathematical INDUCTION must be applied The RELATION between the version ofthe INDUCTION rule used and the form of the program constructed is explored in some detail artificial intelligence , answer extraction , automaticprogram synthesis , mathematical INDUCTION principle , problem solving , THEOREM proving An elementary outline of the theorem-provingapproach to automatic program synthesis is given , without dwelling on technical details The method isillustrated by the automatic construction of both recursive and iterative programs operating on naturalnumbers , lists , and trees , In order to construct a program satisfying certain specifications a theoreminduced by those specifications is proved , and the desired program is extracted from the proof 
+
+CA710302 JB February 3, 1978  4:48 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2391 6  19.835126679492433 BM25
+
+
+Unitary Symmetric Polynomials [Z] (Algorithm R391)
+symmetric polynomials , elementary symmetric polynomials , unitary symmetric polynomials , polynomial synthesis , reverse Horner scheme , reversesynthetic division , BINOMIAL coefficients 
+
+CA720112 JB February 1, 1978  8:55 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2986 7  17.308711808899485 BM25
+
+
+Operations on Sparse Relations
+Operations on Sparse RELATIONS Various computations on RELATIONS , Boolean matrices , or directed graphs , such as the computation of precedence RELATIONS for a context-free grammar , can bedone by a practical algorithm that is asymptotically faster than those in common use For example , how to computeoperator precedence or Wirth-Weber precedence RELATIONS in O ( n^2 ) steps is shown , as well as how tocompute linear precedence functions in O ( n^2 ) steps is shown , as well as how to compute linear precedencefunctions in O ( n ) steps , where n is the size of a grammer The heart of the algorithms is a generaltheorem giving sufficient conditions under which an expression whose operands are sparse RELATIONS andwhose operators are composition , transitive closure , union , and inverse , can be computed efficiently computational complexity , sparse RELATION , Booleanmatrix , directed graph , Wirth-Weber precedence RELATION , linear precedence function , SLRgrammar , T-canonical precedence RELATION 
+
+CA770306 JB December 29, 1977  8:05 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2229 8  17.280779130747934 BM25
+
+
+Construction of Rational and Negative Powers of a Formal Series
+There are basically twoapproaches : the BINOMIAL THEOREM and the iteration methods series expansion , series inversion , root extraction , BINOMIAL THEOREM , Newton iterations , Chebyshev series , Poisson series , Fourier series Both methods are described here , and the relationshipbetween them is pointed out 
+
+CA710105 JB February 8, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2031 9  16.45813398148683 BM25
+
+
+Algorithm and Bound for the Greatest Common Divisor of n Integers
+2031 4 20312031 4 20311022 5 20312028 5 20312031 5 20312031 5 20312031 5 20312521 5 2031450 5 20313099 5 20311313 6 20312028 6 20312031 6 20312031 6 20312031 6 20313135 6 2031 Algorithm and Bound for the Greatest Common Divisor of n INTEGERS A new version of the Euclideanalgorithm for finding the greatest common divisor of n INTEGERS a ( i ) and multipliers x ( i ) such that gcd = x ( 1 ) a ( 1 ) + A THEOREM of Lame that gives a bound for the number of iterations of the Euclidean algorithm for two INTEGERS is extended to the case of n INTEGERS 
+
+CA700706 JB February 13, 1978  8:45 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2769 10  14.775577897482226 BM25
+
+
+A Modification of Warshall's Algorithm forthe Transitive Closure of Binary Relations
+A Modification of Warshall 's Algorithm forthe Transitive Closure of Binary RELATIONS The algorithm is similar to Warshall'salthough it executes faster for sparse matriceson most computers , particularly in a paging environment Warshall 's algorithm , transitive closure , reachabilitymatrix , directed graph , digraph , Boolean matrix , binary RELATION An algorithm is given for computing the transitiveclosure of a binary RELATION that is represented by a Boolean matrix 
+
+CA750408 JB January 9, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1817 11  14.629138226654174 BM25
+
+
+Computation of Fourier Coefficients (Algorithm 255 [C6])
+HALL , G 
+
+CA691113 JB February 15, 1978  12:08 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2416 12  14.063911603614446 BM25
+
+
+Matrix Transposition in Place [F1] (Algorithm A467)
+
+
+CA731110JB January 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2981 13  13.93655246267844 BM25
+
+
+Subgoal Induction
+Subgoal INDUCTION A proof method , subgoal INDUCTION , is presentedas an alternative or supplement to the commonly used inductive assertion method The RELATION between subgoal INDUCTION and other commonly used INDUCTION rules is exploredand , in particular , it is shown that subgoal INDUCTION can be viewed as a specialized form of computationinduction A set of sufficient conditions are presented which guarantee that an input-output specificationis strong enough for the INDUCTION steps of a proof by subgoal INDUCTION to be valid program verification , proving programs correct , INDUCTION rule , computation INDUCTION , inductive assertions , structural INDUCTION , proof rule , recursive programs , iterative programs 
+
+CA770401 JB December 29, 1977  6:31 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1567 14  12.879514131688822 BM25
+
+
+On the Representation of Symmetric Polynomials
+RELATIONS are given between certain symmetricpolynomials in the light of the theory of the symmetric GROUP 
+
+CA670706 JB February 28, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2420 15  12.718692682073247 BM25
+
+
+Experiments with an Automatic Theorem-ProverHavingPartial Ordering Inference Rules
+The new rules embody the TRANSITIVITY of partial orderings and the close relationship between predicates Experiments with an Automatic Theorem-ProverHavingPartial Ordering Inference Rules Automatic theorem-provers need to be made muchmore efficient With this in mind , Slagle has shown how the axioms for partial ordering can be replacedby built-in inference rules when using a particular theorem-proving algorithm based upon hyper-resolution andparamodulation This new theorem-proverhas been found to be very powerful for solving problems involving partial orderings theorem-proving , partial ordering , resolution , hyper-resolution , P1-resolution , paramodulation , inference rules , heuristics 
+
+CA731106 JB January 20, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0679 16  12.451237072161698 BM25
+
+
+Recent Improvements in MADCAP
+In the area of complex display , the most prominent improvementsare a notation for integration and for the BINOMIAL coefficients 
+
+CA631113 JB March 13, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0717 17  12.427111231913166 BM25
+
+
+Partitioning Algorithms for Finite Sets
+The partitions of a set with n elements are representedby certain n-tuples of positive INTEGERS 
+
+CA631008 JB March 13, 1978  5:57 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1948 18  12.397035408558411 BM25
+
+
+Computers in Group Theory: a Survey
+Computers in GROUP Theory : a Survey Computers are being applied to an increasinglydiverse range of problems in GROUP theory The most important areas of application at present arecoset enumeration , subgroup lattices , automorphism groups of finite groups , character tables , and commutatorcalculus GROUP theory programs range from simple combinatorial or numerical programs to largesymbol manipulation systems GROUP theory , coset enumeration , subgroup lattices , automorphism groups , character tables , commutator calculus , topology , crystallography , permutation groups , Abelian groups , discrete mathematics , non-numerical programming , symbol manipulation , survey 
+
+CA690101 JB February 20, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2613 19  12.230897719057428 BM25
+
+
+Transitivity Sets [G7] (Algorithm A482)
+TRANSITIVITY Sets [ G7 ] ( Algorithm A482 ) TRANSITIVITY , sets 
+
+CA740811 JB January 17, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2476 20  12.160192461042495 BM25
+
+
+Equivalence Between AND/OR Graphs and Context-Free Grammars
+HALL , P 
+
+CA730710 JB January 23, 1978  11:21 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1887 21  11.993430071206115 BM25
+
+
+A Recursive Relation for the Determinant of a Pentadiagonal Matrix
+A Recursive RELATION for the Determinant of a Pentadiagonal Matrix A recursive RELATION , relating leading principalminors , is developed for the determinant of a pentadiagonal matrix 
+
+CA690606 JB February 17, 1978  11:00 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2648 22  11.649496141640384 BM25
+
+
+A Design for a Number Theory Packagewith an Optimized Trial Division routine
+A number theory package is described which usesdoubly linked list structures for storing multiprecise INTEGERS An optimally codedtrial division routine is also described which can be used to determine the unique factorization of large INTEGERS number theory package , trial division , multiprecisearithmetic , factorization , doubly linked lists , pseudoprime 
+
+CA740505 JB January 17, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1403 23  11.591148089446344 BM25
+
+
+A Method for Finding the m Smallest Values ofa Monotonic Function Defined on Ordered Sets of Positive Integers
+A Method for Finding the m Smallest Values ofa Monotonic Function Defined on Ordered Sets of Positive INTEGERS This observationis used to devise an efficient method for finding the m smallest functional values of monotonicfunctions defined on ordered pairs of positive INTEGERS 
+
+CA660709 JB March 2, 1978  9:13 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2028 24  11.08285581510299 BM25
+
+
+Greatest Common Divisor of n Integersand Multipliers $A1) (Algorithm 386)
+2028 4 20282521 4 20283099 4 20282028 5 20282028 5 20282028 5 20282031 5 20282521 5 20282028 6 20282031 6 20283135 6 2028 Greatest Common Divisor of n Integersand Multipliers $ A1 ) ( Algorithm 386 ) 
+
+CA700709 JB February 10, 1978  4:31 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1707 25  10.870346358834086 BM25
+
+
+Generation of Positive Test Matrices with Known Positive Spectra
+HALL , C 
+
+CA680807 JB February 22, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0269 26  10.855824775834982 BM25
+
+
+Core Allocation Based on Probability
+
+
+CA611012 JB March 16, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0248 27  10.84823831458731 BM25
+
+
+What is Proprietary In Mathematical Programming?-Impressionsof a Panel Discussion
+A panel discussion on `` What is Proprietaryin Mathematical Programming ? '' was sponsored by the Special Interest Committee on Mathematical Programmingof the ACM during a HALL of Discussion/on September 7th at the 16th National ACM meeting in Los Angeles 
+
+CA611202 JB March 15, 1978  10:31 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1922 28  10.722760219702463 BM25
+
+
+Proposed USA Standard (Data Communication ControlProcedures for the USA Standarad Code for Information Interchange)
+data communication , data communication control procedures , data communication establishment/termination procedures , data communication message transfer procedures , data communication error control procedures , data communication polling/selection procedures , communication , communication control procedures , communication establishment/termination procedures , communicationmessage transfer procedures , communication error control procedures , communication polling/selection procedures , LINK , LINK control procedures , LINK establishment/termination procedures , LINK message transfer procedures , LINK errorcontrol procedures , LINK polling/selection procedures , data LINK , data LINK control procedures , data LINK establishment/terminationprocedures , data LINK message transfer procedures , data LINK error control procedures , data LINK polling/selection procedures 
+
+CA690305 JB February 20, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0382 29  10.688912358741856 BM25
+
+
+Statistical Programs at the University of North Carolina
+
+
+CA610216 JB March 17, 1978  12:48 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1423 30  10.351136687308134 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-3010 31  10.287881149149664 BM25
+
+
+Value Orientation of Computer Science Students
+This is confirmed by the value ratings of 313 students at the University of Minnesotain 1972 
+
+CA780303 JB March 28, 1978  1:21 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2430 32  10.28352148701546 BM25
+
+
+The Elementary Circuits of a Graph [H] (Algorithm A459)
+
+
+CA731010 JB January 20, 1978  11:11 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-3037 33  10.277893096274642 BM25
+
+
+A Linear Sieve Algorithm for Finding Prime Numbers
+The algorithm executes in time proportional to n ( assuming that multiplicationof INTEGERS not larger than n can be performed in unit time ) It is also easily extended to find the prime factorization of all INTEGERS between 2 and n in time proportional to n 
+
+CA781202 DH January 22, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0373 34  10.178657463808154 BM25
+
+
+Correlation Coefficients with Matrix Multiplication (Algorithm 39)
+Correlation Coefficients with Matrix Multiplication ( Algorithm 39 ) 
+
+CA610309 JB March 17, 1978  12:37 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1914 35  10.136113289656564 BM25
+
+
+Matrix Scaling by Integer Programming (Algorithm 348 [F1])
+
+
+CA690403 JB February 17, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2149 36  10.127380341167083 BM25
+
+
+ENTCAF and ENTCRE: Evaluation of NormalizedTaylor Coefficients of an Analytic Function [C5] (Algorithm 413)
+
+
+CA711007 JB February 2, 1978  11:53 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1521 37  9.925307969063597 BM25
+
+
+Multi-Dimensional Partition Generator (Algorithm 313 [A1])
+Multi-Dimensional Partition Generator ( Algorithm 313 [ A1 ] ) 
+
+CA671012b JB March 23, 1978  2:26 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2326 38  9.828403478009971 BM25
+
+
+Fix point Approach to the Theory of Computation 
+verification techniques , semantics of programminglanguages , least fix points , recursive programs , computational INDUCTION 
+
+CA720702 JB January 30, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2327 39  9.733400586401894 BM25
+
+
+Toward an Automata Theory of Brains
+
+
+CA720701 JB January 30, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1609 40  9.533873897185698 BM25
+
+
+Scheduling University Course Examinations by Computer
+HALL Jr First , course which may have their examinations scheduled atthe same period are grouped together in all possible ways Then a minimum number of these groups , such thateach course is included at least once , are selected By removing multiple occurrences of courses and then schedulingeach GROUP at a different period a minimal schedule can be obtained 
+
+CA670406 JB February 28, 1978  11:22 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2457 41  9.363660974936904 BM25
+
+
+Inductive Methodsfor Proving Properties of Programs
+Discussed in detail are twopowerful inductive methods computational INDUCTION and structural INDUCTION , including examples of their applications recursive programs , least fixed point , computationalinduction , structural INDUCTION 
+
+CA730817 JB January 23, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0495 42  9.358629444244016 BM25
+
+
+A Procedure for Inverting Large Symmetric Matrices
+
+
+CA620833 JB March 17, 1978  9:09 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1870 43  9.145141988602607 BM25
+
+
+Some Techniques for Using Pseudorandom Numbers in Computer Simulation
+An algorithm is described by which uniform pseudorandomintegers may be used to construct binary `` numbers '' in which the probability that each bit in theword is a 1-bit and can assume any desired parameter value 
+
+CA690710 JB February 17, 1978  8:54 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2953 44  9.12814129397102 BM25
+
+
+Notes on Recursion Elimination
+recursion elimination , optimization of programs , stacks , trees , sorting algorithms , computational INDUCTION 
+
+CA770610 JB December 28, 1977  12:50 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2739 45  9.003620568766777 BM25
+
+
+The Restriction Language for Computer Grammars of Natural Language
+Linguistic String Project , and embodies in its syntaxand routines the RELATIONS which were found to be useful and adequate for computerized natural languageanalysis Over the past few years , a number of systemsfor the computer analysis of natural language sentences have been based on augmented context-freegrammars : a context-free grammar which defines a set of parse trees for a sentence , plus a GROUP of restrictionsto which a tree must conform in order to be a valid sentence analysis 
+
+CA750703 JB January 9, 1978  10:17 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1933 46  8.931207261053626 BM25
+
+
+Coding the Lehmer Pseudo-random Number Generator
+An algorithm and coding technique is presentedfor quick evaluation of the Lehmer pseudo-random number generator MODULO 2**31 - 1 , a prime Mersennenumber with produces 2**31 - 2 numbers , on a p-bit ( greater than 31 ) computer 
+
+CA690205 JB February 20, 1978  11:07 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2096 47  8.918263296307032 BM25
+
+
+Experiments with the M & N Tree-Searching Program
+
+
+CA700302 JB February 14, 1978  8:34 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1836 48  8.720680126380143 BM25
+
+
+A New Method for Determining Linear PrecedenceFunctions for Precedence Grammars
+The precedence RELATIONS of a precedence grammar canbe precisely described by a two-dimensional precedence matrix 
+
+CA691010 JB February 15, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2192 49  8.457249317748175 BM25
+
+
+Another Recursion Induction Principle
+Another Recursion INDUCTION Principle recursion , INDUCTION , correctness , proofs , compiler correctness 
+
+CA710507 JB February 3, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1308 50  8.443907097825521 BM25
+
+
+A Mathematical Model for Mechanical part Description
+One approach to the mathematical model consists of a GROUP of surface-defining quadricequations , which are created by a system of modular subprogram 
+
+CA650216 JB March 7, 1978  10:46 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2032 51  8.41460884324579 BM25
+
+
+File Structures Using Hashing Functions
+Two types of such trees are examined , and their RELATION to trees studied in the past is explainedesults for the probability distributions of path lengths are derived and illustrated 
+
+CA700705 JB February 13, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1935 52  8.352005732335257 BM25
+
+
+Randomized Binary Search Technique
+
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1725 53  8.342880751475928 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+A Simple Proof of Lewin 's Ordered-RetrievalTheorem for Associative Memories ) In this paper a very simple proof of this THEOREM derived from some elementaryaspects of the structure of sets of binary numbers is presented associative memories , content-addressed memories , ordered lists , ordered information retrieval , ordered retrieval THEOREM , column digit values , digitvalue variety , column sensing arrangement , digit value readout , digit variety readout , memory access , memoryaccess frequency , ordered retrieval efficiency , access frequency proof , retrieval THEOREM proof 
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1691 54  8.326543268813625 BM25
+
+
+A Comparison of the Correlational Behaviorof Random Number Generators for the IBM 360
+Hutchinson states that the `` new '' ( prime MODULO ) multiplicative congruential pseudorandom generator , attributed to D random numbers , pseudorandom number generators , autocorrelationfunction , serial correlation , digital shift-register generators , linear recurrence modulotwo , irreducible polynomials , primitive trinomials MODULO two , congruential generators , prime numbers , statistical tests for randomness , IBM 360 , 32-bit versus 36-bit word size A Comparison of the Correlational Behaviorof Random Number Generators for the IBM 360 It is here empirically shown that generators of this typecan produce sequences whose autocorrelation functions up to lag 50 exhibit evidence of nonrandomness for manymultiplicative constants 
+
+CA680910 JB February 21, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2169 55  8.290935362151622 BM25
+
+
+The Altran System for Rational Function Manipulation-A Survey
+HALL Jr 
+
+CA710803 JB February 2, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2644 56  8.254342435000854 BM25
+
+
+A Theorem-Proving Language for Experimentation
+A Theorem-Proving Language for Experimentation Because of the large number of strategiesand inference rules presently under consideration in automated THEOREM proving , there is a need for developinga language especially oriented toward automated THEOREM proving The use of this language permits easy extension of automatedtheorem-proving programs to include new strategies and/or new inference rules THEOREM proving , resolution , factoring , paramodulation , programming languages 
+
+CA740602 JB January 17, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2763 57  8.23885279971331 BM25
+
+
+Basic Cycle Generation [H] (Algorithm 491)
+
+
+CA750504 JB January 9, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0852 58  8.225197954646264 BM25
+
+
+A Method of Comparing the Time Requirements of Sorting Methods
+HALL , M 
+
+CA630515 JB March 14, 1978  10:58 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0278 59  8.107996570345431 BM25
+
+
+A General Formulation of storage Allocation
+Storageallocation is considered as a process of establishing for an arbitrary M ' program a sequence of mappings , a decouplingof the program into M-admissible subprograms and a linking set of interludes 
+
+CA611003 JB March 16, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2842 60  8.043066415639315 BM25
+
+
+The Denotational Semantics of Programming Languages
+
+
+CA760802 JB January 4, 1978  10:33 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2695 61  7.949941766305638 BM25
+
+
+Tridiagonalization by Permutations
+
+
+CA740104 JB January 18, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2806 62  7.914006477930856 BM25
+
+
+Two Hadamard Numbers for Matrices
+A discussion is given of two functions of the entriesof a square matrix , both related to Hadamard 's determinant THEOREM , which have some merits as alternativesto norm-bound `` condition numbers 
+
+CA750105 JB January 12, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2857 63  7.773077954310694 BM25
+
+
+Referencing Lists by an Edge
+For instance , a circular LINK between the ends of a list is redundant if the listis always referenced by that edge , and list traversal is easier when that LINK is null Edge references alsoallow threading of nonrecursive lists , can replace some header cells , and enhance the famousexclusive-or-trick to double-link lists list processing , circular , doubly linked , overlappingsublist , header cell , pointer , cursor 
+
+CA760605 JB January 4, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2340 64  7.605105183024286 BM25
+
+
+A Boolean Matrix Method for the Computationof Linear Precedence Functions
+A modified version of Bell 's Boolean matrixmethod for the computation of linear precedence functions associated with a conflict-free matrix ofprecedence RELATIONS is given 
+
+CA720605 JB January 30, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2608 65  7.423687685675657 BM25
+
+
+Recurrence Relations for the Fresnel Integral and Similar Integrals
+Recurrence RELATIONS for the Fresnel Integral and Similar Integrals recurrence RELATIONS , Fresnel integral , exponential integral 
+
+CA740816 JB January 17, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2446 66  7.3823968597316325 BM25
+
+
+Analysis of Skew Representations of the Symmetric Group (Algorithm A455)
+Analysis of Skew Representations of the Symmetric GROUP ( Algorithm A455 ) symmetric GROUP , skew representation , partition , Young diagram , lattice permutation , binary model , outer product 
+
+CA730909 JB January 23, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2484 67  7.364106976056729 BM25
+
+
+A Note on Information Organization and Storage
+There are three important elements in this general construction method ; namely , a set ofbinary RELATIONS , an algorithm for constructing subsets of a set , and an algorithm for selecting anelement from the given set of objects The use of different RELATIONS and algorithms results in differentinformation structures , as list , tree , ring , etc Thus the problem of information organization andstorage is reduced to that of defining RELATIONS and formulating algorithms under a given set of constraints 
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2081 68  7.3621115531536505 BM25
+
+
+Some Complete Calculi for Matrices
+
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2059 69  7.3363425202642745 BM25
+
+
+A Language for Treating Graphs
+A language for the representation of graph is described , and the formulation of graph operations such as node and/or LINK deletion or insertion , union , intersection , comparison , and traversal of graphs is given Graphsare represented by linked lists 
+
+CA700507 JB February 13, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0727 70  7.320058516600887 BM25
+
+
+On the Approximate Solution of Delta(u)=F(u)
+
+
+CA630931 JB March 13, 1978  6:57 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2554 71  7.290345121742339 BM25
+
+
+Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+
+
+CA730107 JB January 24, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1295 72  7.275619305289502 BM25
+
+
+PERT Time Calculations Without Topological Ordering
+An activityis represented by a LINK A LINK is defined as a memory location containing the address of anothermemory location The time information for an activity is carried with its LINK The links are unidirectional ; forward during the T ( E ) calculation ( expected completion time foran activity ) ; backward during the T ( L ) calculation ( time latest allowable for completion of an activity ) 
+
+CA650312 JB March 7, 1978  6:00 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1533 73  7.232335129723344 BM25
+
+
+A Marovian Model of the University of Michigan Executive System
+
+
+CA670911 JB February 27, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2134 74  7.213677983416593 BM25
+
+
+An Extension of the Munkres Algorithm forthe Assignment Problem to Rectangular Matrices
+Timing resultsobtained by using an adapted version of Silver 's Algol procedure are discussed , and a RELATION betweensolution time and problem size is given 
+
+CA711209 JB February 2, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1217 75  7.196166169027431 BM25
+
+
+Map of Partitions into Integers (Algorithm 264 [A1])
+Map of Partitions into INTEGERS ( Algorithm 264 [ A1 ] ) 
+
+CA650807 JB March 6, 1978  8:19 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2809 76  7.101710023739187 BM25
+
+
+Positivity and Norms
+
+
+CA750102 JB January 12, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0068 77  7.082825598643516 BM25
+
+
+The Role of the University in Computers,Data Processing and Related Fields
+
+
+CA590901 JB March 22, 1978  6:05 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0203 78  7.036343821698208 BM25
+
+
+Decoding Combinations of the First n Integers Taken k at a Time
+Decoding Combinations of the First n INTEGERS Taken k at a Time 
+
+CA600408 JB March 22, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2298 79  7.016344998726278 BM25
+
+
+An Environment for Research in Microprogramming and Emulation
+The development of the research project inmicroprogramming and emulation at State University of New York at Buffalo consisted of three phases : theevaluation of various possible machines to support this research ; the decision to purchase one such machine , which appears to be superior to the others considered ; and the organization and definition of goalsfor each GROUP in the project 
+
+CA720804 JB January 30, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2569 80  7.013832451937927 BM25
+
+
+Computer Generation of Gamma Random Variateswith Non-integral Shape Parameters
+
+
+CA741205 JB January 16, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1365 81  6.9771217227855065 BM25
+
+
+Eliminating Monotonous Mathematics with FORMAC
+
+
+CA661002 JB March 2, 1978  4:14 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1867 82  6.976695643904883 BM25
+
+
+On the Expected Lengths of Sequences Generatedin Sorting by Replacement Selecting
+replacement selecting , sorting , sequence lengths , asymptotic expected length , recursion RELATION , generating function , meromorphic function 
+
+CA690713 JB February 15, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1672 83  6.9733114427913945 BM25
+
+
+Practical Error Coefficients in the Integrationof Periodic Analytic Functions by the Trapezoidal Rule
+
+
+CA681107 JB February 21, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1683 84  6.939634311742168 BM25
+
+
+Boolean matrix Methods for the Detection of Simple Precedence Grammars
+syntax analysis , precedence analysis , simple precedencegrammar , simple precedence language , operator grammar , operator precedence , compilers , bounded-contextsyntactic analysis , Boolean matrices , RELATIONS 
+
+CA681004 JB February 21, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2714 85  6.934401315447631 BM25
+
+
+Merging with Parallel Processors
+
+
+CA751005 JB January 6, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2220 86  6.920590623013168 BM25
+
+
+Conversion of Limited-Entry Decision Tables to ComputerPrograms-A Proposed Modification to Pollack's Algorithm
+The first relies on Shannon 's noiselesscoding THEOREM and the communications concept of entropy but does not completely test the ELSE Rule 
+
+CA710201 JB February 8, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2720 87  6.885036871068262 BM25
+
+
+Optimal Balancing of I/O Requests to Disks
+
+
+CA750904 JB January 6, 1978  2:42 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2103 88  6.883466341846423 BM25
+
+
+Restricted Partition Generator (Algorithm 374 $A1))
+partitions , restricted partitions , sums of INTEGERS , restricted sums 
+
+CA700212 JB February 14, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0722 89  6.850377625967134 BM25
+
+
+ALCOR Group Representation of ALGOL Symbols
+ALCOR GROUP Representation of ALGOL Symbols 
+
+CA631003 JB March 13, 1978  6:36 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2794 90  6.849729198375837 BM25
+
+
+State-Space, Problem-Reduction, and Theorem Proving-Some Relationships
+State-Space , Problem-Reduction , and THEOREM Proving-Some Relationships This paper suggests a bidirectional relationshipbetween state-space and problem-reduction representations The relationship between problem-reduction , input resolution , and linear resolution is discussed A method for representing problems in first-order logicin such a way that the inference system employed by a resolution-based THEOREM prover determines whetherthe set of clauses is interpreted in the state-spacer mode or in the problem-reduction mode is presented The analogous concepts in problem-reduction and THEOREM proving , and the terminology used to refer to them , are noted artificial intelligence , state-space representation , problem-reduction representation , THEOREM proving , language recognition 
+
+CA750205 JB January 12, 1978  8:27 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-3100 91  6.84113373992786 BM25
+
+
+An Interference Matching Technique for Inducing Abstractions
+Rule INDUCTION , knowledge acquisition , partialmatching , interference , graph matching , learning , INDUCTION , knowledge representation , informal retrieval , abstraction , generalization , language learning , complexity , predicate discovery The proposed method , interference matching , induces abstractionsby finding relational properties common to two or more exemplars 
+
+CA780507 DH February 26, 1979  1:26 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0725 92  6.796470793891372 BM25
+
+
+Group Participation Computer Demonstration
+GROUP Participation Computer Demonstration 
+
+CA630933 JB March 13, 1978  6:50 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2104 93  6.785185932589808 BM25
+
+
+Number of Doubly Restricted Partitions (Algorithm 373 $A1))
+partitions , restricted partitions , sums of INTEGERS , restricted sums 
+
+CA700211 JB February 14, 1978  9:52 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2052 94  6.761018262186047 BM25
+
+
+Scheduling to Reduce Conflict in Meetings
+Conflicts in scheduling can be treated as defining an undirected linear graph independently of the RELATION of the activities in conflict to additional constraints of time and space 
+
+CA700603 JB February 13, 1978  11:55 AM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1784 95  6.757740912927916 BM25
+
+
+Practical Error Coefficients for EstimatingQuadrature Errors for Analytic Functions
+
+
+CA680110 JB February 23, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0616 96  6.752363866200785 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+An Information Algebra - Phase I Report-LanguageStructure GROUP of the CODASYL Development Committee This report represents the results of thefirst phase of the work of the Language Structure GROUP Questions and comments will be welcomed , and can be addressed to any of the members of the Language Structure GROUP : Robert Bosak , SystemDevelopment Corporation ; Richard F 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1066 97  6.745298621646867 BM25
+
+
+Growing Applications of Linear Programming
+
+
+CA640601 JB March 9, 1978  9:55 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-0453 98  6.743405742469959 BM25
+
+
+Enlargement of a Group (Algorithm 136)
+Enlargement of a GROUP ( Algorithm 136 ) 
+
+CA621108 JB March 17, 1978  6:17 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-2549 99  6.742363230509129 BM25
+
+
+Random Deviates from the Dipole Distribution [G5] (Algorithm A441)
+
+
+CA730112 JB January 24, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+53 Q0 CACM-1862 100  6.643178578814086 BM25
+
+
+Computing Capabilities at Argentine and Chilean Universities
+university education , computing science academicprograms , university computing centers , surveys of computing centers , university computing capabilities , university-studentrelationship , Argentine universities , Chilean universities , South American universities , developing nations 
+
+CA690801 JB February 15, 1978  6:21 PM
+
+

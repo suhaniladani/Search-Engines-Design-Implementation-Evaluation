@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+22 Q0 CACM-2674 1  8.32383815184722 BM25
+
+
+Scan Conversion Algorithms for a Cell Organized Raster Display
+Raster scan computer GRAPHICS with `` real time '' character generators have previously been limited to alphanumeric characters A display has been describedwhich extends the capabilities of THIS organization to include general GRAPHICS GRAPHICS , scan conversion , raster display , linedrawing , discrete image , dot generation , matrixdisplays Scan Conversion ALGORITHMS for a Cell Organized Raster Display Two fundamentally differentscan conversion ALGORITHMS which have been developed to support THIS display are presented The algorithmswere implemented in Fortran on the CDC 6400 computer Results obtained from the implementations showthat the noninteractive ALGORITHMS can significantly reduce display file storage requirements at little costin execution time over that of a conventional raster display 
+
+CA740309 JB January 18, 1978  11:08 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2678 2  7.581750090025704 BM25
+
+
+Visible Surface Plotting Program [J6] (Algorithm A475)
+hidden line problem , computer GRAPHICS , contour surface 
+
+CA740305 JB January 18, 1978  11:18 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2924 3  7.334668744822802 BM25
+
+
+An Interactive Computer Graphics Approach to Surface Representation
+An Interactive Computer GRAPHICS Approach to Surface Representation An in teractive computer GRAPHICS method has beendeveloped for the rapid generation of arbitrary shaped three-dimensional surfaces The method is a synthesisof spline theory and ALGORITHMS , an in teractive means for man-machine communication , and software forstatic or dynamic GRAPHICS display computer GRAPHICS , three-dimensional surface representation , splines , lofting , finite element input methods Among the features of THIS method are ALGORITHMS which enable in teractivemodification of the B-spline representation of the sectional curves 
+
+CA771002 JB December 27, 1977  11:53 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2188 4  6.378816313581192 BM25
+
+
+An Approach to the Optimum Design of Computer Graphics Systems
+An Approach to the Optimum Design of Computer GRAPHICS Systems Each subsystem is chosen from largenumbers of alternatives ; the selection is based on considerations such as system response time , systemcost , and the distribution of data storage and processing between the GRAPHICS processor and its supportingdata processing system THIS is accomplished bymeans of a mathematical model of a computer driven GRAPHICS system The parameters of the model are functionsof the capabilities of the GRAPHICS hardware and of the computational requirements of the GRAPHICS application By combining the model with an optimization , the best GRAPHICS system configuration , subject to a cost constraint , is found for several applications 
+
+CA710602 JB February 3, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1741 5  6.370452676162763 BM25
+
+
+BRAD: The Brookhaven Raster Display
+computer display , computer GRAPHICS , computer rasterdisplay , TV display console , digital TV display , swept raster computer display , swept raster TV computerdisplay , TV GRAPHICS terminal , multiconsole computer GRAPHICS , inexpensive graphic terminal 
+
+CA680604 JB February 22, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2687 6  6.140852064042197 BM25
+
+
+A Cell Organized Raster Display for Line Drawings
+Raster scan computer GRAPHICS displays with '' real time '' character generators have previously been limited to alphanumeric characters A display isdescribed which extends the capabilities of THIS organization to include general GRAPHICS GRAPHICS , raster display , line drawing , discreteimage , dot generation , matrix displays 
+
+CA740202 JB January 18, 1978  1:28 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2825 7  6.111288834865076 BM25
+
+
+The BMD and BMDP Series of Statistical Computer Programs
+analysis of variance , cluster analysis , contingencytables , data analysis , discriminant analysis , factor analysis , GRAPHICS , outliers , regression , time series , transformations 
+
+CA761006 JB January 3, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1978 8  6.079538551576478 BM25
+
+
+The Use of Interactive Graphics To Solve Numerical Problems
+The Use of Interactive GRAPHICS To Solve Numerical Problems interactive GRAPHICS , computer GRAPHICS , GRAPHICS , least squares , data-fitting , interactive computing , on-line mathematics 
+
+CA701012 JB February 10, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2402 9  5.943572669758648 BM25
+
+
+Pictorial Pattern Recognition and thePhase Problem of X-ray Crystallography
+The availability of interactive , three-dimensional , computer GRAPHICS systems coupled to powerful digital computers encourages the development of algorithmsadapted to THIS environment A simple example demonstrates that THIS information can be the basis of a techniquefor structure determination that can make effective use of an interactive GRAPHICS system pictorial pattern recognition , phase problem , X-ray crystallography , interactive GRAPHICS Application of standard pattern recognition ALGORITHMS is hindered by the factthat the cross-correlation between a model and the correct structure can not be computed because ofa fundamental incompleteness in the measured data 
+
+CA720101 JB February 1, 1978  9:53 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2004 10  5.93265926490683 BM25
+
+
+A Procedure for Generation of Three-dimensionalHalf-toned Computer Graphics Presentations
+A Procedure for Generation of Three-dimensionalHalf-toned Computer GRAPHICS Presentations half-tone computer GRAPHICS , line-scan image processing , hidden surface , polygonal surface structure presentations 
+
+CA700901 JB February 10, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-3049 11  5.9028074748471955 BM25
+
+
+A Simply Extended and Modified BatchEnvironment Graphical System (SEMBEGS)
+The paper presents the conceptual view of GRAPHICS leadingto the design of SEMBEGS and outlines the major components of the system The design of SEMBEGS is foundedupon the basic assumption that the true aim of computer GRAPHICS is to describe graphical entities , RATHER than , as commonly held , to provide graphical input and output functional capabilities BAGDAMSprovides facilities for storing , retrieving , and manipulating the descriptions of graphical entitiesprovided by , and received by application programs , GRAPHICS packages , and graphical devices Computer GRAPHICS , data structures , graphic display , graphic input , graphical database , device independent GRAPHICS 
+
+CA781102 DH January 26, 1979  1:30 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1742 12  5.553993279462011 BM25
+
+
+On the Design of Display Processors
+display processor design , display system , computergraphics , graphic terminal , displays , GRAPHICS , display generator , display channel , display programming , graphical interaction , remote displays 
+
+CA680603 JB February 22, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2211 13  5.513113544572077 BM25
+
+
+Scanned-Display Computer Graphics
+Scanned-Display Computer GRAPHICS computer GRAPHICS , scanned-display , scan conversion , raster displays 
+
+CA710301 JB February 3, 1978  4:53 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2078 14  5.455254582992286 BM25
+
+
+Representations for Space Planning
+automated design , data structures , computer GRAPHICS , computer-aideddesign , engineering design , architectural design , robots 
+
+CA700406 JB February 13, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2152 15  5.311994786326395 BM25
+
+
+Display Procedures
+Although the use of structured display filesis widespread in interactive computer GRAPHICS , these structures present a number of problems whichtend to restrict their generality and usefulness computer GRAPHICS , programming languages , display files 
+
+CA711004 JB February 2, 1978  1:11 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0266 16  5.062354052679769 BM25
+
+
+Fitting Spheres by the Method of Least Squares
+Fitting SPHERES by the Method of Least Squares 
+
+CA611102 JB March 15, 1978  11:00 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2369 17  5.017325174177088 BM25
+
+
+Hidden Lines Elimination for a Rotating Object
+hidden line problem , display programming , computergraphics , displays , GRAPHICS , computer drawn picture 
+
+CA720404 JB January 31, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2913 18  4.8651477188488155 BM25
+
+
+The Aliasing Problem in Computer-Generated Shaded Images
+aliasing , computer GRAPHICS , convolutionalfiltering , hidden-surface removal , sampling A method for evaluating filtersis presented , the application of prefiltering to hidden-surface ALGORITHMS is discussed , and an implementationof a filtering tiler is shown accompanied by examples of its effectiveness 
+
+CA771103 JB December 27, 1977  7:56 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2751 19  4.842831364451886 BM25
+
+
+Illumination for Computer Generated Pictures
+computer GRAPHICS , graphic display , hidden surface removal Several shading techniques corresponding to differentmethods of object modeling and the related hidden surface ALGORITHMS are presented here 
+
+CA750602 JB January 9, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-3149 20  4.78034071083303 BM25
+
+
+The Cyclic Order Property of Vertices as an Aid in Scene Analysis
+Scene analysis , cyclic order , artificial intelligence , three-dimensional reconstruction , picture processing , computer GRAPHICS , pattern recognition 
+
+CA790605 DH August 22, 1979  1:36 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2771 21  4.735153343110677 BM25
+
+
+The Synthesis of Solids Bounded by Many Faces
+computational geometry , computer-aided design , GRAPHICS , machined components , polyhedra , shape synthesis , three-dimensional modeling Two ALGORITHMS to perform addition are described 
+
+CA750406 JB January 9, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2845 22  4.41118574303798 BM25
+
+
+A Buddy System Variation for Disk Storage Allocation
+THIS makes itpossible to force logical storage blocks to coincide with physical storage blocks , such as tracks and CYLINDERS 
+
+CA760708 JB January 4, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2003 23  4.36422785856193 BM25
+
+
+An Interactive Software System for Computers-AidedDesign:  An Application to Circuit Project
+interaction , GRAPHICS , computer GRAPHICS , computer-aided design , circuitdesign , software system , software organization , language , monitor language , graphic language , extended Fortran 
+
+CA700902 JB February 10, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2967 24  4.2823004691160715 BM25
+
+
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer Graphics
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer GRAPHICS associative memory , associative processor , content-addressablememory , GRAPHICS , information retrieval , data structures , software evaluation , hardware evaluation , parallel processing , database management 
+
+CA770505 JB December 29, 1977  2:07 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0087 25  4.261706630616446 BM25
+
+
+A Note on a Method for Generating PointsUniformly on N-Dimensional Spheres
+A Note on a Method for Generating PointsUniformly on N-Dimensional SPHERES 
+
+CA590405 JB March 22, 1978  7:04 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2367 26  4.020266154084669 BM25
+
+
+Computers and Society: A Proposed Course for Computer Scientists
+In the remaining portions the possible formats for such a course are discussed , a TOPIC by topicoutline is given , and a selected set of references is listed 
+
+CA720406 JB January 31, 1978  1:06 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2201 27  3.9189737872116712 BM25
+
+
+Animator: An On-Line Two-dimensional Film Animation System
+computer GRAPHICS , computer animation , on-linesystems , two-dimensional languages , CRT , microfilm recorder 
+
+CA710404 JB February 3, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2486 28  3.909563373583672 BM25
+
+
+Computer Photocomposition of Technical Text
+photocomposition , typesetting , printing , GRAPHICS , text processing 
+
+CA730614 JB January 23, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2547 29  3.839334735419187 BM25
+
+
+Representation of Contours ad Regions for Efficient Computer Search
+contour map representation , region boundary representation , computer-search-able structure , graphic data retrieval , graphic language , two-dimensionalpatterns , computer GRAPHICS , graphic display 
+
+CA730201 JB January 24, 1978  3:30 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2826 30  3.799754507887788 BM25
+
+
+Interactive Skeleton Techniques for EnhancingMotion Dynamics in Key Frame Animation
+interactive GRAPHICS , computer generated animation , key frame animation , interactive skeleton control , stick figure animation 
+
+CA761005 JB January 3, 1978  4:24 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1891 31  3.790631457135995 BM25
+
+
+Three-Dimensional Computer Display
+computer GRAPHICS , three-dimensional display , sweptraster display , interactive stereographic terminal , video map , color separation 
+
+CA690602 JB February 17, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-3116 32  3.77674492897902 BM25
+
+
+Interference Detection Among Solids and Surfaces
+Interference checking , intersection detection , collision detection , solidrepresentation , polyhedral representation , GRAPHICS , polygons , surfaces THIS paper presents a computer representation for solids and surfaces and algorithmswhich carry out interference checking among objects so represented 
+
+CA790101 DH April 10, 1979  10:50 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2325 33  3.7044473600165873 BM25
+
+
+Numerical Mathematics and Computer Science
+Numerical mathematics is viewed as the analysisof continuous ALGORITHMS These are : foundations ( finite precision number systems , computational complexity ) , synthesis and analysis of ALGORITHMS , analysis of error , programs and program libraries numerical mathematics , computer science , mathematicsof computation , ALGORITHMS , continuous ALGORITHMS 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2494 34  3.4211023383640597 BM25
+
+
+A Computer Generated Aid for Cluster Analysis
+computer GRAPHICS , cluster analysis , numericaltaxonomy , hierarchical clustering , factor analysis 
+
+CA730606 JB January 23, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1014 35  3.389404873190743 BM25
+
+
+Machine Controls for Analysis of Variance
+Eventhough the experimenter may not be INTERESTED in these interactions it is impossible to ignore them inmost experimental designs because of the problem of getting error terms 
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1915 36  3.327853773520851 BM25
+
+
+An Algorithm for Hidden Line Elimination
+hidden line elimination , back line recognition , three-dimensionalrepresentation , plane-faced objects , perspective view , machine rendering of solids , automaticdrawing , displaying techniques , computer GRAPHICS , man/machine interaction , man/machine communication , computer-aided design 
+
+CA690402 JB February 17, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2827 37  3.277036317902951 BM25
+
+
+A Parametric Algorithm for Drawing Picturesof Solid Objects Composed of Quadric Surfaces
+computer GRAPHICS , hidden surface removal , quadric surface intersection curves 
+
+CA761004 JB January 3, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2421 38  3.2666889004177437 BM25
+
+
+A Scan Conversion Algorithm with Reduced Storage Requirements
+Most GRAPHICS systems using a raster scan outputdevice ( CRT or hardcopy ) maintain a display file in the XY or random scan format GRAPHICS , scan conversion , raster plotter , line drawing , discrete image , dot generation Published scan conversion ALGORITHMS which are fast will reserve a buffer area large enoughto accommodate the entire screen 
+
+CA731105 JB January 20, 1978  10:28 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2959 39  3.2169782157623503 BM25
+
+
+The System for Business Automation (SBA): Programming Language
+programming language , GRAPHICS , user in terface , data flow , forms flow , data abstraction , database , query , data processing , business system specification , application programming 
+
+CA770604 JB December 29, 1977  1:25 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2902 40  3.212600358418793 BM25
+
+
+Dynamic Memory Allocation in Computer Simulation
+THIS paper investigates the performance of35 dynamic memory allocation ALGORITHMS when used to service simulation programs as represented by 18test cases ALGORITHMS main taining separate free space lists for each size of memory block usedtended to perform quite well compared with other ALGORITHMS Simple ALGORITHMS operating on memory orderedlists ( without any free list ) performed surprisingly well ALGORITHMS employing power-of-two block sizeshad favorable processing requirements but generally unfavorable memory usage ALGORITHMS employing LIFO , FIFO , or memory ordered free lists generally performed poorly compared with others 
+
+CA771114 JB December 27, 1977  6:09 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2994 41  3.200452899393679 BM25
+
+
+A Linear Algorithm for Incremental Digital Display of Circular Arcs
+GRAPHICS , circle drawing , step generation , dotgeneration , incremental digital plotting , raster display , integer arithmetic , circle algorithm 
+
+CA770207 JB December 30, 1977  2:16 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2692 42  3.1896785073338214 BM25
+
+
+Reentrant Polygon Clipping
+computer GRAPHICS , hidden-surface , clipping A new family of clipping ALGORITHMS is described These ALGORITHMS are able to clip polygons against irregular convex plane-faced volumes in threedimensions , removing the parts of the polygon which lie outside the volume In two dimensions the algorithmspermit clipping against irregular convex windows The ALGORITHMS easily handlethe particularly difficult problem of detecting that a new vertex may be required at a corner of theclipping window The ALGORITHMS described achieve considerable simplicity by clipping separately againsteach clipping plane or window boundary 
+
+CA740107 JB January 18, 1978  2:04 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1697 43  3.1434942640332553 BM25
+
+
+Graphical Input/Output of Nonstandard Characters
+Chinese characters , input/output , orthography , RandTablet , PDP-1 , automatic typesetting , man-machine communication , computer GRAPHICS , graphical input , on-line editing 
+
+CA680904 JB February 22, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2426 44  3.1388565467301097 BM25
+
+
+Algorithms SCALE1, SCALE2, and SCALE3 for Determinationof Scales on Computer Generated Plots [J6] (Algorithm A463)
+ALGORITHMS SCALE1 , SCALE2 , and SCALE3 for Determinationof Scales on Computer Generated Plots [ J6 ] ( Algorithm A463 ) 
+
+CA731014 JB January 20, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2820 45  3.115974790263139 BM25
+
+
+The Design and Implementation of a Table Driven,Interactive Diagnostic Programming System
+CAPS is a highly interactive diagnostic compiler/interpreterthat allows beginning programmers to prepare , debug , and execute fairly simple programsat a GRAPHICS display terminal 
+
+CA761103 JB January 3, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1551 46  3.112239144629204 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+On Compiling ALGORITHMS for Arithmetic Expressions THIS paper deals with ALGORITHMS concerning arithmeticexpressions used in a FORTRAN IV compiler for a HITAC-5020 computer having n accumulators Thealgorithms generate an object code which minimizes the frequency of storing and recovering the partial resultsof the arithmetic expressions in cases where there are several accumulators 
+
+CA670804 JB February 27, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1680 47  3.0722100040539853 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+computer-assisted instruction , tutorial systems , programming , simulation , modeling , information retrieval operating systems , GRAPHICS , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2873 48  3.066282988121772 BM25
+
+
+LG: A Language for Analytic Geometry
+interactive programming , problem oriented languages , computer GRAPHICS , interpreters , analytic geometry 
+
+CA760403 JB January 4, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1796 49  2.9957520626195002 BM25
+
+
+Index by Subject to Algorithms, 1969
+Index by Subject to ALGORITHMS , 1969 THIS 1969 index is the first supplement to theIndex by Subject to ALGORITHMS , 1960 1968 ( Comm 
+
+CA691216 JB February 15, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2841 50  2.994533009498851 BM25
+
+
+Designing Surfaces in 3-D
+real-time GRAPHICS , computer-aided design , picture processing , B-splines , 3-D displays 
+
+CA760803 JB January 4, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2708 51  2.973216382911741 BM25
+
+
+Practical Syntactic Error Recovery
+Suggestionsfor further research on THIS TOPIC conclude the paper 
+
+CA751104 JB January 6, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2273 52  2.9641706031248045 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+Two ALGORITHMS for generating computer programsfrom decision tables are described The ALGORITHMS allow handling limited entry , extended entry , and mixedentry tables The ALGORITHMS are based on the rule mask method but need not have the masks at executiontime Execution time can be considerably reduced by instantly marking rules which are not applicable ( Algorithms1 and 2 ) or conditions which are already tested ( Algorithm 2 ) The new ALGORITHMS combine to acertain degree the advantages of mask methods with those of tree methods 
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1172 53  2.962930608241808 BM25
+
+
+Conversion of Limited-Entry Decision Tables to Computer Programs
+ALGORITHMS that can efficiently convertthe tables into computer programs will extend the usefulness of decision tables to computer users Two such ALGORITHMS , based on work done by M 
+
+CA651109 JB March 6, 1978  4:56 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2973 54  2.907430174407076 BM25
+
+
+Sorting on a Mesh-Connected Parallel Computer
+Two ALGORITHMS are presented for sorting n^2elements on an n X n mesh-connected processor array that require O ( n ) routing and comparison steps The ALGORITHMS of THIS paper are shown to be optimalin time within small constant factors 
+
+CA770409 JB December 29, 1977  4:58 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2829 55  2.8840898663826184 BM25
+
+
+Texture and Reflection in Computer Generated Images
+computer GRAPHICS , graphic display , shading , hidden surface removal 
+
+CA761002 JB January 4, 1978  8:36 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1658 56  2.791415033872869 BM25
+
+
+Analysis of Algorithms for the Zero-One Programming Problem
+Analysis of ALGORITHMS for the Zero-One Programming Problem THIS paper is concerned with a review and examinationof several existing ALGORITHMS for the zero-one programming problem The machine time and storage requirements of several of the ALGORITHMS are comparedover several test problems of small and intermediate size operations research , optimization theory , integerprogramming , zero-one variables , ALGORITHMS 
+
+CA681208 JB February 21, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2306 57  2.7797304737738435 BM25
+
+
+Ancient Babylonian Algorithms
+Ancient Babylonian ALGORITHMS 
+
+CA720722 JB January 30, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2919 58  2.7087761675410365 BM25
+
+
+The Programmer's Workbench-A Machine for Software Development
+In THIS paper it is suggested thatthere are many other situations where it would be advantageous to separate the program development andmain tenance function onto a SPECIALIZED computer which is dedicated to that purpose 
+
+CA771007 JB December 27, 1977  10:37 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2553 59  2.7027434768191574 BM25
+
+
+The Practical Aspect of Computer Science Education-Discussion
+
+
+CA730108 JB January 24, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-3111 60  2.564668159594884 BM25
+
+
+Secure Communications Over Insecure Channels
+It suggests that further research on THIS TOPIC will be highly rewarding , bothin a theoretical and a practical sense According to traditional conceptions of cryptographicsecurity , it is necessary to transmit a key , by secret means , before encrypted messages canbe sent securely 
+
+CA780405 DH February 26, 1979  4:18 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2368 61  2.5232806207205245 BM25
+
+
+An Implemented Graph Algorithm for Winning Shannon Switching games
+Since these games are played on graphs , the programis a good example of the implementation of graph ALGORITHMS graph ALGORITHMS , graph processing , Shannon SwitchingGames , game playing , graph theory , positional games , demonstration programs , game theory , spinning trees 
+
+CA720405 JB January 31, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2478 62  2.495655630489986 BM25
+
+
+Computer Science-Seminars for Undergraduates
+
+
+CA730708 JB January 23, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1844 63  2.475865382176984 BM25
+
+
+A Modular Computer Sharing System
+multiple terminal systems , terminal oriented systems , multiple processor systems , high availability , conversational systems , general purpose time-sharing systems , real-time response system , modular constructed systems , modular computer-sharing systems , GRAPHICS , file switch , intercomputer communications , control computer , problem computer , roll-in , roll-out 
+
+CA691002 JB February 15, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2672 64  2.436049455891614 BM25
+
+
+Emotional Content Considered Dangerous
+
+
+CA740311 JB January 18, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2267 65  2.3648489203449468 BM25
+
+
+Algorithms To Reveal Properties of Floating-Point Arithmetic
+ALGORITHMS To Reveal Properties of Floating-Point Arithmetic Two ALGORITHMS are presented in the form ofFortran subroutines 
+
+CA721102 JB January 27, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2226 66  2.351428049865774 BM25
+
+
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem The purpose of THIS note is to report computationalexperience additional to that recently summarized by Gue et al , with two ALGORITHMS for thezero-one linear programming problem The utility of one ofthe ALGORITHMS as a suboptimizer is indicated operations research , integer programming , zero-one variables , ALGORITHMS 
+
+CA710108 JB February 8, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2925 67  2.310927262292696 BM25
+
+
+Optimal Surface Reconstruction from Planar Contours
+surface reconstruction , contour data , serial sections , three-dimensional computer GRAPHICS , minimum cost paths , continuous tone displays 
+
+CA771001 JB December 27, 1977  12:40 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2987 68  2.3073252126670254 BM25
+
+
+Representation of Many-Sided Polygonsand Polygonal Lines for Rapid Processing
+boundary line representation , cartography , computergraphics computer-searchable structures , contour representation , geographic information processing , graphicdata retrieval , in tersection of curves , line-drawing processing , poin ts in polygons , regional boundaryrepresentation , spatial information 
+
+CA770305 JB December 30, 1977  12:44 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2007 69  2.292003843943587 BM25
+
+
+Algorithms Policy/Revised August 1970
+ALGORITHMS Policy/Revised August 1970 
+
+CA700814 JB February 10, 1978  3:12 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2809 70  2.284073751920234 BM25
+
+
+Positivity and Norms
+matrices , norms , positivity , numerical range , positivitycones , vector lattice , absolute , monotonic 
+
+CA750102 JB January 12, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2341 71  2.2836002405365567 BM25
+
+
+Blocks-A New Data type for SNOBOL4
+In additionto these somewhat SPECIALIZED applications , blocks appear to be a good general purpose device-independentoutput formation mechanism especially suitable for nonnumerical work The concept of a block is largelylanguage independenthat is , blocks require little in the way of SPECIALIZED syntax and could readilybe absorbed into the external structure of most programming languages character manipulation , output formatting , stringprocessing , GRAPHICS , nonnumerical programming , SNOBOL4 , data types , two-dimensional mathematics , test processing , flowcharting 
+
+CA720604 JB January 30, 1978  4:38 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1952 72  2.2556453661160902 BM25
+
+
+Index by Subject to Algorithms, 1970
+Index by Subject to ALGORITHMS , 1970 
+
+CA701211 JB February 9, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0217 73  2.242813061097795 BM25
+
+
+Soviet Computer Technology-1959
+
+
+CA600301 JB March 22, 1978 2:04 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2329 74  2.2409789559212907 BM25
+
+
+Computer Science-A Vicious Circle
+
+
+CA720616 JB January 30, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1342 75  2.2378952941327923 BM25
+
+
+Transportation Problem (Algorithms 293 [H])
+Transportation Problem ( ALGORITHMS 293 [ H ] ) 
+
+CA661207a JB March 2, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1660 76  2.2378952941327923 BM25
+
+
+Index By Subject To algorithms, 1960-1968
+Index By Subject To ALGORITHMS , 1960-1968 
+
+CA681206 JB February 21, 1978  1:39 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0557 77  2.2248817596304873 BM25
+
+
+Simulation of Computer Timing Device
+
+
+CA620704 JB March 17, 1978  8:57 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2502 78  2.2089844286244684 BM25
+
+
+A Comment on the Practical Aspects of Computer Science Education
+
+
+CA730518 JB January 23, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0270 79  2.2085204940548984 BM25
+
+
+Techniques for Storage Allocation Algorithms 
+Techniques for Storage Allocation ALGORITHMS 
+
+CA611011 JB March 16, 1978  12:50 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1000 80  2.2072349056908482 BM25
+
+
+Computer Patent Disclosures
+
+
+CA641002 JB March 9, 1978  4:55 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0859 81  2.206623741591311 BM25
+
+
+Computer Planned Collates
+
+
+CA630508 JB March 14, 1978  11:22 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-3032 82  2.1926175810575685 BM25
+
+
+Reverse Path Forwarding of Broadcast Packets
+ALGORITHMS for accomplishing THIS delivery through a store-and-forward packet switching computer network include ( 1 ) transmission of separately addressed packets Tothis list of ALGORITHMS we add ( 6 ) reverse path forwarding , a broadcast routing method which exploitsrouting procedures and data structures already available for packet switching 
+
+CA781207 DH  January 18, 1979  3:10 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2899 83  2.1921289127530628 BM25
+
+
+A Survey of Computer Science Offerings In Small Liberal Arts Colleges.
+Recent curricular development in computer sciencetogether with student in terest in pursuing topics in computer science beyond the usual programmingcourses have encouraged small liberal arts colleges to expand their offerings 
+
+CA771201 JB December 22, 1977  5:53 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0037 84  2.1898657841752973 BM25
+
+
+Impact of Computer Developments
+
+
+CA591205 JB March 22, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0725 85  2.1898657841752973 BM25
+
+
+Group Participation Computer Demonstration
+
+
+CA630933 JB March 13, 1978  6:50 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0998 86  2.1898657841752973 BM25
+
+
+Computer Programs are Patentable
+
+
+CA641004 JB March 9, 1978  4:53 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0804 87  2.185528014921815 BM25
+
+
+Exponentiation of Series (Algorithms 134)
+Exponentiation of Series ( ALGORITHMS 134 ) 
+
+CA630720 JB March 14, 1978  8:19 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0436 88  2.1727678896992844 BM25
+
+
+Evaluation of Polynomials by Computer
+
+
+CA621203 JB March 17, 1978  5:16 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0997 89  2.1727678896992844 BM25
+
+
+Patent Protection of Computer Programs
+
+
+CA641005 JB March 9, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2503 90  2.1727678896992844 BM25
+
+
+Another Comment on Computer Music
+
+
+CA730517 JB January 23, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1103 91  2.1602791747032275 BM25
+
+
+Logic for the Computer Sciences 
+
+
+CA640405 JB March 10, 1978  1:50 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2573 92  2.154937533028258 BM25
+
+
+Computer Programming as an Art
+
+
+CA741201 JB January 16, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1374 93  2.1531766561467833 BM25
+
+
+Evaluation of Determinant; DeterminantEvaluation (Algorithms 41[F3]; 269[F3])
+Evaluation of Determinant ; DeterminantEvaluation ( ALGORITHMS 41 [ F3 ] ; 269 [ F3 ] ) 
+
+CA660909e JB March 23, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1208 94  2.1393607605551845 BM25
+
+
+Simulation of Computer Logic by Fortran Arithmetic
+
+
+CA650816 JB March 6, 1978  7:53 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-2755 95  2.1393607605551845 BM25
+
+
+The New Math of Computer Programming (Corrigendum)
+
+
+CA750512 JB January 9, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-3029 96  2.1393607605551845 BM25
+
+
+Foreword to the Special Issue on Computer Architecture
+
+
+CA780101 JB March 28, 1978  5:52 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0188 97  2.1069653700701827 BM25
+
+
+The Department of Computer Mathematics at Moscow State University
+
+
+CA600602 JB March 20, 1978  9:56 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-0561 98  2.1069653700701827 BM25
+
+
+Analytic Differentiation By Computer
+
+
+CA620624 JB March 17, 1978  9:12 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1851 99  2.1053559500490007 BM25
+
+
+Generator of Spanning Trees (Algorithms 354 [H])
+Generator of Spanning Trees ( ALGORITHMS 354 [ H ] ) 
+
+CA690904 JB February 15, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+22 Q0 CACM-1953 100  2.1053559500490007 BM25
+
+
+Exponential Integral Ei(x) (Algorithms 385 $S13))
+Exponential Integral Ei ( x ) ( ALGORITHMS 385 $ S13 ) ) 
+
+CA701210 JB February 9, 1978  3:04 PM
+
+

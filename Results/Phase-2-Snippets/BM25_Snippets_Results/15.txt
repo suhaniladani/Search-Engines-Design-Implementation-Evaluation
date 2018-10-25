@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+15 Q0 CACM-3125 1  23.41458965829237 BM25
+
+
+Global Optimization by Suppression of Partial Redundancies
+GLOBAL OPTIMIZATION by Suppression of Partial Redundancies The elimination of redundant computations and the moving of invariantcomputations out of LOOPS are often done separately , WITH invariants moved outward loop by loop Optimizer , OPTIMIZATION , compiler , compilation , redundancy elimination , invariant computation elimination , partial redundancy , data flow analysis , Boolean systems 
+
+CA790204 DH April 10, 1979  4:19 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1947 2  22.817345082939124 BM25
+
+
+Object code Optimization
+Dominance relationships , indicating which statements are necessarily executed before others , areused to do GLOBAL common expression elimination and loop identification Object code OPTIMIZATION Implementation of these and otheroptimizations in OS/360 FORTRAN H are described compilers , data flow analysis , dominance , efficiency , FORTRAN , graph theory , loop structure , machine instructions , object code , OPTIMIZATION , redundancyelimination , register assignment , System/360 
+
+CA690102 JB February 20, 1978  12:15 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2835 3  22.54187331312797 BM25
+
+
+Recursion Analysis for Compiler Optimization
+Recursion Analysis for Compiler OPTIMIZATION A relatively simple method for the detectionof recursive use of procedures is presented for use in compiler OPTIMIZATION Implementation considerationsare discussed , and a modification of the algorithm is given to further improve OPTIMIZATION recursion , compiler OPTIMIZATION 
+
+CA760904 JB January 4, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1807 4  21.866644926559545 BM25
+
+
+Optimization of Expressions in Fortran
+The objectives of the processing are ( 1 ) to eliminate redundant calculations when references aremade to common subexpression values , ( 2 ) to remove invariant calculations from DO LOOPS , ( 3 ) to efficientlycompute subscripts containing DO iteration variables , and ( 4 ) to provide efficient index register usage FORTRAN , OPTIMIZATION , expressions , compilers , compilation , subscripts , register allocation , DO LOOPS , common subexpressions , invariant calculations OPTIMIZATION of Expressions in Fortran 
+
+CA691205 JB February 15, 1978  4:16 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2616 5  21.80817144835725 BM25
+
+
+On the Conversion of Programs to Decision Tables: Method and Objectives
+Objectives of these conversions are mainly program debugging and optimizationin practice decision tables , program OPTIMIZATION , debugging , semantics , theory of programming , systems analysis 
+
+CA740808 JB January 17, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1231 6  21.357468866125593 BM25
+
+
+Peephole Optimization
+Peephole OPTIMIZATION Redundant instructions may be discarded duringthe final stage of compilation by using a simple optimizing technique called peephole OPTIMIZATION 
+
+CA650704 JB March 6, 1978  9:05 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2344 7  20.687647260573716 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+ON the OPTIMIZATION of Performance of Time-Sharing Systems by Simulation The effects of these variations ON a measure of system performance is used to ascertain whichof the parameters controllable by the job-scheduling algorithm , including the scheduling itself , require OPTIMIZATION , and which of the parameters not normally controllable by the scheduling algorithm have a markedeffect ON system performance It appears that thesefeatures would benefit from OPTIMIZATION whereas other parameters controllable by the scheduling algorithmaffect system performance in a predictable manner and would not benefit from OPTIMIZATION time-sharing , simulation studies , OPTIMIZATION , measure of performance , scheduling algorithms 
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2195 8  20.607875377927368 BM25
+
+
+On the Optimal Detection of Curves in Noisy Pictures
+Due to theglobal approach , greater flexibility and adequacy in the particular problem is achieved picture processing , picture recognition , picturedescription , curve detection , line detection , edge detection , optimal detection , heuristic methods , GLOBAL recognition , parallel processing , dynamic programming , interaction graph , secondary OPTIMIZATION problem The relationbetween the structure of the figure of merit and the complexity of the OPTIMIZATION process is then discussed 
+
+CA710504 JB February 3, 1978  2:49 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3080 9  20.285423556164943 BM25
+
+
+Proving the Correctness of Heuristically Optimized Code 
+A primary use ofthe system is as a post OPTIMIZATION step in code generation The examples demonstrate that OPTIMIZATION of the genre of this paper can resultin substantially faster operation and the saving of memory in terms of program and stack sizes Compilers , correctness , code OPTIMIZATION , debugging , program verification , Lisp 
+
+CA780708 DH February 7, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2929 10  20.084444260912207 BM25
+
+
+An Analysis of Inline Substitution for a Structured Programming Language
+An OPTIMIZATION technique known as inline substitutionis analyzed The OPTIMIZATION consists of replacing a procedure invocation by a modified copyof the procedure body inline substitution , open coding , open compilation , program OPTIMIZATION , compilers , structured programming languages , run-time statistics 
+
+CA770905 JB December 27, 1977  1:23 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1795 11  20.074606064096564 BM25
+
+
+Optimal Code for Serial and Parallel Computation
+code OPTIMIZATION , sequencing of operations , detection of common subexpressions 
+
+CA691217 JB February 15, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2701 12  19.967620024338785 BM25
+
+
+A Fast and Usually Linear Algorithm for GlobalFlow Analysis (Abstract only--Complete paper JACM 23,1 January, 1976)
+A Fast and Usually Linear Algorithm for GlobalFlow Analysis ( Abstract only -- Complete paper JACM 23,1 January , 1976 ) A new algorithm for GLOBAL flow analysis onreducible graphs is presented GLOBAL flow analysis , data flow , code OPTIMIZATION , common subexpression elimination , live-dead analysis , information propagation , flow graph , reducibility , go-to-less programming , depth-first search , path compression It is also shown that in programming terms , the number of operations is proportional to e plus thenumber of exits from program LOOPS 
+
+CA751206 JB January 5, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2716 13  19.07821505105671 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+SQUIRAL seeks to minimize query response time and space utilization by : ( 1 ) performingglobal query OPTIMIZATION , ( 2 ) exploiting disjoint and pipelined concurrency , ( 3 ) coordinating sort ordersin temporary relations , ( 4 ) employing directory analysis , and ( 5 ) maintaining locality in page references relational database , database OPTIMIZATION , invertedfile , automatic programming , query language , data manipulation language , very high level language 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3054 14  18.869977934696994 BM25
+
+
+Implementing Quicksort Programs
+This paper is a practical study of how toimplement the Quicksort sorting algorithm and its best variants ON real computers , including how to applyvarious code OPTIMIZATION techniques Quicksort , analysis of algorithms , code OPTIMIZATION , sorting A variety of SPECIAL situations are consideredfrom a practical standpoint to illustrate Quicksort 's wide applicability as an internal sortingmethod which requires negligible extra storage 
+
+CA781007 DH January 29, 1979  5:40 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1676 15  18.80577098852328 BM25
+
+
+The LRLTRAN Compiler
+Machine-independent OPTIMIZATION occurs in pass IIand DO-loop and machine-dependent OPTIMIZATION in pass III compiler , compiler-compiler , machine independence , scatter storage technique , Polish processor , common subsegments , tree representation , OPTIMIZATION 
+
+CA681103 JB February 21, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2877 16  18.57252940857437 BM25
+
+
+A Program Data Flow Analysis Procedure
+The GLOBAL data relationships in a programcan be exposed and codified by the static analysis methods described in this paper program OPTIMIZATION , data flow analysis , flow graphs , algorithms , compilers 
+
+CA760303 JB January 5, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2944 17  18.495317362369857 BM25
+
+
+Shifting Garbage Collection Overhead to Compile Time
+Implementing the described optimizations requires GLOBAL flow analysis to be performed ON thesource program garbage collection , GLOBAL flow analysis , list processing , OPTIMIZATION , reference counts , storage management This information is used to FIND actions that cancel when the code is executedand those that can be grouped to achieve improved efficiency 
+
+CA770708 JB December 28, 1977  8:38 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2464 18  18.393355832021445 BM25
+
+
+The Complex Method for Constrained Optimization [E4] (Algorithm A454)
+The Complex Method for Constrained OPTIMIZATION [ E4 ] ( Algorithm A454 ) OPTIMIZATION , constrained OPTIMIZATION , Box 's algorithm 
+
+CA730810 JB January 23, 1978  10:34 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2904 19  17.944475183667425 BM25
+
+
+An Algorithm for Reduction of Operator Strength
+These algorithms should fit well into anintegrated package of local OPTIMIZATION algorithms compilers , OPTIMIZATION of compiled code , program analysis , operator strength reduction , test replacement , strongly connected region 
+
+CA771112 JB December 27, 1977  6:34 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2923 20  17.7638490203685 BM25
+
+
+High-Level Data Flow Analysis
+This paper proposes a simple general method of high-level data flow analysis that allows free useof escape and jump statements , avoids large graphs when compiling large programs , facilitates updating ofdata flow information to reflect program changes , and derives new GLOBAL information helpful in solvingmany familiar GLOBAL flow analysis problems The need for high-level flow analysisarises from several aspects of recent work ON advanced methods of program certification and OPTIMIZATION 
+
+CA771003 JB December 27, 1977  11:41 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2836 21  17.758642540587626 BM25
+
+
+Weighted Derivation Trees
+The method may be applied to problemsinvolving probabilistic parsing or combinatorial OPTIMIZATION derivation tree , parse tree , probabilistic grammar , structural ambiguity , combinatorial OPTIMIZATION 
+
+CA760903 JB January 4, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2897 22  17.706027070087426 BM25
+
+
+A Case Study of a New Code Generation Technique for Compilers
+Each step expands higher level statements into blocks oflower level code and then performs optimizations ON the result Each statement has only one possibleexpansion-the task of tailoring this code to take advantage of any SPECIAL cases is done by the optimizations A set of fairlysimple optimizations was identified which allow the compiler to produce good code More elaborate optimizationscan further improve the object code For most contexts of the concatenate statement , the codeproduced by a compiler using the expansion-optimization strategy described above compares favorably WITH thecode produced by a conventional PL/I optimizing compiler compiler structure , optimizing compiler , codegeneration , PL/I compiler , concatenation , program OPTIMIZATION , OPTIMIZATION techniques , data flow analysis 
+
+CA771203 JB February 1, 1980  3:54 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2680 23  17.66967498302542 BM25
+
+
+Optimal Space Allocation on Disk Storage Devices
+An OPTIMIZATION model for the assignment of files to disk packs , and packs to eitherresident or nonresident status is presented disk analysis , disk OPTIMIZATION , disk files , filesystems , file scheduling , space allocation , memory hierarchy 
+
+CA740303 JB January 18, 1978  12:32 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3018 24  17.49022915069657 BM25
+
+
+Covering Edges by Cliques with Regard toKeyword Conflicts and Intersection Graphs
+Kellerman has presented a method for determiningkeyword conflicts and described a heuristic algorithm which solves a certain combinatorial optimizationproblem in connection WITH this method This OPTIMIZATION problem is here shown to be equivalentto the problem of covering the edges of a graph by complete subgraphs WITH the objective of minimizingthe number of complete subgraphs 
+
+CA780205 JB March 28, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2812 25  17.36391485788757 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+The analyzed problem statement was translated to the form necessary for use by theSODA ( Systems OPTIMIZATION and Design Algorithm ) program for the generation of alternative specificationsof program modules and logical database structures computer-aided analysis , information systems , logicalsystem design , problem statement language , problem statement analyzer , physical system design , accurately defined systems , systems OPTIMIZATION and design algorithm 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1658 26  17.06268632428446 BM25
+
+
+Analysis of Algorithms for the Zero-One Programming Problem
+operations research , OPTIMIZATION theory , integerprogramming , zero-one variables , algorithms 
+
+CA681208 JB February 21, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2388 27  17.033219069579882 BM25
+
+
+Optimizing Binary Trees Grown With a Sorting Algorithm
+retrieving information from binary trees , globaland local OPTIMIZATION , sorting , recursion 
+
+CA720203 JB January 31, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2953 28  16.793907996119017 BM25
+
+
+Notes on Recursion Elimination
+recursion elimination , OPTIMIZATION of programs , stacks , trees , sorting algorithms , computational induction 
+
+CA770610 JB December 28, 1977  12:50 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3069 29  16.765052916744477 BM25
+
+
+A Practical Interprocedural Data Flow Analysis Algorithm
+Data flow analysis , GLOBAL flow analysis , OPTIMIZATION , side effects , relations , reference parameters , incarnations 
+
+CA780903 DH February 5, 1979  3:07 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2537 30  16.60326987897963 BM25
+
+
+Common Phrases and Minimum-Space Text Storage
+The storage technique gives rise to a mathematical OPTIMIZATION problem : determine how each message shoulduse the available phrases to minimize its storage requirement diagnostic messages , error messages , common phrases , minimum space , text storage , OPTIMIZATION , dynamic programming 
+
+CA730302 JB January 24, 1978  1:12 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2253 31  16.590935841705022 BM25
+
+
+Index Ranges for Matrix Calculi
+This scheme attempts program optimizationby transforming the original algorithm rather than the machine code address calculations , algorithm transformation , compilation , data structures , indexing by name , indexing by position , index domain , index map , indexrange , matrix expressions , normal form , programming languages , program OPTIMIZATION , range operations , symbolicmanipulation , syntactic analysis , well-formed expressions 
+
+CA721202 JB January 27, 1978  1:12 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2964 32  16.540785676876133 BM25
+
+
+An Approach to Optimal Design of Storage Parameters in Databases
+database organization , storage parameteroptimization , resident , overflow storage 
+
+CA770508 JB December 29, 1977  1:48 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1223 33  16.116226871153092 BM25
+
+
+High Speed Compilation of Efficient Object Code
+The double scan , one in either direction , performedby the first two passes , allows the compiler to remove locally constant expressions and recursivelycalculable expressions from LOOPS and to do the important part of common subexpression recognition OPTIMIZATION such as the effective use of index registers , although as important , is not discussed sincethe object code which would be most efficient is highly machine dependent 
+
+CA650801 JB March 6, 1978  8:45 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2134 34  15.925350512072491 BM25
+
+
+An Extension of the Munkres Algorithm forthe Assignment Problem to Rectangular Matrices
+operations research , OPTIMIZATION theory , assignmentproblem , rectangular matrices , algorithm 
+
+CA711209 JB February 2, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2411 35  15.739360562304196 BM25
+
+
+Tree-Structured Programs
+control structures , flowcharts , goto statements , inductive assertion , least fix points , OPTIMIZATION in compilers , program documentation , program flow graphs , programming language design , proof of programs , semantics of programming languages , structured programming 
+
+CA731115 JB January 19, 1978  4:19 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1195 36  15.685010655575114 BM25
+
+
+UPLIFTS-University of Pittsburgh Linear File Tandem System
+The program are note-worthy in that they createfixed length logical records and fixed length blocks from variable length source data , and formatthe output for OPTIMIZATION of processing ON the IBM 7090 system 
+
+CA650911 JB March 6, 1978  7:10 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-0104 37  15.501573352272796 BM25
+
+
+Digital Simulation of Discrete Flow Systems*
+One is of an extensive package-handling plant , WITH theobjective being OPTIMIZATION of parameters such as storage capacities and processing rates 
+
+CA601212 JB March 20, 1978  6:27 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1886 38  15.495775288468671 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+In order to make these techniques computationally feasible , heuristic procedures areapplied , and hence GLOBAL optimal results are not necessarily generated finding a set of subexpressions each of which occurs in two or more other expressionsor subexpressions factorization algorithms , code OPTIMIZATION , sequencingof operations , detection of common subexpressions , factorization of Boolean expressions 
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1564 39  15.290538245694695 BM25
+
+
+Description of Basic Algorithm in DETAB/65 Preprocessor
+The only OPTIMIZATION attempted is the elimination of obviously unnecessarytests ON certain conditions in the decision table 
+
+CA670709 JB February 28, 1978  8:33 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2969 40  15.081568897092126 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+An OPTIMIZATION procedure for the allocationof program and data files in a computer network is presented 
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2321 41  15.004381336054422 BM25
+
+
+On the Interface Between Computers and Data Communications Systems
+Future systems that combine computers , digitalterminals , and communications equipment present design OPTIMIZATION problems that require reconsiderationof the traditional functional responsibilities of the respective subsystems 
+
+CA720707 JB January 30, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1719 42  14.882087224389604 BM25
+
+
+A Methodology for Calculating andOptimizing Real-Time System Performance
+Criteria for evaluating performance are described ; a methodology for calculatingand optimizing is outlined ; and the method is illustrated by carrying out a portion of the performancecalculation and the OPTIMIZATION of a drum-oriented message switching system 
+
+CA680710 JB February 22, 1978  11:40 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2699 43  14.808527030473545 BM25
+
+
+Automatic Data Structure Choice in a Language of Very High Level
+program OPTIMIZATION , automatic programming , high-levellanguages , set-theoretic languages , data structure choice 
+
+CA751208 JB January 5, 1978  3:53 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3020 44  14.797739113106855 BM25
+
+
+Systematic Recursion Removal
+recursion removal , recursion elimination , OPTIMIZATION , procedure linkage , procedure integration 
+
+CA780203 JB March 28, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2188 45  14.610592512544242 BM25
+
+
+An Approach to the Optimum Design of Computer Graphics Systems
+The optimum configurationsare in turn used to FIND general display system design guidelines By combining the model WITH an OPTIMIZATION , the best graphics system configuration , subject to a cost constraint , is found for several applications 
+
+CA710602 JB February 3, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2611 46  14.49499028232835 BM25
+
+
+The Complex Method for Constrained Optimization (Algorithm R454)
+The Complex Method for Constrained OPTIMIZATION ( Algorithm R454 ) 
+
+CA740813 JB January 17, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-0693 47  14.432301804062707 BM25
+
+
+An Extension of Fibonaccian Search To Several Variables
+A technique which uses Fibonaccian searchconcepts has been developed to solve OPTIMIZATION problems involving unimodal functions of several variables 
+
+CA631032 JB March 13, 1978  4:19 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2858 48  14.375913025427053 BM25
+
+
+A Process for the Determination ofAddresses in Variable Length Addressing
+The algorithm is suitable for arbitraryprogram structure and a choice of OPTIMIZATION criteria 
+
+CA760604 JB January 4, 1978  2:09 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2570 49  14.352178611197802 BM25
+
+
+A Comparison of List Schedules for Parallel Processing Systems
+parallel processing , precedence graphs , scheduling , list scheduling , OPTIMIZATION , dynamic programming 
+
+CA741204 JB January 16, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2433 50  14.256333667811981 BM25
+
+
+Control Structures in Illiac IV Fortran
+The implications of these features fordata layout and algorithm structure are discussed , and the conclusion is drawn that data allocation rather thancode structuring is the crucial ILLIAC OPTIMIZATION problem 
+
+CA731007 JB January 20, 1978  11:30 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2903 51  14.233966987145248 BM25
+
+
+Improving Programs by the Introduction of Recursion
+program transformation , OPTIMIZATION of programs , recursion elimination , pattern matching algorithms , stacks , computational induction 
+
+CA771113 JB December 27, 1977  6:29 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2142 52  13.939870050841677 BM25
+
+
+Reconstruction of Pictures from Their Projections
+Usually , in such situations , the picture is far from determinedand the problem is to FIND the `` most representative '' picture approximation , biomedical image processing , efficientencoding , image processing , linear programming , mathematical programming , Monte Carlo techniques , OPTIMIZATION , picture compression , picture description , picture processing , stereology , X-ray analysis 
+
+CA711201 JB February 2, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2715 53  13.875017959656597 BM25
+
+
+Implementation of a Structured English Query Language
+The OPTIMIZATION algorithms designed for this purpose are described SEQUEL is a relational data sublanguages intended for the ad hoc interactive problem solving by non-computerspecialists 
+
+CA751004 JB January 6, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2000 54  13.692425269204143 BM25
+
+
+A Variation of the Goodman-Lance Method forthe Solution of Two-Point Boundary Value Problems
+Goodman-Lance , boundary-value problems , Newton 's method , nonlinear equations , optimal control , OPTIMIZATION , ordinary differential equations , secant method , interpolative solution , orthogonal matrices 
+
+CA700905 JB February 10, 1978  1:39 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2579 55  13.65714255607026 BM25
+
+
+Register Allocation Via Usage Counts
+OPTIMIZATION , redundant computations , common subexpressions , register allocation , compilers , programming languages , virtual memory , demand paging 
+
+CA741105 JB January 16, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1410 56  13.484946550190248 BM25
+
+
+Interarrival Statistics for Time Sharing Systems
+The OPTIMIZATION of time-shared system performancerequires the description of the stochastic processes governing the user inputs and the program activity 
+
+CA660704 JB March 2, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2883 57  13.436830139198818 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+picture processing , pattern recognition , edgedetection , contour detection , contour following , OPTIMIZATION problems , dynamic programming , shortestpath , heuristic search methods , problem solving methods 
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1974 58  13.399909793681854 BM25
+
+
+NEATER2: A PL/I Source Statement Reformatter
+This feature is expected to provide amajor aid in OPTIMIZATION of PL/I programs 
+
+CA701104 JB February 10, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2133 59  13.096227351218236 BM25
+
+
+Algorithm for the Assignment Problem(Rectangular Matrices) [H] (Algorithm 415)
+operations research , OPTIMIZATION theory , assignment problem , rectangular matrices 
+
+CA711210 JB February 2, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3002 60  12.871035710994235 BM25
+
+
+A Record and File Partitioning Model
+This model has already been used in the OPTIMIZATION oflibrary routines ' storage at a large scale operating system 
+
+CA770103 JB January 3, 1978  12:28 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1951 61  12.826271836554398 BM25
+
+
+Estimates of Distributions of Random Variablesfor Certain Computer Communications Traffic Models
+computer communications , time-sharing , operating systems , OPTIMIZATION models 
+
+CA701212 JB February 9, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2451 62  12.740932097906345 BM25
+
+
+Design of Tree Structures for Efficient Querying
+This paperposes an OPTIMIZATION problem in the design of such trees to serve a well-specified application 
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2314 63  12.730450338718457 BM25
+
+
+Requirements for Advanced Programming Systems for List Processing
+Interactive features are described to facilitate program composition , entry , testing , debugging , editing , OPTIMIZATION , and packaging 
+
+CA720714 JB January 30, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2495 64  12.628109635980783 BM25
+
+
+Adapting Optimal Code Generation for ArithmeticExpressions to the Instruction Sets Available on Present-Day Computers
+arithmetic expressions , code generation , compilers , object-code OPTIMIZATION , register assignment , trees 
+
+CA730605 JB January 23, 1978  2:24 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2290 65  12.411806647121006 BM25
+
+
+Immediate Predominators in a Directed Graph [H] (Algorithm A430)
+predominator , immediate predominator , graph theory , directed graph , shortest path , articulation , connectivity , program OPTIMIZATION , optimizing compiler 
+
+CA720812 JB January 30, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3053 66  12.317789597497656 BM25
+
+
+Packed Scatter Tables
+The displacements are depth-limited approximations to an enumerative ( exhaustive ) OPTIMIZATION , although packing costs remain linear-O ( n ) -with table size n 
+
+CA781008 DH January 29, 1979  5:30 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2423 67  12.097139348166134 BM25
+
+
+A Parser-Generating System for Constructing Compressed Compilers
+parser generators , translator writing systems , syntactic analysis , normal-form grammars , pushdown automata , translation grammars , translator OPTIMIZATION , compression algorithm 
+
+CA731103 JB January 20, 197810:41 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2940 68  12.076378693450376 BM25
+
+
+Abstraction and Verification in Alphard: Definingand Specifying Iteration and Generators
+Ameans of specializing Alphard 's LOOPS to operate ON abstract entities without explicit dependence ON therepresentation of those entities is in troduced Results are obtained that for common SPECIAL cases of these LOOPS are essentially identical to thecorresponding constructs in other languages abstraction and representation , abstract data types , assertions , control specialization , correctness , generators , invariants , iteration statements , modulardecomposition , program specifications , programming languages , programming methodology , proofs of correctness , types , verification 
+
+CA770803 JB December 28, 1977  7:59 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2722 69  11.989831532164537 BM25
+
+
+Multidimensional Binary Search Trees Used for Associative Searching
+Various utility algorithms are developed ; their proven average running times in an n record file are : insertion , O ( log n ) ; deletion ofthe root , O ( n^ ( k-1 ) /k ) ; deletion of a random node , O ( log n ) ; and OPTIMIZATION ( guarantees logarithmic performanceof searches ) , O ( n log n ) 
+
+CA750902 JB January 6, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2685 70  11.9260287539879 BM25
+
+
+The Parallel Execution of DO Loops
+The Parallel Execution of DO LOOPS parallel computing , multiprocessor computers , array computers , vector computers , LOOPS 
+
+CA740204 JB January 18, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2015 71  11.391370356898783 BM25
+
+
+A Technique for Generating Almost OptimalFloyd-Evans Productions for Precedence Grammars
+translator writing systems , syntactic analysis , Floyd-Evansproductions , precedence grammars , translator OPTIMIZATION , merger algorithm , minimum cost inverse-arborescence , graph theory 
+
+CA700806 JB February 10, 19783:38 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1548 72  11.337932799820427 BM25
+
+
+Parsing of Decision Tables
+The techniques considered in this paper are ON the parsing of decisiontables WITH regard to HORIZONTAL and vertical data structures , job identity , hardware and job priorities , and context relationships 
+
+CA670807 JB February 27, 1978  4:14 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-0396 73  11.29683446006755 BM25
+
+
+   Automation of Program  Debugging
+The programmerspecifies the program to be debugged , memory areas , set of input data , maximumrepetition of LOOPS , and checkpoint information for each set of data 
+
+CA610714 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3118 74  11.265215069579352 BM25
+
+
+Permutation of Data Blocks in a Bubble Memory
+A common internal organization of bubble memories consists of a set of ( minor ) LOOPS , connected through another ( major ) loop Bubble memory , memory LOOPS , permutation algorithm , data block shift 
+
+CA790103 DH April 10, 1979  12:04 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3064 75  10.81599119015888 BM25
+
+
+Event Manipulation for Discrete SimulationsRequiring Large Numbers of Events
+Additional featuresand problems dealt WITH include the proper handling of simultaneous events ; that certain events must be created , scheduled , and executed at the same points in simulated time ; that infinite LOOPS caused by the concatenationof such `` zero-time '' events are possible and must be diagnosed ; that maintaining various eventcounts is practical and economical ; and that a capability for handling `` time-displaceable '' events is desirable and possible 
+
+CA780908 DH January 29, 1979  6:46 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3087 76  10.76839956614478 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+Also included are DISCUSSIONS of important issues in programming natural language systems for limited domains , and the relationship of this system to others 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2943 77  10.758376849367494 BM25
+
+
+Lucid, a Nonprocedural Language with Iteration
+Nevertheless , Lucid programs need not look much different than iterative programs in a conventional structured programminglanguage using assignment and conditional statements and LOOPS The proofs are particularly easy to follow and straightforwardto produce because the statements in a Lucid program are simply axioms from which the proofproceeds by ( almost ) conventional logical reasoning , WITH the help of a few axioms and rules of inferencefor the SPECIAL Lucid functions 
+
+CA770709 JB December 28, 1977  8:30 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2187 78  10.667913115261063 BM25
+
+
+Computer Science: A Conceptual Framework for Curriculum Planning
+Two views of computer science are considered : a GLOBAL view which attempts to capture broad characteristics of the field and its relationships toother fields , and a local view which focuses ON the inner structure of the field 
+
+CA710603 JB February 3, 1978  10:17 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2365 79  10.579723580071406 BM25
+
+
+Matrix Computations with Fortran and Paging
+The efficiency of conventional Fortran programsfor matrix computations can often be improved by reversing the order of nested LOOPS 
+
+CA720408 JB January 31, 1978  12:54 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2541 80  10.566758032440815 BM25
+
+
+An Overview of the ISPL Computer System Design
+This paper explores the advantages of the concurrentdesign of the language , operating system , and machine ( via MICROCODE ) to create an interactive programminglaboratory 
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2181 81  10.388016596522938 BM25
+
+
+The State of Computer Oriented Curricula in Business Schools 1970
+This presentationgives a summary of the DISCUSSIONS ; a condensationof the pedagogic and substantive concerns raised ; andconsideration of the resource allocation issues involved 
+
+CA710701 JB February 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2210 82  10.124626141934929 BM25
+
+
+Toward Automatic Program Synthesis
+It is emphasized that in order to construct a program WITH LOOPS or withrecursion , the principle of mathematical induction must be applied 
+
+CA710302 JB February 3, 1978  4:48 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2130 83  10.120746257197892 BM25
+
+
+Automatic Segmentation of Cyclic Program StructuresBased on Connectivity and Processor Timing
+automatic segmentation , cyclic program structures , LOOPS , paging , multiprogramming , loaders , assemblers , compilers , time-sharing , program connectivity 
+
+CA700101 JB February 14, 1978, 2:20 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2470 84  10.067138402830546 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+Thequestions of local and GLOBAL environments and of various modes of function calling and parameter passingare touched upon 
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2920 85  9.943708574020619 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+When each process specifies its future needs by a flowchart of need-defined steps , a globalapproach to the phenomenon and its in terpretation as a game between the operating system and the processesallows formalization of risk and safety concepts 
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1768 86  9.929120639674268 BM25
+
+
+A Global Parser for Context-Free Phrase Structure Grammars
+A GLOBAL Parser for Context-Free Phrase Structure Grammars 
+
+CA680402 JB February 23, 1978  11:27 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2827 87  9.813895579265381 BM25
+
+
+A Parametric Algorithm for Drawing Picturesof Solid Objects Composed of Quadric Surfaces
+The EMPHASIS ofthis algorithm is ON calculating the intersections of quadric surfaces This scheme can FIND the coordinates of points of even quartic ( fourth-order ) intersection curves , usingequations of no more than second order 
+
+CA761004 JB January 3, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2030 88  9.669179192662488 BM25
+
+
+Context-Sensitive Parsing
+In addition , a modifiedversion of the basic algorithm is presented which blocks infinite analyses for grammars which contain LOOPS This paper presents a canonical form for context-sensitivederivations and a parsing algorithm which findseach context-sensitive analysis once and only once 
+
+CA700707 JB February 10, 1978  4:43 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-0243 89  9.66486125063124 BM25
+
+
+N-Dimensional Codes for Detecting and Correcting Multiple Errors
+Only three-dimensional codes are discussed in this paper WITH parity evaluations along the HORIZONTAL , the vertical , and one main diagonal 
+
+CA611207 JB March 15, 1978  10:23 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2457 90  9.483751126559486 BM25
+
+
+Inductive Methodsfor Proving Properties of Programs
+There are two main purposes in this paper : first , clarification and extension of known results about computation of recursive programs , WITH emphasison the difference between the theoretical and practical approaches ; second , presentation and examinationof various known methods for proving properties of recursive programs 
+
+CA730817 JB January 23, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-3024 91  9.4501464168846 BM25
+
+
+The CRAY-1 Computer System
+An optimizing compiler , CFT , `` vectorizes '' innermost DO LOOPS 
+
+CA780106 JB March 28, 1978  5:24 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2880 92  9.407184397209228 BM25
+
+
+A Fast Division Technique for Constant Divisors
+The method has proved very useful implemented as MICROCODE ona binary machine , and can be adapted directly into hardware 
+
+CA760207 JB January 5, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1750 93  9.359049639817318 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+In the generalization of such a design , SPECIAL EMPHASIS isplaced ON estimating expected gains when compared WITH the traditional configuration of separate and independentcomputers without extended core storage 
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2137 94  9.348687810886755 BM25
+
+
+New LISP Techniques for a Paging Environment
+The system described herein employs the blockconcept , and that of GLOBAL and local variables , in addition to the methods applied in most LISP systems 
+
+CA711206 JB February 2, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-0695 95  9.279688641800092 BM25
+
+
+Use of the Disk File on Stretch
+The paper begins by briefly describing theStretch ( IBM 7030 ) computer WITH SPECIAL EMPHASIS given to the organization and operation of its input-outputequipment 
+
+CA631030 JB March 13, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2146 96  9.251021136325523 BM25
+
+
+Optimizing the Polyphase Sort
+Of the simple dispersion algorithmsdiscussed , the HORIZONTAL is best 
+
+CA711103 JB February 2, 1978  11:39 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2800 97  9.216835336058388 BM25
+
+
+Connections Between Accuracy and StabilityProperties of Linear Multistep Formulas
+This paper is concerned WITH stability and accuracyof families of linear k-step formulas depending ON parameters , WITH particular EMPHASIS ON the numericalsolution of stiff ordinary differential equations 
+
+CA750111 JB January 12, 1978  9:26 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2304 98  9.091301141427493 BM25
+
+
+A Western View of Computer History
+histories of the digital computerfield have tended to be impersonal , WITH heavy EMPHASIS ON eastern universities and commercial developments 
+
+CA720724 JB January 30, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-1961 99  9.090302485177519 BM25
+
+
+An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+An Efficient Search Algorithm to FIND the Elementary Circuits of a Graph A theoretically most efficient search algorithm is presentedwhich uses an exhaustive search to FIND ALL of the elementarycircuits of a graph The algorithm can be easily modified to FIND allof the elementary circuits WITH a particular attribute such aslength 
+
+CA701202 JB February 9, 1978 4:12 PM
+
+
+--------------------------------------------------------------
+15 Q0 CACM-2851 100  9.028053260103118 BM25
+
+
+Formal Verification of Parallel Programs
+Also discussedis an extension of the program model which allows each process to have its own local variablesand permits shared GLOBAL variables It is shown that assertions-oriented proof methods are SPECIAL cases of the induction principle A SPECIAL case of the assertions method , which is called parallel place assertions , is shown to beincomplete 
+
+CA760702 JB January 4, 1978  1:20 PM
+
+

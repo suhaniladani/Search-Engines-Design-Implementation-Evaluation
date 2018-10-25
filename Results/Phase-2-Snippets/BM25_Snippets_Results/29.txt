@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+29 Q0 CACM-1840 1  13.400316552738722 BM25
+
+
+An Efficient Prime Number Generator (Algorithm 357 [A1])
+An Efficient PRIME NUMBER Generator ( Algorithm 357 [ A1 ] ) PRIME numbers , factoring , NUMBER theory 
+
+CA691006 JB February 15, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1539 2  13.280662496198673 BM25
+
+
+Prime Number Generator 1; Prime Number Generator2 (Algorithm 35[A1]; Algorithm 310[A1]; Algorithm 311[A1])
+PRIME NUMBER Generator 1 ; PRIME NUMBER Generator2 ( Algorithm 35 [ A1 ] ; Algorithm 310 [ A1 ] ; Algorithm 311 [ A1 ] ) 
+
+CA670907c JB March 23, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1841 3  13.163126357464845 BM25
+
+
+A Prime Number Generator Using TheTreesort Principle (Algorithm 356 [A1])
+A PRIME NUMBER Generator Using TheTreesort Principle ( Algorithm 356 [ A1 ] ) PRIME numbers , NUMBER theory , sorting 
+
+CA691005 JB February 15, 1978  3:25 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2089 4  12.783363732819081 BM25
+
+
+Prime Number (Algorithm 310 $A1))
+PRIME NUMBER ( Algorithm 310 $ A1 ) ) PRIME numbers , generator 
+
+CA700309 JB February 13, 1978  3:45 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1933 5  11.723113163893604 BM25
+
+
+Coding the Lehmer Pseudo-random Number Generator
+An algorithm AND coding technique is presentedfor quick evaluation of the Lehmer pseudo-random NUMBER generator modulo 2**31 - 1 , a PRIME Mersennenumber with produces 2**31 - 2 numbers , on a p-bit ( greater than 31 ) computer PRIME factorization for 2**61 - 2 AND a primitive rootfor 2**61 - 1 , the next largest PRIME Mersenne NUMBER , are given for possible construction of a pseudo-randomnumber generator of increased cycle length pseudo-random NUMBER , random NUMBER , modular arithmetic , uniform probability density , uniform frequency function , simulation , PRIME factorization , primitive roots Coding the Lehmer Pseudo-random NUMBER Generator 
+
+CA690205 JB February 20, 1978  11:07 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1537 6  11.43413187687726 BM25
+
+
+Prime Number Generator 1 (Algorithm 310 [A1])
+PRIME NUMBER Generator 1 ( Algorithm 310 [ A1 ] ) 
+
+CA670907a JB February 27, 1978  3:12 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1538 7  11.43413187687726 BM25
+
+
+Prime Number Generator 2 (Algorithm 311 [A1])
+PRIME NUMBER Generator 2 ( Algorithm 311 [ A1 ] ) 
+
+CA670907b JB March 23, 1978  2:34 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2462 8  11.43413187687726 BM25
+
+
+An Efficient Prime Number Generator (Algorithm R357)
+An Efficient PRIME NUMBER Generator ( Algorithm R357 ) 
+
+CA730812 JB January 23, 1978  10:31 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1967 9  10.6942081272551 BM25
+
+
+An Improved Algorithm to Produce Complex Primes (Algorithm 401 $A1))
+An Improved Algorithm to Produce Complex Primes ( Algorithm 401 $ A1 ) ) NUMBER theory , PRIME numbers , complex numbers 
+
+CA701112 JB February 9, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2770 10  10.511749105455833 BM25
+
+
+The Quadratic Hash Method When the Table Size Is Not a Prime Number
+The Quadratic Hash Method When the Table Size Is Not a PRIME NUMBER Previous work on quadratic hash methods islimited mainly to the case where the table size is a PRIME NUMBER It is shown that all composite numbers containing at least the square of one of the componentprimes have full-period integer-coefficient quadratic hash functions Here , certain results are derived forcomposite numbers 
+
+CA750407 JB January 9, 1978  3:54 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1420 11  9.49338053460294 BM25
+
+
+A New Uniform Pseudorandom Number Generator
+A new multiplicative congruential pseudorandomnumber generator is discussed , in which the modulus is the largest PRIME within accumulator capacityand the multiplier is a primitive root of that PRIME A New Uniform Pseudorandom NUMBER Generator 
+
+CA660602 JB March 3, 1978  9:01 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2927 12  9.469554252878895 BM25
+
+
+Some New Upper Bounds on the Generation of Prime Numbers
+Use of preprocessing techniquesinvolving space-time AND additive-multiplicative tradeoffs reduces this upper bound to O ( N/log logN ) AND the bit complexity to O ( N logN log log logN ) Some New Upper Bounds on the Generation of PRIME Numbers Given an integer N , what is the computationalcomplexity of finding all the primes less than N ? A modified sieve of Eratosthenes using doubly linkedlists yields an algorithm of O ( N ) arithmetic complexity computational complexity , sieve , PRIME NUMBER generation , NUMBER theory , linked list , preprocessing , balancing 
+
+CA770907 JB December 27, 1977  12:55 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2507 13  9.176626222311771 BM25
+
+
+Exact Solution of Linear Equations UsingResidue Arithmetic (Algorithm R406)
+residue arithmetic , symmetric residue , modulus , mixed-radix representation , symmetric mixed-radix representation , mixed radix conversion , PRIME NUMBER , linear equations , Gaussian elimination , matrix inversion , determinant , adjoint matrix , ill-condition 
+
+CA730513 JB January 23, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2206 14  9.120354862754219 BM25
+
+
+Exact Solution of Linear Equations UsingResidue Arithmetic [F4] (Algorithm 406)
+residue arithmetic , symmetric residue , modulus , mixed-radix representation , symmetric mixed-radix representation , mixed-radix conversion , PRIME NUMBER , linear equations , Gaussian elimination , matrix inversion , determinant , adjoint matrix , ill-condition 
+
+CA710306 JB February 3, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1094 15  8.126560329449218 BM25
+
+
+Prime Twins (Algorithm 223)
+PRIME Twins ( Algorithm 223 ) 
+
+CA640414 JB March 10, 1978  1:13 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1691 16  7.584665119153303 BM25
+
+
+A Comparison of the Correlational Behaviorof Random Number Generators for the IBM 360
+Hutchinson states that the `` new '' ( PRIME modulo ) multiplicative congruential pseudorandom generator , attributed to D random numbers , pseudorandom NUMBER generators , autocorrelationfunction , serial correlation , digital shift-register generators , linear recurrence modulotwo , irreducible polynomials , primitive trinomials modulo two , congruential generators , PRIME numbers , statistical tests for randomness , IBM 360 , 32-bit versus 36-bit word size A Comparison of the Correlational Behaviorof Random NUMBER Generators for the IBM 360 Lehmer , has passed the usual statisticaltests for random NUMBER generators 
+
+CA680910 JB February 21, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2109 17  7.21141461849446 BM25
+
+
+The Use of Quadratic Residue Research
+It is shown that for some classes of PRIME numbersthe complement of the set of quadratic residues can easily be determined AND hence the entire table of size p , where p is that PRIME NUMBER , can be searched 
+
+CA700206 JB February 14, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2067 18  7.160993071651951 BM25
+
+
+Comment on Lawler's Multilevel Boolean Minimization
+multilevel logic design , generalized PRIME implicants , minimal forms , minimization , incompletelyspecified functions 
+
+CA700417 JB February 13, 1978  2:32 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1717 19  6.846566136231233 BM25
+
+
+Generating Prime Implicants Via Ternary Encoding and Decimal Arithmetic
+Generating PRIME Implicants Via Ternary Encoding AND Decimal Arithmetic Decimal arithmetic , ternary encoding of cubes , AND topological considerations are used in an algorithm to obtain the extremals AND PRIME implicantsof Boolean functions PRIME implicants , extremal , switching function , minimization , cubical complexes , ternary encoding 
+
+CA680712 JB February 22, 1978  11:30 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-3021 20  6.496341181774458 BM25
+
+
+A Method for Obtaining Digital Signatures and Public-Key Cryptosystems
+A message is encrypted by representing it as a NUMBER M , raisingM to a publicly specified power e , AND then taking the REMAINDER when the result is divided by the publiclyspecified product , n , of two large secret PRIME numbers p AND q digital signatures , public-key cryptosystems , privacy , authentication , security , factorization , PRIME NUMBER , electronic mail , message-passing , electronic funds transfer , cryptography 
+
+CA780202 JB March 28, 1978  4:40 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-3037 21  5.978865573976979 BM25
+
+
+A Linear Sieve Algorithm for Finding Prime Numbers
+A Linear Sieve Algorithm for Finding PRIME Numbers A new algorithm is presented for finding allprimes between 2 AND n It is also easily extended to find the PRIME factorization of all integers between 2 AND n in time proportional to n Primes , ALGORITHMS , data structures 
+
+CA781202 DH January 22, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2726 22  5.865223774451096 BM25
+
+
+Combining Decision Rules in a Decision Table
+This methodis logically equivalent to the Quien-McCluskey method for finding PRIME implicants the Quine-McCluskey method , PRIME implicants , minimization , maximization , logic circuit , boolean method , coding , decision tables , flowcharting , sorting Several objectives merit consideration in optimizing a decision table : ( 1 ) reducing machine execution time ; ( 2 ) reducing preprocessing time ; ( 3 ) reducing required machine memory ; ( 4 ) reducing the NUMBER of decision rules 
+
+CA750809 JB January 6, 1978  3:53 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1386 23  5.316470639816661 BM25
+
+
+Symbolic Factoring of Polynomials in Several Variables
+The algorithm is an extension of a techniqueused by Kronecker in a proof that the PRIME factoring of any polynomial may be found in a finite numberof steps 
+
+CA660812 JB March 2, 1978  7:06 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2424 24  5.248668142198253 BM25
+
+
+Dynamic Verification of Operating System Decisions
+The dynamic verification of operating system decisions is used on the PRIME systembeing designed AND constructed at the University of California , Berkeley PRIME is an experimental time-sharingwhich is to have the properties of continuous availability , data privacy , AND cost effectiveness On PRIME , dynamic verification is used to ensure that one user 's information can not become available to anotheruser gratuitously even in the presence of a single hardware or software fault 
+
+CA731102 JB January 20, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2087 25  4.748616457806673 BM25
+
+
+A Number System for the Permutations
+A NUMBER System for the Permutations permutation , ordering , NUMBER , NUMBER system , p-number , combinatorial 
+
+CA700311 JB February 13, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2138 26  4.37244723742043 BM25
+
+
+BLISS: A Language for Systems Programming
+This languageis designed so as to be ESPECIALLY suitable for use in writing production software systems for aspecific machine ( the PDP-10 ) : compilers , operating systems , etc PRIME design goals of the design are theability to produce highly efficient object code , to allow access to all relevant hardware features ofthe host machine , AND to provide a rational means by which to cope with the evolutionary nature of systemsprograms 
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2644 27  4.32398015505715 BM25
+
+
+A Theorem-Proving Language for Experimentation
+Because of the large NUMBER of strategiesand inference rules presently under consideration in automated THEOREM proving , there is a need for developinga language ESPECIALLY oriented toward automated THEOREM proving A Theorem-Proving Language for Experimentation The use of this language permits easy extension of automatedtheorem-proving programs to include new strategies and/or new inference rules THEOREM proving , resolution , factoring , paramodulation , programming languages 
+
+CA740602 JB January 17, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2306 28  4.257754689465729 BM25
+
+
+Ancient Babylonian Algorithms
+Ancient Babylonian ALGORITHMS A NUMBER of old Babylonian tablets , many of which have never before been translated into English , are quoted history of computation , Babylonian tablets , sexagesimal NUMBER system , sorting 
+
+CA720722 JB January 30, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1812 29  4.2071075109631995 BM25
+
+
+More on Fortran Random Number Generators
+More on Fortran Random NUMBER Generators random NUMBER generation , Monte Carlo , simulation 
+
+CA691118 JB February 15, 1978  11:57 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1725 30  4.200128420413533 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+A Simple Proof of Lewin 's Ordered-RetrievalTheorem for Associative Memories ) In this paper a very simple proof of this THEOREM derived from some elementaryaspects of the structure of sets of binary numbers is presented associative memories , content-addressed memories , ordered lists , ordered information retrieval , ordered retrieval THEOREM , column digit values , digitvalue variety , column sensing arrangement , digit value readout , digit variety readout , memory access , memoryaccess frequency , ordered retrieval efficiency , access frequency proof , retrieval THEOREM proof The use of these circuits , whichin this paper are termed column value indicators , reduces considerably the NUMBER of memory accesses necessaryto retrieve in order a NUMBER of distinct words from the memory ( Thus heproves that the NUMBER of necessary memory accesses of his method , unlike those of other methods , is independentof the word length 
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0944 31  4.162790384065776 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+Such trees have information storage AND retrievalproperties applicable to problems INVOLVING large quantities of data or to problems where the quantity , word length AND distribution of stored information is not known a priori , or changes rapidly during the processing Of PRIME interestis the application where a symbol table , dictionary or similar file is to be stored AND searched 
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2621 32  4.114437790069232 BM25
+
+
+A High Security Log-in Procedure
+We discuss the selectionof a suitable one-way cipher AND suggest that for this purpose polynomials over a PRIME modulus aresuperior to one-way ciphers derived from Sannon codes 
+
+CA740803 JB January 17, 1978  10:10 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2334 33  4.113609719324277 BM25
+
+
+General Random Number Generator (Algorithm R370)
+General Random NUMBER Generator ( Algorithm R370 ) random NUMBER generator , probability density function , transformation , cumulative distribution function 
+
+CA720611 JB January 30, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2122 34  4.0954066438826064 BM25
+
+
+General Random Number Generator (Algorithm 370 $G5))
+General Random NUMBER Generator ( Algorithm 370 $ G5 ) ) random NUMBER generator , probability density function , transformation , cumulative density function 
+
+CA700109 JB February 14, 1978  1:50 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1794 35  4.05947955423551 BM25
+
+
+A Fast Random Number Generator for IBM 360
+A Fast Random NUMBER Generator for IBM 360 pseudorandom NUMBER , modulus , period , float , normalization , characteristic , chi-square test 
+
+CA691218 JB February 15, 1978  1:58 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-3131 36  4.0582641912197115 BM25
+
+
+FOCUS Microcomputer Number System
+FOCUS is a NUMBER system AND supporting computationalalgorithms ESPECIALLY useful for microcomputer control AND othersignal processing applications Algorithmsfor 8-bit AND 16-bit implementations of FOCUS are included FOCUS Microcomputer NUMBER System FOCUS has the wide-rangingcharacter of floating-point numbers with a uniformity of state distributionsthat give FOCUS better than a twofold accuracy advantageover an equal word length floating-point system NUMBER representation , logarithmic arithmetic , computationalspeed , computational accuracy , microcomputer applications 
+
+CA790302 DH April 12, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1894 37  4.041751355802749 BM25
+
+
+Normal Random Deviates (Algorithm 334 [G5])
+normal deviates , normal distribution , random NUMBER , random NUMBER generator , simulation , probability distribution , frequency distribution , random 
+
+CA690516 JB February 17, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1716 38  4.024177326124065 BM25
+
+
+Normal Random Deviates (Algorithm 334 [G5])
+normal deviates , normal distribution , random NUMBER , random NUMBER generator , simulation , probability distribution , frequency distribution , random 
+
+CA680713 JB February 22, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2057 39  4.0067554628719755 BM25
+
+
+Random Vectors Uniform in Solid Angle (Algorithm 381 $G5))
+random NUMBER , random vector , random NUMBER generator , probabilitydistribution , frequency distribution , simulation , Monte Carlo 
+
+CA700509 JB February 13, 1978  1:19 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2605 40  3.886432287618768 BM25
+
+
+A Precise Numerical Analysis Program
+Arithmetic operations INVOLVING these numbers are executed according to intervalarithmetic concepts , with non-significant digits automatically discarded A description is given of a program for computingthe solution to a small NUMBER of standard numerical analysis problems to any specified accuracy , up to a limit of 2000 correct decimal places Each computed NUMBER is bounded in an interval with amultiple precision midpoint 
+
+CA740903 JB January 17, 1978  9:01 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2114 41  3.6997003157182684 BM25
+
+
+A Formal System for Information Retrieval from Files
+attribute-value pair , index , keyword , record , record address , K-pointer , K-list , file , directory , generalized filestructure , inverted file , index-sequential-file , multilist file , description , file search , directory search , serial processing oflists , PRIME keyword , parallel processing of lists Two ALGORITHMS which retrieve records from the generalized file structure are presented 
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0294 42  3.6703350143573346 BM25
+
+
+An Imaginary Number System
+An Imaginary NUMBER System 
+
+CA610810 JB March 16, 1978  10:02 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0197 43  3.641452499540815 BM25
+
+
+An Imaginary Number System
+An Imaginary NUMBER System 
+
+CA600414 JB March 22, 1978  1:35 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-3171 44  3.559821178058301 BM25
+
+
+Line Numbers Made Cheap
+Line Numbers Made Cheap A technique is described for run-time line NUMBER administrationto be used for implementations of high level languages Line NUMBER administration , diagnostic messages , abstract machine code 
+
+CA791004 DB January 17, 1980  9:57 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0353 45  3.557469432710951 BM25
+
+
+Logarithm of A Complex Number (Algorithm 48)
+Logarithm of A Complex NUMBER ( Algorithm 48 ) 
+
+CA610415 JB March 16, 1978  11:53 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0355 46  3.557469432710951 BM25
+
+
+Exponential of a Complex Number (Algorithm 46)
+Exponential of a Complex NUMBER ( Algorithm 46 ) 
+
+CA610413 JB March 16, 1978  11:59 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0567 47  3.557469432710951 BM25
+
+
+Logarithm of a Complex Number (Algorithm 48)
+Logarithm of a Complex NUMBER ( Algorithm 48 ) 
+
+CA620618 JB March 17, 1978  9:20 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0568 48  3.557469432710951 BM25
+
+
+Exponential of a Complex Number (Algorithm 46)
+Exponential of a Complex NUMBER ( Algorithm 46 ) 
+
+CA620617 JB March 17, 1978  9:21 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1268 49  3.557469432710951 BM25
+
+
+Logarithm of a Complex Number (Algorithm 243 [B3])
+Logarithm of a Complex NUMBER ( Algorithm 243 [ B3 ] ) 
+
+CA650502 JB March 7, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0348 50  3.530329357298478 BM25
+
+
+Nth Roots of a Complex Number (Algorithm 53)
+Nth Roots of a Complex NUMBER ( Algorithm 53 ) 
+
+CA610420 JB March 16, 1978  11:47 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0979 51  3.530329357298478 BM25
+
+
+Logarithm of a Complex Number (Algorithm 243 [B3])
+Logarithm of a Complex NUMBER ( Algorithm 243 [ B3 ] ) 
+
+CA641104 JB March 9, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1011 52  3.530329357298478 BM25
+
+
+Logarithm of a Complex Number (Algorithm 48 [B3])
+Logarithm of a Complex NUMBER ( Algorithm 48 [ B3 ] ) 
+
+CA640819 JB March 23, 1978  7:54 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0304 53  3.5036002520024008 BM25
+
+
+Nth Roots of a Complex Number (Algorithm 53)
+Nth Roots of a Complex NUMBER ( Algorithm 53 ) 
+
+CA610713 JB March 16, 1978  10:17 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0443 54  3.5036002520024008 BM25
+
+
+Complex Number to a Real Power (Algorithm 106)
+Complex NUMBER to a Real Power ( Algorithm 106 ) 
+
+CA621118 JB March 17, 1978  6:01 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0546 55  3.5036002520024008 BM25
+
+
+Logarithm of a Complex Number (Algorithm 48)
+Logarithm of a Complex NUMBER ( Algorithm 48 ) 
+
+CA620715 JB March 17, 1978  8:23 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0216 56  3.4772728522601923 BM25
+
+
+A Note on the Use of the Abacus in Number Conversion
+A Note on the Use of the Abacus in NUMBER Conversion 
+
+CA600302 JB March 22, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0553 57  3.4772728522601923 BM25
+
+
+Complex Number to a Real Power (Algorithm 106)
+Complex NUMBER to a Real Power ( Algorithm 106 ) 
+
+CA620708 JB March 17, 1978  8:34 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1219 58  3.4772728522601923 BM25
+
+
+Number of Restricted Partitions of N (Algorithm 262 [A1])
+NUMBER of Restricted Partitions of N ( Algorithm 262 [ A1 ] ) 
+
+CA650805 JB March 6, 1978  8:26 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0628 59  3.451338169902343 BM25
+
+
+On a Floating-Point Number RepresentationFor Use with Algorithmic Languages
+On a Floating-Point NUMBER RepresentationFor Use with Algorithmic Languages 
+
+CA620304 JB March 20, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2018 60  3.434442451694336 BM25
+
+
+Full Table Quadratic Searching for Scatter Storage
+It has been shownthat when the length of the table is a PRIME of the form 4n+3 , where n is an integer , the whole table may be accessed by two quadraticsearches plus a separate access for the original entry point 
+
+CA700803 JB February 10, 1978  3:57 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2121 61  3.4257874829215056 BM25
+
+
+Partitions in Natural Order (Algorithm 371 $A1))
+partitions , NUMBER theory 
+
+CA700110 JB February 14, 1978  1:48 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2031 62  3.42114612707954 BM25
+
+
+Algorithm and Bound for the Greatest Common Divisor of n Integers
+A THEOREM of Lame that gives a bound for the NUMBER of iterations of the Euclidean algorithm for two integers is extended to the case of n integers The NUMBER of arithmetic operations AND the numberof storage locations are linear in n greatest common divisor , Euclidean algorithm , NUMBER theory , diophantine equations 
+
+CA700706 JB February 13, 1978  8:45 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2115 63  3.4006123256927343 BM25
+
+
+Fortran Tausworthe Pseudorandom Number Generator
+Fortran Tausworthe Pseudorandom NUMBER Generator random numbers , pseudorandom numbers , shift register sequences 
+
+CA700116 JB February 14, 1978  1:06 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1052 64  3.3779220987380096 BM25
+
+
+Reducing Truncation Errors by Programming
+In accumulating a sum such as in a numericalintegration with a large NUMBER of intervals , the sum itself becomes much larger than the individualaddends This may produce a less accurate sum as the NUMBER of intervals is increased 
+
+CA640615 JB March 9, 1978  9:22 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2240 65  3.3758044796217934 BM25
+
+
+Pseudo-Random Numbers [G5] (Algorithm C266)
+Pseudo-Random Numbers [ G5 ] ( Algorithm C266 ) pseudo-random numbers , testing random NUMBER generators 
+
+CA721215 JB January 27, 1978  9:04 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1259 66  3.329316162458315 BM25
+
+
+Applications of Binary Numbers In Computer Routines
+Applications of Binary Numbers In Computer Routines A binary NUMBER can be thought of as an alternateform of expression for either a set of letters or a decimal NUMBER 
+
+CA650512 JB March 7, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2416 67  3.327259028443986 BM25
+
+
+Matrix Transposition in Place [F1] (Algorithm A467)
+transposition , matrix operations , permutations , primitive roots , NUMBER theory 
+
+CA731110JB January 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2104 68  3.3035061427045513 BM25
+
+
+Number of Doubly Restricted Partitions (Algorithm 373 $A1))
+NUMBER of Doubly Restricted Partitions ( Algorithm 373 $ A1 ) ) 
+
+CA700211 JB February 14, 1978  9:52 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2123 69  3.3035061427045513 BM25
+
+
+Generator of Random Numbers Satisfying thePoisson Distribution (Algorithm 369 $G5))
+Generator of Random Numbers Satisfying thePoisson Distribution ( Algorithm 369 $ G5 ) ) Poisson distribution , random NUMBER generator 
+
+CA700108 JB February 14, 1978  1:53 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1663 70  3.2800899908206804 BM25
+
+
+Generator of Random Numbers Satisfying the Poisson distribution [G5])
+Generator of Random Numbers Satisfying the Poisson distribution [ G5 ] ) Poisson distribution , random NUMBER generator , Monte Carlo 
+
+CA681203 JB February 21, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2565 71  3.257003462607275 BM25
+
+
+A Gaussian Pseudo-Random Number Generator (Algorithm 488)
+A Gaussian Pseudo-Random NUMBER Generator ( Algorithm 488 ) random numbers , pseudo-random numbers , Gaussian distribution , normal distribution 
+
+CA741209 JB January 13, 1978  3:57 PM 
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1257 72  3.2232814089301027 BM25
+
+
+DEBUG-An Extension to Current On-Line Debugging Techniques
+With this program , an online user may insert or delete ( in symbolic assembly language ) any NUMBER of lines at any point of his previously assembled program in core , with the remainderof the program being relocated appropriately 
+
+CA650514 JB March 7, 1978  12:58 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2489 73  3.1678181970970196 BM25
+
+
+Number of Multiply-Restricted Partitions [A1] (Algorithm A448)
+NUMBER of Multiply-Restricted Partitions [ A1 ] ( Algorithm A448 ) 
+
+CA730611 JB January 23, 1978  1:49 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2549 74  3.1462798561372476 BM25
+
+
+Random Deviates from the Dipole Distribution [G5] (Algorithm A441)
+random NUMBER , probability density , probability distribution , Dipole distribution , Cauchy distribution , simulation , Monte Carlo 
+
+CA730112 JB January 24, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1991 75  3.1250324203339015 BM25
+
+
+On the Number of Automorphisms of a Singly Generated Automaton
+On the NUMBER of Automorphisms of a Singly Generated Automaton 
+
+CA700914 JB February 10, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1014 76  3.1058603708966457 BM25
+
+
+Machine Controls for Analysis of Variance
+A major problem in using the analysis of variance , as the NUMBER of factors increases , is the exponential rise in the NUMBER of interactions 
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2349 77  3.1040700356045363 BM25
+
+
+Generation of Random Correlated Normal Variables [G5] (Algorithm A425)
+random NUMBER , normal density , normal distribution , Gaussian density , Gaussian distribution , simulation , Monte Carlo 
+
+CA720511 JB January 31, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1408 78  3.1040571001769695 BM25
+
+
+The Eschenbach Drum Scheme
+The PRIME function of a drum , operating inreal time , is to perform accesses quickly 
+
+CA660706 JB March 2, 1978  9:29 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1924 79  3.0033420444905987 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+It is shown thatcarefully designed matrix ALGORITHMS can lead to enormous savings in the NUMBER of page faults occurringwhen only a small part of the total matrix can be in main memory at one time Examination of addition , multiplication , AND inversion ALGORITHMS shows that a partitioned matrix representation ( i The NUMBER of page-pulls required by these matrix manipulation ALGORITHMS is also studied as a functionof the NUMBER of pages of main memory available to the algorithm matrix ALGORITHMS , array processing , paging ALGORITHMS , paged memory systems , virtual memory systems , array storage allocation , storage allocation 
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1874 80  2.972550737439631 BM25
+
+
+Generating Pseudorandom Numbers on a Two'sComplement Machine such as the IBM 360
+Another easily generated sequence INVOLVING absolute values is also shown to have twicethe period but with less attractive statistical properties The familiar multiplicative congruential generatoris examined in the context of the type of two 's complement arithmetic used in the IBM 360 SERIES Generating Pseudorandom Numbers on a Two'sComplement Machine such as the IBM 360 random NUMBER , uniform distribution , pseudo-randomnumber , random NUMBER generator , multiplicative congruential generator , power residue , two'scomplement arithmetic , IBM 360 arithmetic 
+
+CA690706 JB February 17, 1978  9:17 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1171 81  2.9586113159292573 BM25
+
+
+A Comparison of the Primal-Simplex and Primal-DualAlgorithms for Linear Programming
+A Comparison of the Primal-Simplex AND Primal-DualAlgorithms for Linear Programming It has also been found , viaa regression analysis , that the relevant parameters in determining the difference in the NUMBER of iterationsbetween the ALGORITHMS is not only the NUMBER of constraints AND the NUMBER of variables butalso the ratio of the latter to the former 
+
+CA651110 JB March 6, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2200 82  2.8892764782082 BM25
+
+
+On Complement Division
+The division algorithm THEOREM is expressedin a form that permits it to serve as the basis for devising division operations that produce both quotientand REMAINDER in complement form The problem of quotient overflow for complement results is dealt with as is that of selecting an appropriateform of the REMAINDER condition for complement division ALGORITHMS for division yielding complement results are derivedfor numbers represented in any base greater than one The binary form of the ALGORITHMS thus includes both two 's AND one 's complement implementation 
+
+CA710405 JB February 3, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-3141 83  2.8696424304304187 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+Decentralized ALGORITHMS , distributed systems , operating systems This note presents an improvement to LeLann'salgorithm for finding the largest ( or smallest ) of a set of uniquelynumbered processes arranged in a circle , in which no centralcontroller exists AND the NUMBER of processes is not known a priori This decentralized algorithm uses a technique of selectivemessage extinction in order to achieve an average NUMBER ofmessage passes of order ( n log n ) rather than O ( n2 ) 
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0626 84  2.824076376797267 BM25
+
+
+A Method of Representation, Storage and Retrievalof 13 Random Codes in a 4-Digit Number or 16 Random Codes in a 5-Digit Number
+A Method of Representation , Storage AND Retrievalof 13 Random Codes in a 4-Digit NUMBER or 16 Random Codes in a 5-Digit NUMBER 
+
+CA620306 JB March 20, 1978  3:07 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0615 85  2.7961979958176664 BM25
+
+
+Addressing Multidimensional Arrays
+It is noted that the index address transformation is computationallyidentical to the conversion of a NUMBER from a fixed to a mixed radix NUMBER system 
+
+CA620402 JB March 20, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-3115 86  2.7887656441828055 BM25
+
+
+Orderly Enumeration of Nonsingular BinaryMatrices Applied to Text Encryption
+, nonsingular over the field { 0 , 1 } , AND an initial segment of the natural numbers are placed in one-to-onecorrespondence Each natural NUMBER corresponds to two intermediate vectors The mappinghas application to the Vernam encipherment method using pseudorandom NUMBER sequences A bit string formedform bytes of text of a data encryption key can be used as a representation of a natural NUMBER This natural NUMBER is transformed to a nonsingular binary matrix key leverage is obtained by using thematrix as a '' seed '' in a shift register sequence pseudorandom NUMBER generator Binary matrices , combinatorics , combinations , nonsingularmatrices , encryption , Vernam , pseudorandom numbers , feedback shiftregister sequences , random numbers 
+
+CA780401 DH February 27, 1979  11:05 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1930 87  2.7820571536897023 BM25
+
+
+Extremely Portable Random Number Generator
+Extremely Portable Random NUMBER Generator Typically , this occurs for library functions ( like random NUMBER generation AND in core sorting ) which are not entirely universal or are not used in astandardized way The literature on random NUMBER generators does not seem to contain an algorithm thatmeets requirements of this sort random NUMBER generators , random numbers , randomnumber analysis , random generators , linear sequential generators , random NUMBER program , pseudo random numbers 
+
+CA690208 JB February 20, 1978  10:43 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2208 88  2.7161465086219647 BM25
+
+
+Storage Utilization in a Memory Hierarchy When StorageAssignment Is Performed by a Hashing Algorithm
+hashing ALGORITHMS , memory allocation , memory hierarchy , memory utilization , storage allocation , storage hierarchy , storage utilization The first storage level , which is the fast store , is divided into a NUMBER ofstorage areas Given the N entries have been filed in the entire hierarchy , an expression is derived for theexpected NUMBER of entries filed in the first-level storehis expression gives a measure of how effectivelythe first-level store is being used By means of examples , storage utilization is then studied as afunction of the hashing algorithm , the NUMBER of storage areas into which the first-level store is dividedand the total size of the first-level store 
+
+CA710304 JB February 3, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-0942 89  2.6873482218356797 BM25
+
+
+FORTRAN Subroutines for Time Series Analysis
+The authors have recently been concerned in atime-series study that constituted a fairly typical piece of applied statistical research , INVOLVING extensivecomputations on a moderately large quantity of data FORTRAN Subroutines for Time SERIES Analysis Wehave found that the many different numericalprocesses that were required could be built up almost completely from a small NUMBER of basic operations , AND a set of FORTRAN subroutines has been written to perform these 
+
+CA630106 JB March 14, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2963 90  2.634274979989169 BM25
+
+
+A Fast Algorithm for Computing Longest Common Subsequences
+Previously published ALGORITHMS for findingthe longest common subsequence of two sequences of length n have had a best-case running time of O ( n^2 ) Longest common subsequence , efficient ALGORITHMS An algorithm for this problem is presented which has a running time of O ( ( r + n ) log n ) , where ris the total NUMBER of ordered pairs of positions at which the two sequences match 
+
+CA770509 JB December 29, 1977  1:46 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2664 91  2.613247271208108 BM25
+
+
+Parallelism in Tape-Sorting
+Both approximatelyachieve the goal of reducing the processing time by a divisor which is the NUMBER of processors 
+
+CA740406 JB January 18, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1364 92  2.5985725452433566 BM25
+
+
+Mathematical Experimentation in Time-Lag Modulation
+Equations of the form du/dt = g ( u ( t ) , u ( h ( t ) ) ) arise in a NUMBER of scientific contexts 
+
+CA661003 JB March 2, 1978  4:08 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2146 93  2.57254152719386 BM25
+
+
+Optimizing the Polyphase Sort
+Various dispersion ALGORITHMS for the polyphasesorting procedure are examinedhe optimum algorithm based on minimizing the total NUMBER of unitstrings read is displayed The logic of this algorithm is rather complicated ; hence , several othernew dispersion ALGORITHMS with more straightforward logic are presented Of the simple dispersion algorithmsdiscussed , the Horizontal is best It does approximately one-fourth to one AND one-half percentless reading AND writing than most ALGORITHMS in use today sorting , polyphase sorting , dispersion ALGORITHMS , optimum dispersion algorithm , repetition operator This algorithm is relativelystraightforward , but it requires a fairly close estimate of the total NUMBER of unit strings before the dispersion begins 
+
+CA711103 JB February 2, 1978  11:39 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2490 94  2.565451633340932 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+Efficient ALGORITHMS for Graph Manipulation [ H ] ( Algorithm A447 ) Efficient ALGORITHMS are presented for partitioninga graph into connected components , biconnected components AND simple paths graphs , analysis of ALGORITHMS , graph manipulation ) If V is the NUMBER of verticesand E is the NUMBER of edges , each algorithm requires time AND space proportional to max ( V , E ) when executed on a random access computer 
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1997 95  2.5082304140020164 BM25
+
+
+Increasing the Efficiency of Quicksort
+The average asymptotic NUMBER of comparisons needed is shown to be an log^2 ( n ) This implies a decrease in NUMBER of comparisons of 18 percent ; actual tests showed about 15 percent saving in computing time 
+
+CA700908 JB February 10, 1978  10:15 AM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-2648 96  2.4939405827788366 BM25
+
+
+A Design for a Number Theory Packagewith an Optimized Trial Division routine
+NUMBER theory package , trial division , multiprecisearithmetic , factorization , doubly linked lists , pseudoprime A Design for a NUMBER Theory Packagewith an Optimized Trial Division routine A NUMBER theory package is described which usesdoubly linked list structures for storing multiprecise integers 
+
+CA740505 JB January 17, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1631 97  2.4928622327528 BM25
+
+
+Testing a Random Number Generator
+Testing a Random NUMBER Generator The first 1,000,000 numbers produced by therandom NUMBER generator used in the General Purpose Systems Simulator ( GPSS ) were subjected to statisticaltests These particular tests indicatethat the numbers are satisfactory It is recommended that suitable tests be applied to allrandom numbers used in computer simulations 
+
+CA670211 JB February 28, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1475 98  2.460407996094227 BM25
+
+
+Dribble Posting a Master File
+Many business applications employ sequentialmagnetic tape rather than random-access storage techniques to process a very small NUMBER of transactionsagainst a voluminous master file 
+
+CA660209 JB March 3, 1978  2:41 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1843 99  2.409170337313045 BM25
+
+
+The Choice of Base
+The choice of baseB for the internal representation of floating-point numbers on such a computer is discussed floating-point , accuracy , base choice , NUMBER representations 
+
+CA691003 JB February 15, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+29 Q0 CACM-1783 100  2.404148394365609 BM25
+
+
+In-and-Out Conversions
+Byan in-and-out conversion we mean that a floating-pointnumber in one base is converted into a floating-point NUMBER in another base AND then convertedback to a floating-point NUMBER in the original base For all combinations of rounding AND truncationconversions the question is considered of how many significant digits are needed in the intermediatebase to allow such in-and-out conversions to return the original NUMBER ( when possible ) , or at least significant digit floating-point numbers , significance , base conversion , rounding , truncation 
+
+CA680111 JB February 23, 1978  2:14 PM
+
+

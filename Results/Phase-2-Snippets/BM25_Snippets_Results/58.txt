@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+58 Q0 CACM-2634 1  25.2073693288768 BM25
+
+
+An Evaluation of Statistical Software in the Social Sciences 
+Several hundred college and university computerinstallations now offer various types of statistical PACKAGES for general use statistical computation , statistical software , descriptive statistics , bivariate tables , Pearson correlation , REGRESSION , factor analysis , one-way analysis of variance In order to provide users with a basis for selectionand use , TESTS were made for each of these systems , and the results are summarized as to cost and performance 
+
+CA740612 JB January 17, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1709 2  22.11018199170738 BM25
+
+
+A Modification of Efroymson's Technique for Stepwise Regression Analysis
+A Modification of Efroymson 's Technique for Stepwise REGRESSION Analysis The computational technique conventionally usedfor stepwise multiple linear REGRESSION requires the storage of an n X n matrix of data multiple linear REGRESSION , statistical recurrenceformulas , correlation , linear statistical models , statistical computer programs , curve fitting 
+
+CA680805 JB February 22, 1978  10:52 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1344 3  21.389418032911102 BM25
+
+
+Statistical Computations Based Upon Algebraically Specified Models
+A procedure for obtaining variance COMPONENTS and calculated F statistics for the model terms is included 
+
+CA661206 JB March 2, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2825 4  16.965888669951553 BM25
+
+
+The BMD and BMDP Series of Statistical Computer Programs
+analysis of variance , cluster analysis , contingencytables , data analysis , discriminant analysis , factor analysis , graphics , outliers , REGRESSION , time series , transformations 
+
+CA761006 JB January 3, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1631 5  15.397701809723447 BM25
+
+
+Testing a Random Number Generator
+The first 1,000,000 numbers produced by therandom number generator used in the General Purpose Systems Simulator ( GPSS ) were subjected to statisticaltests The TESTS are described and the results of the TESTS are presented These particular TESTS indicatethat the numbers are satisfactory It is recommended that suitable TESTS be applied to allrandom numbers used in computer simulations 
+
+CA670211 JB February 28, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1474 6  15.157638091363639 BM25
+
+
+Tests of Probabilistic Models for Propagation of Roundoff Errors
+TESTS of Probabilistic Models for Propagation of Roundoff Errors 
+
+CA660210 JB March 3, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1637 7  15.019555305331007 BM25
+
+
+Problems in the Statistical Analysis of SimulationExperiments: The Comparison of Means and the Length of Sample Records
+It is shown how the variance of the sample mean relates to the spectrumof the generating process , and estimation of the quantities of INTEREST is described 
+
+CA670205 JB February 28, 1978  3:34 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1171 8  14.913463965790832 BM25
+
+
+A Comparison of the Primal-Simplex and Primal-DualAlgorithms for Linear Programming
+Under these conditions the primal-dual methodshows a statistically significant superiority on randomly generated problems It has also been found , viaa REGRESSION analysis , that the relevant parameters in determining the difference in the number of iterationsbetween the algorithms is not only the number of constraints and the number of variables butalso the ratio of the latter to the former 
+
+CA651110 JB March 6, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1420 9  14.772345109603418 BM25
+
+
+A New Uniform Pseudorandom Number Generator
+This generator passes the usual statisticaltests and in addition the least significant bits appear to be as random as the most significant bits-aproperty which generators having modulus 2^k do not possess 
+
+CA660602 JB March 3, 1978  9:01 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2395 10  14.589030076138839 BM25
+
+
+Quadratic Programming for Nonlinear Regression
+Quadratic Programming for Nonlinear REGRESSION A quadratic programming algorithm is describedfor use with the magnified diagonal method of nonlinear REGRESSION with linear constraints Theregression method is published in JACM , July 1970 nonlinear equations , nonlinear REGRESSION , nonlinearprogramming , quadratic programming , least squares , inequality , constraints , iteration 
+
+CA720108 JB February 1, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2216 11  14.092459756718998 BM25
+
+
+On the Probability Distribution of the Values of Binary Trees
+Statistical TESTS of the values of severalthousand trees containing up to 10,000 points have given first , second , and third moments of the value distributionfunction in satisfactory agreement with the moments computed from the generating function Theempirical TESTS , as well as the analytical results , are in agreement with previously published results for thefirst moment in the cases of uniform and nonuniform distribution of branching ratio , and for the second momentin the case of uniform distribution of branching ratio 
+
+CA710205 JB February 8, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2373 12  13.852501124045096 BM25
+
+
+Properties of the Working-Set Model
+
+
+CA720308 JB January 31, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0069 13  13.80243606662852 BM25
+
+
+Statistical Programs for the IBM 650-Part I
+
+
+CA590804 JB March 22, 1978  6:07 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1398 14  13.788680711098536 BM25
+
+
+Robot Data Screening: A Solution to MultivariateType Problems in the Biological and Social Sciences
+Robot Data Screening : A Solution to MultivariateType Problems in the Biological and Social Sciences A new approach is outlined toward the solutionof the type of MULTIVARIATE problem that is found usually in the biological and social sciences aswell as in medicine 
+
+CA660714JB March 2, 1978  8:26 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1816 15  13.753545150186612 BM25
+
+
+Generalized Least Squares Fit By OrthogonalPolynomials (Algorithm 296 [E2])
+least squares , curve fitting , orthogonal polynomials , three-term recurrence , polynomial REGRESSION , approximation , Forsythe 's method GENERALIZED Least Squares Fit By OrthogonalPolynomials ( Algorithm 296 [ E2 ] ) 
+
+CA691114 JB February 15, 1978  12:06 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1691 16  13.748495808426943 BM25
+
+
+A Comparison of the Correlational Behaviorof Random Number Generators for the IBM 360
+Lehmer , has passed the usual statisticaltests for random number generators random numbers , pseudorandom number generators , autocorrelationfunction , serial correlation , digital shift-register generators , linear recurrence modulotwo , irreducible polynomials , primitive trinomials modulo two , congruential generators , prime numbers , statistical TESTS for randomness , IBM 360 , 32-bit versus 36-bit word size 
+
+CA680910 JB February 21, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1874 17  13.531150925133813 BM25
+
+
+Generating Pseudorandom Numbers on a Two'sComplement Machine such as the IBM 360
+
+
+CA690706 JB February 17, 1978  9:17 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3166 18  13.029328597163985 BM25
+
+
+Computing Standard Deviations: Accuracy
+
+
+CA790907 DB January 16, 1980  4:23 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2525 19  12.388177175320612 BM25
+
+
+A Statistical Study of the Accuracy of Floating Point Number Systems
+This paper presents the statistical resultsof TESTS of the accuracy of certain arithmetic systems in evaluating sums , products and inner products , and analytic error estimates for some of the computations 
+
+CA730403 JB January 24, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1619 20  11.755838158037104 BM25
+
+
+Error-Free Methods for Statistical Computations
+
+
+CA670310 JB February 28, 1978  1:02 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0382 21  11.703348433155819 BM25
+
+
+Statistical Programs at the University of North Carolina
+
+
+CA610216 JB March 17, 1978  12:48 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2098 22  11.617347064600942 BM25
+
+
+t-Test Probabilities (Algorithm 321);Student's t-Distribution (Algorithm 344)
+t-Test Probabilities ( Algorithm 321 ) ; STUDENT 's t-Distribution ( Algorithm 344 ) t-test , STUDENT 's t-statistic , distribution function , approximation 
+
+CA700217 JB February 14, 1978  8:45 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0050 23  11.272034788411924 BM25
+
+
+Statistical Programs for the IBM 650-Part II
+
+
+CA591009 JB March 22, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1732 24  11.187320562116017 BM25
+
+
+Factorial Analysis of Variance (Algorithm 330 [G1])
+
+
+CA680613 JB February 22, 1978  3:21 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1823 25  11.187320562116017 BM25
+
+
+Factorial Analysis of Variance (Algorithm [G1])
+
+
+CA691107 JB February 15, 1978  12:22 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1206 26  11.127180876469533 BM25
+
+
+The Self-Judgment Method of Curve Fitting
+Otherwise intractable problems are easily solved , and the design of many experiments is greatly simplified Data compatibility TESTS with any number of different equations can be made quickly 
+
+CA650818 JB March 6, 1978  7:50 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1252 27  11.109365640286708 BM25
+
+
+Symbolic Notations for Statistical Tablesand an Approach Towards Automatic System Design
+Symbolic Notations for Statistical Tablesand an Approach Towards Automatic System Design Such a notation also providesthe first step towards making automatic a tedious and time-consuming part of system design and programmingin many computer applications 
+
+CA650603 JB March 7, 1978  12:41 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0942 28  11.103140699396311 BM25
+
+
+FORTRAN Subroutines for Time Series Analysis
+
+
+CA630106 JB March 14, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1944 29  11.081672914486072 BM25
+
+
+Student's t-Distribution (Algorithm 344 [S14])
+STUDENT 's t-Distribution ( Algorithm 344 [ S14 ] ) STUDENT 's t-Distribution , t-test , small-samplestatistics , distribution function 
+
+CA690105 JB February 20, 1978  11:56 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1946 30  10.997350080007715 BM25
+
+
+Computing Polynomial Resultants: Bezout's Determinantvs. Collins' Reduced P. Algorithm
+Detailed TESTS performed on sample problems conclusively show that Bezout 's determinantis superior in all respects except for UNIVARIATE polynomials , in which case Collins ' reducedp algorithm , Euclideanalgorithm , MULTIVARIATE polynomial equations Results of TESTS are reported in detail 
+
+CA690103 JB February 20, 1978  12:10 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1779 31  10.89895684353655 BM25
+
+
+t-Test Probabilities (Algorithm [S14])
+T-test , STUDENT 's t-statistic , distribution function 
+
+CA680203 JB February 23, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0533 32  10.866634952592035 BM25
+
+
+Digital Synthesis of Correlated Stationary Noise
+
+
+CA620728 JB March 17, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2999 33  10.735999029857277 BM25
+
+
+An Approach to Multidimensional Data Array Processing by Computer
+Some recent work on the development of general-purposecomputer-based statistical and data processing CAPABILITIES for handling multidimensionalarrays of data is presented This is followed by a summary of some recent developments in array processingcapabilities at the World Bank , in particular , the system identified as WRAPS ( World BankRetrieval and Array Processing System ) 
+
+CA770201 JB December 30, 1977  3:12 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3138 34  10.674443078464831 BM25
+
+
+A Mathematical Programming Updating Method Using ModifiedGivens Transformations and Applied to LP Problems
+Some suggested computational TESTS for determiningsigns of various controlling parameters in the revised simplexalgorithm are mentioned 
+
+CA790404 DH May 21, 1979  2:06 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2225 35  10.448037270270836 BM25
+
+
+Circular Integer Partitioning [A1] (Algorithm 403)
+partitions , combinatorics , statistical design of experiments 
+
+CA710109 JB February 8, 1978  10:27 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2249 36  10.26138691065804 BM25
+
+
+A Comparison of Multivariate Normal Generators
+A Comparison of MULTIVARIATE Normal Generators Three methods for generating outcomes on multivariatenormal random vectors with a specified variance-covariance matrix are presented random number generator , normal distribution , multivariatenormal distribution , MULTIVARIATE normal generator 
+
+CA721206 JB January 27, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1629 37  10.16960671679087 BM25
+
+
+Stat-Pack: A Biostatistical Programming Package
+The major design criteria of ease of use , ease of modification , flexibility of input and detail of output are described 
+
+CA670213 JB February 28,1978  1:57 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0536 38  9.612870039153481 BM25
+
+
+Nonlinear Regression and the Solution of Simultaneous Equations
+Nonlinear REGRESSION and the Solution of Simultaneous Equations ) gives rise to a function N which is nonlinear in the Ai , then one may rely on a version of Gaussian REGRESSION [ 1,2 ] for an iteration scheme that converges to a minimizingset of values 
+
+CA620725 JB March 17, 1978  8:09 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1848 39  9.58143476935106 BM25
+
+
+The Damped Taylor's Series Method for Minimizinga Sum of Squares and for Solving Systems of Nonlinear Equations (Algorithm 315 [E4, C5])
+
+
+CA690907 JB February 15, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2670 40  9.475053944125088 BM25
+
+
+Efficient Implementation of a Variable ProjectionAlgorithm for Nonlinear Least Squares Problems
+A variable projectionalgorithm has been developed recently which is designed to take advantage of the structure of a problemwhose variables separate in this way 
+
+CA740313 JB January 18, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2849 41  9.295944366163306 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Design principles and implementation are described , based on experiencewith an operating Ethernet of 100 nodes along a kilometer of coaxial cable 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2779 42  9.194606743951123 BM25
+
+
+Discrete Least Squares Polynomial Fits
+
+
+CA750309 JB January 9, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2595 43  9.01014992471112 BM25
+
+
+A Note on the Calculation Working Set Size
+
+
+CA741003 JB January 16, 1978  12:56 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1604 44  9.001780555439053 BM25
+
+
+Further Analysis of a Computing Center Environment
+The data are subdivided according to certain characteristics of usersand jobs to obtain selected empirical conditional distributions of those time properties as well as statisticalmeasures of other interesting properties 
+
+CA670502 JB February 28, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2488 45  8.984047751954389 BM25
+
+
+Least Squares Piecewise Cubic Curve Fitting
+The matrices involved in a linear least squaresformulation are determined for the problem of fitting piecewise cubic functions , those possessinga continuous derivative , to arrays of planar data 
+
+CA730612 JB January 23, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1986 46  8.918884808873836 BM25
+
+
+Student's t-Quantiles $S14) (Algorithm 396)
+STUDENT 's t-Quantiles $ S14 ) ( Algorithm 396 ) STUDENT 's t-statistic , quantile , asymptotic approximation 
+
+CA701004 JB February 10, 1978  9:29 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2096 47  8.91119367742193 BM25
+
+
+Experiments with the M & N Tree-Searching Program
+The mini-max procedure assigns to a MAX ( MIN ) nodethe value of the highest ( lowest ) valued successor to that node The M & N procedure assigns to a MAX ( MIN ) node some function ofthe M ( N ) highest ( lowest ) valued successors An M & N procedure waswritten in LISP to play the game of kalah , and it was demonstrated that the M & N procedure is significantly superior to the mini-maxprocedure The statistical significance of important conclusions is given Since information on statistical significance has often been lacking in papers on computer experiments in the artificial intelligence field , these experiments can perhaps serve as a model for future work 
+
+CA700302 JB February 14, 1978  8:34 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2418 48  8.879065572402997 BM25
+
+
+Student's t Frequency [S14] (Algorithm A465)
+STUDENT 's t Frequency [ S14 ] ( Algorithm A465 ) STUDENT 's t statistic , density function , series approximation 
+
+CA731108 JB January 20, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1987 49  8.839600309360703 BM25
+
+
+Student's t-Distribution $S14) (Algorithm 395)
+STUDENT 's t-Distribution $ S14 ) ( Algorithm 395 ) STUDENT 's t-statistic , distribution function , approximation , asymptotic expansion 
+
+CA701003 JB February 10, 1978  9:31 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1443 50  8.807587316436024 BM25
+
+
+A Method for Finding the Least Squares Estimateof the Intersection Point of Two Helices in Space
+
+
+CA660406 JB March 3, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2907 51  8.65281713335118 BM25
+
+
+The Optimal Approach to Recursive Programs
+
+
+CA771109 JB December 27, 1977  7:13 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2217 52  8.579048015771543 BM25
+
+
+Experiments in Automatic Learning for a Multipurpose Heuristic Program
+A multiple regressionprogram was used to produce optimal coefficients for linear polynomial functions in terms of the features Data was generally collected forlearning ( REGRESSION analysis ) from the experience of PP learning , theorem-providing , heuristic , automaticlearning , self-modifying , tree-searching , artificial intelligence , problem-solving , adaptive , LISP , multiple REGRESSION , resolution 
+
+CA710204 JB February 8, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0298 53  8.55061017340545 BM25
+
+
+A 48-Bit Pseudo-Random Number Generator
+Thesetests substantiated the randomness of all numbers except for the set of integers coming from the least significant bits Frequency TESTS , distributions of certain low-order moments , runs up and down , and runsabove and below the mean were applied to one-half million generated numbers lying within the interval ( 0,1 ) and to three sets of integers obtained from specified bits within the generated numbers 
+
+CA610806 JB March 16, 1978  10:09 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2062 54  8.547938016350033 BM25
+
+
+The Application of Sequential Samplingto Simulation: An Example Inventory Model
+simulation , inventory models , sequentialsampling , models , experimental design 
+
+CA700504 JB February 13, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2025 55  8.524831507783421 BM25
+
+
+Student's t-Distribution; Jacobi Polynomials;Modified Romberg Quadrature;Factorial Analysis of Variance; (Algorithms 332,344,351,359) 
+STUDENT 's t-Distribution ; Jacobi Polynomials ; Modified Romberg Quadrature ; Factorial Analysis of Variance ; ( Algorithms 332,344,351,359 ) 
+
+CA700712 JB February 10, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3092 56  8.387500966574816 BM25
+
+
+Characteristics of Application Software Maintenance
+The results of the analysis indicatethat : ( 1 ) maintenance and enhancement do consume much of the total resources of systems and programminggroups ; ( 2 ) maintenance and enhancement tend to be viewed by management as at least somewhat more importantthan new application software development ; ( 3 ) in maintenance and enhancement , problems of a managementorientation tend to be more significant than those of a technical orientation ; and ( 4 ) userdemands for enhancements and extension constitute the most important management problem area 
+
+CA780605 DH February 26, 1979  11:59 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1698 57  8.302858526504677 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+Using the model we answer questions like : How many processes are suspended waiting for console input ? What is the maximum rate at which a process canexecute ? What bounds can be set on overall buffer requirements ? Answers to these and similar questionsare needed in certain aspects of operating system design statistical models for input-output , operatingsystem design , input-output design 
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3084 58  8.224000136207403 BM25
+
+
+Interpolation Search -A Log LogN Search
+
+
+CA780704 DH February 7, 1979  4:50 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0529 59  8.182849109639077 BM25
+
+
+Regression and Coded Patterns in Data Editing
+REGRESSION and Coded Patterns in Data Editing 
+
+CA620732 JB March 17, 1978  7:42 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3190 60  8.176168785577097 BM25
+
+
+   Correction to Economies of Scale and the IBM System/360
+Through an undetected programming error , the times andthe resulting REGRESSION equation are slightly in error 
+
+CA670214 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1644 61  8.163220254188136 BM25
+
+
+On the Computation of Least Squares Polynomials
+
+
+CA670111 JB February 28, 1978  4:24 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1366 62  8.092345243543617 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+The purpose of this paper is to present a comparisonof some computer simulation languages and of some of the involved in comparing software packagesfor digital computers are discussed in Part I Part III presents a detailed comparisonof six simulation languages and PACKAGES : SIMSCRIPT , CLP , CSL , GASP , CPSS and SOL The conclusion of the paper is that the PACKAGES nowavailable for computer simulation offer features which none of the more general-purpose PACKAGES do andthat analysis of strengths and weaknesses of each suggests ways in which both current and future simulationlanguages and PACKAGES can be improved Substantial costs can occur , particularly in training , implementation and computer time if an inappropriate language is chosenore and more computer simulationlanguages are being developed : comparisons and evaluations of existing languages are useful for designersand implementers as well as users The implications of this analysis for designers of languages , for users , and for implementers are developed 
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2679 63  8.072368248181977 BM25
+
+
+Some Performance Tests of "quicksort" and Descendants
+Some Performance TESTS of `` quicksort '' and Descendants sorting , in-place sorting , sorting efficiency , sorting performance TESTS , quicksort , quickersort , qsort , Shellsort , stringsort , TREESORT3 , utility sortalgorithm , general-purpose sort algorithm , sorting algorithm documentation 
+
+CA740304 JB January 18, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1674 64  7.993709140041528 BM25
+
+
+One-Line Random Number Generators and Their Use in Combinations
+
+
+CA681105 JB February 21, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2993 65  7.927722339789415 BM25
+
+
+Occurrences of Cycling and Other PhenomenaArising in a Class of Linear Programming Models
+An investigation into the average queue sizefor a certain class of queues has resulted in the formulation of linear programming problems whichare ill-conditioned in some cases 
+
+CA770208 JB December 30, 1977  2:11 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1695 66  7.877107680919506 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+PLEXUS is designed to complement neurophysiological researchso that the systematic development of neural models can be coordinated with experimental work PLEXUSnetworks are built up from COMPONENTS representing individual neurons , external stimuli , and interconnectingfibers , each component being of a relatively detailed nature Convenient means for specification and modification of a network andextensive error-checking CAPABILITIES are provided 
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2212 67  7.684601106753053 BM25
+
+
+F-DISTRIBUTION
+Fisher 's F-distribution , STUDENT 's t-distribution 
+
+CA710209 JB February 8, 1978  8:35 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2101 68  7.501684838806089 BM25
+
+
+Least Squares Fit By f(x) = Acos(Bx+C) (Algorithm 376 $E2))
+
+
+CA700214 JB February 14, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1835 69  7.4342568536014015 BM25
+
+
+The IITRAN Programming Language
+A discussion of design principles to be followed in a STUDENT language is given languages programming languages , STUDENT programmingsystems , language design , high school programs , college courses The IITRAN language , developed to be usedby students , and its important important features are described 
+
+CA691011 JB February 15, 1978  1:54 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1778 70  7.361561781512744 BM25
+
+
+F-Distribution (Algorithm 322 [S14])
+Fisher 's F-distribution , STUDENT 's t-distribution 
+
+CA680204 JB February 23, 1978  12:06 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3200 71  7.309354077432909 BM25
+
+
+   A FORMAC Program for the Solution of Linear Boundary and Initial Value Problems
+
+
+CA660814 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2592 72  7.2995983194895375 BM25
+
+
+On Generation of Test Problems for Linear Programming Codes
+
+
+CA741006 JB January 16, 1978  12:28 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0048 73  7.295779263891684 BM25
+
+
+Shift-Register Code for Indexing Applications
+
+
+CA591011 JB March 22, 1978  4:07 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2884 74  7.183184054987684 BM25
+
+
+Permutation Enumeration: Four New Permutation Algorithms
+Performance TESTS which have counted execution of assignment statements , comparisons , arithmeticoperations , and subscripted array references have shown superiority of the new algorithms compared toBoothroyd 's implementation of M 
+
+CA760203 JB January 5, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2930 75  7.141580112402493 BM25
+
+
+The GRE Advanced Test in Computer Science
+
+
+CA770903 JB December 27, 1977  1:32 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1876 76  7.089555760746338 BM25
+
+
+Generation of Test Matrices Having CertainSign Patterns and Prescribed Positive Spectra
+Generation of Test Matrices Having CertainSign Patterns and Prescribed Positive Spectra A class of orthogonal transformations is presentedwhose members transform a given positive diagonal matrix into a matrix having one of four special SIGN patterns test matrices , positive matrices , SIGN patterns , orthogonal transformations , positive eigenvalues 
+
+CA690704 JB February 17, 1978  9:26 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3167 77  6.982573587998279 BM25
+
+
+Updating Mean and Variance Estimates: An Improved Method
+
+
+CA790908 DB January 16, 1980  4:47 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1116 78  6.964438337080393 BM25
+
+
+Tests on a Computer Method for Constructing School Timetables*
+TESTS on a Computer Method for Constructing School Timetables* In limited TESTS themethod has successfully produced timetables on every trial 
+
+CA640316 JB March 10, 1978  2:34 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0266 79  6.857591745026351 BM25
+
+
+Fitting Spheres by the Method of Least Squares
+
+
+CA611102 JB March 15, 1978  11:00 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1143 80  6.814851270779534 BM25
+
+
+Analysis of Decay-Type Data*
+It would therefore appearbest to select a uniform technique both for running the experiments and for analyzing the data , and thento consider as significant only relative results between one subject and the next 
+
+CA640112 JB March 10, 1978 5:11 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2585 81  6.763024501941424 BM25
+
+
+Efficient Implementation of a Variable ProjectionAlgorithm for Nonlinear Least Squares Problems (Errata)
+
+
+CA741013 JB January 16, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0122 82  6.754530581563428 BM25
+
+
+Least Squares Fitting of a Great Circle Through Points on a Sphere
+
+
+CA601113 JB March 20, 1978  6:59 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-3150 83  6.745548282677522 BM25
+
+
+Beyond Programming Languages
+In order to develop such systems , we needto shift our attention away from the detailed specification ofalgorithms , towards the description of the properties of the packagesand objects with which we build Justas high level languages enabled the programmer to escape from theintricacies of a machine 's order code , higher level programming systemscan provide the means to understand and manipulate complexsystems and COMPONENTS 
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2951 84  6.734120428765795 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1423 85  6.72591494551124 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+In the second case the algorithm yields the ordinary least squares transformation matrixINV ( A'A ) A ' and has the advantage of avoiding the loss of significance which results in forming the product A'A explicitly A Simple Algorithm for Computing the GENERALIZED Inverse of a Matrix The GENERALIZED inverse of a matrix is importantin analysis because it provides an extension of the concept of an inverse which applies to all matrices A simple extension hasbeen found to the conventional orthogonalization method for inverting non-singular matrices , which givesthe GENERALIZED inverse with little extra effort and with no additional storage requirements The algorithmgives the GENERALIZED inverse for any m by n matrix A , including the special case when m+n and Ais non-singular and the case when m > n and rank ( A ) = n 
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1609 86  6.635771109807202 BM25
+
+
+Scheduling University Course Examinations by Computer
+In principle , an examination schedule which requires a minimum numberof examination periods and satisfies the constraint that no STUDENT be required to take two examinationssimultaneously can be found in two steps 
+
+CA670406 JB February 28, 1978  11:22 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2970 87  6.627456185162944 BM25
+
+
+Achieving Specific Accuracy in Simulation Output Analysis
+
+
+CA770502 JB December 29, 1977  2:43 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1578 88  6.586888534867703 BM25
+
+
+Generalized Least Squares Fit By OrthogonalPolynomials (Algorithm 296 [E2])
+GENERALIZED Least Squares Fit By OrthogonalPolynomials ( Algorithm 296 [ E2 ] ) 
+
+CA670607f JB March 23, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1978 89  6.575399065156779 BM25
+
+
+The Use of Interactive Graphics To Solve Numerical Problems
+In this paper we discuss some of the advantages accrued by suchsystems and design considerations for interactive routines With the advent of on-line ( time-sharing ) computer systemsand graphic terminals , we have available a new dimensionin numerical problem solving CAPABILITIES Rather than simply usethe new power to achieve fast turnaround , we can develop interactiveroutines which are easy to use and also take advantage of theinsight and visual CAPABILITIES of the human problem solver 
+
+CA701012 JB February 10, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2325 90  6.520522948544266 BM25
+
+
+Numerical Mathematics and Computer Science
+Four of the COMPONENTS of numerical mathematics are discussed 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2238 91  6.500941565050282 BM25
+
+
+Least Squares Surface Fit (Algorithm R176)
+
+
+CA721217 JB January 27, 1978  8:59 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2135 92  6.4964804467439965 BM25
+
+
+Rapid Computation of General InterpolationFormulas and Mechanical Quadrature Rules
+Rapid Computation of General InterpolationFormulas and Mechanical Quadrature Rules linear functionals , divided differences , Newton 's interpolation FORMULA 
+
+CA711208 JB February 2, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1632 93  6.4907080668559525 BM25
+
+
+Programming the Tabular Method of Analysisof Variance for Factorial Experiments 
+Modificationsto handle hierarchical designs and replicated experiments are mentioned 
+
+CA670210 JB February 28, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1802 94  6.457157557001311 BM25
+
+
+Regression Using Certain Direct Product Matrices (Algorithm 366 [G2])
+analysis of variance , analysis of covariance , REGRESSION analysis , experimental design , matrix direct product , protection operator , orthogonal matrix REGRESSION Using Certain Direct Product Matrices ( Algorithm 366 [ G2 ] ) 
+
+CA691210 JB February 15, 1978  2:23 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0840 95  6.4505771598952855 BM25
+
+
+Least Squares Surface Fit (Algorithm 176)
+
+
+CA630609 JB March 14, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2799 96  6.441597471839289 BM25
+
+
+Stably Updating Mean and Standard Deviation of Data
+By considering the ( sample ) mean of a set ofdata as a fit to this data by a constant function , a computational method is given based on a matrix formulationand Givens transformations 
+
+CA750112 JB January 12, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-1511 97  6.4163047402838185 BM25
+
+
+The Damped Taylor's Series Method for Minimizinga Sum of Squares and for Solving Systems of Nonlinear Equations
+
+
+CA671107b JB March 23, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0432 98  6.409539589295632 BM25
+
+
+Triangular Regression (Algorithm 142)
+Triangular REGRESSION ( Algorithm 142 ) 
+
+CA621207 JB March 17,1978  5:09 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-2480 99  6.404984430895502 BM25
+
+
+Teaching "About Programming"
+This paper presents the goals and organizationof a course about programming designed to provide entering students in a graduate program with a culturalenrichment in their professional lives The students are expected to have taken at least two programmingcourses prior to this one and , therefore , to be familiar with at least two programming languages , both as students and users Finally , the teacher is thesource of information about the process in which the STUDENT is involved 
+
+CA730706 JB January 23, 1978  12:36 PM
+
+
+--------------------------------------------------------------
+58 Q0 CACM-0062 100  6.400987126542844 BM25
+
+
+Multi-Dimensional Least-Squares Polynomial Curve Fitting
+
+
+CA590907 JB March 22, 1978  4:44 PM
+
+

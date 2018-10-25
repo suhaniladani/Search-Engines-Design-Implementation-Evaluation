@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+47 Q0 CACM-1699 1  20.8117794647655 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+information retrieval testing , information systemevaluation , experimental document retrieval , document retrieval , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , symbolic command language , interactive systems , USER learning factors , on-line searching 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2278 2  18.68774087493138 BM25
+
+
+On Foster's Information Storage and Retrieval Using AVL Trees
+
+
+CA720912 JB January 27, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3012 3  17.99139707114869 BM25
+
+
+The Use of an Interactive Information Storageand Retrieval System in Medical Research
+Additional data on USER reactions were gathe red from a questionnaire 
+
+CA780301 JB March 28, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2288 4  17.89267039031805 BM25
+
+
+File Organization: The Consecutive Retrieval Property
+
+
+CA720902 JB January 27,1978  4:52 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2990 5  16.555921221341624 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Much of the published evaluation work is basedon measuring the retrieval performance of an average USER query In the present study , retrieval evaluation is based on optimizing theperformance of a specific USER query By relating term accuracyto the frequency of occurrence of the term in the documents of a collection it is possible to give formalproofs of the effectiveness with respect to a given USER query of a number of automatic indexing systemsthat have been used successfully in experimental situations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2258 6  16.082508380370356 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1489 7  15.44300200981948 BM25
+
+
+Data, Documentation and Decision Tables
+In business data processing systems , it isnecessary to be able to define and document data , files , programs and DECISION RULES in a way that adequatelyrepresents both ( 1 ) their changing information content , and ( 2 ) their continuous interaction Data , Documentation and DECISION Tables 
+
+CA660106 JB March 3, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1937 8  15.323810284100547 BM25
+
+
+CODAS: A Data Display System
+CODAS , a Customer Oriented Data System , isa user-oriented data retrieval and display system The command language of the system provides the userwith an easy means for specifying data retrieval and display requests 
+
+CA690201 JB February 20, 1978  11:32 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2451 9  15.261248017338245 BM25
+
+
+Design of Tree Structures for Efficient Querying
+A standard information retrieval operation isto DETERMINE which records in a data collection satisfy a given query expressed in terms of data values 
+
+CA730904 JB January 23, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2976 10  15.244646389888263 BM25
+
+
+Approximating Block Accesses in Database Organizations
+
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1032 11  15.200208569233844 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+Information storage and retrieval systems are composedof three major components : ( a ) identification of information and tagging it for effective retrieval , ( b ) searching strategy , how to enter the file to circumvent the SCANNING of nonrelevant material , and ( c ) file organization to make access to information efficient 
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3134 12  14.993684006725465 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1236 13  14.87235155416997 BM25
+
+
+The SMART Automatic Document Retrieval System-An Illustration
+This feature is used in the retrievalprocess by leaving the exact sequence of operations initially unspecified , and adapting thesearch strategy to the needs of individual users 
+
+CA650619 JB March 6, 1978  9:41 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2318 14  14.83857998718421 BM25
+
+
+The Role of Computer System Models in Performance Evaluation
+The Role of Computer System MODELS in Performance Evaluation MODELS constitute a useful means of investigatingcomputer system performance This paper examines the interrelationships between MODELS and othermethods for evaluating the performance of computer systems and establishes circumstances underwhich the use of a model is appropriate modeling , evaluation , performance , analytic-models , simulation-models , system-models 
+
+CA720710 JB January 30, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2516 15  14.649701050714665 BM25
+
+
+Hierarchical Storage in Information Retrieval
+A probabilistic analysis is employed to determinethe effect of hierarchical storage organizations on information retrieval operations 
+
+CA730504 JB January 24, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2552 16  14.577678158780639 BM25
+
+
+A Note on When To Chain Overflow Items Within a Direct-Access Table
+
+
+CA730109 JB January 24, 1978  4:07 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0275 17  14.38731373590352 BM25
+
+
+Dynamic Storage Allocation for an Information Retrieval System
+
+
+CA611006 JB March 16, 1978  12:58 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2979 18  14.192393522123234 BM25
+
+
+Studies in Machine Cognition Using The Game of Poker
+There has also been in terest in how humans make deductive and inductiveinferences and form and OPTIMIZE heuristic RULES , and how machines can reach similar results The MODELS of human judgment , choice , and DECISION making are incorporated in a large scale complex program machine learning , game playing programs , decisionmaking under uncertain ty and risk , automatic forming and optimizing of heuristic RULES , automaticinductive and deductive inference making , MODELS of game learning , poker , gambling and bluffing A progress report is presented of on-goingresearch efforts concerning human DECISION making under uncertainly and risk and human problem solvingand learning processes on the one hand , and machine learning , large scale programming systems , and novelprogramming techniques on the other 
+
+CA770403 JB December 29, 1977  5:34 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2598 19  14.006455749070856 BM25
+
+
+Extending the Information Theory Approach to ConvertingLimited-Entry Decision Tables to Computer Programs
+Extending the Information Theory Approach to ConvertingLimited-Entry DECISION Tables to Computer Programs This paper modifies an earlier algorithm forconverting DECISION tables into flowcharts which minimize subsequent execution time WHEN compiled intoa computer program However , the greater search effort neededto obtain a globally optimal solution for complex DECISION tables is usually not justified by sufficientsavings in execution time There is an analogy between the problem of converting DECISION tables intoefficient flowcharts and the well-understood problem in information theory of noiseless coding The resultsof the noiseless coding literature are used to explore the limitations of algorithms used to solvethe DECISION table problem The analogy between the two problems is also used to develop improvementsto the information algorithm in extending the depth of search under certain conditions and in proposingadditional conditions to be added to the DECISION table coding , DECISION tables , flowcharting , informationtheory , noiseless channel , sorting 
+
+CA740910 JB January 17, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1506 20  13.894131875508378 BM25
+
+
+The LACONIQ Monitor: Time Sharing for Online Dialogues
+For this reason the use of core storage , computational facilities , and input-output were all scheduled The LACONIQ ( Laboratory Computer Online Inquiry ) Monitor was developed primarily to support non-numerical applications such as retrieval from verylarge files by means of a `` dialogue '' between a system USER and a retrieval application 
+
+CA671202 JB February 26, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2307 21  13.788239736056038 BM25
+
+
+Dynamic Document Processing
+A new dynamic documentenvironment is then outlined in which clusteredfiles are searched and information is retrieved followingan interactive user-controlled search process Methods are described for an automatic query modificationbased on USER needs , and for a continuous reorganization of the stored information as a function ofearlier file processing and of normal collection growth 
+
+CA720721 JB January 30, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1935 22  13.754925959016955 BM25
+
+
+Randomized Binary Search Technique
+
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1194 23  13.681810852802686 BM25
+
+
+Establishment of the ACM Repository and Principlesof the IR System Applied to its Operation
+Two principles are presented asparamount in the provision of information services : ( 1 ) easy accessibility to the information files by usersunfamiliar with file organization , and ( 2 ) value of service exceeding USER costs The main features of the information system are directuser access via on-line teletypewriter console , direct USER access to all details of the system organization , unrestricted and expandable search vocabulary , USER access through many facets of document indexing , and stochastic search through linked index terms and other file relationships 
+
+CA651001 JB March 6, 1978  7:03 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2070 24  13.569847193886126 BM25
+
+
+A Formal System for Information Retrieval from Files
+
+
+CA700414 JB February 13, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2970 25  13.418750692616324 BM25
+
+
+Achieving Specific Accuracy in Simulation Output Analysis
+confidence in terval , ratio estimator , regenerativeproperty , sequential estimator , simulation , STOPPING rule , variance reduction This method INCLUDES a test to check the normality assumption onwhich the sequential procedure relies Achieving Specific Accuracy in Simulation OUTPUT Analysis This paper extends the use of the regenerativeproperty of queueing systems in the analysis of simulation OUTPUT 
+
+CA770502 JB December 29, 1977  2:43 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1359 26  13.392804328234543 BM25
+
+
+Data Filtering Applied to Information Storage and Retrieval Applications
+This results in the implementation of a two-part data filter module that satisfies internal processingfunctions by filtering data strings through format declarations associated with its input and OUTPUT ports The sequence of procedural directives is derived from a job assumed to be expressed in a user-orientedsource language 
+
+CA661101 JB March 2, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0891 27  13.282660645882675 BM25
+
+
+Everyman's Information Retrieval System
+
+
+CA630329 JB March 14, 1978  12:37 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2293 28  13.274517872045589 BM25
+
+
+Comment on Average Binary Search Length
+
+
+CA720809 JB January 30, 1978  9:26 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2882 29  13.122574286257235 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2947 30  13.017648128122458 BM25
+
+
+SITAR: An Interactive Text Processing System for Small Computers
+SITAR , a low-cost in teractive text handlingand text analysis system for nontechnical users , is in many ways comparable to in teractive bibliographicalsearch and retrieval systems , but has several additional features 
+
+CA770705 JB December 28, 1977  10:20 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2157 31  12.986104615111248 BM25
+
+
+Average Binary Search Length for Dense Ordered Lists
+
+
+CA710907 JB February 2, 1978  1:42 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2848 32  12.971332030563708 BM25
+
+
+Synthesis of Decision Rules
+Synthesis of DECISION RULES The result of such an interviewis not a structure of complete DECISION tables but rather sets of DECISION RULES The purpose of thispaper is to provide a procedure for synthesizing the DECISION RULES and thus provide an aid in developinga structure of complete DECISION tables DECISION RULES , DECISION tables , logical tables , logical design , system design , specification language DECISION tables can be used as an effectivetool during an interview to record the logic of processes to be automated 
+
+CA760705 JB January 4, 1978  12:39 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1680 33  12.913516840682085 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+Language processorsand compilers , simulation MODELS , mathematical solution techniques , stored data , and all other library anduser programs can be incorporated into instructional material without reprogramming It expands the powerand flexibility of computer-assisted instruction by making immediately available to students , teachers , and other users , the full resources ( system-cataloged programs ) of the operating system 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2711 34  12.778799770738889 BM25
+
+
+A Vector Space Model for Automatic Indexing
+
+
+CA751101 JB January 6, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1681 35  12.613791987839232 BM25
+
+
+Easy English,a Language for InformationRetrieval Through a Remote Typewriter Console
+
+
+CA681006 JB February 21, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1830 36  12.5434330513967 BM25
+
+
+Retrieval Times for a Packed Direct Access Inverted File
+
+
+CA691016 JB February 15, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2394 37  12.489737850365001 BM25
+
+
+Ordering +-f(+-f(+-f(...+-f(x)..))) When f(x) Is Positive Monotonic
+
+
+CA720109 JB February 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2722 38  12.382429184516472 BM25
+
+
+Multidimensional Binary Search Trees Used for Associative Searching
+
+
+CA750902 JB January 6, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2726 39  12.313810257831964 BM25
+
+
+Combining Decision Rules in a Decision Table
+Combining DECISION RULES in a DECISION Table The techniques for minimizing logic circuitsare applied to the simplification of DECISION tables by the combining of DECISION RULES If some of thedecision RULES implied in the ELSE Rule occur with low frequency , then the ELSE Rule can be used to furthersimplify the DECISION table Several objectives merit consideration in optimizing a DECISION table : ( 1 ) reducing machine execution time ; ( 2 ) reducing preprocessing time ; ( 3 ) reducing required machine memory ; ( 4 ) reducing the number of DECISION RULES Objective ( 1 ) is also attained if overspecified DECISION RULES are not combined ( This often improves the clarity of the DECISION tableto a human reader the Quine-McCluskey method , prime implicants , minimization , maximization , logic circuit , boolean method , coding , DECISION tables , flowcharting , sorting 
+
+CA750809 JB January 6, 1978  3:53 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1908 40  11.95436959807804 BM25
+
+
+Time-Sharing and Batch-Processing:  An ExperimentalComparison of Their Values in a Problem - Solving Situation
+This study is the first known attempt to evaluate two such systems for what may well be the predominant userpopulation within the next decade-the professionals who , as nonprogrammers , are using the computer as anaid in decision-making and problem-solving rather than as a programming end in itself time-sharing vs batch-processing , USER performance , man/machine communications , cost effectiveness , on-line vs off-line performance , decision-making performance , user/programmer behavior , programming experimental empirical studies , problem-solving , research in man/machinecommunications , man/machine symbiosis Statisticallyand logically significant results indicate equal cost for usage of the two computer systems ; however , a much higher level of performance is attained by time-sharing users There are indications that significantlylower costs would have resulted if the time-sharing users had stopped work WHEN they reacheda performance level equal to that of the batch users The users ' speed of problem-solving and theirattitudes made time-sharing the more favorable system 
+
+CA690501 JB February 17, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1927 41  11.834535716210956 BM25
+
+
+Information Science in a Ph. Computer Science Program
+
+
+CA690211 JB February 20, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0239 42  11.69019731544434 BM25
+
+
+Inefficiency of the Use of Boolean Functionsfor Information Retrieval Systems
+
+
+CA611211 JB March 15, 1978  10:10 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2547 43  11.540922450889182 BM25
+
+
+Representation of Contours ad Regions for Efficient Computer Search
+The algebraic propertiesof the data structure make it computationally easy to DETERMINE whether a point lies within a closed boundary ; compute the area contained by a closed boundary ; generate the closed boundary representing the union orintersection of two closed boundaries ; and DETERMINE the neighboring boundaries to a point and theminimum distances between them and the point 
+
+CA730201 JB January 24, 1978  3:30 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2965 44  11.521090528674396 BM25
+
+
+An Optimal Evaluation of Boolean Expressions in an Online Query System
+
+
+CA770507 JB December 29, 1977  1:51 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2532 45  11.489220176005942 BM25
+
+
+On Harrison's Substring Testing Technique
+
+
+CA730307 JB January 24, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2046 46  11.462939635233727 BM25
+
+
+A Relational Model of Data for Large Shared Data Banks
+Existing noninferential , formatted data systems provide users with tree-structured files or slightly more general network MODELS of the data In Section 1 , inadequacies of these MODELS are discussed Future users of large data banks must be protected from having to know how the data is organized in the machine ( the internal representation ) Activities of users at terminals and most applicationprograms SHOULD remain unaffected WHEN the internal representationof data is changed and even WHEN some aspects of the external representation are changed InSection 2 , certain operations on relations ( other than logicalinference ) are discussed and applied to the problemsof redundancy and consistency in the USER 's model 
+
+CA700609 JB February 13, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3168 47  11.441677503683465 BM25
+
+
+Comment on "An Optimal Evaluation of BooleanExpressions in an Online Query System."
+
+
+CA791001 DB January 16, 1980  4:50 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2114 48  11.428922127444238 BM25
+
+
+A Formal System for Information Retrieval from Files
+
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0292 49  11.325179966486399 BM25
+
+
+An Information Retrieval Language for Legal Studies
+
+
+CA610902 JB March 16, 1978  9:51 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3169 50  11.286091080540928 BM25
+
+
+Note on "An Optimal Evaluation of Boolean Expressions in an Online Query System."
+
+
+CA791002 DB January 16, 1980  4:52 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2370 51  11.251850903509023 BM25
+
+
+An Experimental Laboratory for Pattern Recognition and Signal Processing
+An interactive computer-controlled scanningand display system has been in operation at the IBM Thomas J The system INCLUDES two flying-spot scanners and a TV camera specially interfaced to a process controldigital computer , dot-mode and vector displays , analog input and OUTPUT facilities , and a variety ofother experimental equipment 
+
+CA720403 JB January 31, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2832 52  11.228966208865375 BM25
+
+
+Faster Retrieval from Context Trees (Corrigendum)
+
+
+CA760907 JB January 4, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0944 53  11.149239395886681 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2372 54  11.021164540585879 BM25
+
+
+On the Implementation of Security Measures in Information Systems
+The security of an information system may berepresented by a model matrix whose elements are DECISION RULES and whose row and column indices areusers and data items respectively Distinguishing between data dependent and data independent DECISION RULES enablesone to perform much of the checking of security only once at translation time rather than repeatedlyat execution time 
+
+CA720401 JB January 31, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1698 55  10.906472945347117 BM25
+
+
+A Statistical Model for Console Behavior in Multiuser Computers
+`` No claim is made that a virtual console behaves like any actual console , but the entire collection ofvirtual consoles MODELS the collection of actual consoles statistical MODELS for input-output , operatingsystem design , input-output design A Statistical Model for Console Behavior in Multiuser Computers It is quite difficult to characterize a particular USER , but rather easy to characterize the entire USER community 
+
+CA680903 JB February 22, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1115 56  10.867972049713387 BM25
+
+
+Randomized Binary Searching With Tree Structure
+Very significantgains result WHEN the search key INCLUDES alphabetic characters 
+
+CA640317 JB March 10, 1978  2:30 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1271 57  10.823835297474035 BM25
+
+
+Secondary Key Retrieval Using an IBM 7090-1301 System
+
+
+CA650420 JB March 7, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2631 58  10.821731497651763 BM25
+
+
+An Information-Theoretic Approach toText Searching in Direct Access Systems
+
+
+CA740615 JB January 17, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1652 59  10.817453310298408 BM25
+
+
+A Code for Non-numeric Information ProcessingApplications in Online Systems
+A code has been specifically designed to simplifythe internal information processing operations within an online computer system with respect to non-numericapplications , and to maximize the transfer rate of the information channel linking the system andthe system USER 
+
+CA670103 JB March 1, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2781 60  10.798776674504408 BM25
+
+
+The Algorithm Sequential Access Method:An Alternative to Index Sequential
+
+
+CA750307 JB January 9, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2765 61  10.772139802061481 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+The formulations presented are necessaryto be used in conjunction with any index selection criteria to DETERMINE the optimum set of index keys 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2140 62  10.740985242839336 BM25
+
+
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+
+
+CA711203 JB February 2, 1978  10:18 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1684 63  10.732485352373741 BM25
+
+
+Ambiguity in Limited Entry Decision Tables
+RULES on redundancy , contradiction , and completeness for limited entry tables were published in 1963 Processors which automaticallytranslate tables to more conventional program usually base their diagnostic facilities on these RULES In this paper it is suggested that these RULES are unsatisfactory and that the important aspect ofchecking is to eliminate ambiguity from tables Ambiguity in Limited Entry DECISION Tables The use of DECISION tables as a tool in systemsanalysis and for program specification is now becoming accepted Ambiguity is defined and discussed , and a procedure forproducing checked-out DECISION tables is proposed The importance of well-designed diagnostic facilities in DECISION table processors is emphasized DECISION tables , DETAB-65 , systems analysis 
+
+CA681003 JB February 21, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2412 64  10.71333093765984 BM25
+
+
+Comment on Brent's Scatter Storage Algorithm
+
+
+CA731114 JB January 19, 1978  4:40 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2453 65  10.692633886762215 BM25
+
+
+Information Theory Applied to the Conversionof Decision Tables to Computer Programs
+The method is applicable to any limited entrydecision table and does not require that actions have single RULES or that the cost of testing conditionsbe equal Information Theory Applied to the Conversionof DECISION Tables to Computer Programs Using ideas from information theory , this paperdevelops a heuristic algorithm that converts a limited entry DECISION table to a tree structured computerprogram with near minimum average processing time The algorithm is well suited formanual conversion of DECISION tables to flowcharts DECISION tables , optimum computer programs , information measure 
+
+CA730902 JB January 23, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0440 66  10.663188962532166 BM25
+
+
+Record Linkage
+These RULES are described , and the ways in which informationutilization for matching may be optimized are discussed RULES that can be applied generally to name retrievalsystems have been developed in a methodological study of the linkage of vital and health records intofamily groupings for demographic research purposes 
+
+CA621121 JB March 17, 1978  5:51 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1831 67  10.657108986991702 BM25
+
+
+A Comment on Optimal Tree Structures
+
+
+CA691015 JB February 15, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0798 68  10.64835963125311 BM25
+
+
+A Catalogue Entry Retrieval System
+
+
+CA630726 JB March 14, 1978  8:08 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2988 69  10.593332535435108 BM25
+
+
+Memory Management and Response Time
+This paper presents a computationally tractablemethodology for including accurately the effects of finite memory size and workload memory requirementsin queueing network MODELS of computer systems memory management , system performance , queueingnetwork MODELS , in teractive computer systems 
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1527 70  10.560771407072908 BM25
+
+
+A Grammar Base Question Answering Procedure
+Based upon the RULES of this grammar , a sentence recognizer will evaluate sentences , questions in the normal situation 
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2742 71  10.510987602863947 BM25
+
+
+Improved Event-Scanning Mechanisms for Discrete Event Simulation
+Improved Event-Scanning Mechanisms for Discrete Event Simulation This paper presents a method for significantly reducing the time spent scanningfuture event lists in discrete event simulations discrete event simulation , simulation , event SCANNING mechanisms Simulation MODELS of large , complex `` real-world '' applications have occasionally earned the reputation of eating up hours of computer time There MODELS are presented , all of which improve in effectivenessas the events-list scan problem becomes more burdensome 
+
+CA750611 JB January 9, 1978  12:43 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1457 72  10.50295256165765 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1938 73  10.464884393316803 BM25
+
+
+Some Criteria for Time-Sharing System Performance
+Time-sharing systems , as defined in this article , are those multiaccess systems which permit a terminal USER to utilize essentially the full resourcesof the system while sharing its time with other terminal users It is each terminal USER 's abilityto utilize the full resources of the system that makes quantitative evaluation of time-sharing systemsparticularly difficult 
+
+CA690111 JB February 20, 1978  11:37 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2561 74  10.438387509885317 BM25
+
+
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+
+
+CA741213 JB January 13, 1978  3:40 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2530 75  10.433655309099734 BM25
+
+
+An Algorithm for Extracting Phrases ina Space-Optimal Fashion [Z] (Algorithm A444)
+
+
+CA730309 JB January 24, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1524 76  10.327382772933372 BM25
+
+
+A Stopping Criterion for Polynomial Root Finding
+A STOPPING Criterion for Polynomial Root Finding This stoppingcriterion has been tested on numerous examples and has been found to serve as a satisfactory meansfor accepting a complex number as a zero of a real polynomial 
+
+CA671009 JB February 27, 1978  1:56 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1651 77  10.31046439315027 BM25
+
+
+An Interpretive Input Routine for Linear Programming
+The article INCLUDES examples of input , OUTPUT from asolution routine presently in use , and a skeleton flowchart of the input interpreter From a USER 's standpoint , input appears almost exactly as a textbook presentationof the LP problem ( limited only by a keypunch 's inability to write subscripts , etc The USER may also , undervery general requirements only , liberally use editorial comments throughout the input deck as anaid in identification , e 
+
+CA670104 JB March 1, 1978  8:58 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3095 78  10.040767149425506 BM25
+
+
+A Selective Traversal Algorithm for Binary Search Trees
+
+
+CA780602 DH February 26, 1979  12:40 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1514 79  9.939622098108774 BM25
+
+
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+
+
+CA671106 JB February 26, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3070 80  9.892215428831062 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+Hybrid Simulation MODELS of Computer Systems This paper describes the structure and operationof a hybrid simulation model in which both discrete-event simulation and analytic techniques arecombined to produce efficient yet accurate system MODELS In an example based on a simple hypotheticalcomputer system , discrete-event simulation is used to model the arrival and activation of jobs , and acentral-server queueing network MODELS the use of system processors Performance evaluation , simulation , queueingnetwork MODELS , central server model 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3113 81  9.890417620593917 BM25
+
+
+Optimal Conversion of Extended-EntryDecision Tables with General Cost Criteria
+A general dynamic programming algorithm for convertinglimited , extended , or mixed entry DECISION tables to optimal DECISION trees is presented which cantake into account rule frequencies or probabilities , minimum time and/or space cost criteria , common actionsets , compressed RULES and ELSE RULES , sequencing constraints on condition tests , excludable combinationsof conditions , certain ambiguities , and interrupted rule masking Optimal Conversion of Extended-EntryDecision Tables with General Cost Criteria DECISION table , optimal programs , dynamic programming 
+
+CA780403 DH February 26, 1979  4:37 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2577 82  9.776109155317869 BM25
+
+
+An On-Site Data Management System Application in Field Archaeology
+
+
+CA741107 JB January 16, 1978  10:15 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2263 83  9.772917880111338 BM25
+
+
+The Conversion of Limited-Entry Decision Tablesto Optimal and Near-Optimal Flowcharts: Two New Algorithms
+One of the algorithms , called the optimum-finding algorithm , leads to a flowchart which truly minimizes execution time for a DECISION table in which simple rulesare already contracted to complex RULES The Conversion of Limited-Entry DECISION Tablesto Optimal and Near-Optimal Flowcharts : Two New Algorithms Two new algorithms for deriving optimal andnear-optimal flowcharts from limited entry DECISION tables are presented The algorithms are firstderived for treating DECISION tables not containing an ELSE-rule , but the optimum-approaching algorithmis shown to be equally valid for tables including such a rule Both algorithms are compared with existingones and are applied to a somewhat large DECISION table derived from a real case DECISION table , flowcharting , preprocessor , optimal programs , search 
+
+CA721106 JB January 27, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-0651 84  9.665250480729183 BM25
+
+
+A Survey of Languages and Systems for Information Retrieval
+
+
+CA620108 JB March 20, 1978  4:36 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2092 85  9.639099794383004 BM25
+
+
+A Deductive Question-Answer for Natural Language Inference
+
+
+CA700306 JB February 13, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1627 86  9.632924438987295 BM25
+
+
+Application of Level Changing to a Multilevel Storage Organization
+
+
+CA670302 JB February 28, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2984 87  9.631768533527051 BM25
+
+
+Cost/Utilization: A Measure of System Performance
+The method INCLUDES atechnique for the visual representation of system performance 
+
+CA770308 JB December 29, 1977  6:41 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1725 88  9.600830162308446 BM25
+
+
+A Simple Proof of Lewin's Ordered-RetrievalTheorem for Associative Memories
+
+
+CA680704 JB February 22, 1978  12:24 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2176 89  9.572928988194972 BM25
+
+
+Buffer Allocation in Merge-Sorting
+An optimum OUTPUT buffer sizeis also determined A fixed buffer allocation for merge-sortingis presented here which minimizes the number of input-output operations for a given order of merge WHEN sorting on movable arm disks , the number of seeks is equal to the number of input-output operations , and the seek time usually controls the sort time It is concluded that this buffering allocation can significantly reduce the timeof merge sorting on movable arm disks WHEN the input data are not random , and that this OUTPUT bufferallocation SHOULD be used whether the data is random or not 
+
+CA710706 JB February 3, 1978  8:41 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3033 90  9.496337317268305 BM25
+
+
+Optimizing Decision Trees Through Heuristically Guided Search
+Optimizing DECISION Trees Through Heuristically Guided Search Optimal DECISION table conversion has beentackled in the literature using two approaches , dynamic programming and branch-and-bound DECISION table , optimal DECISION table conversion , DECISION tree , heuristic search , AND/OR graphs , dynamic programming , branch-and-bound 
+
+CA781206 DH January 18, 1979  3:56 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2575 91  9.448240220901933 BM25
+
+
+The Best-Match Problem in Document Retrieval
+
+
+CA741109 JB January 16, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2978 92  9.421055247697916 BM25
+
+
+Analysis of Design Alternatives for Virtual Memory Indexes
+
+
+CA770404 JB December 29, 1977  5:22 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2991 93  9.40634052001907 BM25
+
+
+Improving the Access Time for Random Access Files
+
+
+CA770301 JB December 30, 1977  2:00 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1267 94  9.332890528273143 BM25
+
+
+Performance of Systems Used for Data TransmissionTransfer Rate of Information Bits -An ASA Tutorial Standard
+This discussion INCLUDES the pertinent aspects of information transfer , of determination of transfer rate of information bits ( TRIB ) , of residual errors , and of standard measurementconditions 
+
+CA650504 JB March 7, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1172 95  9.310579177589704 BM25
+
+
+Conversion of Limited-Entry Decision Tables to Computer Programs
+DECISION tables are useful for describing aset of complex DECISION RULES based on given sets of conditions Montalbano , are described and extended here to handledashes and ELSE-decision RULES During the conversion process , both pinpointany contradictions or redundancies among the RULES in a table Conversion of Limited-Entry DECISION Tables to Computer Programs Algorithms that can efficiently convertthe tables into computer programs will extend the usefulness of DECISION tables to computer users 
+
+CA651109 JB March 6, 1978  4:56 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2622 96  9.210086897379432 BM25
+
+
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+The intruder may know all about H and have access to the table , but he can penetrate the systemonly if he can invert H to DETERMINE an input that produces a given OUTPUT A USER Authentication Scheme Not Requiring Secrecy in the Computer In many computer operating systems a USER authenticateshimself by entering a secret password known solely to himself and the system This function is applied to theuser 's password and the result compared to a table entry , a match being interpreted as authentication ofthe USER 
+
+CA740802 JB January 17, 1978  10:19 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-1976 97  9.146975610707086 BM25
+
+
+Multi-attribute Retrieval with Combined Indexes
+
+
+CA701102 JB February 10, 1978  9:00 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2437 98  9.019993380145078 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-3087 99  9.017904644700852 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+Other system componentsconstruct a formal query for the relational database , and OPTIMIZE the order of searching relations By typing requests in English , casual userswill be able to obtain explicit answers from a large relational database of aircraft flight and maintenancedata using a system called PLANES 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+47 Q0 CACM-2535 100  9.01774911249343 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+Analytical results include a general description of theoutput process of an M/D/1 queue and the conditions under which this OUTPUT process is approximately Poisson A study is made of the way in which asynchronoustime division multiplexing changes the stochastic nature of the arrival process from a USER to the computerand , consequently , affects the performance of a time-shared computer-communications system 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+

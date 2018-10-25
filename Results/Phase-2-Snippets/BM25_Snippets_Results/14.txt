@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+14 Q0 CACM-1724 1  9.313226153019642 BM25
+
+
+A Generalized Partial Pass Block Sort
+A Generalized Partial Pass Block SORT The design OF a partial pass block SORT witharbitrary range OF key and number OF work files is described The design is a generalization OF the PartialPass Column SORT by Ashenhurst and the Amphisbaenic SORT by Nagler The power OF the SORT is tabulated forvarious sizes OF input file and number OF work files consideration is given to the problem OF combininga block SORT with internal sorts , and to the best use OF direct access storage devices block SORT , partial pass SORT , direct access devices , column SORT , chaining , reverse chaining , SORT , amphisbaenic 
+
+CA680705 JB February 22, 1978  12:12 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2348 2  8.901345334740054 BM25
+
+
+Merge Sort Algorithm [M1] (Algorithm A426)
+Merge SORT Algorithm [ M1 ] ( Algorithm A426 ) SORT , merge 
+
+CA720512 JB January 31, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2679 3  8.27555713528768 BM25
+
+
+Some Performance Tests of "quicksort" and Descendants
+Some Performance Tests OF `` quicksort '' and Descendants Detailed performance evaluations are presentedfor six ACM ALGORITHMS : quicksort ( No 64 ) , Shellsort ( No 201 ) , stringsort ( No 207 ) , `` TREESORT3 '' ( No 245 ) , quickersort ( No 271 ) , and qsort ( No The evidence given here demonstrates that qsort ( No OF ALL these ALGORITHMS , quickersort requiresthe fewest comparisons to SORT random arrays sorting , in-place sorting , sorting efficiency , sorting performance tests , quicksort , quickersort , qsort , Shellsort , stringsort , TREESORT3 , utility sortalgorithm , general-purpose SORT algorithm , sorting algorithm documentation ALGORITHMS 271 and 402 are refinements OF algorithm64 , and ALL three are discussed in some detail 
+
+CA740304 JB January 18, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3075 4  8.2084676258601 BM25
+
+
+Fast Parallel Sorting Algorithms
+Fast Parallel Sorting ALGORITHMS A parallel bucket-sort algorithm is presentedthat requires time O ( log n ) and the use OF n processors A procedure is also presented to SORT n numbers in time O ( k logn ) using n 1 + 1/k processors , FOR k an arbitrary integer Parallel processing , sorting , ALGORITHMS , bucket SORT 
+
+CA780803 DH February 7, 1979  10:25 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0862 5  7.649196372464741 BM25
+
+
+String Distribution for the Polyphase Sort
+String Distribution FOR the Polyphase SORT 
+
+CA630505 JB March 14, 1978  11:29 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0856 6  7.614993946481552 BM25
+
+
+Sorting with Large Volume, Random Access, Drum Storage
+Sorting with Large Volume , Random Access , Drum Storage An approach to sorting records is describedusing random access drum memory The SORT program described is designed to be a generalized , self-generatingsort , applicable to a variety OF record statements Thefirst part presents the operating environment ; the second defines the general solution ; the third partdescribes the internal sort-merge technique 
+
+CA630511 JB March 14, 1978  11:14 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0132 7  7.5891442206198825 BM25
+
+
+Math Sort (Algorithm 23)
+Math SORT ( Algorithm 23 ) 
+
+CA601103 JB March 20, 1978  8:03 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2563 8  7.5891442206198825 BM25
+
+
+Merge Sort Algorithm (R426)
+Merge SORT Algorithm ( R426 ) 
+
+CA741211 JB January 13, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0662 9  7.529423903662622 BM25
+
+
+Shuttle Sort (Algorithm 175)
+Shuttle SORT ( Algorithm 175 ) 
+
+CA631212 JB March 13, 1978  2:52 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0701 10  7.529423903662622 BM25
+
+
+Shuttle Sort (Algorithm 175)
+Shuttle SORT ( Algorithm 175 ) 
+
+CA631024 JB March 13, 1978  5:29 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0853 11  7.529423903662622 BM25
+
+
+The COBOL Sort Verb
+The COBOL SORT Verb 
+
+CA630514 JB March 14, 1978  10:59 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2397 12  7.4706361476730585 BM25
+
+
+Optimizing the Polyphase Sort (Corrigendum)
+Optimizing the Polyphase SORT ( Corrigendum ) 
+
+CA720106 JB February 1, 1978  9:21 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0841 13  7.3557722877287555 BM25
+
+
+Shuttle Sort (Algorithm 175)
+Shuttle SORT ( Algorithm 175 ) 
+
+CA630608 JB March 14, 1978  10:20 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0860 14  7.234861741707569 BM25
+
+
+A Comparison Between the Polyphase and Oscillating Sort Techniques
+A Comparison Between the Polyphase and Oscillating SORT Techniques A comparison between the Oscillating and PolyphaseSort techniques is developed FOR computer systems having from four to ten tape drives 
+
+CA630507 JB March 14, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0677 15  7.128080775990052 BM25
+
+
+Length of Strings for a Merge Sort
+Length OF Strings FOR a Merge SORT Detailed statistics are given on the lengthof maximal sorted strings which result form the first ( internal SORT ) phase OF a merge SORT onto tapes 
+
+CA631115 JB March 13, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0865 16  6.194185619007316 BM25
+
+
+Internal and Tape Sorting Using the Replacement-Selection Technique
+Internal and Tape Sorting Using the Replacement-Selection Technique A general technique FOR sequencing unsortedrecords is presented The technique is shown to be applicable FOR the first stage OF a generalized sortprogram ( the formation OF initial strings ) as well as FOR sorting records within a memory storage ( aninternal SORT ) 
+
+CA630502 JB March 14, 1978  11:36 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0857 17  6.16995487727513 BM25
+
+
+Sorting Nonredundant Files-Techniques Used in the FACT Compiler
+Sorting Nonredundant Files-Techniques Used in the FACT Compiler Some typical file structures , including somecalled `` non-redundant , '' are examined , and the methods used in FACT to SORT such files are discussed 
+
+CA630510 JB March 14, 1978  11:16 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3164 18  5.905770426591808 BM25
+
+
+Progressive Acyclic Digraphs-A Tool for Database Integrity
+List processing , data structures , topological SORT , acyclic digraph , DATABASE integrity , network , deadlock Progressive Acyclic Digraphs-A Tool FOR DATABASE Integrity When a request creates a cycle , nodes are , `` detached '' until the new are can be entered acyclicallyThis process is important in certain areas OF DATABASE implementationin which there are constraints on the permissible sequencesof actions Two PAD ALGORITHMS are presented ; one uses a simplepath matrix representation and the other uses a list with an '' artificial gradient 
+
+CA790905 DB January 14, 1980  11:56 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0861 19  5.853281047714045 BM25
+
+
+Read-Backward Polyphase Sorting
+Read-Backward Polyphase Sorting Read-backward Polyphase sorting provides moreefficient use OF the tapes available to a SORT than most other sorting techniques Backward Polyphaseproduces a continuous merging process from n-1 tapes where n is the total number OF tapes being used inthe sorting process Any OF the available presorting techniques may be used in conjunction with the Polyphasemerge SORT provided that the presort has the capability OF producing both ascending and descendingstrings and distributing the strings on the various tapes as required by the Polyphase Merge 
+
+CA630506 JB March 14, 1978  11:28 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2716 20  5.494941369278599 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+SQUIRAL seeks to minimize query response time and space utilization by : ( 1 ) performingglobal query optimization , ( 2 ) exploiting disjoint and pipelined concurrency , ( 3 ) coordinating SORT ordersin temporary relations , ( 4 ) employing directory analysis , and ( 5 ) maintaining locality in page references Optimizing the Performance OF a Relational Algebra DATABASE Interface relational DATABASE , DATABASE optimization , invertedfile , automatic programming , query language , data manipulation language , very high level language ALGORITHMS FOR implementing the operators OF E 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2017 21  5.421236589457294 BM25
+
+
+Sorting in a Paging Environment
+Sorting in a Paging Environment This sorting study was part OF an extensive measurement projectundertaken on the M44/44X , an experimental paging system which wasconceived and implemented at IBM Research in order to explore thevirtual machine concept The study was concerned with the implementation OF sorting procedures in the context OF the dynamic pagingenvironment characteristic OF virtual memory machines Descriptions OF the experimental SORT programs and analysis OF the performancemeasurement results obtained FOR them are presented The insight gained from the experimental effort is used to arrive at a set ofbroad guidelines FOR writing SORT programs FOR a paging environment sorting , merging , virtual machines , paging systems , dynamicstorage allocation , measurement OF systems program behavior , performance evaluation , memory MANAGEMENT 
+
+CA700804 JB February 10, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2108 22  5.048473314710744 BM25
+
+
+A Variation on Sorting by Address Calculation
+A Variation on Sorting by Address Calculation The principles OF address calculation and merging are combined to yield anefficient sorting technique The characteristics OF the proposed SORT are discussed sorting , address calculation , merging , order , sequence creation 
+
+CA700207 JB February 14, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2146 23  4.998753265461478 BM25
+
+
+Optimizing the Polyphase Sort
+Optimizing the Polyphase SORT Various dispersion ALGORITHMS FOR the polyphasesorting procedure are examinedhe optimum algorithm based on minimizing the total number OF unitstrings read is displayed sorting , polyphase sorting , dispersion ALGORITHMS , optimum dispersion algorithm , repetition operator The logic OF this algorithm is rather complicated ; hence , several othernew dispersion ALGORITHMS with more straightforward logic are presented OF the simple dispersion algorithmsdiscussed , the Horizontal is best It does approximately one-fourth to one and one-half percentless reading and writing than most ALGORITHMS in use today 
+
+CA711103 JB February 2, 1978  11:39 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2176 24  4.5645260062775685 BM25
+
+
+Buffer Allocation in Merge-Sorting
+Buffer Allocation in Merge-Sorting A fixed buffer allocation FOR merge-sortingis presented here which minimizes the number OF input-output operations FOR a given order OF merge When sorting on movable arm disks , the number OF seeks is equal to the number OF input-output operations , and the seek time usually controls the SORT time It is concluded that this buffering allocation can significantly reduce the timeof merge sorting on movable arm disks when the input data are not random , and that this output bufferallocation should be used whether the data is random or not file , item , string , merge SORT , seek time , gamma distribution function 
+
+CA710706 JB February 3, 1978  8:41 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1956 25  4.5164319739020256 BM25
+
+
+Optimum Merging from Mass Storage
+An algorithm is displayed which yields the merge orders such that the totalread time , defined to be the sum OF seek time plus data-transfertime , is minimized FOR a SORT using mass storage sorting , merging , optimum merging , mass storage , SORT timing , drum-merging , access time 
+
+CA701207 JB February 9, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1117 26  3.9478717442877675 BM25
+
+
+Polyphase Sorting With Overlapped Rewind*
+Polyphase Sorting With Overlapped Rewind* A variation OF the polyphase merge techniqueof sorting is described which permits one tape at a time to be rewound while the merge is continued onthe remaining tapes The techniqueshould be considered whenever a SORT is written to operate on five or more tapes that can not be read backwards 
+
+CA640315 JB March 10, 1978  2:38 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0851 27  3.8123244143917168 BM25
+
+
+Design and Characteristics of a Variable-LengthRecord Sort Using New Fixed-Length Record Sorting Techniques
+Design and Characteristics OF a Variable-LengthRecord SORT Using New Fixed-Length Record Sorting Techniques This paper describes the application OF severalnew techniques FOR sorting fixed-length records to the problems OF variable-length record sorting 
+
+CA630516 JB March 14, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1630 28  3.714954191522046 BM25
+
+
+Computer Representation of Planar Regions by Their Skeletons
+Any region can be regarded as a union OF maximalneighborhoods OF its points , and can be specified by the centers and radii OF these neighborhoods ; thisset is a SORT OF '' skeleton '' OF the region 
+
+CA670212 JB February 28, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1325 29  3.289079594602584 BM25
+
+
+Remote, On-Line, Real-time Computer Diagnosisof the Clinical Electrocardiogram
+It seems likely that efforts OF this SORT will leadto a satisfactory solution to the problem OF the automatic diagnosis OF electrocardiograms 
+
+CA650112 JB March 8, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1930 30  3.2196762279376405 BM25
+
+
+Extremely Portable Random Number Generator
+Typically , this occurs FOR library functions ( like random number generation and in core sorting ) which are not entirely universal or are not used in astandardized way The literature on random number generators does not seem to contain an algorithm thatmeets requirements OF this SORT 
+
+CA690208 JB February 20, 1978  10:43 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3087 31  3.15666333943044 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+Also included are DISCUSSIONS OF important issues in programming natural language systems FOR limited domains , and the relationship OF this system to others An English Language Question Answering Systemfor a Large Relational DATABASE By typing requests in English , casual userswill be able to obtain explicit answers from a large relational DATABASE OF aircraft flight and maintenancedata using a system called PLANES Other system componentsconstruct a formal query FOR the relational DATABASE , and optimize the order OF searching relations Question answering , relational DATABASE , natural language , DATABASE front end , artificial intelligence , dialogue , query generation , information retrieval , natural language programming 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1527 32  2.845472435931541 BM25
+
+
+A Grammar Base Question Answering Procedure
+It is possible to make use OF a recognition device OF thissort FOR the following reason : Much data is fully expressible as a set OF sentences in a natural language , a set which can be exhaustively and exclusively generated by a grammar 
+
+CA671006 JB February 27, 1978  2:14 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2051 33  2.703489544848096 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+The program tabulates the correspondences , and uses list processing techniques to SORT and count them 
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3132 34  2.61823754914429 BM25
+
+
+Experiments with Some Algorithms that FindCentral Solutions for Pattern Classification
+Experiments with Some ALGORITHMS that FindCentral Solutions FOR Pattern Classification In two-class pattern recognition , it is a standardtechnique to have an algorithm finding hyperplaneswhich separates the two classes in a linearly separable trainingset The traditional methods FIND a hyperplane which separates allpoints in the other , but such a hyperplane is not necessarily centeredin the empty space between the two classes Six ALGORITHMS FOR finding centralhyperplanes are tested on three data sets Three ALGORITHMS which are defined in the paper are found to bequite good 
+
+CA790303 DH April 12, 1979  3:20 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2976 35  2.429722120273027 BM25
+
+
+Approximating Block Accesses in Database Organizations
+Approximating Block Accesses in DATABASE Organizations DATABASE , inverted file organization , DATABASE performanceand measurement , information retrieval , query answering 
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2819 36  2.409342742704999 BM25
+
+
+Experiments in Text File Compression
+The analysis program attemptsto FIND an OPTIMAL set OF codes FOR representing substrings OF the file Two ALGORITHMS FOR encoding a string differ slightly from earlier proposals Four new ALGORITHMS FOR thisoperation are described and compared Various parameters in the ALGORITHMS are optimized to obtaina high degree OF compression FOR sample texts text compression , data file compaction , Huffmancodes , N-gram encoding , comparison OF ALGORITHMS 
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3156 37  2.0523025830371893 BM25
+
+
+Computing Connected Components on Parallel Computers
+We present a parallel algorithm which uses n2 processors to FIND the connectedcomponents OF an undirected graph with n vertices in time O ( log2n ) The algorithm can be used to FIND the transitive closureof a symmetric Boolean matrix Graph theory , parallel processing , ALGORITHMS , transitive closure , connected component 
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2816 38  1.948425071482013 BM25
+
+
+Optimal Reorganization of Distributed Space Disk Files
+In most DATABASE organizations , the cost OF accessingthe DATABASE will increase due to structural changes caused by updates and insertions By reorganizingthe DATABASE , the access costs can be reduced This paper considers the optimum points at whichto reorganize a DATABASE OPTIMAL Reorganization OF Distributed Space Disk Files 
+
+CA761107 JB January 3, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2863 39  1.8958922729559426 BM25
+
+
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+VMIN-An OPTIMAL Variable-Space Page Replacement Algorithm demand paging , performance measurement , multilevelmemory systems , virtual memory , working set , page replacement ALGORITHMS , OPTIMAL page replacement A criterion FOR comparing variable space pagereplacement ALGORITHMS is presented The results OF simulating VMIN , Denning 's working set , and the page partitioning replacement ALGORITHMS on five virtual memory programs are presented to demonstratethe improvement possible over the known realizable variable space ALGORITHMS 
+
+CA760508 JB January 4, 1978  3:06 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2876 40  1.8706681459796024 BM25
+
+
+Intentional Resolution of Privacy Protection in Database Systems
+Intentional Resolution OF Privacy Protection in DATABASE Systems Traditionally , privacy protection in databasesystems is understood to be the control over what information a given user can get from a DATABASE This paper is concerned with another , independent , dimension OF privacy protection , the control over whata user is allowed to do with a piece OF information supplied to him by the DATABASE It is shown that intentional resolution can be achieved , but that it involves a radicalchange from the traditional approach to the process OF user-database interaction In particular , it appears to be necessary FOR the DATABASE to impose a certain amount OF control over the internalbehavior OF users ' programs which interact with it A model FOR user-database interactionwhich admits such a control is developed protection in DATABASE , protection in programminglanguages , privacy , security , intentional resolution OF privacy , interaction with databases 
+
+CA760304 JB January 4, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2263 41  1.814027361125172 BM25
+
+
+The Conversion of Limited-Entry Decision Tablesto Optimal and Near-Optimal Flowcharts: Two New Algorithms
+One OF the ALGORITHMS , called the optimum-finding algorithm , leads to a flowchart which truly minimizes execution time FOR a decision table in which simple rulesare already contracted to complex rules ( 2 ) In general , thegreater computation effort needed FOR applying the optimum-finding algorithm will not be justifiedby the small reduction in execution time obtained The Conversion OF Limited-Entry Decision Tablesto OPTIMAL and Near-Optimal Flowcharts : Two New ALGORITHMS Two new ALGORITHMS FOR deriving OPTIMAL andnear-optimal flowcharts from limited entry decision tables are presented decision table , flowcharting , preprocessor , OPTIMAL programs , search The ALGORITHMS are firstderived FOR treating decision tables not containing an ELSE-rule , but the optimum-approaching algorithmis shown to be equally valid FOR tables including such a rule Both ALGORITHMS are compared with existingones and are applied to a somewhat large decision table derived from a real case 
+
+CA721106 JB January 27, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2674 42  1.806260247919805 BM25
+
+
+Scan Conversion Algorithms for a Cell Organized Raster Display
+Results obtained from the IMPLEMENTATIONS showthat the noninteractive ALGORITHMS can significantly reduce display file storage requirements at little costin execution time over that OF a conventional raster display Oneis most suitable to non-interactive APPLICATIONS and the other to interactive APPLICATIONS Scan Conversion ALGORITHMS FOR a Cell Organized Raster Display Two fundamentally differentscan conversion ALGORITHMS which have been developed to support this display are presented The algorithmswere implemented in Fortran on the CDC 6400 computer 
+
+CA740309 JB January 18, 1978  11:08 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2957 43  1.8018375122132977 BM25
+
+
+Database Abstractions: Aggregation
+DATABASE Abstractions : Aggregation Relational databases definedas collections OF aggregates are structured as a hierarchy on n-ary relations To main tain well-definedness , update operations on such databases must preserve two invariants It is shown that these notions are complementary and both areimportant in DATABASE design A top-down methodology FOR DATABASE design is described which separatesdecisions concerning aggregate structure from decisions concerning key identification data abstraction , relational DATABASE , data type , aggregation , DATABASE design , data structure , knowledge representation , data definition language 
+
+CA770606 JB December 29, 1977  12:33 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2450 44  1.7787485650973487 BM25
+
+
+Empirical Working Set Behavior
+Althoughthe words `` working set '' are now commonly encountered in the literature dealing with resource allocation , thereis a dearth OF published data on program measurements , in the hope that workers in the field might FIND experimentalevidence upon which to substantiate and base theoretical work The working set model FOR program behaviorhas been proposed in recent years as a basis FOR the design OF scheduling and paging ALGORITHMS 
+
+CA730905 JB January 23, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0270 45  1.7771410247830395 BM25
+
+
+Techniques for Storage Allocation Algorithms 
+Techniques FOR Storage Allocation ALGORITHMS 
+
+CA611011 JB March 16, 1978  12:50 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2890 46  1.7445491226778145 BM25
+
+
+On Quadratic Adaptive Routing Algorithms
+Two analytic models OF a store-and-forward communicationsnetwork are constructed , one to FIND the OPTIMAL message routing and the other to illustratethe equilibrium ( stationary state ) maintained by an adaptive routing algorithm These models show thatadaptive routing does not satisfy the necessary conditions FOR an OPTIMAL routing , Adaptive routing tendsto overuse the direct path and underuse alternate routes because it does not consider the impact OF itscurrent routing decision on the future state OF the network The form OF the optimality conditions suggeststhat a modification OF the adaptive algorithm will result in optimality On Quadratic Adaptive Routing ALGORITHMS routing ALGORITHMS , adaptive routing , quadratic routing , alternate routing , store-and-forward network , distributed network , computer network , message switching 
+
+CA760103 JB January 5, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2964 47  1.7388419217864772 BM25
+
+
+An Approach to Optimal Design of Storage Parameters in Databases
+An Approach to OPTIMAL Design OF Storage Parameters in Databases DATABASE organization , storage parameteroptimization , resident , overflow storage 
+
+CA770508 JB December 29, 1977  1:48 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0371 48  1.7385050924112595 BM25
+
+
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+Remarks on ALGORITHMS 2 and 3 , Algorithm 15 and ALGORITHMS 25 and 26 
+
+CA610311 JB March 17, 1978  12:35 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2882 49  1.71489346045445 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+A Stochastic Evaluation Model FOR DatabaseOrganization in Data Retrieval Systems These data retrieval systems canbe organized under several DATABASE organizations , including inverted list , threaded list , and cellularlist organizations and hybrid combinations OF these systems Effectiveness OF the methodology is demonstratedby using the model to study the effect OF DATABASE organizations in data retrieval systems DATABASE architecture , DATABASE performance andevaluation , invented list , threaded list , cellular list , information retrieval , DATABASE organizations , query complexity , stochastic model , Monte Carlo simulation 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2715 50  1.7084281586759018 BM25
+
+
+Implementation of a Structured English Query Language
+relational model , query language , nonprocedural language , DATABASE , data structure , data organization The optimization ALGORITHMS designed FOR this purpose are described 
+
+CA751004 JB January 6, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2289 51  1.6780342281981913 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+Straightforwardcellular IMPLEMENTATIONS OF the well-known serial ALGORITHMS FOR these problems require about nsteps , and noncellular IMPLEMENTATIONS require from n^2 to n^3 steps In particular , several parallelized ALGORITHMS are presented FOR the solution OF certainspanning tree , distance , and path problems , with direct APPLICATIONS to wire routing , PERT chart analysis , and the analysis OF many types OF networks A major challengein the effective use OF cellular arrays FOR the solution OF graph problems is the determination OF algorithmsthat exploit the possibilities FOR parallelism , especially FOR problems whose solutions appear to be inherentlyserial These ALGORITHMS exhibit a computation time that inmany cases grows at a rate not exceeding log2 n , where n is the number OF nodes in the graph graph theory , cellular logic-in-memory arrays , parallel processing , special purpose computers , ALGORITHMS FOR distance and spanning tree problems 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0307 52  1.6551137298388796 BM25
+
+
+FIND (Algorithm 65)
+FIND ( Algorithm 65 ) 
+
+CA610710 JB March 16, 1978  10:20 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1191 53  1.64219103836478 BM25
+
+
+Find Precedence Functions (Algorithm 265 [L2])
+FIND Precedence Functions ( Algorithm 265 [ L2 ] ) 
+
+CA651004 JB March 6, 1978  6:52 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1796 54  1.6344849992778998 BM25
+
+
+Index by Subject to Algorithms, 1969
+Index by Subject to ALGORITHMS , 1969 This 1969 index is the first supplement to theIndex by Subject to ALGORITHMS , 1960 1968 ( Comm 
+
+CA691216 JB February 15, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0507 55  1.6169417292425208 BM25
+
+
+Partition, Quicksort, Find (Algorithm 63, 64, 65)
+Partition , Quicksort , FIND ( Algorithm 63 , 64 , 65 ) 
+
+CA620821 JB March 17, 1978  9:32 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3037 56  1.6074728574354178 BM25
+
+
+A Linear Sieve Algorithm for Finding Prime Numbers
+A Linear Sieve Algorithm FOR Finding Prime Numbers A new algorithm is presented FOR finding allprimes between 2 and n It is also easily extended to FIND the prime factorization OF ALL integers between 2 and n in time proportional to n Primes , ALGORITHMS , data structures 
+
+CA781202 DH January 22, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2627 57  1.6013064995991309 BM25
+
+
+Scheduling Independent Tasks to Reduce Mean Finishing Time
+minimizing mean finishing time , minimizing mean flowtime , sequencing ALGORITHMS , OPTIMAL scheduling ALGORITHMS , deterministic scheduling models In this paper a deterministic model OF independenttasks is introduced and new results are derived which extend and generalize the ALGORITHMS known forminimizing mean finishing time In addition to presenting and analyzing new ALGORITHMS it is shownthat the most general mean-finishing-time problem FOR independent tasks is polynomial complete , and hence unlikelyto admit OF a non-enumerative solution 
+
+CA740704 JB January 17, 1978  12:56 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3131 58  1.5951428589556127 BM25
+
+
+FOCUS Microcomputer Number System
+Algorithmsfor 8-bit and 16-bit IMPLEMENTATIONS OF FOCUS are included FOCUS is a number system and supporting computationalalgorithms especially useful FOR microcomputer control and othersignal processing APPLICATIONS FOCUS computationsare typically five times faster than single precision fixed-pointor integer arithmetic FOR a mixture OF operations , comparable inspeed with hardware arithmetic FOR many APPLICATIONS Number representation , logarithmic arithmetic , computationalspeed , computational accuracy , microcomputer APPLICATIONS 
+
+CA790302 DH April 12, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2817 59  1.5865666052182568 BM25
+
+
+The Notions of Consistency and Predicate Locks in a Database System
+The Notions OF Consistency and Predicate Locks in a DATABASE System In DATABASE systems , users access shared dataunder the assumption that the data satisfies certain consistency constraints Then it is argued that a transaction needs to lock a logicalrather than a physical subset OF the DATABASE consistency , lock , DATABASE , concurrency , transaction 
+
+CA761106 JB January 3, 1978  3:14 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-0776 60  1.5804907632044038 BM25
+
+
+Partition, Quicksort, and Find (Algorithm 62, 64, & 65)
+Partition , Quicksort , and FIND ( Algorithm 62 , 64 , & 65 ) 
+
+CA630822 JB March 13, 1978  8:23 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2007 61  1.5411417458581846 BM25
+
+
+Algorithms Policy/Revised August 1970
+ALGORITHMS Policy/Revised August 1970 
+
+CA700814 JB February 10, 1978  3:12 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1952 62  1.5166943313637116 BM25
+
+
+Index by Subject to Algorithms, 1970
+Index by Subject to ALGORITHMS , 1970 
+
+CA701211 JB February 9, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1342 63  1.5047591956536506 BM25
+
+
+Transportation Problem (Algorithms 293 [H])
+Transportation Problem ( ALGORITHMS 293 [ H ] ) 
+
+CA661207a JB March 2, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1660 64  1.5047591956536506 BM25
+
+
+Index By Subject To algorithms, 1960-1968
+Index By Subject To ALGORITHMS , 1960-1968 
+
+CA681206 JB February 21, 1978  1:39 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2902 65  1.492004579760856 BM25
+
+
+Dynamic Memory Allocation in Computer Simulation
+algorithm performance , dynamic memory allocation , dynamicmemory MANAGEMENT , dynamic storage allocation , garbage collection , list processing , memory allocation , memory MANAGEMENT , programming techniques , simulation , simulation memory MANAGEMENT , simulation techniques , space allocation , storage allocation This paper investigates the performance of35 dynamic memory allocation ALGORITHMS when used to service simulation programs as represented by 18test cases ALGORITHMS main taining separate free space lists FOR each size OF memory block usedtended to perform quite well compared with other ALGORITHMS Simple ALGORITHMS operating on memory orderedlists ( without any free list ) performed surprisingly well ALGORITHMS employing power-of-two block sizeshad favorable processing requirements but generally unfavorable memory usage ALGORITHMS employing LIFO , FIFO , or memory ordered free lists generally performed poorly compared with others 
+
+CA771114 JB December 27, 1977  6:09 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1551 66  1.480387455592742 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+On Compiling ALGORITHMS FOR Arithmetic Expressions This paper deals with ALGORITHMS concerning arithmeticexpressions used in a FORTRAN IV compiler FOR a HITAC-5020 computer having n accumulators Thealgorithms generate an object code which minimizes the frequency OF storing and recovering the partial resultsof the arithmetic expressions in cases where there are several accumulators 
+
+CA670804 JB February 27, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2226 67  1.476868193808495 BM25
+
+
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem
+Further Evidence FOR the Analysis OF Algorithmsfor the Zero-One Programming Problem The purpose OF this note is to report computationalexperience additional to that recently summarized by Gue et al , with two ALGORITHMS FOR thezero-one linear programming problem The utility OF one ofthe ALGORITHMS as a suboptimizer is indicated operations research , integer programming , zero-one variables , ALGORITHMS 
+
+CA710108 JB February 8, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2973 68  1.4510142384383413 BM25
+
+
+Sorting on a Mesh-Connected Parallel Computer
+Sorting on a Mesh-Connected Parallel Computer Two ALGORITHMS are presented FOR sorting n^2elements on an n X n mesh-connected processor array that require O ( n ) routing and comparison steps parallel computer , parallel sorting , parallel merge , routing and comparison steps , perfect shuffle The ALGORITHMS OF this paper are shown to be optimalin time within small constant factors 
+
+CA770409 JB December 29, 1977  4:58 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2417 69  1.4477944440466723 BM25
+
+
+Four Combinatorial Algorithms [G6] (Algorithm A466)
+Four Combinatorial ALGORITHMS [ G6 ] ( Algorithm A466 ) 
+
+CA731109 JB January 20, 1978  9:59 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3166 70  1.4367548274075093 BM25
+
+
+Computing Standard Deviations: Accuracy
+Four ALGORITHMS FOR the numerical computationof the standard deviation OF ( unweighted ) sampled dataare analyzed Two OF the ALGORITHMS are well-known in the statisticaland computational literature ; the other two are new algorithmsspecifically intended FOR automatic computation `` Each OF the four ALGORITHMS is analyzed FOR the conditionsunder which it will be accurate We conclude that ALL fouralgorithms will provide accurate answers FOR many problems , but twoof the ALGORITHMS , one new , one old , are substantially more accurateon difficult problems than are the other two 
+
+CA790907 DB January 16, 1980  4:23 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2830 71  1.4261981583244272 BM25
+
+
+A Practitioner's Guide to Addressing Algorithms (Corrigendum)
+A Practitioner 's Guide to Addressing ALGORITHMS ( Corrigendum ) 
+
+CA760909 JB January 4, 1978  8:43 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1953 72  1.4156398354588862 BM25
+
+
+Exponential Integral Ei(x) (Algorithms 385 $S13))
+Exponential Integral Ei ( x ) ( ALGORITHMS 385 $ S13 ) ) 
+
+CA701210 JB February 9, 1978  3:04 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2950 73  1.4069211100980148 BM25
+
+
+A Unifying Approach to Scheduling
+This paper presents a scheme FOR classifyingscheduling ALGORITHMS based on an abstract model OF a scheduling system which formalizes the notion ofpriority Various classes OF scheduling algorithmsare defined and related to existing ALGORITHMS Acriterion FOR the implementation efficiency OF an algorithm is developed and results in the definitionof time-invariant ALGORITHMS , which include most OF the commonly implemented ones FOR time-invariantalgorithms , the dependence OF processing rates on priorities is derived scheduling ALGORITHMS , scheduling models , priority , operating systems , processor sharing , implementation efficiency 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3017 74  1.4032648461539639 BM25
+
+
+B-trees Re-examined
+The B-tree and its variants have , with increasingfrequency , been proposed as a basic storage structure FOR multiuser DATABASE APPLICATIONS 
+
+CA780206 JB March 28, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2997 75  1.3865527140010514 BM25
+
+
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions
+Since any convex hull algorithm requires at least O ( n log n ) operations , the time complexity OF theproposed ALGORITHMS is OPTIMAL within a multiplicative constant computational complexity , convex hull , OPTIMAL ALGORITHMS , planar set OF poin ts , spatial set OF poin ts The presented ALGORITHMS use the `` divideand conquer '' technique and recursively apply a merge procedure FOR two nonin tersecting convex hulls 
+
+CA770203 JB December 30, 1977  2:47 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3006 76  1.3804566298690792 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+anomaly , memory MANAGEMENT , program behavior , stackalgorithms , virtual memory , working set , page fault frequency , paging ALGORITHMS Anomalies with Variable Partition Paging ALGORITHMS One type OF anomaly , FOR example , concernsthe fact that , with certain reference strings and paging ALGORITHMS , an increase in mean memory allocationmay result in an increase in fault rate Two paging ALGORITHMS , are examined in terms OF theiranomaly potential , and reference string examples OF various anomalies are presented 
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2884 77  1.3801014911235476 BM25
+
+
+Permutation Enumeration: Four New Permutation Algorithms
+Permutation Enumeration : Four New Permutation ALGORITHMS Classical permutation enumeration ALGORITHMS encounterspecial cases requiring additional computation every nth permutation when generating the n ! permutationson n marks Four new ALGORITHMS have the attribute that special cases occur every n ( n-1 ) permutations Two OF the ALGORITHMS produce the next permutation with a single exchange OF two marks The other two algorithmsinfrequently exchange more than two marks , but the rules FOR generating the next permutation arevery simple Performance tests which have counted execution OF assignment statements , comparisons , arithmeticoperations , and subscripted array references have shown superiority OF the new ALGORITHMS compared toBoothroyd 's implementation OF M permutations , loop-free ALGORITHMS 
+
+CA760203 JB January 5, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2505 78  1.3749248740726576 BM25
+
+
+Reflection-Free Permutations, Rosary Permutations,and Adjacent Transposition Algorithms
+Reflection-Free Permutations , Rosary Permutations , and Adjacent Transposition ALGORITHMS 
+
+CA730515 JB January 23, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1619 79  1.356710216021552 BM25
+
+
+Error-Free Methods for Statistical Computations
+Neely has discussed computational error generatedby some ALGORITHMS used to compute various statistics 
+
+CA670310 JB February 28, 1978  1:02 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3151 80  1.3447903989193235 BM25
+
+
+An Optimal Real-Time Algorithm for Planar Convex Hulls
+An OPTIMAL Real-Time Algorithm FOR Planar Convex Hulls Computational geometry , convex hull , planar set ofpoints , real-time ALGORITHMS , on-line ALGORITHMS 
+
+CA790702 DH August 22, 1979  2:07 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2362 81  1.336486429486144 BM25
+
+
+Linear Equation Solver [F4] (Algorithm A423)
+matrix ALGORITHMS , linear equations , Fortran , paged memory , virtual memory , array processing 
+
+CA720411 JB January 31, 1978  12:34 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1873 82  1.3279693302939315 BM25
+
+
+Accelerating LP Algorithms
+Other LP APPLICATIONS are indicated Accelerating LP ALGORITHMS It is shown how a novel method FOR computing ( related ) inner products can accelerate the pricing phase OF LP ALGORITHMS 
+
+CA690707 JB February 17, 19789:08 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2691 83  1.3156431970977434 BM25
+
+
+Comments on the Algorithms of Verhelst for theConversion of Limited-Entry Decision Tables to Flowcharts
+decision table , flowcharting , preprocessor , OPTIMAL programs , search Comments on the ALGORITHMS OF Verhelst FOR theConversion OF Limited-Entry Decision Tables to Flowcharts 
+
+CA740108 JB January 18, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2767 84  1.2977777887885538 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+simulation , time flow mechanisms , event list algorithm , simulation , time flow mechanisms , event list algorithm , simulation executive , event schedulingroutine , discrete system simulation , sorting A Comparison OF Simulation Event List ALGORITHMS Four ALGORITHMS are considered which can be usedto schedule events in a general purpose discrete simulation system Two OF the ALGORITHMS are new , oneis based on an end-order tree structure FOR event notices , and another uses an indexed linear list The algorithmsare tested with a set OF typical stochastic scheduling distributions especially chosen to showthe advantages and limitations OF the ALGORITHMS 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2273 85  1.2972114354739748 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+Two ALGORITHMS FOR generating computer programsfrom decision tables are described The ALGORITHMS allow handling limited entry , extended entry , and mixedentry tables The ALGORITHMS are based on the rule mask method but need not have the masks at executiontime Execution time can be considerably reduced by instantly marking rules which are not applicable ( Algorithms1 and 2 ) or conditions which are already tested ( Algorithm 2 ) The new ALGORITHMS combine to acertain degree the advantages OF mask methods with those OF tree methods 
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1658 86  1.2947368837736524 BM25
+
+
+Analysis of Algorithms for the Zero-One Programming Problem
+Analysis OF ALGORITHMS FOR the Zero-One Programming Problem This paper is concerned with a review and examinationof several existing ALGORITHMS FOR the zero-one programming problem The machine time and storage requirements OF several OF the ALGORITHMS are comparedover several test problems OF small and intermediate size operations research , optimization theory , integerprogramming , zero-one variables , ALGORITHMS 
+
+CA681208 JB February 21, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2081 87  1.2890081518105905 BM25
+
+
+Some Complete Calculi for Matrices
+Algorithmsare given which use symbol manipulation OF matrix expressions soas to FIND the forms best suited FOR computation 
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2337 88  1.2774164140122775 BM25
+
+
+A Sorting Problem and Its Complexity
+One new algorithm FOR finding the minimum and maximum elements OF a set withfewest comparisons is proved OPTIMAL with this technique A Sorting Problem and Its Complexity A technique FOR proving min-max norms OF sortingalgorithms is given sorting , computational complexity , computational combinatorics 
+
+CA720608 JB January 30, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2283 89  1.2625196251313835 BM25
+
+
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+Thinning ALGORITHMS on Rectangular , Hexagonal , and Triangular Arrays In this report three thinning ALGORITHMS aredeveloped : one each FOR use with rectangular , hexagonal , and triangular arrays Pictorial results produced by each OF the ALGORITHMS are presentedand the relative performances OF the ALGORITHMS are compared thinning ALGORITHMS , rectangular , hexagonal , triangular arrays , image processing , skeleton 
+
+CA720907 JB January 27, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2490 90  1.256186314588951 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+Efficient ALGORITHMS FOR Graph Manipulation [ H ] ( Algorithm A447 ) Efficient ALGORITHMS are presented FOR partitioninga graph into connected components , biconnected components and simple paths graphs , analysis OF ALGORITHMS , graph manipulation 
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2142 91  1.253966640010663 BM25
+
+
+Reconstruction of Pictures from Their Projections
+Usually , in such situations , the picture is far from determinedand the problem is to FIND the `` most representative '' picture Three ALGORITHMS are described ( ALL usingMonte Carlo methods ) which were designed to solve this problem The ALGORITHMS are applicable in a largeand varied number OF fields 
+
+CA711201 JB February 2, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3163 92  1.2499492255808802 BM25
+
+
+An Optimal Insertion Algorithm for One-SidedHeight-Balanced BInary Search Trees
+An OPTIMAL Insertion Algorithm FOR One-SidedHeight-Balanced BInary Search Trees Moreover , the O ( log n ) complexity is OPTIMAL This represents an improvement over the best previously known insertion ALGORITHMS OF Hirschberg and Kosaraju , which requiretime O ( log 2n ) However , the insertion and deletion ALGORITHMS FOR OSHB trees appear muchmore complicated than the corresponding ALGORITHMS FOR AVL trees 
+
+CA790904 DB January 14, 1980  11:47 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2181 93  1.2440028873286395 BM25
+
+
+The State of Computer Oriented Curricula in Business Schools 1970
+This presentationgives a summary OF the DISCUSSIONS ; a condensationof the pedagogic and substantive concerns raised ; andconsideration OF the resource allocation issues involved The ACM Committee on Computer Education FOR MANAGEMENT , supported by a National Science Foundation Grant , is established to appraise the state OF the artand to develop a series OF recommendations FOR improving computer education FOR MANAGEMENT Preliminary to the Committee 's recommendationsfor improving computer education FOR MANAGEMENT , this report has been prepared to provide the participantsand the administrators OF their institutions with background information FOR the ongoing task OF coursedevelopment university programs , MANAGEMENT education , curriculumdesign , business administration curricula , graduate business school resource planning 
+
+CA710701 JB February 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2426 94  1.2351765056850774 BM25
+
+
+Algorithms SCALE1, SCALE2, and SCALE3 for Determinationof Scales on Computer Generated Plots [J6] (Algorithm A463)
+ALGORITHMS SCALE1 , SCALE2 , and SCALE3 FOR Determinationof Scales on Computer Generated Plots [ J6 ] ( Algorithm A463 ) 
+
+CA731014 JB January 20, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2888 95  1.213397974874562 BM25
+
+
+Information Reference Coding
+In business systems associated with large collections OF integrated files ( DATABASE ) it is vital to assign codes in a methodical way so as to control future extension and changes while maintainingcorrect program action data , file , reference code , systemsanalysis , information modeling , DATABASE 
+
+CA760105 JB January 5, 1978  10:11 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-1924 96  1.2102295993368122 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+It is shown thatcarefully designed matrix ALGORITHMS can lead to enormous savings in the number OF page faults occurringwhen only a small part OF the total matrix can be in main memory at one time Examination OF addition , multiplication , and inversion ALGORITHMS shows that a partitioned matrix representation ( i The number OF page-pulls required by these matrix manipulation ALGORITHMS is also studied as a functionof the number OF pages OF main memory available to the algorithm matrix ALGORITHMS , array processing , paging ALGORITHMS , paged memory systems , virtual memory systems , array storage allocation , storage allocation 
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2454 97  1.2048376819861026 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+Computational ALGORITHMS FOR Closed QueueingNetworks with Exponential Servers The computational ALGORITHMS are based on two-dimensionaliterative techniques which are highly efficient and quite simple to implement 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2959 98  1.2016000935804325 BM25
+
+
+The System for Business Automation (SBA): Programming Language
+The Query-by-Example DATABASE languageis a subset OF the SBA programming language programming language , graphics , user in terface , data flow , forms flow , data abstraction , DATABASE , query , data processing , business system specification , application programming The system FOR business automation ( SBA ) is a systemwithin which application experts-nonprogrammers-can describe and execute their APPLICATIONS on a computer 
+
+CA770604 JB December 29, 1977  1:25 AM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-2718 99  1.1841865767280226 BM25
+
+
+A Preliminary System for the Design of DBTG Data Structures
+The functional approach to DATABASE design isintroduced network model OF databases , Data Base Task Group , databasedesign , data structure , automatic programming , translation , nonprocedural languages 
+
+CA751001 JB January 6, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+14 Q0 CACM-3067 100  1.158298538568017 BM25
+
+
+Generalized Working Sets for Segment Reference Strings
+DATABASE referencing , memory MANAGEMENT , optimalmemory policies , paging , program behavior , program measurement , segmentation , working sets A generalized OPTIMAL policy ( GOPT ) is also defined ; at its operating points it minimizes aggregatedretention and swapping costs 
+
+CA780905 DH February 5, 1979  11:20 AM
+
+

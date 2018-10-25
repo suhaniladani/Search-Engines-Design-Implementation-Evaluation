@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+21 Q0 CACM-2337 1  14.518045584154564 BM25
+
+
+A Sorting Problem and Its Complexity
+A Sorting Problem AND Its COMPLEXITY sorting , COMPUTATIONAL COMPLEXITY , COMPUTATIONAL combinatorics A technique for proving min-max norms of sortingalgorithms is given 
+
+CA720608 JB January 30, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2325 2  13.229324496075252 BM25
+
+
+Numerical Mathematics and Computer Science
+These are : foundations ( finite precision number systems , COMPUTATIONAL COMPLEXITY ) , synthesis AND analysis of ALGORITHMS , analysis of error , programs AND program libraries Numerical mathematics is viewed as the analysisof continuous ALGORITHMS numerical mathematics , computer science , mathematicsof computation , ALGORITHMS , continuous ALGORITHMS 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2997 3  12.51993499052281 BM25
+
+
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions
+Since any convex hull algorithm requires at least O ( n log n ) operations , the time COMPLEXITY of theproposed ALGORITHMS is optimal within a multiplicative constant COMPUTATIONAL COMPLEXITY , convex hull , optimal ALGORITHMS , planar set of poin ts , spatial set of poin ts The presented ALGORITHMS use the `` divideand conquer '' technique AND recursively apply a merge procedure for two nonin tersecting convex hulls 
+
+CA770203 JB December 30, 1977  2:47 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3086 4  11.877430259681422 BM25
+
+
+On the Complexity of Computing the Measure of U[ai, bi]
+On the COMPLEXITY of Computing the Measure of U [ ai , bi ] The decision tree COMPLEXITY of computing themeasure of the union of n ( possibly overlapping ) intervals is shown to be ( n log n ) , even if comparisonsbetween linear functions of the interval endpoints are allowed Analysis of ALGORITHMS , combinatorial problems , COMPUTATIONAL COMPLEXITY , COMPUTATIONAL models , decision tree programs , lower bounds Theseproblems provide an excellent opportunity for discussing the effects of the COMPUTATIONAL model onthe ease of analysis AND on the results produced 
+
+CA780702 DH February 8, 1979  3:46 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2932 5  11.214477780536935 BM25
+
+
+Complexity of Computations
+COMPLEXITY of Computations The framework for research in the theory of complexityof computations is described , emphasizing the in terrelation between seemingly diverse problemsand methods COMPLEXITY of computations , algebraic COMPLEXITY , in tractable problems , probabilistic ALGORITHMS 
+
+CA770901 JB December 28, 1977  6:54 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2927 6  10.747078921477197 BM25
+
+
+Some New Upper Bounds on the Generation of Prime Numbers
+Given an integer N , what is the computationalcomplexity of finding all the primes less than N ? A modified sieve of Eratosthenes using doubly linkedlists yields an algorithm of O ( N ) arithmetic COMPLEXITY Use of preprocessing techniquesinvolving space-time AND additive-multiplicative tradeoffs reduces this upper bound to O ( N/log logN ) AND the bit COMPLEXITY to O ( N logN log log logN ) COMPUTATIONAL COMPLEXITY , sieve , prime number generation , number theory , linked list , preprocessing , balancing 
+
+CA770907 JB December 27, 1977  12:55 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2837 7  10.638247911915945 BM25
+
+
+New Upper Bounds for Selection
+The worst-case minimum number of comparisonscomplexity Vi ( n ) of the i-th selection problem is considered selection problem , ALGORITHMS , comparison problems , concrete COMPUTATIONAL COMPLEXITY , upper bounds , worst-case analysis 
+
+CA760902 JB January 4, 1978  9:48 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2110 8  9.325416477250478 BM25
+
+
+An Efficient Context-free Parsing Algorithm
+syntax analysis , parsing , context-free grammar , compilers , COMPUTATIONAL COMPLEXITY In an empirical comparison it appearsto be superior to the top-down AND bottom-up ALGORITHMS studied by Griffiths AND Petrick 
+
+CA700205 JB February 14, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1309 9  9.082451395719929 BM25
+
+
+A Computer User-Oriented System
+A computer language system has been developedwhich makes possible fast preparation of management reports , regardless of COMPUTATIONAL COMPLEXITY or formatvariety Use of two special languages , EXTRACT AND MATRAN , permits selective extraction of any data subset , efficientprocessing through any COMPUTATIONAL sequence , AND flexible presentation of results in either tabularor graphical form 
+
+CA650215 JB March 7, 1978  10:51 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3131 10  9.055571113160775 BM25
+
+
+FOCUS Microcomputer Number System
+FOCUS is a number system AND supporting computationalalgorithms especially useful for microcomputer control AND othersignal processing applications Number representation , logarithmic arithmetic , computationalspeed , COMPUTATIONAL accuracy , microcomputer applications Algorithmsfor 8-bit AND 16-bit implementations of FOCUS are included 
+
+CA790302 DH April 12, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3018 11  8.970413716208354 BM25
+
+
+Covering Edges by Cliques with Regard toKeyword Conflicts and Intersection Graphs
+keyword conflicts , intersection graphs , node cliquecover , edge clique cover , COMPUTATIONAL COMPLEXITY , NP-complete problems , polynomial-time heuristics A relationship between this edge-clique-cover problem AND the graph coloringproblem is established which allows ALGORITHMS for either one of these problems to be constructedfrom algorithm for the other As consequences of this relationship , the keyword conflict problem AND theedge-clique-cover problem are shown to be NP-complete , AND if P=/NP then they do not admit polynomial-time approximationalgorithms which always produce solutions within a factor less than 2 from the optimum 
+
+CA780205 JB March 28, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2454 12  8.868944708282118 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+COMPUTATIONAL ALGORITHMS for Closed QueueingNetworks with Exponential Servers The COMPUTATIONAL ALGORITHMS are based on two-dimensionaliterative techniques which are highly efficient AND quite simple to implement 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1658 13  8.670864718908787 BM25
+
+
+Analysis of Algorithms for the Zero-One Programming Problem
+COMPUTATIONAL experienceis summarized Analysis of ALGORITHMS for the Zero-One Programming Problem This paper is concerned with a review AND examinationof several existing ALGORITHMS for the zero-one programming problem The machine time AND storage requirements of several of the ALGORITHMS are comparedover several test problems of small AND intermediate size operations research , optimization theory , integerprogramming , zero-one variables , ALGORITHMS 
+
+CA681208 JB February 21, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2828 14  8.576928916938346 BM25
+
+
+Hierarchical Geometric Models for Visible Surface Algorithms
+First , the range of complexityof an environment is greatly increased while the visible COMPLEXITY of any given scene is kept withina fixed upper limit Finally , the geometric structure suggests a recursive descent , visible surface algorithm in which the computation time potentially grows linearly with the visible COMPLEXITY of the scene Hierarchical Geometric Models for Visible Surface ALGORITHMS visible surface ALGORITHMS , hidden surface ALGORITHMS , hierarchical data structures , geometric models 
+
+CA761003 JB January 3, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3055 15  8.480486871566193 BM25
+
+
+An Analysis of Algorithms for the Dutch National Flag Problem
+The algorithm of Meyer is shown to have expected swap COMPLEXITY 5/9N An Analysis of ALGORITHMS for the Dutch National Flag Problem Both of the ALGORITHMS given by Dijkstra are shown to have an expected numberof swaps which is 2/3N + 0 ( 1 ) AND that these values differ at most by 1/3 of a swap AND asymptoticallyby 1/4 of a swap 
+
+CA781006 DH January 29, 1979  5:47 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2702 16  8.254863653607181 BM25
+
+
+On the Complexity of LR(k) Testing
+On the COMPLEXITY of LR ( k ) Testing The time COMPLEXITY of this problem is analyzed both when k is considered to be a fixedinteger AND when k is considered to be a parameter of the test On the other hand , if both k AND the subject grammar are problem parameters , thenthe COMPLEXITY of the problem depends very strongly on the representation chosen for k COMPUTATIONAL COMPLEXITY , context-free grammars , parsing , LR ( k ) grammars , NP-complete problems 
+
+CA751205 JB January 5, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2936 17  8.209511034214316 BM25
+
+
+An Efficient Data Structure for the Simulation Event Set
+First , the new algorithm 's performance is quite insensitive to skewed distributions , AND second , its worst-case COMPLEXITY is O ( n ) , where n is the number of events in the set Furthermore , tests conducted to estimate the average COMPLEXITY showed it to be nearly independent of n Recently ALGORITHMS have been presented for therealization of event scheduling routines suitable for general purpose discrete event simulation systems Several exhibited a performance superior to that of commonly used simple linked list ALGORITHMS In thispaper a new event scheduling algorithm is presented which improves on two aspects of the best of the previouslypublished ALGORITHMS 
+
+CA770807 JB December 28, 1977  7:15 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2950 18  8.101398843611783 BM25
+
+
+A Unifying Approach to Scheduling
+Acriterion for the implementation EFFICIENCY of an algorithm is developed AND results in the definitionof time-invariant ALGORITHMS , which include most of the commonly implemented ones scheduling ALGORITHMS , scheduling models , priority , operating systems , processor sharing , implementation EFFICIENCY This paper presents a scheme for classifyingscheduling ALGORITHMS based on an abstract model of a scheduling system which formalizes the notion ofpriority Various classes of scheduling algorithmsare defined AND related to existing ALGORITHMS For time-invariantalgorithms , the dependence of processing rates on priorities is derived 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2743 19  8.040678445582397 BM25
+
+
+Sorting X + Y
+merge sorting , COMPUTATIONAL COMPLEXITY , datamodeling , computing models , binary comparisons 
+
+CA750610 JB January 9, 1978  12:45 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2784 20  8.029073419775067 BM25
+
+
+Expected Time Bounds for Selection
+selection , COMPUTATIONAL COMPLEXITY , medians , tournaments , quantiles 
+
+CA750304 JB January 9, 1978  4:52 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1659 21  7.800058916653402 BM25
+
+
+Computational Linguistics in a Ph. Computer Science Program
+COMPUTATIONAL Linguistics in a Ph This report contains recommendations for acourse curriculum on COMPUTATIONAL linguistics in a Ph A classification of thesubject areas contained in COMPUTATIONAL linguistics is presented , AND ten courses in these areas are described A basic bibliography in COMPUTATIONAL linguistics is appended COMPUTATIONAL linguistics , mathematical linguistics , language AND computer , language data processing , COMPUTATIONAL linguistics course curriculum , computationallinguistics graduate program , COMPUTATIONAL linguistics bibliography , computer science curriculum 
+
+CA681207 JB February 21, 1978  1:37 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3163 22  7.7610685472634735 BM25
+
+
+An Optimal Insertion Algorithm for One-SidedHeight-Balanced BInary Search Trees
+Moreover , the O ( log n ) COMPLEXITY is optimal Thus the result of this papergives a negative answer to the question of whether such trees shouldbe the first examples of their kind , where deletion has a smaller time COMPLEXITY than insertion This represents an improvement over the best previously known insertion ALGORITHMS of Hirschberg AND Kosaraju , which requiretime O ( log 2n ) However , the insertion AND deletion ALGORITHMS for OSHB trees appear muchmore complicated than the corresponding ALGORITHMS for AVL trees 
+
+CA790904 DB January 14, 1980  11:47 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2903 23  7.702947974733563 BM25
+
+
+Improving Programs by the Introduction of Recursion
+program transformation , optimization of programs , recursion elimination , pattern matching ALGORITHMS , stacks , COMPUTATIONAL induction A new technique of program transformation , called `` recursion in troduction , '' is described AND applied to two ALGORITHMS which solve pattern matching problems By using recursion in troduction , ALGORITHMS which manipulate a stack are first translated intorecursive ALGORITHMS in which no stack operations occur These ALGORITHMS are then subjected to a secondtransformation , a method of recursion elimination called `` tabulation , '' to produce programs with a veryefficient running time 
+
+CA771113 JB December 27, 1977  6:29 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2953 24  7.684086216336291 BM25
+
+
+Notes on Recursion Elimination
+recursion elimination , optimization of programs , stacks , trees , sorting ALGORITHMS , COMPUTATIONAL induction Procedureswith this general form arise in connection with tree traversal AND sorting ALGORITHMS 
+
+CA770610 JB December 28, 1977  12:50 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3032 25  7.630099953133862 BM25
+
+
+Reverse Path Forwarding of Broadcast Packets
+The algorithm is described as being practical because it is not optimal according to metrics developedfor its analysis in this paper , AND also because it can be implemented in existing networks with less complexitythan that required for the known alternatives ALGORITHMS for accomplishing this delivery through a store-and-forward packet switching computer network include ( 1 ) transmission of separately addressed packets Tothis list of ALGORITHMS we add ( 6 ) reverse path forwarding , a broadcast routing method which exploitsrouting procedures AND data structures already available for packet switching 
+
+CA781207 DH  January 18, 1979  3:10 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3037 26  7.601880480953079 BM25
+
+
+A Linear Sieve Algorithm for Finding Prime Numbers
+The method has the same arithmetic complexityas the algorithm presented by Mairson [ 6 ] ; however , our version is perhaps simpler AND more elegant Primes , ALGORITHMS , data structures 
+
+CA781202 DH January 22, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1619 27  7.57929634133668 BM25
+
+
+Error-Free Methods for Statistical Computations
+Neely has discussed COMPUTATIONAL error generatedby some ALGORITHMS used to compute various statistics 
+
+CA670310 JB February 28, 1978  1:02 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2986 28  7.517143837030932 BM25
+
+
+Operations on Sparse Relations
+COMPUTATIONAL COMPLEXITY , sparse relation , Booleanmatrix , directed graph , Wirth-Weber precedence relation , linear precedence function , SLRgrammar , T-canonical precedence relation The heart of the ALGORITHMS is a generaltheorem giving sufficient conditions under which an expression whose operands are sparse relations andwhose operators are composition , transitive closure , union , AND inverse , can be computed efficiently 
+
+CA770306 JB December 29, 1977  8:05 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2938 29  7.472604158252699 BM25
+
+
+Toward a Discipline of Real-Time Programming
+Programming is divided into three major categorieswith increasing COMPLEXITY of reasoning in program validation : sequential programming , multiprogramming , AND real-time programming By adhering to a strict programming discipline AND by using a suitablehigh-level language molded after this discipline , the COMPLEXITY of reasoning about concurrency AND executiontime constrain ts may be drastically reduced 
+
+CA770805 JB December 28, 19777:39 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2679 30  7.454743039755602 BM25
+
+
+Some Performance Tests of "quicksort" and Descendants
+sorting , in-place sorting , sorting EFFICIENCY , sorting performance tests , quicksort , quickersort , qsort , Shellsort , stringsort , TREESORT3 , utility sortalgorithm , general-purpose sort algorithm , sorting algorithm documentation Detailed performance evaluations are presentedfor six ACM ALGORITHMS : quicksort ( No ALGORITHMS 271 AND 402 are refinements of algorithm64 , AND all three are discussed in some detail Of all these ALGORITHMS , quickersort requiresthe fewest comparisons to sort random arrays 
+
+CA740304 JB January 18, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2216 31  7.428837267112581 BM25
+
+
+On the Probability Distribution of the Values of Binary Trees
+The solution to the integral equation indicates thatusing more advanced ALGORITHMS in the family makes only minor REDUCTIONS in the expected sorting effort , but substantially reduces the variance in sorting effort The analysis does not assumeuniformly distributed branching ratios , AND therefore is applicable to a family of sorting algorithmsdiscussed by Hoare , Singleton , AND van Emden 
+
+CA710205 JB February 8, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2251 32  7.304334861496259 BM25
+
+
+Weighted Increment Linear Search for Scatter Tables
+Comparisons with known methods are given , in terms of EFFICIENCY AND computation COMPLEXITY 
+
+CA721204 JB January 27, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2766 33  7.267178525319752 BM25
+
+
+Copying Cyclic List Structures in Linear Time Using Bounded Workspace
+list processing , copying , linear time , space COMPLEXITY The best previous bounded workspace copying ALGORITHMS achieved n^2 time without tag bits AND n log n time withone tag 
+
+CA750501 JB January 9, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-0371 34  7.204709193711988 BM25
+
+
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+Remarks on ALGORITHMS 2 AND 3 , Algorithm 15 AND ALGORITHMS 25 AND 26 
+
+CA610311 JB March 17, 1978  12:35 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3166 35  7.154525324070432 BM25
+
+
+Computing Standard Deviations: Accuracy
+Two of the ALGORITHMS are well-known in the statisticaland COMPUTATIONAL literature ; the other two are new algorithmsspecifically intended for automatic computation Four ALGORITHMS for the numerical computationof the standard deviation of ( unweighted ) sampled dataare analyzed `` Each of the four ALGORITHMS is analyzed for the conditionsunder which it will be accurate We conclude that all fouralgorithms will provide accurate answers for many problems , but twoof the ALGORITHMS , one new , one old , are substantially more accurateon difficult problems than are the other two 
+
+CA790907 DB January 16, 1980  4:23 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2855 36  7.118643300359807 BM25
+
+
+An Efficient List-Moving Algorithm Using Constant Workspace
+list moving , list copying , LISP , space COMPLEXITY , constant workspace Thealgorithm is superior in execution speed to previous ALGORITHMS for the same problem 
+
+CA760607 JB January 4, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3070 37  6.969737583516176 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+The accuracy AND EFFICIENCY of thehybrid technique are demonstrated by comparing the result AND COMPUTATIONAL costs of the hybrid model ofthe example with those of an equivalent simulation-only model 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2289 38  6.942626495564573 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+The chief COMPUTATIONAL advantage offered by cellular arrays is the improvement in speedachieved by virtue of the possibilities for parallel processing A major challengein the effective use of cellular arrays for the solution of graph problems is the determination of algorithmsthat exploit the possibilities for parallelism , especially for problems whose solutions appear to be inherentlyserial In particular , several parallelized ALGORITHMS are presented for the solution of certainspanning tree , distance , AND path problems , with direct applications to wire routing , PERT chart analysis , AND the analysis of many types of networks These ALGORITHMS exhibit a computation time that inmany cases grows at a rate not exceeding log2 n , where n is the number of nodes in the graph Straightforwardcellular implementations of the well-known serial ALGORITHMS for these problems require about nsteps , AND noncellular implementations require from n^2 to n^3 steps graph theory , cellular logic-in-memory arrays , parallel processing , special purpose computers , ALGORITHMS for distance AND spanning tree problems 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3150 39  6.873885798588358 BM25
+
+
+Beyond Programming Languages
+Current programming language concepts will not be adequate for building AND maintainingsystems of the COMPLEXITY called for by the tasks we attempt In order to develop such systems , we needto shift our attention away from the detailed specification ofalgorithms , towards the description of the properties of the packagesand objects with which we build 
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2706 40  6.825778679462394 BM25
+
+
+A Note on the Set Basis Problem Relatedto the Compaction of Character Sets
+compaction of character sets , set basis , set covering , COMPUTATIONAL COMPLEXITY , polynomial completeness , clique cover 
+
+CA751106 JB January 6, 1978  8:55 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2457 41  6.78340179467787 BM25
+
+
+Inductive Methodsfor Proving Properties of Programs
+Discussed in detail are twopowerful inductive methods COMPUTATIONAL induction AND structural induction , including examples of their applications recursive programs , least fixed point , computationalinduction , structural induction 
+
+CA730817 JB January 23, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2365 42  6.607953544792372 BM25
+
+
+Matrix Computations with Fortran and Paging
+The EFFICIENCY of conventional Fortran programsfor matrix computations can often be improved by reversing the order of nested loops matrix ALGORITHMS , linear equations , Fortran , paged memory , virtual memory , array processing 
+
+CA720408 JB January 31, 1978  12:54 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2882 43  6.549679932829432 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+In particular , the impact of query COMPLEXITY is analyzed database architecture , database performance andevaluation , invented list , threaded list , cellular list , information retrieval , database organizations , query COMPLEXITY , stochastic model , Monte Carlo simulation 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3162 44  6.486521700331068 BM25
+
+
+On Improving the Worst Case Running Timeof the Boyer-Moore String Matching Algorithm
+COMPUTATIONAL COMPLEXITY , linear time , worst case , string matching , periodicity 
+
+CA790903 DB January 14, 1980  10:27 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3006 45  6.405680940711944 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+Anomalies with Variable Partition Paging ALGORITHMS One type of anomaly , for example , concernsthe fact that , with certain reference strings AND paging ALGORITHMS , an increase in mean memory allocationmay result in an increase in fault rate Two paging ALGORITHMS , are examined in terms of theiranomaly potential , AND reference string examples of various anomalies are presented anomaly , memory management , program behavior , stackalgorithms , virtual memory , working set , page fault frequency , paging ALGORITHMS 
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2499 46  6.388903808686125 BM25
+
+
+Efficient Multiprogramming Resource Allocation and Accounting
+Severalapplications of this principle are given , AND it is suggested that a multiprogramming executive mightdynamically adjust its allocation ALGORITHMS to gain EFFICIENCY monitor , executive , multiprogramming , EFFICIENCY , resource allocation , resource accounting Since weightings may depend on allocationalgorithms , these are not arbitrary accounting parameters 
+
+CA730601 JB January 23, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2746 47  6.3825177499242525 BM25
+
+
+Efficient String Matching: An Aid to Bibliographic Search
+keywords AND phrases , string pattern matching , bibliographicsearch , information retrieval , text-editing , finite state machines , COMPUTATIONAL COMPLEXITY 
+
+CA750607 JB January 9, 1978  1:03 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2968 48  6.358515044797906 BM25
+
+
+A Comparison of Tree-Balancing Algorithms
+A Comparison of Tree-Balancing ALGORITHMS Several algorithms-height-balance ( i binary search trees , AVL trees , weight-balanced trees , path length , analysis of ALGORITHMS , information storage AND retrieval 
+
+CA770504 JB December 29, 1977  2:16 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1957 49  6.342244365873927 BM25
+
+
+The List Set Generator: A Construct for Evaluating Set Expressions
+Theefficiency derives from evaluating the expression as a whole andin parallel , rather than evaluating subexpressions andthen using those sets to arrive at the final result The list set generator is defined AND algorithmsfor its use are given 
+
+CA701206 JB February 9, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2283 50  6.299370436655261 BM25
+
+
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+Thinning ALGORITHMS on Rectangular , Hexagonal , AND Triangular Arrays In this report three thinning ALGORITHMS aredeveloped : one each for use with rectangular , hexagonal , AND triangular arrays Pictorial results produced by each of the ALGORITHMS are presentedand the relative performances of the ALGORITHMS are compared thinning ALGORITHMS , rectangular , hexagonal , triangular arrays , image processing , skeleton 
+
+CA720907 JB January 27, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3045 51  6.266583850234201 BM25
+
+
+A Simple Recovery-Only Procedure For SImple Precedence Parsers
+The result is a good `` first approximation '' to syntax error handlingwith negligible increase in parsing time , space , AND COMPLEXITY of both the parser AND its table generator 
+
+CA781106 DH January 26, 1979  10:52 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2645 52  6.2585995889235875 BM25
+
+
+Two Languages for Estimating Program Efficiency
+Two Languages for Estimating Program EFFICIENCY Two languages enabling their users to estimatethe EFFICIENCY of computer programs are presented The program whose EFFICIENCY one wishes to estimate is writtenin the first language , a go-to-less programming language which includes most of the features of Algol60 The second language consists of interactive commands enabling its users to provide additional informationabout the program written in the first language AND to output results estimating its EFFICIENCY programming languages , syntax-directed translation , symbolic manipulation , program EFFICIENCY , analysis of ALGORITHMS The limitations ofthe present system , its relation to Knuth 's work on the analysis of ALGORITHMS , AND some of the directionsfor further research are also discussed 
+
+CA740601 JB January 17, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2092 53  6.238244553609212 BM25
+
+
+A Deductive Question-Answer for Natural Language Inference
+question answering , natural language , Protosynthex III , LISP , semantics , artificial intelligence , computationallinguistics , language processing , fact retrieval It is concluded that the development of ProtosynthexIII into a practically useful system to work with large databases is possible but will require changes in both the datastructures AND the ALGORITHMS used for question answering 
+
+CA700306 JB February 13, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2272 54  6.232469168558046 BM25
+
+
+Sorting by Natural Selection
+A family of sorting ALGORITHMS is proposed , the members of which make fuller use of the memory space AND thus yield longer sorted strings ALGORITHMS , sorting by replacement selection , expected string length 
+
+CA721006 JB January 27, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3140 55  6.22174565937936 BM25
+
+
+Social Processes and Proofs of Theorems and Programs
+Furthermore the absenceof continuity , the inevitability of change , AND the COMPLEXITY ofspecification of significantly many real programs make the formal verification process difficult to justify AND manage 
+
+CA790501 DH June 5, 1979  2:23 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2226 56  6.189337706828426 BM25
+
+
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem
+The purpose of this note is to report computationalexperience additional to that recently summarized by Gue et al , with two ALGORITHMS for thezero-one linear programming problem Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem The utility of one ofthe ALGORITHMS as a suboptimizer is indicated operations research , integer programming , zero-one variables , ALGORITHMS 
+
+CA710108 JB February 8, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2490 57  6.172971536664537 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+Efficient ALGORITHMS for Graph Manipulation [ H ] ( Algorithm A447 ) Efficient ALGORITHMS are presented for partitioninga graph into connected components , biconnected components AND simple paths graphs , analysis of ALGORITHMS , graph manipulation 
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2033 58  6.166896952874223 BM25
+
+
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+hash coding , hash addressing , scatter storage , searching , storagelayout , retrieval trade-offs , retrieval EFFICIENCY , storage EFFICIENCY In this paper trade-offs among certain COMPUTATIONAL factorsa given set of messages The COMPUTATIONAL factors considered are the size of the hash area ( space ) , the time required to identify a message as a nonmember of the given set ( reject time ) , AND an allowable error frequency 
+
+CA700704 JB February 13, 1978  9:18 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1392 59  6.158489455065597 BM25
+
+
+Experience with FORMAC Algorithm Design
+Various facets of the design AND implementationof mathematical expression manipulation ALGORITHMS are discussed Concrete examples are provided by theFORMAC EXPAND AND differentiation ALGORITHMS , a basic FORMAC utility routine , AND an experiment in theextraction of the skeletal structure of an expression Although many details fromthe FORMAC implementation are presented , an attempt is made to stress principles AND ideas of general relevancein the design of ALGORITHMS for manipulating mathematical expressions 
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1719 60  6.1497129011917115 BM25
+
+
+A Methodology for Calculating andOptimizing Real-Time System Performance
+The continually increasing size , COMPLEXITY , number of types , AND cost of data processing systems are causing serious re-examination within governmentand industry of the criteria for AND methods of calculating AND optimizing data processing system costand performance 
+
+CA680710 JB February 22, 1978  11:40 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2771 61  6.145357700563537 BM25
+
+
+The Synthesis of Solids Bounded by Many Faces
+COMPUTATIONAL geometry , computer-aided design , graphics , machined components , polyhedra , shape synthesis , three-dimensional modeling Two ALGORITHMS to perform addition are described 
+
+CA750406 JB January 9, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-0409 62  6.121681298659174 BM25
+
+
+CL-1, An Environment for a Compiler
+The system isbased on a master file concept AND has provisions for accepting , storing , AND retrieving both descriptionsand instances of large AND complex data sets , as well as ALGORITHMS defined on these data sets Bothdata AND ALGORITHMS may be expressed in a family of command AND descriptive languages 
+
+CA610105 JB March 17, 1978  1:26 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2627 63  6.04135007368626 BM25
+
+
+Scheduling Independent Tasks to Reduce Mean Finishing Time
+In this paper a deterministic model of independenttasks is introduced AND new results are derived which extend AND generalize the ALGORITHMS known forminimizing mean finishing time In addition to presenting AND analyzing new ALGORITHMS it is shownthat the most general mean-finishing-time problem for independent tasks is polynomial complete , AND hence unlikelyto admit of a non-enumerative solution minimizing mean finishing time , minimizing mean flowtime , sequencing ALGORITHMS , optimal scheduling ALGORITHMS , deterministic scheduling models 
+
+CA740704 JB January 17, 1978  12:56 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2504 64  6.0391858193070105 BM25
+
+
+Concerning Music and Computer Composition in Computational Linguistics
+Concerning Music AND Computer Composition in COMPUTATIONAL Linguistics 
+
+CA730516 JB January 23, 1978  4:27 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2874 65  6.013998530115605 BM25
+
+
+A Comparative Evaluation of Versions of BASIC
+The comparison is arranged by the features of the versions AND by COMPUTATIONAL comparisonof computation AND times AND processing costs 
+
+CA760402 JB January 4, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2389 66  6.00846570058467 BM25
+
+
+Preliminary Report on a System for General Space Planning
+The algorithmsused to solve problems expressed in this language rely on heuristic programming Both the languageand the search ALGORITHMS are detailed 
+
+CA720202 JB January 31, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2146 67  5.936820211240894 BM25
+
+
+Optimizing the Polyphase Sort
+Various dispersion ALGORITHMS for the polyphasesorting procedure are examinedhe optimum algorithm based on minimizing the total number of unitstrings read is displayed The logic of this algorithm is rather complicated ; hence , several othernew dispersion ALGORITHMS with more straightforward logic are presented Of the simple dispersion algorithmsdiscussed , the Horizontal is best It does approximately one-fourth to one AND one-half percentless reading AND writing than most ALGORITHMS in use today sorting , polyphase sorting , dispersion ALGORITHMS , optimum dispersion algorithm , repetition operator 
+
+CA711103 JB February 2, 1978  11:39 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2819 68  5.889438169537728 BM25
+
+
+Experiments in Text File Compression
+Two ALGORITHMS for encoding a string differ slightly from earlier proposals Four new ALGORITHMS for thisoperation are described AND compared Various parameters in the ALGORITHMS are optimized to obtaina high degree of compression for sample texts text compression , data file compaction , Huffmancodes , N-gram encoding , comparison of ALGORITHMS 
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2884 69  5.86633190635061 BM25
+
+
+Permutation Enumeration: Four New Permutation Algorithms
+Permutation Enumeration : Four New Permutation ALGORITHMS Classical permutation enumeration ALGORITHMS encounterspecial cases requiring additional computation every nth permutation when generating the n ! permutationson n marks Four new ALGORITHMS have the attribute that special cases occur every n ( n-1 ) permutations Two of the ALGORITHMS produce the next permutation with a single exchange of two marks The other two algorithmsinfrequently exchange more than two marks , but the rules for generating the next permutation arevery simple Performance tests which have counted execution of assignment statements , comparisons , arithmeticoperations , AND subscripted array references have shown superiority of the new ALGORITHMS compared toBoothroyd 's implementation of M permutations , loop-free ALGORITHMS 
+
+CA760203 JB January 5, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2628 70  5.8646052706180445 BM25
+
+
+Minimal-Total-Processing Time Drum and Disk Scheduling Disciplines
+The COMPUTATIONAL requirementsof an algorithm that implements the MTPT scheduling discipline are shown to be comparable to SLTF ALGORITHMS 
+
+CA740703 JB January 17, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2703 71  5.82284572516566 BM25
+
+
+The Intrinsically Exponential Complexity ofthe Circularity Problem for Attribute Grammars
+The Intrinsically Exponential COMPLEXITY ofthe Circularity Problem for Attribute Grammars attribute grammars , circularity problem , context-freegrammars , COMPUTATIONAL COMPLEXITY , exponential time , semantics It is proved that this problemis , in general , computationally intractable 
+
+CA751204 JB January 5, 1978 4:38 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2035 72  5.807131783826424 BM25
+
+
+Conversational Access to a 2048-Word Machine
+conversational computer access , display editing , display oriented system , filing ALGORITHMS , LAP6 , layering , LINC , man-machine communication , on-line editing , on-line EFFICIENCY , on-line environment , scroll editing , small machine system , tape filing , tape oriented system , text editing Priority was given to the design of efficienttape ALGORITHMS to minimize the limitations of the small memory 
+
+CA700702 JB February 13, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1886 73  5.803204531801157 BM25
+
+
+Generation of Optimal Code for Expressions via Factorization
+Given a set of expressions which are to becompiled , methods are presented for increasing the EFFICIENCY of the object code produced by first factoringthe expressions , i In order to make these techniques computationally feasible , heuristic procedures areapplied , AND hence global optimal results are not necessarily generated The factorization algorithmsare also applicable to the problem of factoring Boolean switching expressions AND of factoring polynomialsencountered in symbol manipulating systems factorization ALGORITHMS , code optimization , sequencingof operations , detection of common subexpressions , factorization of Boolean expressions 
+
+CA690607JB February 17, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2863 74  5.7984248096877025 BM25
+
+
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+A criterion for comparing variable space pagereplacement ALGORITHMS is presented The results of simulating VMIN , Denning 's working set , AND the page partitioning replacement ALGORITHMS on five virtual memory programs are presented to demonstratethe improvement possible over the known realizable variable space ALGORITHMS demand paging , performance measurement , multilevelmemory systems , virtual memory , working set , page replacement ALGORITHMS , optimal page replacement 
+
+CA760508 JB January 4, 1978  3:06 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2765 75  5.775138744087952 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+Formulations are derivedto estimate average access time ( read only ) AND storage requirements , formalizing the interaction of database content characteristics , logical COMPLEXITY of queries , AND machine timing AND blocking specificationsidentified as having a first-order effect on performance 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1462 76  5.772324741857119 BM25
+
+
+Multilevel Operating Systems
+Proper division of responsibility between levels leads to greater EFFICIENCY andless logical COMPLEXITY , while actually enhancing capability 
+
+CA660310 JB March 3, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2236 77  5.762826997338253 BM25
+
+
+Remarks on Characteristic Values and AssociatedSolutions of Mathieus Differential Equation, Exponential Integral, and Systems of HyperbolicP. (Algorithms R352, R385, R392)
+( ALGORITHMS R352 , R385 , R392 ) 
+
+CA721219 JB January 27, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2417 78  5.761009580798895 BM25
+
+
+Four Combinatorial Algorithms [G6] (Algorithm A466)
+Four Combinatorial ALGORITHMS [ G6 ] ( Algorithm A466 ) 
+
+CA731109 JB January 20, 1978  9:59 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1924 79  5.720947998507315 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+It is shown thatcarefully designed matrix ALGORITHMS can lead to enormous savings in the number of page faults occurringwhen only a small part of the total matrix can be in main memory at one time Examination of addition , multiplication , AND inversion ALGORITHMS shows that a partitioned matrix representation ( i The number of page-pulls required by these matrix manipulation ALGORITHMS is also studied as a functionof the number of pages of main memory available to the algorithm matrix ALGORITHMS , array processing , paging ALGORITHMS , paged memory systems , virtual memory systems , array storage allocation , storage allocation 
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1465 80  5.706122516366179 BM25
+
+
+Program Translation Viewed as a General Data Processing Problem
+EFFICIENCY dictates that the overall effectivenessof a compiler be increased by all means available A compiler mustbe based on fixed conventions to preserve EFFICIENCY AND reliability ; empty options AND default conventionsviolate this dictum 
+
+CA660307 JB March 3, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1529 81  5.699983928182979 BM25
+
+
+Decomposition Programming An Analysis of Matrix Substructure 
+A petroleum blending problem was analyzed in orderto compare the primal AND primal-dual decomposition ALGORITHMS In the course of the analysis , a substructurewas discovered which has relevance to the relative performance of the two ALGORITHMS AND to theirabsolute performance as compared with a standard primal-Simplex solution without decomposition 
+
+CA671004 JB February 27, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1404 82  5.694080664098007 BM25
+
+
+Computational Aspects of Multiple CovarianceAnalysis on a Multifactor Structure
+COMPUTATIONAL Aspects of Multiple CovarianceAnalysis on a Multifactor Structure The COMPUTATIONAL procedure for the analysisof multiple covariance in statistics is discussed with reference to the analysis of variance 
+
+CA660708 JB March 2, 1978  9:18 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2799 83  5.6734393729502575 BM25
+
+
+Stably Updating Mean and Standard Deviation of Data
+By considering the ( sample ) mean of a set ofdata as a fit to this data by a constant function , a COMPUTATIONAL method is given based on a matrix formulationand Givens transformations 
+
+CA750112 JB January 12, 1978  9:05 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1752 84  5.6372636151774955 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+A synopsis is given of the task scheduling AND paging ALGORITHMS that were implemented , AND the results of comparative simulation are given by tracing the development of the algorithmsthrough six predecessor versions 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2313 85  5.62854482817345 BM25
+
+
+The Evolution of Storage Structures
+Data base management systems have grown rapidlyin their power AND COMPLEXITY over the 15-year history of data processing on commercially availablecomputers 
+
+CA720715 JB January 30, 1978  1:16 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1491 86  5.618455536379885 BM25
+
+
+EULER: A Generalization ALGOL, and its Formal Definition: Part I*
+There exists a one-to-one correspondence between syntactic rules AND interpretation rules is determined bythe sequence of corresponding syntactic REDUCTIONS which constitute a parse 
+
+CA660104 JB March 3, 1978  4:22 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3046 87  5.616027722161979 BM25
+
+
+Computer Generation of Gamma Random Variables - II
+The COMPUTATIONAL times for the proposed method remain fairly constant for medium AND largevalues of a AND are superior to times obtained by Ahrens AND Dieter 's method for all values of a 
+
+CA781105 DH January 26, 1979  11:02 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2276 88  5.607632394321764 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+The most efficientones are compared , in terms of memory requirements AND speed , with some new ALGORITHMS For the exponential distribution a definite recommendationcan be made , whereas in the case of the normal distribution there remains a choice between slower andshorter ALGORITHMS AND faster but space consuming methods 
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2263 89  5.60556804567479 BM25
+
+
+The Conversion of Limited-Entry Decision Tablesto Optimal and Near-Optimal Flowcharts: Two New Algorithms
+The Conversion of Limited-Entry Decision Tablesto Optimal AND Near-Optimal Flowcharts : Two New ALGORITHMS Two new ALGORITHMS for deriving optimal andnear-optimal flowcharts from limited entry decision tables are presented One of the ALGORITHMS , called the optimum-finding algorithm , leads to a flowchart which truly minimizes execution time for a decision table in which simple rulesare already contracted to complex rules The ALGORITHMS are firstderived for treating decision tables not containing an ELSE-rule , but the optimum-approaching algorithmis shown to be equally valid for tables including such a rule Both ALGORITHMS are compared with existingones AND are applied to a somewhat large decision table derived from a real case 
+
+CA721106 JB January 27, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2892 90  5.590604241204913 BM25
+
+
+A Study of Line Overhead in the Arpanet
+Then the line efficiencyfor various models of system use is studied Some measurements of line EFFICIENCY for the ARPANET arepresented AND by extrapolation these measurements are used to anticipate overhead in a heavily loaded network ARPANET , computer communication networks , interprocesscommunication , measurement , packet switching , performance evaluation AND EFFICIENCY , resource sharing 
+
+CA760101 JB January 5, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2273 91  5.571077597044441 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+Two ALGORITHMS for generating computer programsfrom decision tables are described The ALGORITHMS allow handling limited entry , extended entry , AND mixedentry tables The ALGORITHMS are based on the rule mask method but need not have the masks at executiontime Execution time can be considerably reduced by instantly marking rules which are not applicable ( Algorithms1 AND 2 ) or conditions which are already tested ( Algorithm 2 ) The new ALGORITHMS combine to acertain degree the advantages of mask methods with those of tree methods 
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1035 92  5.545025394510242 BM25
+
+
+Characteristics of the FORTRAN CEP Language
+The FORTRAN CEP languages differs from FORTRANII mainly because : ( 1 ) it extends the variety of the modes for real quantities ; ( 2 ) it allows suitablemixtures , in an input/output list or in an expression , of quantities that occur under different modes ; ( 3 ) it makes it possible to address a greater number of input/output equipment ; AND ( 4 ) it removes the restrictionson the COMPLEXITY of the list of quantities to be transmitted between the magnetic core memoryand the drum or the magnetic tape units 
+
+CA640712 JB March 9, 1978  8:11 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1766 93  5.5372203898460555 BM25
+
+
+Quasilinearization and the Estimationof Differential Operators from Eigenvalues
+The results of some COMPUTATIONAL experiments are given 
+
+CA680404 JB February 23, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2834 94  5.527544076422053 BM25
+
+
+Efficient Generation of the BinaryReflected Gray Code and Its Applications
+ALGORITHMS are presented to generate the n-bitbinary reflected Gray code AND codewords of fixed weight in that code Both ALGORITHMS are efficientin that the time required to generate the next element from the current one is constant 
+
+CA760905 JB January 4, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-3069 95  5.5272103733791305 BM25
+
+
+A Practical Interprocedural Data Flow Analysis Algorithm
+The algorithm is asymptotically optimal in time COMPLEXITY 
+
+CA780903 DH February 5, 1979  3:07 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2764 96  5.496270615492073 BM25
+
+
+An Intelligent Analyzer and Understander of English
+artificial intelligence , COMPUTATIONAL linguistics , template , paraplate , stereotype , machine translation , understanding , natural language processing , semantic preference , semantic density 
+
+CA750503 JB January 9, 1978  3:00 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2127 97  5.4858160285294755 BM25
+
+
+Natural Language Question-Answering Systems: 1969
+Generalizing from current small-scale experiments to language-processing systems based on dictionaries with thousands of entries-withcorrespondingly large grammars AND semantic systems-may entaila new order of COMPLEXITY AND require the invention AND developmentof entirely different approaches to semantic analysis AND questions answering 
+
+CA700104 JB February 14, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-1551 98  5.475356232347313 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+On Compiling ALGORITHMS for Arithmetic Expressions This paper deals with ALGORITHMS concerning arithmeticexpressions used in a FORTRAN IV compiler for a HITAC-5020 computer having n accumulators Thealgorithms generate an object code which minimizes the frequency of storing AND recovering the partial resultsof the arithmetic expressions in cases where there are several accumulators 
+
+CA670804 JB February 27, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2267 99  5.474432278188403 BM25
+
+
+Algorithms To Reveal Properties of Floating-Point Arithmetic
+ALGORITHMS To Reveal Properties of Floating-Point Arithmetic Two ALGORITHMS are presented in the form ofFortran subroutines 
+
+CA721102 JB January 27, 1978  2:39 PM
+
+
+--------------------------------------------------------------
+21 Q0 CACM-2505 100  5.471049709426808 BM25
+
+
+Reflection-Free Permutations, Rosary Permutations,and Adjacent Transposition Algorithms
+Reflection-Free Permutations , Rosary Permutations , AND Adjacent Transposition ALGORITHMS 
+
+CA730515 JB January 23, 1978  4:29 PM
+
+

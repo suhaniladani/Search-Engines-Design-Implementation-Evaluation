@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+56 Q0 CACM-2327 1  15.816557191843604 BM25
+
+
+Toward an Automata Theory of Brains
+Toward an AUTOMATA THEORY OF Brains A source OF ideas for AUTOMATA theory-the studyof THE brain-has been pushed aside in mathematical development OF THE THEORY This paper suggests THE waysin which AUTOMATA THEORY might evolve over THE next 25 years if it is TO contribute TO an understandingof how THE brain processes information AUTOMATA THEORY , brain THEORY , network complexity , resolution OF redundancy OF potential command , frog visual system , reticular formation mode selection 
+
+CA720701 JB January 30, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2650 2  15.327925919503803 BM25
+
+
+Order-n Correction for Regular Languages
+error correction , REGULAR LANGUAGES , REGULAR events , finite state AUTOMATA , compiler error recovery , spelling correction , string best match problem , correction , corrector , errors , nondeterministic finite-state AUTOMATA Order-n Correction for REGULAR LANGUAGES A method is presented for calculating a stringB , belonging TO a given REGULAR language L , which is `` nearest '' ( in number OF edit operations ) TO agiven input string a 
+
+CA740503 JB January 17, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1678 3  14.419481442817855 BM25
+
+
+Automata, Formal Languages, Abstract Switching,and Computability in a Ph. Computer Science Program
+AUTOMATA , Formal LANGUAGES , Abstract Switching , AND Computability in a Ph A number OF courses are listed in THE areadescribe as AUTOMATA , formal LANGUAGES , abstract switching , AND computability , that might be availableto a Ph computerscience program , AUTOMATA , formal LANGUAGES , switching THEORY , THEORY OF computability 
+
+CA681101 JB February 21, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2112 4  13.242348867523821 BM25
+
+
+Translation Equations
+THE translator consists OF Mealy form finite-state AUTOMATA interactingby means OF a pushdown stack AUTOMATA , Turing machines , REGULAR expression , transductionexpression , context-free LANGUAGES , translation , recognizers , parsing , meta-compilers , pushdown transducer , syntaxdirected compilers , finite state AUTOMATA Input limited transduction expressions , or translation equations , are used TO describe THE syntax AND left-context sensitive semantics for context-free LANGUAGES 
+
+CA700203 JB February 14, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2921 5  10.594799797581409 BM25
+
+
+Regular Right Part Grammars and Their Parsers
+finite state machines ( AUTOMATA ) , REGULAR expressions , syntax diagrams , LR ( k ) grammars , parser construction , parsing , programming LANGUAGES , language generation , formal definition , compilers , translators , scanners REGULAR Right Part Grammars AND Their Parsers This paper in troduces an alternative TO context-freegrammars called REGULAR right part ( RRP ) grammars , which resemble PASCAL syntax diagrams Formally , RRP grammars have production right parts , which are nondeterministic finite state machines ( FSMs ) , AND , as a special case , REGULAR expressions , since these can be converted TO FSMs RRP grammarsdescribe THE syntax OF programming LANGUAGES more concisely AND more understandably than is possible withCF grammars 
+
+CA771005 JB December 27, 1977  11:01 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2323 6  9.26800093153491 BM25
+
+
+Toward a General Theory of Special Functions
+A list OF a number OF natural developmentsfor THE field OF ALGEBRAIC manipulation is given Such a THEORY is preferable TO a less general effort TO make algebraicmanipulation systems knowledgeable about THE usual special functions ( e ALGEBRAIC manipulation , special functions , algebraicsimplification , symbolic integration , ALGEBRAIC geometry , differential algebra Toward a General THEORY OF Special Functions Then THE prospects for a general THEORY OF functionsdefined by ordinary differential equations are discussed 
+
+CA720705 JB January 30, 1978  3:07 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1896 7  9.049132318100806 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 S22])
+REGULAR Coulomb Wave Functions ( Algorithm 292 S22 ] ) Coulomb wave functions , wave functions , REGULAR Coulomb wave functions 
+
+CA690513 JB February 17, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1898 8  9.008731578843376 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 [S22])
+REGULAR Coulomb Wave Functions ( Algorithm 292 [ S22 ] ) Coulomb wave functions , wave functions , REGULAR Coulomb wave functions 
+
+CA690511 JB February 17, 1978  3:19 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1993 9  8.889665230456654 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 $S22))
+REGULAR Coulomb Wave Functions ( Algorithm 292 $ S22 ) ) Coulomb wave functions , wave functions , REGULAR Coulomb wave functions 
+
+CA700912 JB February 10, 1978  10:03 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2931 10  8.448551307711567 BM25
+
+
+Logic and Programming Languages
+So far THE theories OF AUTOMATA AND OF nets , thoughmost in teresting for dynamics , have formalized only a portion OF THE field , AND there has been perhaps toomuch concentration on THE finite-state AND ALGEBRAIC aspects logic , programming LANGUAGES , AUTOMATA , denotationalsemantics , a-calculus models , computability , partial functions , approximation , function spaces More recently , precise comparisons in THE efficiency OF decision methods have become availablethrough THE developments in complexity THEORY These , however , are applications TO logic , AND a big questionis whether methods OF logic have significance in THE other direction for THE more applied parts ofcomputability THEORY Programming LANGUAGES offer an obvious opportunity as their syntactic formalizationis well advanced ; however , THE semantical THEORY can hardly be said TO be complete Nevertheless much remains TO be done in showing how abstract conceptualizationscan ( or can not ) be actualized before we can say we have a unified THEORY Logic AND Programming LANGUAGES 
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1355 11  7.877282350310099 BM25
+
+
+Regular Coulomb Wave Functions (Algorithm 292 )
+REGULAR Coulomb Wave Functions ( Algorithm 292 ) 
+
+CA661103a JB March 2, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2449 12  7.673263914248594 BM25
+
+
+A Simple Technique for Structured Variable Lookup
+A simple technique for THE symbol-table lookupof structured variables based on simple AUTOMATA THEORY is presented 
+
+CA730906 JB January 23, 1978  9:17 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1453 13  7.484180248755888 BM25
+
+
+A Nonrecursive Method of Syntax Specification
+THE use OF THE Kleene REGULAR expression notationfor describing ALGEBRAIC language syntax , in particular OF ALGOL , is described in this paper A FORTRAN II computer program for carrying out THE elimination algorithm OF Gorn , similar TO Gaussian eliminationfor linear systems OF ALGEBRAIC equations , is described This was applied TO numerous smallerlanguages , including some sublanguage OF ALGOL 
+
+CA660402 JB March 3, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2061 14  7.091143254724219 BM25
+
+
+An Algorithm for the Construction Of Bounded-Context Parsers
+Next , pushdown AUTOMATA which generate THE different reduction classesof a context-free grammar are defined Finally , THE algorithm is described ; it essentially carries out an exhaustive STUDY OF all possibleruns OF THE pushdown AUTOMATA generating THE reduction classes bounded-context parsing , bounded-context syntactic analysis , parser construction , syntactical analyzer construction , generators , compiler compilers , compiler writing systems , translator writing systems metacompilers , context-free grammars , formal LANGUAGES , pushdown AUTOMATA 
+
+CA700505 JB February 13, 1978  1:58 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1991 15  6.9582250739213425 BM25
+
+
+On the Number of Automorphisms of a Singly Generated Automaton
+AUTOMATA , finite AUTOMATA , singly generated AUTOMATA , automorphisms , generators , length OF state , minimal-length generators , orbit 
+
+CA700914 JB February 10, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1665 16  6.634548299740165 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+THE practical application OF THE THEORY offinite-state AUTOMATA TO automatically generate lexical processors is dealt with in this tutorial articleby THE use OF THE AED RWORD system , developed at M character string , compiler , finite-state AUTOMATA , finite-statemachine , lexical processor , nondeterministic machine , parsing , plex structure , REGULAR expressions , sequentialmachine , syntactic analysis This systemaccepts as input description OF THE multicharacter items or OF words allowable in a language given in termsof a subset OF REGULAR expressions THE output OF THE system is a lexical processor which reads a stringof characters AND combines them into THE items as defined by THE REGULAR expressions 
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1739 17  6.6316676189653645 BM25
+
+
+Regular Expression Search Algorithm
+REGULAR Expression Search Algorithm THE compiler accepts a REGULAR expression as source language AND produces an IBM 7094program as object language THE object program then accepts THE text TO be searched as input AND producesa signal every time an embedded string in THE text matches THE given REGULAR expression search , match , REGULAR expression 
+
+CA680606 JB February 22, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2645 18  6.189406163570984 BM25
+
+
+Two Languages for Estimating Program Efficiency
+THE limitations ofthe present system , its RELATION TO Knuth 's work on THE analysis OF algorithms , AND some OF THE directionsfor further research are also discussed THE second processor is a set ofprocedures for ALGEBRAIC manipulation which can be called by THE user TO operate on THE formula producedby THE first processor Two LANGUAGES for Estimating Program Efficiency Two LANGUAGES enabling their users TO estimatethe efficiency OF computer programs are presented Processors for THE two LANGUAGES are also described Examples OF THE usage OF THE two LANGUAGES are included programming LANGUAGES , syntax-directed translation , symbolic manipulation , program efficiency , analysis OF algorithms 
+
+CA740601 JB January 17, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-3189 19  6.171280209115851 BM25
+
+
+   An Algebraic Compiler for the FORTRAN Assembly Program
+An ALGEBRAIC Compiler for THE FORTRAN Assembly Program An ALGEBRAIC compiler has been written which may be added TO THE FORTRAN Assembly Program This compiler will expand all ALGEBRAIC statements with THE following operations : addition , subtraction , multiplication AND division 
+
+CA621124 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0055 20  6.0437173680411584 BM25
+
+
+An Algebraic Translator
+An ALGEBRAIC Translator 
+
+CA591004 JB March 22, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1397 21  5.84525502841624 BM25
+
+
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation
+Proceedings OF THE ACM Symposium on Symbolic AND ALGEBRAIC Manipulation THE ACM Symposium on Symbolic AND AlgebraicManipulation brought together over four hundred people interested in programming LANGUAGES designedfor manipulation OF ALGEBRAIC formulas AND symbol strings , in their applications , AND in algorithms fortheir implementation THE conference was sponsoredby THE ACM Special Interest Committee on Symbolic AND ALGEBRAIC Manipulation 
+
+CA660801 JB March 2, 1978  8:17 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0001 22  5.811406259728831 BM25
+
+
+Preliminary Report-International Algebraic Language
+Preliminary Report-International ALGEBRAIC Language 
+
+CA581203 JB March 22, 1978  8:28 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0044 23  5.811406259728831 BM25
+
+
+RUNCIBLE-Algebraic Translation on a Limited Computer
+RUNCIBLE-Algebraic Translation on a Limited Computer 
+
+CA591104 JB March 22, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2346 24  5.7672710311401145 BM25
+
+
+Hu-Tucker Minimum Redundancy AlphabeticCoding Method [Z] (Algorithm A428)
+information THEORY , coding THEORY , Hu-Tuckermethod , minimum redundancy coding 
+
+CA720514 JB January 31, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1253 25  5.7450574533164795 BM25
+
+
+QUIKSCRIPT-A SIMSCRIPT- Like Language for the G-20
+QUIKSCRIPT is a simulation language based onSIMSCRIPT AND programmed entirely in an ALGEBRAIC language , 20-GATE A brief description ofSIMSCRIPT is included , as is a sufficient description OF 20-GATE TO render this material understandableto THE reader familiar with ALGEBRAIC LANGUAGES 
+
+CA650602 JB March 7, 1978  12:45 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2974 26  5.676123600710029 BM25
+
+
+Comment on Weighted Increment Linear Search for Scatter Tables
+hash address , primary clustering , index , sequence , complementary RELATION , search 
+
+CA770408 JB December 29, 1977  5:02 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2090 27  5.566617435473908 BM25
+
+
+Symbolic Expansion of Algebraic Expressions (Algorithm 377 $R2))
+Symbolic Expansion OF ALGEBRAIC Expressions ( Algorithm 377 $ R2 ) ) algebra , symbolic algebra , symbolicmultiplication , ALGEBRAIC distribution , ALGEBRAIC multiplication , distribution algorithm , multiplication algorithm , product algorithm , polynomial distribution , polynomial expansion 
+
+CA700308 JB February 13, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0393 28  5.555167832146906 BM25
+
+
+Two Subroutines for Symbol Manipulation with an Algebraic Compiler
+Two Subroutines for Symbol Manipulation with an ALGEBRAIC Compiler 
+
+CA610205 JB March 17, 1978  12:59 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1048 29  5.538854875431719 BM25
+
+
+Approximate Solution of Axially Symmetric Problems
+A variety OF physical problems in such diversefields as electrostatic field THEORY , heat AND ideal fluid flow , AND stress concentration theoryreduce , under THE assumption OF axial symmetry , TO THE STUDY OF an elliptic partial differential equation 
+
+CA640619 JB March 9, 1978  8:55 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0099 30  5.5154349817826755 BM25
+
+
+Possible Modifications to the International Algebraic Language
+Possible Modifications TO THE International ALGEBRAIC Language 
+
+CA590202 JB March 22, 1978  8:22 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0093 31  5.508341679977931 BM25
+
+
+From Formulas to Computer Oriented Language
+A technique is shown for enabling a computerto translate simple ALGEBRAIC formulas into a three address computer code 
+
+CA590303 JB March 22, 1978  8:03 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0054 32  5.435339448835043 BM25
+
+
+SALE, a Simple Algebraic Language for Engineers
+SALE , a Simple ALGEBRAIC Language for Engineers 
+
+CA591005 JB March 22, 1978  4:14 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2166 33  5.312641256514016 BM25
+
+
+Automated Algebraic Manipulation in Celestial Mechanics
+Automated ALGEBRAIC Manipulation in Celestial Mechanics In this paper we consider some OF THE applicationsof automated ALGEBRAIC manipulation which have been made in celestial mechanics Particular attentionis paid TO THE use OF Poisson series , AND a typical problem in perturbation THEORY is described 
+
+CA710806 JB February 2, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1803 34  5.246714683215855 BM25
+
+
+Complex Root Finding (Algorithm 365 [C5])
+downhill method , complex relaxation method , complexiteration , complex equation , transcendental complex equation , ALGEBRAIC complex equation 
+
+CA691209 JB February 15, 1978  2:25 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2932 35  5.179173456238393 BM25
+
+
+Complexity of Computations
+THE framework for research in THE THEORY OF complexityof computations is described , emphasizing THE in terrelation between seemingly diverse problemsand methods complexity OF computations , ALGEBRAIC complexity , in tractable problems , probabilistic algorithms 
+
+CA770901 JB December 28, 1977  6:54 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2470 36  5.156339994344313 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+A formal system is presented which abstractsthe notions OF data item , function , AND RELATION It is argued that THE system is more suitable than settheory ( or its derivatives ) for THE concise AND accurate description OF program semantics THE THEORY is applied TO THE proof OF several elementary theorems concerning THE semanticsof THE assignment , conditional , AND iterative statements It is also demonstrated that completely new primitive types can be introducedinto LANGUAGES through THE mechanism OF singleton data types semantics , formal systems , lambda-calculus , extensiblelanguages , data types , modes , axioms , correctness , formal language definition , formal description , data structures , description LANGUAGES , models OF computation 
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1967 37  5.063412339161718 BM25
+
+
+An Improved Algorithm to Produce Complex Primes (Algorithm 401 $A1))
+number THEORY , prime numbers , complex numbers 
+
+CA701112 JB February 9, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1334 38  5.027603021147151 BM25
+
+
+Mechanization of Tedious Algebra: TheNewcomb Operators of Planetary Theory
+THE program is coded inFORTRAN , using simple array manipulation techniques TO perform THE ALGEBRAIC operations Mechanization OF Tedious Algebra : TheNewcomb Operators OF Planetary THEORY A computer program has been written TO generatetables OF formulas for THE Newcomb operators OF planetary THEORY 
+
+CA650103 JB March 8, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2134 39  4.935281433644112 BM25
+
+
+An Extension of the Munkres Algorithm forthe Assignment Problem to Rectangular Matrices
+Timing resultsobtained by using an adapted version OF Silver 's Algol procedure are discussed , AND a RELATION betweensolution time AND problem size is given operations research , optimization THEORY , assignmentproblem , rectangular matrices , algorithm 
+
+CA711209 JB February 2, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0249 40  4.923085993893429 BM25
+
+
+Specification Languages for Mechanical Languagesand Their Processors*-A Baker's Dozen
+Specification LANGUAGES for Mechanical Languagesand Their Processors*-A Baker 's Dozen 
+
+CA611201 JB March 15, 1978  10:32 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2121 41  4.866989633802053 BM25
+
+
+Partitions in Natural Order (Algorithm 371 $A1))
+partitions , number THEORY 
+
+CA700110 JB February 14, 1978  1:48 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1840 42  4.761245354026246 BM25
+
+
+An Efficient Prime Number Generator (Algorithm 357 [A1])
+prime numbers , factoring , number THEORY 
+
+CA691006 JB February 15, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2842 43  4.756569436545618 BM25
+
+
+The Denotational Semantics of Programming Languages
+This paper is a tutorial introduction TO thetheory OF programming language semantics developed by D THE application OF THE theoryto formal language specification is demonstrated AND other applications are surveyed Then THE semantic conceptsof environments , stores , AND continuations are introducedto model classes OF programming language features AND THE underlying mathematical THEORY OF computationdue TO Scott is motivated AND outlined semantics , programming language , applicative , imperative , environment , store , continuation , THEORY OF computation , higher-order function , recursive definition , LOOP , GEDANKEN THE Denotational Semantics OF Programming LANGUAGES 
+
+CA760802 JB January 4, 1978  10:33 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2416 44  4.7270110248056545 BM25
+
+
+Matrix Transposition in Place [F1] (Algorithm A467)
+transposition , matrix operations , permutations , primitive roots , number THEORY 
+
+CA731110JB January 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2476 45  4.664314405307845 BM25
+
+
+Equivalence Between AND/OR Graphs and Context-Free Grammars
+artificial intelligence , AND/OR graphs , language THEORY , context-free grammars 
+
+CA730710 JB January 23, 1978  11:21 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1258 46  4.65406136022053 BM25
+
+
+An Extended Arithmetic Package
+In many fields , for example ALGEBRAIC numbertheory , arithmetic must be carried out TO a degree OF precision which exceeds THE normal hardware capacityof most machines 
+
+CA650513 JB March 7, 1978  1:01 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1154 47  4.538993327240711 BM25
+
+
+Multi-Tape and Infinite-State Automata -- A Survey
+Multi-Tape AND Infinite-State AUTOMATA -- A Survey A survey OF machines which are more powerfulthan finite AUTOMATA AND less powerful than general Turing machines is presented It is felt that THE machinesin this category are as closely related TO digital computers as either THE finite AUTOMATA or theunrestricted Turing machines 
+
+CA651215 JB March 6, 1978  3:24 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1911 48  4.402948596408185 BM25
+
+
+On Coordination Reduction and Sentence Analysis
+A class OF coordination phenomena in naturallanguages is considered within THE frame work OF transformational THEORY natural LANGUAGES , generative grammar , transformationaltheory , syntax , coordination , sentence coordination , sentence coordination , coordination reduction , syntactic analysis , grammar testing program , rule testing 
+
+CA690406 JB February 17, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2051 49  4.400639585644789 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+A practical PL/I program is described whichcan assist comparative linguists TO determinethe REGULAR sound correspondences between genetically related LANGUAGES comparative linguistics , naturallanguage processing , comparative method , historical linguistics , diachroniclinguistics , genetic relationship , sound change , soundcorrespondence , REGULAR correspondence , list processing 
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1923 50  4.3628105962918395 BM25
+
+
+Pseudofiles
+An approach TO system interfaces for highlevel LANGUAGES using basic input/output support facilities is described operating systems , interfaces input-output , high level LANGUAGES , command language 
+
+CA690304 JB February 20, 1978  9:12 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2779 51  4.340424266642357 BM25
+
+
+Discrete Least Squares Polynomial Fits
+THE recurrence RELATION between orthogonal polynomialsis widely used for discrete least squares data fitting orthogonal polynomials , data fitting , least squares , recurrence RELATION between orthogonal polynomials , residual 
+
+CA750309 JB January 9, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2326 52  4.336714564433802 BM25
+
+
+Fix point Approach to the Theory of Computation 
+Fix point Approach TO THE THEORY OF Computation Following THE fix point THEORY OF Scott , thesemantics OF computer programs are defined in terms OF THE least fix points OF recursive programs verification techniques , semantics OF programminglanguages , least fix points , recursive programs , computational induction 
+
+CA720702 JB January 30, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2580 53  4.318975835370518 BM25
+
+
+A Method for Composing Simple Traditional Music by Computer
+This method uses some music THEORY plus additional heuristics It appears that full-blown music theoryis not needed for rounds -- all THE hardware required for structural levels is not necessary for these pieces artificial intelligence , heuristic programming , models OF cognitive processes , computer music , computer composition , music THEORY , formal LANGUAGES , probabilistic grammars 
+
+CA741104 JB January 16, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0850 54  4.300376285859289 BM25
+
+
+Conversion, Reconversion and ComparisonTechniques In Variable-Length Sorting
+THE internal record formats are discussed in RELATION TO ( 1 ) their conversion from input formats , ( 2 ) their reconversion TO output formats , AND ( 3 ) comparison techniques between internal formats 
+
+CA630517 JB March 14, 1978  10:52 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2290 55  4.29469473840957 BM25
+
+
+Immediate Predominators in a Directed Graph [H] (Algorithm A430)
+predominator , immediate predominator , graph THEORY , directed graph , shortest path , articulation , connectivity , program optimization , optimizing compiler 
+
+CA720812 JB January 30, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1887 56  4.241343744005038 BM25
+
+
+A Recursive Relation for the Determinant of a Pentadiagonal Matrix
+A Recursive RELATION for THE Determinant OF a Pentadiagonal Matrix A recursive RELATION , relating leading principalminors , is developed for THE determinant OF a pentadiagonal matrix 
+
+CA690606 JB February 17, 1978  11:00 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1867 57  4.2144747041634325 BM25
+
+
+On the Expected Lengths of Sequences Generatedin Sorting by Replacement Selecting
+replacement selecting , sorting , sequence lengths , asymptotic expected length , recursion RELATION , generating function , meromorphic function Using complex-variable THEORY , it is shown that L ( j ) - > 2 AND that , asymptotically , THE average interval between sign changes OF L ( j ) -2 is 2 
+
+CA690713 JB February 15, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1466 58  4.195042566747046 BM25
+
+
+Discussion Summary on Graphical Languages
+Discussion Summary on Graphical LANGUAGES 
+
+CA660306 JB March 3, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2809 59  4.192562861584863 BM25
+
+
+Positivity and Norms
+Householder , THE character AND use OF ALGEBRAIC methods in THE THEORY OF norms is demonstrated 
+
+CA750102 JB January 12, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0021 60  4.138192033428 BM25
+
+
+Algebraic Formulation of Flow Diagrams
+ALGEBRAIC Formulation OF Flow Diagrams 
+
+CA580601 JB March 22, 1978  9:10 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1216 61  4.137799980777887 BM25
+
+
+Symbolic Derivatives Without List Processing, Subroutines, or Recursion
+A subset may be imbededin a formula translator TO introduce a differentiation operator into an `` ALGEBRAIC '' programming language No use is made OF list-processing LANGUAGES 
+
+CA650808 JB March 6, 1978  8:18 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1102 62  4.129019504211314 BM25
+
+
+Mechanical Languages: A Course Specification
+Mechanical LANGUAGES : A Course Specification 
+
+CA640406 JB March 10, 1978  1:49 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2813 63  4.110629653288038 BM25
+
+
+The Computer Science and Engineering Research Study (COSERS)
+THE Computer Science AND Engineering Research STUDY ( COSERS ) THE Computer Science AND Engineering ResearchStudy ( COSERS ) is briefly described THE motivation , organization , AND schedule for this NSF supported studyare given computer science research , computer engineeringresearch , national research STUDY 
+
+CA761202 JB January 3, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2258 64  4.085683960144621 BM25
+
+
+Additional Results on Key-to-Address TransformTechniques: A Fundamental Performance Study on Large Existing Formatted Files
+Additional Results on Key-to-Address TransformTechniques : A Fundamental Performance STUDY on Large Existing Formatted Files 
+
+CA721111 JB January 27, 1978  1:31 PM  
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0463 65  4.065042429776137 BM25
+
+
+On Ambiguity in Phrase Structure Languages
+On Ambiguity in Phrase Structure LANGUAGES 
+
+CA621017 JB March 17, 1978  7:05 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1841 66  3.988108227523358 BM25
+
+
+A Prime Number Generator Using TheTreesort Principle (Algorithm 356 [A1])
+prime numbers , number THEORY , sorting 
+
+CA691005 JB February 15, 1978  3:25 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2305 67  3.961941647247863 BM25
+
+
+The "Plankalkul" of Konrad Zuse: A Forerunnerof Today's Programming Languages
+higher programming LANGUAGES , programming , THEORY OF programming , history OF programming THE `` Plankalkul '' OF Konrad Zuse : A Forerunnerof Today 's Programming LANGUAGES Althoughthis early approach TO a programming language did not lead TO practical use , THE plan is describedhere because it contains features that are standard in today 's programming LANGUAGES 
+
+CA720723 JB January 30, 1978  10:46 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0628 68  3.9134500919489557 BM25
+
+
+On a Floating-Point Number RepresentationFor Use with Algorithmic Languages
+On a Floating-Point Number RepresentationFor Use with Algorithmic LANGUAGES 
+
+CA620304 JB March 20, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2133 69  3.905640060759821 BM25
+
+
+Algorithm for the Assignment Problem(Rectangular Matrices) [H] (Algorithm 415)
+operations research , optimization THEORY , assignment problem , rectangular matrices 
+
+CA711210 JB February 2, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1211 70  3.881176502675145 BM25
+
+
+A Note on Storage of Strings
+Its RELATION TO similar schemes is discussed 
+
+CA650813 JB March 6, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2167 71  3.8174583777698325 BM25
+
+
+Algebraic Simplification: A Guide for the Perplexed
+ALGEBRAIC Simplification : A Guide for THE Perplexed ALGEBRAIC simplification is examined first fromthe point OF view OF a user who needs TO comprehend a large expression , AND second from THE point OF viewof a designer who wants TO construct a useful AND efficient system Then we delineate THE spectrum OF approaches TO THE design OF automatic simplificationcapabilities in an ALGEBRAIC manipulation system Finally we discusssome OF THE theoretical results related TO ALGEBRAIC simplification ALGEBRAIC manipulation , ALGEBRAIC simplification , canonical simplification 
+
+CA710805 JB February 2, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1214 72  3.7862301649925216 BM25
+
+
+Some Experiments in Algebraic Manipulation by Computer 
+Some Experiments in ALGEBRAIC Manipulation by Computer A set OF subroutines TO allow ALGEBRAIC manipulationson THE IBM 7094 computer has been written a List Processor , SLIP 
+
+CA650810 JB March 6, 1978  8:10 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2986 73  3.7168126557066326 BM25
+
+
+Operations on Sparse Relations
+Operations on Sparse Relations Various computations on relations , Boolean matrices , or directed graphs , such as THE computation OF precedence relations for a context-free grammar , can bedone by a practical algorithm that is asymptotically faster than those in common use For example , how TO computeoperator precedence or Wirth-Weber precedence relations in O ( n^2 ) steps is shown , as well as how tocompute linear precedence functions in O ( n^2 ) steps is shown , as well as how TO compute linear precedencefunctions in O ( n ) steps , where n is THE size OF a grammer THE heart OF THE algorithms is a generaltheorem giving sufficient conditions under which an expression whose operands are sparse relations andwhose operators are composition , transitive closure , union , AND inverse , can be computed efficiently computational complexity , sparse RELATION , Booleanmatrix , directed graph , Wirth-Weber precedence RELATION , linear precedence function , SLRgrammar , T-canonical precedence RELATION 
+
+CA770306 JB December 29, 1977  8:05 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1806 74  3.5843911518085316 BM25
+
+
+On the Downhill Method
+downhill method , complex relaxation method , complexiteration , complex equation , transcendental complex equation , ALGEBRAIC complex equation Although in THEORY THE method always converges , it is shown that a fundamental dilemma existswhich may cause a breakdown in practical applications 
+
+CA691206 JB February 15, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2769 75  3.5809721454303083 BM25
+
+
+A Modification of Warshall's Algorithm forthe Transitive Closure of Binary Relations
+A Modification OF Warshall 's Algorithm forthe Transitive Closure OF Binary Relations An algorithm is given for computing THE transitiveclosure OF a binary RELATION that is represented by a Boolean matrix Warshall 's algorithm , transitive closure , reachabilitymatrix , directed graph , digraph , Boolean matrix , binary RELATION 
+
+CA750408 JB January 9, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1948 76  3.5273778666083815 BM25
+
+
+Computers in Group Theory: a Survey
+Computers in Group THEORY : a Survey Computers are being applied TO an increasinglydiverse range OF problems in group THEORY Group THEORY programs range from simple combinatorial or numerical programs TO largesymbol manipulation systems group THEORY , coset enumeration , subgroup lattices , automorphism groups , character tables , commutator calculus , topology , crystallography , permutation groups , Abelian groups , discrete mathematics , non-numerical programming , symbol manipulation , survey 
+
+CA690101 JB February 20, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0265 77  3.51008829220905 BM25
+
+
+Low Level Language Subroutines for Use Within Fortran
+This paper describes some subroutines , codedin symbolic LANGUAGES AND for use within Fortran coded programs , TO deal with `` special arithmetic '' ( e 
+
+CA611103 JB March 15, 1978  10:59 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2192 78  3.4460395040139242 BM25
+
+
+Another Recursion Induction Principle
+It is shown TO be useful for proving partial functions equivalentand thus applicable in proofs about interpreters for programming LANGUAGES 
+
+CA710507 JB February 3, 1978  2:27 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2558 79  3.43357784444003 BM25
+
+
+Protection in Programming Languages
+Protection in Programming LANGUAGES 
+
+CA730103JB January 24, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1781 80  3.3837233711820787 BM25
+
+
+Translator Writing systems
+THE formal STUDY OF syntax AND its applicationto translator writing are discussed in Section II A critical review OF recent efforts TO automatethe writing OF translators OF programming LANGUAGES is presented 
+
+CA680201 JB February 23, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2661 81  3.383302110303197 BM25
+
+
+Ideal Teaching Machines-A Solution to the Pedagogic Language Problem
+education , programming LANGUAGES , simulators 
+
+CA740409 JB February 1, 1978  10:38 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2165 82  3.3830123054888603 BM25
+
+
+General Relativity and the Application of Algebraic Manipulative Systems
+General Relativity AND THE Application OF ALGEBRAIC Manipulative Systems Attention is drawn TO THE strictly ALGEBRAIC difficulties encountered in this work symbolic mathematics , nonnumerical mathematics , generalrelativity , ALGEBRAIC manipulation , equation manipulation 
+
+CA710807 JB February 2, 1978  2:53 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-3077 83  3.3793517093969667 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+These transformations are given by ALGEBRAIC laws AND are carried out in THE same languagein which programs are written Combining forms are chosen not only for their programming powerbut also for THE power OF their associated ALGEBRAIC laws Conventional programming LANGUAGES are growingever more enormous , but not stronger Combining forms canuse high level programs TO build still higher levelones in a style not possible in conventional LANGUAGES Unlike von Neumann LANGUAGES , these systems have semantics loosely coupled TO states-only onestate transition occurs per major computation Functional programming , algebra OF programs , combiningforms , functional forms , programming LANGUAGES , von Neumann computers , von Neumann LANGUAGES , models ofcomputing systems , applicative computing systems , applicative state transition systems , program transformation , program correctness , program termination , metacomposition 
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0164 84  3.3675333527911384 BM25
+
+
+A Short Study of Notation Efficiency
+A Short STUDY OF Notation Efficiency 
+
+CA600802 JB March 20, 1978  9:02 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0864 85  3.3675333527911384 BM25
+
+
+An Empirical Study of Minimal Storage Sorting
+An Empirical STUDY OF Minimal Storage Sorting 
+
+CA630503 JB March 14, 1978  11:31 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-3203 86  3.332207904656684 BM25
+
+
+   GRAD Assistant - A Program for Symbolic Algebraic Manipulation and Differentiation
+GRAD Assistant - A Program for Symbolic ALGEBRAIC Manipulation AND Differentiation THE General Recursive Algebra AND Differentiation Assistant ( GRAD Assistant ) now under development is a set OF LISP functions which symbolically manipulateabd differentiate ALGEBRAIC expressions 
+
+CA660817 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2648 87  3.2753146590772526 BM25
+
+
+A Design for a Number Theory Packagewith an Optimized Trial Division routine
+A Design for a Number THEORY Packagewith an Optimized Trial Division routine A number THEORY package is described which usesdoubly linked list structures for storing multiprecise integers number THEORY package , trial division , multiprecisearithmetic , factorization , doubly linked lists , pseudoprime 
+
+CA740505 JB January 17, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0438 88  3.2670685212466912 BM25
+
+
+Mechanical Pragmatics: A Time-Motion Studyof a Miniature Mechanical Linguistic System
+Mechanical Pragmatics : A Time-Motion Studyof a Miniature Mechanical Linguistic System 
+
+CA621201 JB March 17, 1978  5:19 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1961 89  3.202006594086315 BM25
+
+
+An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+THE speed is also related TO THE number OF circuitsin THE graph TO give a RELATION between speed AND complexity algorithm , graph THEORY , circuit searchalgorithm , path search algorithm , searching 
+
+CA701202 JB February 9, 1978 4:12 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1046 90  3.136873533833079 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number OF ARTICLES published during thepast two years , R 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2719 91  3.080730714296275 BM25
+
+
+Mechanical Program Analysis
+analysis OF programs , performance analysis , executiontime , execution behavior , difference equations , generating functions , list processing , Lisp , algebraicmanipulation , programming LANGUAGES , analysis OF algorithms 
+
+CA750905 JB January 6, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2028 92  3.0748999750378805 BM25
+
+
+Greatest Common Divisor of n Integersand Multipliers $A1) (Algorithm 386)
+greatest common divisor , Euclidean algorithm , number THEORY , diophantine equations 
+
+CA700709 JB February 10, 1978  4:31 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2302 93  3.074633671917704 BM25
+
+
+Computers and Employment
+THE relationship OF computers AND automationto employment is part OF THE more general RELATION OF technological change TO employment Because OF THE central importanceof these effects , THE impact OF technology has been THE subject OF extensive STUDY by economists , sociologists , political scientists , AND psychologists 
+
+CA720726 JB January 30, 1978  10:30 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-3199 94  3.0605370964602634 BM25
+
+
+   ALGEM - An Algebraic Manipulator
+ALGEM - An ALGEBRAIC Manipulator ALGEM is a package OF subprograms written in Slip , FORTRAN IV AND MAP 7094 II TO manipulate ALGEBRAIC expressions Algem 's basic ALGEBRAIC operations are additions , subtractions , multiplications , division AND exponentiation 
+
+CA660813 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2255 95  3.0330868153431405 BM25
+
+
+Comments on Moorer's Music and Computer Composition
+artificial intelligence , heuristic programming , models OF cognitive processes , computer music , computer composition , music THEORY 
+
+CA721114 JB January 27, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2504 96  3.0330868153431405 BM25
+
+
+Concerning Music and Computer Composition in Computational Linguistics
+artificial intelligence , heuristic programming , models OF cognitive processes , computer music , computer composition , music THEORY 
+
+CA730516 JB January 23, 1978  4:27 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-3124 97  3.0255632981373495 BM25
+
+
+Recursive Data Structures in APL
+Theorems exhibiting THE relationshipsbetween THE definitional systems are given AND illustrated through graphrepresentations A mathematical STUDY OF three approaches for defining nestedarrays in APL is presented Nested arrays , APL arrays , recursive data structures , trees , data-driven algorithms , THEORY OF arrays 
+
+CA790203 DH April 10, 1979  3:41 PM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-2672 98  3.0158270229432094 BM25
+
+
+Emotional Content Considered Dangerous
+artificial intelligence , heuristic programming , modelsof cognitive processes , computer music , computer composition , music THEORY 
+
+CA740311 JB January 18, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-1136 99  2.9137311942578696 BM25
+
+
+Beginnings of a Theory of Information Handling*
+Beginnings OF a THEORY OF Information Handling* 
+
+CA640207 JB March 10, 1978  4:10 AM
+
+
+--------------------------------------------------------------
+56 Q0 CACM-0124 100  2.781546176645749 BM25
+
+
+An Algorithm for the Assignment Problem
+An empirical relationbetween solution time AND THE size OF THE problem is given , based on extensive experimentscarried out on a digital computer 
+
+CA601111 JB March 20, 1978  7:05 PM
+
+

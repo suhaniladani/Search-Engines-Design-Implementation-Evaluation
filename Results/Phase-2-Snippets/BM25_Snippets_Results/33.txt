@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+33 Q0 CACM-2805 1  53.417640289825485 BM25
+
+
+Perturbations of Eigenvalues of Non-normal Matrices
+Perturbations of Eigenvalues of Non-normal Matrices The problem considered is to give bounds for finiteperturbations of simple and multiple eigenvalues of nonnormal matrices , where these bounds are in termsof the eigenvalues , the departure from normality , and the Frobenius norm of the perturbation matrix , butnot in terms of the eigen system perturbation of eigenvalues , non-normal matrices , departure from normality , Gershgorin circles 
+
+CA750106 JB January 12, 1978  10:31 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2697 2  44.38292401892869 BM25
+
+
+A Fast Method for Solving a Class of Tridiagonal Linear Systems
+
+
+CA740102 JB January 18, 1978  2:50 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2554 3  43.622357441335865 BM25
+
+
+Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+Reduction of a Band-Symmetric Generalized EIGENVALUE Problem An algorithm is described for reducing thegeneralized EIGENVALUE problem Ax = lambda Bx to an ordinary problem , in case A and B are symmetric bandmatrices with B positive definite The algorithm reduces the generalized problem to an ordinary EIGENVALUE problem for a symmetric bandmatrix C whose bandwidth is the same as A and B generalized eigenvalues , symmetric band matrices 
+
+CA730107 JB January 24, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2047 4  43.226874278021654 BM25
+
+
+Incorporating Origin Shifts into the QRAlgorithm for Symmetric Tridiagonal Matrices
+STEWART , G The QR iteration for the eigenvalues of a symmetric tridiagonal matrix can be accelerated by incorporating a sequence of origin shifts Bothmethods have drawbacks : the direct method can unnecessarily degrade small eigenvalues , while the implicit method can effectively loose the shift and thereby retard the convergence eigenvalues , eigenvectors , QR method , originshifts , symmetric tridiagonal matrix 
+
+CA700608 JB February 13, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1954 5  41.46105611542863 BM25
+
+
+Eigenvalues and Eigenvectors of a RealSymmetric Matrix (Algorithm 384 $F2))
+STEWART , G Eigenvalues and Eigenvectors of a RealSymmetric Matrix ( Algorithm 384 $ F2 ) ) real symmetric matrix , eigenvalues , eigenvectors , QR algorithm 
+
+CA701209 JB February 9, 1978  3:08 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2043 6  41.46105611542863 BM25
+
+
+Eigenvalues and Eigenvectors of a RealSymmetric Matrix $F2) (Algorithm 384)
+STEWART , G Eigenvalues and Eigenvectors of a RealSymmetric Matrix $ F2 ) ( Algorithm 384 ) real symmetric matrix , eigenvalues , eigenvectors , QR algorithm 
+
+CA700612 JB February 13, 1978  10:34 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2284 7  40.7696106788226 BM25
+
+
+Solution of the Matrix Equation AX+XB=C [F4] (Algorithm A432)
+STEWART , G 
+
+CA720906 JB January 27, 1978  4:31 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2695 8  38.41247122394061 BM25
+
+
+Tridiagonalization by Permutations
+tridiagonal matrix , permutation , algorithm , eigenvalues , graph , bandwidth , sparse matrix 
+
+CA740104 JB January 18, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2281 9  38.352536830265 BM25
+
+
+The Eigen problem of Block Tridiagonal Matrices
+linear algebra , eigenvalues and eigenvectors , partial differential equations 
+
+CA720909 JB January 27, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2081 10  38.19805004093683 BM25
+
+
+Some Complete Calculi for Matrices
+
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2335 11  38.04495821352886 BM25
+
+
+Eigenvalues and Eigenvectors of a Real General matrix (Algorithm R343)
+Eigenvalues and Eigenvectors of a Real General matrix ( Algorithm R343 ) eigenvalues , eigenvectors , QR-algorithm , nonsymmetric matrices , general matrices 
+
+CA720610 JB January 30, 1978  4:11 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1501 12  37.029071268581845 BM25
+
+
+Eigenvectors of a 2n x 2n Matrix
+It has been known that the eigenvalues of acertain 2n x 2n matrix can be obtained by use of two smaller matrices of order n which can be easilyconstructed 
+
+CA671207 JB February 26, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3152 13  36.871652907836875 BM25
+
+
+Storage Reorganization Techniques forMatrix Computation in a Paging Environment
+
+
+CA790703 DH August 22, 1979  2:29 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1963 14  36.744933636304 BM25
+
+
+Condition Numbers of PEI Matrices
+matrices , condition numbers , Pei matrices , eigenvectors , eigenvalues 
+
+CA701116 JB February 9, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2806 15  36.60701617646151 BM25
+
+
+Two Hadamard Numbers for Matrices
+matrices , eigenvalues , norms , condition numbers , error analysis , Gram-Schmidt orthogonalization 
+
+CA750105 JB January 12, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1347 16  36.563282084647945 BM25
+
+
+General Time-Varying Systems Error Sensitivities Program
+The evaluation , by the propagation of variancetechnique , of the SENSITIVITY of time-varying systems to initial condition and parameter errors , involvesthe determination of several system-dependent partial derivative matrices 
+
+CA661203 JB March 2, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3016 17  36.544625832699175 BM25
+
+
+A Comparison of Numerical Techniques in Markov Modeling
+STEWART , W 
+
+CA780207 JB March 28, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3085 18  36.119346526970574 BM25
+
+
+An O(n) Algorithm for Determining a Near-OptimalComputation Order of Matrix Chain Products
+
+
+CA780703 DH February 8, 1979  2:46 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0070 19  35.90679768295031 BM25
+
+
+Construction of a Set of Test Matrices
+This paper develops the equations and propertiesof a set of test matrices which are useful in the determination of the accuracy of routines forfinding the inverse , determinant and/or eigenvalues of a matrix 
+
+CA590803 JB March 22, 1978  6:09 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1423 20  35.72559176324366 BM25
+
+
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix
+
+
+CA660514 JB March 3, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2809 21  35.06590738376883 BM25
+
+
+Positivity and Norms
+
+
+CA750102 JB January 12, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2177 22  33.67075615251167 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph
+
+
+CA710705 JB February 3, 1978  8:58 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1809 23  33.31895124974589 BM25
+
+
+Numerical Analysis in a Ph. Computer Science Program
+program , numerical analysis , course SEPARATION , education 
+
+CA691203 JB February 15, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2807 24  33.08814320669987 BM25
+
+
+On the Stability of Gauss-Jordan Elimination with Pivoting
+
+
+CA750104 JB January 12, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2000 25  32.84393278769021 BM25
+
+
+A Variation of the Goodman-Lance Method forthe Solution of Two-Point Boundary Value Problems
+
+
+CA700905 JB February 10, 1978  1:39 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1116 26  32.77750849763359 BM25
+
+
+Tests on a Computer Method for Constructing School Timetables*
+
+
+CA640316 JB March 10, 1978  2:34 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2134 27  32.759478813409096 BM25
+
+
+An Extension of the Munkres Algorithm forthe Assignment Problem to Rectangular Matrices
+
+
+CA711209 JB February 2, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1614 28  32.64843098165659 BM25
+
+
+A Proposal for Definitions in ALGOL
+
+
+CA670401 JB February 28, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1998 29  31.79636193131495 BM25
+
+
+Complex Matrix Inversion Versus Real
+
+
+CA700907 JB February 10, 1978  10:19 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3115 30  31.669599491203606 BM25
+
+
+Orderly Enumeration of Nonsingular BinaryMatrices Applied to Text Encryption
+
+
+CA780401 DH February 27, 1979  11:05 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1636 31  31.101417790141177 BM25
+
+
+Invariant Imbeding and the Numerical Integrationof Boundary-Value Problems for Unstable Linear Systems of Ordinary Differential Equations
+INVARIANT Imbeding and the Numerical Integrationof Boundary-Value Problems for Unstable Linear Systems of Ordinary Differential Equations An INVARIANT imbeding technique is presentedwhich is useful in overcoming these frequently encountered instabilities , and the resultsof some numerical experiments are given 
+
+CA670206 JB February 28, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1143 32  30.999935124859675 BM25
+
+
+Analysis of Decay-Type Data*
+
+
+CA640112 JB March 10, 1978 5:11 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2544 33  30.97830041536413 BM25
+
+
+Automatic Error bounds for Simple Zeros of Analytic Functions
+
+
+CA730204 JB January 24, 1978  2:51 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2787 34  30.35235676490933 BM25
+
+
+Matrix Reduction-An Efficient Method
+
+
+CA750301 JB January 10, 1978  9:03 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1707 35  30.346088914070858 BM25
+
+
+Generation of Positive Test Matrices with Known Positive Spectra
+test matrices , positive matrices , similaritytransformation , positive eigenvalues 
+
+CA680807 JB February 22, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1766 36  29.892440945112497 BM25
+
+
+Quasilinearization and the Estimationof Differential Operators from Eigenvalues
+Quasilinearization and the Estimationof Differential Operators from Eigenvalues Given a linear ordinary differential operatorcontaining several unknown constants and a number of its eigenvalues , the values of the unknown constantsare estimated quasilinearization , eigenvalues , differential operators , nonlinear boundary-value problems , inverse problems , differential equations , system identification 
+
+CA680404 JB February 23, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2186 37  29.68831854552056 BM25
+
+
+Numerical Properties of the Ritz-Trefftz Algorithm for Optimal Control
+
+
+CA710604 JB February 3, 1978  10:12 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2213 38  29.590937174723756 BM25
+
+
+Roots of Matrix Pencils: The GeneralizedEigenvalue Problem [F2] (Algorithm 405)
+Roots of Matrix Pencils : The GeneralizedEigenvalue Problem [ F2 ] ( Algorithm 405 ) eigenvalues , matrix roots , pencil roots 
+
+CA710208 JB February 8, 1978  8:37 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0497 39  29.475824291054174 BM25
+
+
+Further Remarks on Line Segment Curve-Fitting Using Dynamic Programming
+
+
+CA620831 JB March 17, 1978  9:19 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1787 40  29.336238904841473 BM25
+
+
+Use of Transition Matrices in Compiling
+
+
+CA680107 JB February 23, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3153 41  29.279708705572606 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1692 42  29.2092513819095 BM25
+
+
+Numerical Solution of a Thin Plate Heat Transfer Problem
+STEWART III , G 
+
+CA680909 JB February 21, 1978  4:48 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0441 43  28.925124687064255 BM25
+
+
+Topological Sorting of Large Networks
+KAHN , A 
+
+CA621120 JB March 17, 1978  5:58 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1457 44  28.917250126799107 BM25
+
+
+Data Manipulation and Programming Problemsin Automatic Information Retrieval
+
+
+CA660315 JB March 3, 1978  11:35 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3200 45  28.836327252875066 BM25
+
+
+   A FORMAC Program for the Solution of Linear Boundary and Initial Value Problems
+
+
+CA660814 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1047 46  28.569324766391528 BM25
+
+
+Generation of Test Matrices by Similarity Transformations
+
+
+CA640620 JB March 9, 1978  8:50 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1353 47  28.4990627738184 BM25
+
+
+Techniques for Automatic Tolerance Control in Linear Programming
+
+
+CA661105 JB March 2, 1978  3:37 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1285 48  27.9205892460679 BM25
+
+
+Eigenvalues and Eigenvectors of a Real SymmetricMatrix by the QR Method (Algorithm 254 [F2])
+Eigenvalues and Eigenvectors of a Real SymmetricMatrix by the QR Method ( Algorithm 254 [ F2 ] ) 
+
+CA650406 JB March 7, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2887 49  27.918356486855846 BM25
+
+
+A Study of Errors, Error-Proneness, and Error Diagnosis in Cobol
+DAVIS , G 
+
+CA760106 JB January 5, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1441 50  27.798277371014585 BM25
+
+
+Methods of Numerical Integration Applied toa System Having Trivial Function Evaluations
+
+
+CA660408 JB March 3, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0495 51  27.730441154807128 BM25
+
+
+A Procedure for Inverting Large Symmetric Matrices
+
+
+CA620833 JB March 17, 1978  9:09 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2133 52  27.53010883885879 BM25
+
+
+Algorithm for the Assignment Problem(Rectangular Matrices) [H] (Algorithm 415)
+
+
+CA711210 JB February 2, 1978  9:38 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2837 53  27.513868930323213 BM25
+
+
+New Upper Bounds for Selection
+
+
+CA760902 JB January 4, 1978  9:48 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1859 54  27.430911717433503 BM25
+
+
+Error Bounds for Periodic Quintic Splines
+
+
+CA690804 JB February 15, 1978  5:58 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2567 55  27.267454460174786 BM25
+
+
+An Exponential Method for the Solution ofSystems of Ordinary Differential Equations 
+The method was designed to be general purpose in nature but to be ESPECIALLY efficient when dealingwith stiff systems of differential equations 
+
+CA741207 JB January 13, 1978  4:20 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1147 56  27.254867801844426 BM25
+
+
+On the Numerical Solution of Boundary Value Problemsfor Linear Ordinary Differential Equations*
+
+
+CA640108 JB March 10, 1978  5:32 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2226 57  26.926502898802156 BM25
+
+
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem
+
+
+CA710108 JB February 8, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3086 58  26.898044008225746 BM25
+
+
+On the Complexity of Computing the Measure of U[ai, bi]
+
+
+CA780702 DH February 8, 1979  3:46 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3059 59  26.876408176472417 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2355 60  26.765794464538338 BM25
+
+
+Implementing Clenshaw-Curtis quadrature, I Methodology and Experience
+Clenshaw-Curtis quadrature is a particularlyimportant automatic quadrature scheme for a variety of reasons , ESPECIALLY the high accuracy obtained fromrelatively few integrand values 
+
+CA720505 JB January 31, 1978  10:05 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0758 61  26.64536039703522 BM25
+
+
+Skeletal Structure of PERT and CPA Computer Programs
+KAHN , A 
+
+CA630840 JB March 13, 1978  7:58 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-3138 62  26.418623129770637 BM25
+
+
+A Mathematical Programming Updating Method Using ModifiedGivens Transformations and Applied to LP Problems
+
+
+CA790404 DH May 21, 1979  2:06 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1709 63  26.403070361491935 BM25
+
+
+A Modification of Efroymson's Technique for Stepwise Regression Analysis
+
+
+CA680805 JB February 22, 1978  10:52 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1727 64  26.32329396472664 BM25
+
+
+One Way of Estimating Frequencies of Jumps in a Program
+
+
+CA680702 JB February 22, 1978  3:05 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1807 65  26.305164802697323 BM25
+
+
+Optimization of Expressions in Fortran
+The objectives of the processing are ( 1 ) to eliminate redundant calculations when references aremade to common subexpression values , ( 2 ) to remove INVARIANT calculations from DO loops , ( 3 ) to efficientlycompute subscripts containing DO iteration variables , and ( 4 ) to provide efficient index register usage FORTRAN , optimization , expressions , compilers , compilation , subscripts , register allocation , DO loops , common subexpressions , INVARIANT calculations 
+
+CA691205 JB February 15, 1978  4:16 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1916 66  26.27066769990433 BM25
+
+
+Analysis of Boolean Program Models for Time-Shared, Paged Environments
+
+
+CA690401 JB February 17, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0537 67  26.268595808286232 BM25
+
+
+A Machine Program for Theorem-Proving
+DAVIS , M 
+
+CA620724 JB March 17, 1978  8:11 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2233 68  26.259252893799637 BM25
+
+
+Signature Simulation and Certain Cryptographic Codes
+
+
+CA710101 JB February 8, 1978  1:15 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1968 69  26.23053952076526 BM25
+
+
+Eigenvalues and Eigenvectors of a RealGeneral Matrix (Algorithm 343 $F1))
+Eigenvalues and Eigenvectors of a RealGeneral Matrix ( Algorithm 343 $ F1 ) ) eigenvalues , eigenvectors , latent roots , Householder'smethod , QR algorithm , inverse iteration 
+
+CA701111 JB February 9, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1046 70  26.19657521696609 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number of ARTICLES published during thepast two years , R 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1334 71  26.028968450172897 BM25
+
+
+Mechanization of Tedious Algebra: TheNewcomb Operators of Planetary Theory
+
+
+CA650103 JB March 8, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1930 72  25.935248178036073 BM25
+
+
+Extremely Portable Random Number Generator
+
+
+CA690208 JB February 20, 1978  10:43 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2855 73  25.895363011349602 BM25
+
+
+An Efficient List-Moving Algorithm Using Constant Workspace
+
+
+CA760607 JB January 4, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2778 74  25.893406629456408 BM25
+
+
+Perturbations of Eigenvalues of Non-normal Matrices (Corrigendum)
+Perturbations of Eigenvalues of Non-normal Matrices ( Corrigendum ) 
+
+CA750310 JB January 9, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2998 75  25.83325907726481 BM25
+
+
+An Empirical Study of List Structure in Lisp
+These measurements reveal substantialregularity , or predictability , among poin ters to atoms and ESPECIALLY among poin ters to lists 
+
+CA770202 JB December 30, 1977  2:55 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2986 76  25.72432751642839 BM25
+
+
+Operations on Sparse Relations
+
+
+CA770306 JB December 29, 1977  8:05 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1847 77  25.708765854634485 BM25
+
+
+An Algorithm for Finding a Fundamental Set of Cycles of a Graph
+
+
+CA690909 JB February 15, 1978  4:29 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2488 78  25.625890219453474 BM25
+
+
+Least Squares Piecewise Cubic Curve Fitting
+
+
+CA730612 JB January 23, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0848 79  25.5870038417738 BM25
+
+
+A Note on Range Transformations for Square Root and Logarithm
+
+
+CA630601 JB March 14, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1369 80  25.586806965270487 BM25
+
+
+Half Rotations in N-Dimensional Euclidean Space
+Half Rotations in N-Dimensional Euclidean Space An iterative procedure is described for determininghalf rotations in n-dimensional Euclidean space The method is a variant of the cyclic Jacobiprocedure and utilizers elementary plane rotations to obtain the half ROTATION matrix 
+
+CA660910 JB March 2, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1350 81  25.5520352689155 BM25
+
+
+The Augmented Predictive Analyzer for Context-FreeLanguages-Its Relative Efficiency
+
+
+CA661108 JB March 2, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1014 82  25.493000598539385 BM25
+
+
+Machine Controls for Analysis of Variance
+Eventhough the experimenter may not be INTERESTED in these interactions it is impossible to ignore them inmost experimental designs because of the problem of getting error terms 
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2369 83  25.465044412415416 BM25
+
+
+Hidden Lines Elimination for a Rotating Object
+This paper describes a polygon comparison scheme in which the relationships of two polygons canbe classified into tree types , and also discusses how the relationship is changed for each pair of polygonsunder ROTATION about some axis A ROTATION table is defined for each pair of polygons , which remainsfixed as long as ROTATION is about one axis and provides a means of rapidly determining the visibleand hidden line relationship between two polygons Additional work must be done to extend this approachto simultaneous ROTATION about several axes 
+
+CA720404 JB January 31, 1978  1:40 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-0397 84  25.417116998595315 BM25
+
+
+A Card Format for Reference Files in Information Processing
+Since this card format is sufficient to identify the materialnormally associated with reference files for books , ARTICLES , programming terms , hardware terms , equipment , machine systems , abbreviations , etc 
+
+CA610201 JB March 17, 1978  1:08 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1622 85  25.39148242664927 BM25
+
+
+An Efficient Procedure for the Generation of Closed Subsets
+
+
+CA670307 JB February 28, 1978  1:18 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2557 86  25.289712114085475 BM25
+
+
+On the Time Required for a Sequence of Matrix Products
+
+
+CA730104 JB January 24, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2031 87  25.28816249647834 BM25
+
+
+Algorithm and Bound for the Greatest Common Divisor of n Integers
+
+
+CA700706 JB February 13, 1978  8:45 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2841 88  25.28777651829333 BM25
+
+
+Designing Surfaces in 3-D
+
+
+CA760803 JB January 4, 1978  10:25 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1401 89  25.24158404700784 BM25
+
+
+Quasilinearization and the Calculation of Eigenvalues
+Quasilinearization and the Calculation of Eigenvalues Several EIGENVALUE problems for systems ofordinary differential equations are considered 
+
+CA660711 JB March 2, 1978  8:40 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1647 90  25.199937202239894 BM25
+
+
+WATFOR-The University of Waterloo FORTRAN IV Compiler
+
+
+CA670108 JB February 28, 1978  4:36 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1905 91  25.18478573074169 BM25
+
+
+The Simplex Method of Linear Programming Using LU Decomposition
+
+
+CA690504 JB February 17, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1887 92  25.139815828274056 BM25
+
+
+A Recursive Relation for the Determinant of a Pentadiagonal Matrix
+A numerical example is includedto indicate its use in calculating eigenvalues pentadiagonal matrix , quindiagonal matrix , quindiagonalmatrix , band matrix , determinant , characteristic polynomial , eigenvalues 
+
+CA690606 JB February 17, 1978  11:00 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1610 93  25.05611178305398 BM25
+
+
+A Method for the Solution of Transportation Problems with Tall Matrices
+
+
+CA670405 JB February 28, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1672 94  25.05521071485569 BM25
+
+
+Practical Error Coefficients in the Integrationof Periodic Analytic Functions by the Trapezoidal Rule
+
+
+CA681107 JB February 21, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1274 95  25.034953013305092 BM25
+
+
+On the Numerical Solution of an N-Point BoundaryValue Problem for Linear Ordinary Differential Equations
+
+
+CA650417 JB March 7, 1978  3:30 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2780 96  24.9576971910648 BM25
+
+
+On Computing Certain Elements of the Inverse of a Sparse Matrix
+
+
+CA750308 JB January 9, 1978  4:34 PM 
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2513 97  24.940438664803043 BM25
+
+
+A Nonrecursive List Moving Algorithm
+
+
+CA730507 JB January 23, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1404 98  24.917923406598632 BM25
+
+
+Computational Aspects of Multiple CovarianceAnalysis on a Multifactor Structure
+
+
+CA660708 JB March 2, 1978  9:18 PM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-1924 99  24.896617749449472 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+33 Q0 CACM-2929 100  24.853856828110693 BM25
+
+
+An Analysis of Inline Substitution for a Structured Programming Language
+
+
+CA770905 JB December 27, 1977  1:23 PM
+
+

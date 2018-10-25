@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+57 Q0 CACM-3077 1  90.94564250896698 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+Can Programming Be LIBERATED from the VON NeumannStyle ? A Functional Style and Its Algebra of Programs BACKUS , J Conventional programming languages are growingever more enormous , but not stronger Inherent defects at the most basic level cause them to be bothfat and weak : their primitive word-at-a-time style of programming inherited from their common ancestor-thevon NEUMANN computer , their close coupling off semantics to state transitions , their division of programminginto a world of expressions and a world of statements , their inability to effectively use powerfulcombining forms for building new programs from existing ones , and their lack of useful mathematicalproperties for reasoning about programs An alternative functional style of programming is foundedon the use of combining forms for creating programs Functional programs deal with structured data , are oftennonrepetitive and nonrecursive , are hierarchically constructed , do not name their arguments , and do not requirethe complex machinery of procedure declarations to become generally applicable Associated with the functional style of programming is an algebra of programs whose variables range overprograms and whose operations are combining forms This algebra can be used to transform programs andto solve equations whose `` unknowns '' are programs in much the same way one transforms equations in highschool algebra These transformations are given by algebraic laws and are carried out in the same languagein which programs are written Combining forms are chosen not only for their programming powerbut also for the power of their associated algebraic laws General theorems of of the algebra give the detailedbehavior and termination conditions for large classes of programs Functional programming , algebra of programs , combiningforms , functional forms , programming languages , VON NEUMANN computers , VON NEUMANN languages , models ofcomputing systems , applicative computing systems , applicative state transition systems , program transformation , program correctness , program termination , metacomposition Unlike VON NEUMANN languages , these systems have semantics loosely coupled to states-only onestate transition occurs per major computation 
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3140 2  39.54400703298518 BM25
+
+
+Social Processes and Proofs of Theorems and Programs
+DE MILLO , R Social Processes and Proofs of Theorems and Programs It is argued that formal verifications ofprograms , no matter how obtained , will not play thesame key role in the development of computer science and softwareengineering as proofs do in mathematics Furthermore the absenceof continuity , the inevitability of change , and the complexity ofspecification of significantly many real programs make the formal verification process difficult to justify and manage LIPTON , R It is feltthat ease of formal verification should not dominate programlanguage design PERLIS , A 
+
+CA790501 DH June 5, 1979  2:23 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1705 3  25.90186088716672 BM25
+
+
+A Set of Basic Input-Output Procedures (Algorithm 335 [15])
+A Set of Basic Input-Output Procedures ( Algorithm 335 [ 15 ] ) By means of the primitives in symbol , outsymboland length , as requested by this journal 's Algorithms Policy [ Comm 67 ) , 729 ] a basicset of input-output procedures is defined aiming at quality and flexibility Outreal , for instance , iswritten as a derived procedure ; it outputs using the fixed point or the floating point representation , and rounds properly Variants can easily be written because of the explicit call of the procedures decomposeinteger and decompose real The highly recommended practice of echoing input is made easy with one subsetof derived procedures ( ioi , ior , iob , ioa ) The Berkeley styleof providing information on the form of output using prior calls of procedures such as real format isdefined Interrelationship between the declared procedures is furnished in tabular form DE Vogelaere , R input output , transput , input output procedures , input echo , quality output , decompose integer , decompose real , style , Berkeley style , procedures relationship , output documentation , equivalent ALGOL statements , ALGOL , ALGOL 60 , integer format , real format , outinteger , read real , input output Boolean , input output array , fixed point representation , floatingpoint representation , output channel interpretation The documentation of output in the form of equivalent ALGOLstatements is also provided when use is made of the subset oti , otr , otb , ota A use of the parameter outchannel to provide information for simultaneous output to severalchannels is suggested 
+
+CA680809 JB February 22, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2705 4  24.0719225801916 BM25
+
+
+Programming Languages, Natural Languages, and Mathematics
+Some social aspects of programming are illuminatedthrough analogies with similar aspects of mathematics and natural languages The split betweenpure and applied mathematics is found similarly in programming By analogy with incidents of the history of artificial , auxiliary languages itis suggested that Fortran and Cobol will remain dominant for a long time to come The most promisingavenues for further work of wide influence are seen to be high quality program literature ( i programs ) of general utility and studies of questions related to program style analogies related to social aspects , pure and appliedmathematics , language quality , language development , artificial auxiliary languages , literature , style , descriptive and prescriptive attitudes The development of natural languages towardflexion less , word-order based language types speaks for programming language design based on general , abstract constructs CACM December , 1975 
+
+CA751202 JB January 6, 1978  8:30 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2700 5  22.524503151409355 BM25
+
+
+Reduction: A Method of Proving Properties of Parallel Programs
+Reduction : A Method of Proving Properties of Parallel Programs that the statementcannot be interleaved with the rest of the program Here sufficient conditions are obtained to show thatthe assumption that a statement is indivisible can be relaxed and still preserve properties such ashalting Thus correctness proofs of a parallel system can often be greatly simplified deadlock free , reduction , interruptible , indivisible , parallel program , semaphore , verification method , process , computation sequence LIPTON , R CACM December , 1975 
+
+CA751207 JB January 5, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2802 6  21.599202888999102 BM25
+
+
+The New Math of Computer Programming
+Structured programming has proved to be an importantmethodology for systematic program design and development Structured programs are identifiedas compound function expressions in the algebra of functions The algebraic properties of these functionexpressions permit the reformulation ( expansion as well as reduction ) of a nested subexpression independentlyof its environment , thus modeling what is known as stepwise program refinement as well as programexecution Finally , structured programming is characterized in terms of the selection and solutionof certain elementary equations defined in the algebra of functions These solutions can be given ingeneral formulas , each involving a single parameter , which display the entire freedom availablein creating correct structured programs structured programming , algebra of functions , stepwise refinement , program correctness 
+
+CA750109 JB January 12, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2850 7  21.28060517693742 BM25
+
+
+Symbolic Execution and Program Testing
+numbers ) one supplies symbols representingarbitrary values The difficult , yet interesting issues arise during the symbolic executionof conditional branch type statements It interpretively executes programs writtenin a simple PL/I style programming language It includes many standard debugging features , the abilityto manage and to prove things about symbolic expressions , a simple program testing manager , and a programverifier A brief discussion of the relationship between symbolic execution and program proving is also included symbolic execution , program testing , program debugging , program proving , program verification , symbolic interpretation This paper describes the symbolic execution ofprograms A particular system called EFFIGY which provides symbolicexecution for program testing and debugging is also described 
+
+CA760703 JB January 4, 1978  12:59 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1469 8  20.845514758595844 BM25
+
+
+The Next 700 Programming Languages 
+A family of unimplemented computing languagesis described that is intended to span differences of application area by a unified framework This frameworkdictates the rules about the uses of user-coined names , and the conventions about characterizing functionalrelationships One is the choice of written appearances of programs ( or more generally , their physical representation ) The other is the choice of the abstract entities ( such as numbers , character-strings , listsof them , functional relations among them ) that can be referred to in the language The system is biasedtowards `` expressions '' rather than `` statements `` It includes a nonprocedural ( purely functional ) subsystemthat aims to expand the class of users ' needs that can be met by a single print-instruction , without sacrificingthe important properties that make conventional right-hand-side expressions easy to construct and understand Within this framework the design of a specific language splits into two independentparts 
+
+CA660303 JB March 3, 1978  2:05 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2922 9  20.04903885819985 BM25
+
+
+Two-Level Control Structure for Nondeterministic Programming
+Two-Level Control Structure for Nondeterministic Programming The basic ideas of nondeterministic programmingare critically reconsidered to single out a proper attitude and programming style for language allowingdirect control of nondeterministic features The proposed attitude aims at retaining the purity ofthe nondeterministic formulation of search processes on one level ( the attempt level ) , deferring the coordinationof problem solving efforts to another ( the choice level ) The feasibility of recognizing these twolevels is discussed , stressing that the structure to be managed at the choice level is a free of contexts The leaves are computational environments , each holding an alternative under inspection , whilethe other nodes are associated with choice poin ts According to the proposed programming style , a generativefunction is associated with each choice poin t , which expresses the desired choice strategy The mainadvantage on this approach is the localization of the search strategies : Each nonterminal node of thetree keeps track of the state of the computation as it was when the choice poin t was last interrogated , holding at the same time the strategy to coordinate the available alternatives Examples are given interm of ND-Lisp , an extension of Lisp designed and implemented according to these guidelines nondeterministic programming , artificial in telligence , control structures , backtracking , search strategy planning , context tree CA771004 JB December 27 , 1977 11:30 AM 
+
+CA771004 JB December 27, 1977  11:30 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2981 10  19.363302736264878 BM25
+
+
+Subgoal Induction
+A proof method , subgoal induction , is presentedas an alternative or supplement to the commonly used inductive assertion method Its major virtue is thatit can often be used to prove a loop 's correctness directly from its input-output specification without theuse of an invariant The relation between subgoal induction and other commonly used induction rules is exploredand , in particular , it is shown that subgoal induction can be viewed as a specialized form of computationinduction A set of sufficient conditions are presented which guarantee that an input-output specificationis strong enough for the induction steps of a proof by subgoal induction to be valid Wegbreit , B program verification , proving programs correct , induction rule , computation induction , inductive assertions , structural induction , proof rule , recursive programs , iterative programs CA770401 JB December 29 , 1977 6:31 AM 
+
+CA770401 JB December 29, 1977  6:31 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3036 11  19.16892975216362 BM25
+
+
+The Selection of Optimal Tab Settings
+This feature can be used to reduce the number of charactersthat are needed to represent a document for transmission and printing An implementation of the algorithm has reduced the number of characters transmitted by from7 to 30 percent , but requires a prepass through the document to compute a matrix used in determiningthe optimal set tab stops The use of fixed tab stops , as a heuristic alternative , can achieveabout 80 percent of optimal with no prepass CACM December , 1978 
+
+CA781203 DH January 18, 1979  4:34 PM 
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3103 12  19.012280004846005 BM25
+
+
+Automatic Data Structure Selection: An Example and Overview
+Automatic Data Structure Selection : An Example and Overview When programs are designed with abstractdata types such as sets and lists , programmer time can be saved by automating the process of fillingin low-level implementation details Thus the programs produced using abstract types werethen inefficient in space or time General issues in data structure selection are also reviewed Abstract data types , automatic programming , datastructures , optimizing compilers , sets , lists In the past , programming systems have provided only a single generalpurpose implementation for an abstract type This process is discussed in detail foran example program 
+
+CA780504 DH February 26, 1979  1:51 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3154 13  19.007098858751178 BM25
+
+
+Algorithm = Logic + Control
+An algorithm can be regarded as consisting of a logic component , which specifies the knowledge to be used in solving problems , and a control component , which determines the problem-solvingstrategies by means of which that knowledge is used The logic componentdetermines the meaning of the algorithm whereas the controlcomponent only affects its efficiency We argue that computer programs wouldbe more often correct and more easily improved and modified iftheir logic and control aspects were identified and separated inthe program text Control language , logic programming , nonprocedural language , programmingmethodology , program specification , relational data structures 
+
+CA790705 DH September 24, 1979  5:08 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3121 14  17.762763394188745 BM25
+
+
+Syntactic Source to Source Transforms and Program Manipulation
+Syntactic transforms are the source to source program transformationswhich preserve the history of computation , and thus do notmodify the execution time Examples ofderivation of more complex source to source transformations are alsopresented Two case studies illustrate the way in which syntactic and semantic source to source transformations may be used fordevelopment of clear , simple , and reasonably efficient programs Structured programming , program transforms , control structures Combined with a small number of primitivesemantic transforms , they provide a powerful tool for programmanipulation 
+
+CA790106 DH April 10, 1979  1:57 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2219 15  17.729840923641298 BM25
+
+
+A Policy-Driven Scheduler for a Time-Sharing System
+The service received by a process from a time-sharingoperating system can be characterized by a resource count SUM { w [ i ] R [ ij ] } where R [ ij ] is thenumber of units of service received by process i from resource i and w [ i ] is the cost per unit of theservice Each class of users can be characterized by a policy function which specifies the amount of servicea user who belongs to this class should receive as a function of time Priority changes dynamicallyas a function of the difference between the service promised to the user by the policy function and the servicehe actually receives A scheduling and swapping algorithm which keeps the resource count of each processabove its policy function will provide the specified level of service Overhead can be reduced by avoidingswaps of process which have received at least his level of service The algorithm has been implementedin a general purpose operating system , and it has provided significantly better service to interactiveand to batch jobs than the previous scheduler scheduler , time-sharing , operating system , resource allocation and swapping 
+
+CA710202 JB February 8, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1677 16  17.661836059129023 BM25
+
+
+Storage Organization in Programming Systems
+The system of program and data representationthat has been in use on the Rice University computer for five years is described This storage arrangementis discussed with its realized advantages or programming systems : simplicity of programmed addressing , flexibility of data structures , efficiency of memory utilization , variability of system compositionduring execution , means of linkage between programs and from programs to data , and basis for storage protection The application of labeled blocks may be extended to areas of time-sharing and multimedia storagecontrol On the basis of experience at rice , some ideas on such extensions are presented storage allocation , storage organization , storagecontrol , codewords , data representation , program representation , data structures , storage protection , addressing mechanisms , paging , segmentation , file handling Each block is labeled by a codeword and may containa program , a data vector , or codewords which in turn label blocks to form arrays Jodeit , J 
+
+CA681102 JB February 21, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3069 17  17.455931376606717 BM25
+
+
+A Practical Interprocedural Data Flow Analysis Algorithm
+A new interprocedural data flow analysis algorithmis presented and analyzed The algorithm associates with each procedure in a program informationabout which variables may be modified , which may be used , and which are possibly preserved by a callon the procedure , and all of its subcalls The algorithm is sufficiently powerful to be used on recursiveprograms and to deal with the sharing of variables which arises through reference parameters The algorithmis unique in that it can compute all of this information in a single pass , not requiring a prepass tocompute calling relationships or sharing patterns It has been implemented and is practical even on programs which are quite large Data flow analysis , global flow analysis , optimization , side effects , relations , reference parameters , incarnations 
+
+CA780903 DH February 5, 1979  3:07 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3148 18  17.426466312218263 BM25
+
+
+High Level Programming for Distributed Computing
+Programming for distributed and other loosely coupled systemsis a problem of growing interest This is part of an ambitiousprogram of development in advanced programming languages , and relationswith other aspects of the project are also discussed This paper describes an approachto distributed computing at the level of general purpose programminglanguages Based on primitive notions of module , message , and transaction key , the methodology is shown to be independentof particular languages and machines It appears to be useful forprogramming a wide range of tasks 
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3078 19  17.350842762790528 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+Analytical results , related to the availabilityof a computer system constructed of unreliable processors , are presented in this paper These resultsare obtained by using various computer-aided algebraic manipulation techniques A major purpose ofthis paper is to demonstrate that the difficulties of obtaining analytical solutions to Markov processescan be considerably reduced by the application of symbol manipulation programs Since many physicalsystems can be modeled by Markov and semi-Markov processes , the potential range of application of these techniquesis much wider than the problem of availability analyzed here Computer-aided algebra , symbol manipulation , Markovprocess , reliability , redundant structures , on-line computer system Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra 
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1458 20  17.236413312953804 BM25
+
+
+Online Programming
+When the transition has been made from off lineto online programming , there are a number of changes in the working conditions noted These changesin the environment make necessary corresponding changes in the processes related to producing and checkingout programs In thispaper the online environment and its effect on programming are discussed In the main , it it not the programming language itself which must be changed toprovide a facility for the online user ; it is the system surrounding the programming language 
+
+CA660314 JB March 3, 197811:44 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3150 21  17.227184245664812 BM25
+
+
+Beyond Programming Languages
+As computer technology matures , our growing ability to create large systems is leading to basic changes in the nature of programming Current programming language concepts will not be adequate for building and maintainingsystems of the complexity called for by the tasks we attempt This paper analyzes some of theshortcomings of programming languages as they now exist , and lays out some possible directions for future research Justas high level languages enabled the programmer to escape from theintricacies of a machine 's order code , higher level programming systemscan provide the means to understand and manipulate complexsystems and components In order to develop such systems , we needto shift our attention away from the detailed specification ofalgorithms , towards the description of the properties of the packagesand objects with which we build Programming , programming languages , programming systems , systems development 
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3138 22  17.222828456620945 BM25
+
+
+A Mathematical Programming Updating Method Using ModifiedGivens Transformations and Applied to LP Problems
+An efficient and numerically stable method is presented for the problem ofupdating an orthogonal decomposition of a matrix of column ( or row ) vectors The fundamental idea is to add a column ( or row ) analogousto adding an additional row of data in a linear least squares problem A column ( or row ) is dropped by a formal scaling with theimaginary unit , -1 , followed by least squares addition of the column ( or row ) The elimination process for the procedure is successivessive application of the Givens transformation in modified ( more efficient ) form These ideas are illustrated with an implementationof the revised simplex method The algorithm is a general purposeone that does not account for any particular structure or sparsityin the equations Some suggested computational tests for determiningsigns of various controlling parameters in the revised simplexalgorithm are mentioned A simple means of constructingtest cases and some sample computing times are presented 
+
+CA790404 DH May 21, 1979  2:06 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1977 23  17.15732343144682 BM25
+
+
+An Interactive Display for Approximation by Linear Programming
+The coefficients of the approximationare determined by linear programming so as to minimize the errorin either the L1 or L-infinity norm Thisinteractive system is described and several examples of its use are given An interactive programwith a graphical display has been developed for the approximation ofdata by means of a linear combination of functions ( includingsplines ) selected by the user 
+
+CA701101 JB February 10, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2876 24  17.082698267667038 BM25
+
+
+Intentional Resolution of Privacy Protection in Database Systems
+Intentional Resolution of Privacy Protection in Database Systems The ability to conditionthe supply of information on its intended use is called here `` intentional resolution '' of privacyprotection The practical importance of intentional resolution is demonstrated by several examples , and its realizationis discussed It is shown that intentional resolution can be achieved , but that it involves a radicalchange from the traditional approach to the process of user-database interaction protection in database , protection in programminglanguages , privacy , security , intentional resolution of privacy , interaction with databases Traditionally , privacy protection in databasesystems is understood to be the control over what information a given user can get from a database This paper is concerned with another , independent , dimension of privacy protection , the control over whata user is allowed to do with a piece of information supplied to him by the database A model for user-database interactionwhich admits such a control is developed 
+
+CA760304 JB January 4, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-0196 25  16.984565519138407 BM25
+
+
+Report on the Algorithmic Language ALGOL 60
+BACKUS , J Report on the Algorithmic Language ALGOL 60 
+
+CA600501 JB March 22, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1680 26  16.927228088908834 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+This system was designed to improve man-computer communications by employinga display unit to interleave tutoring with other computer operations such as simulation , programming , andinformation retrieval Adept is a cataloged program that controls the standard operatingsystem by terminating and rescheduling itself automatically , relinquishing computer resources allocatedto it , and surrendering control to the operating system to perform other jobs It expands the powerand flexibility of computer-assisted instruction by making immediately available to students , teachers , and other users , the full resources ( system-cataloged programs ) of the operating system Language processorsand compilers , simulation models , mathematical solution techniques , stored data , and all other library anduser programs can be incorporated into instructional material without reprogramming Illustrations of the variousapplications are presented and their implications are discussed computer-assisted instruction , tutorial systems , programming , simulation , modeling , information retrieval operating systems , graphics , displays , man-machineinterface , on-line computing , graphic programming ADEPT ( A display-Expedited Processing and Tutorial ) system is described It is written in FORTRAN IV ( G ) for the IBM System/360 , Model 40 , and the IBM 2250display Unit under Operating System/360 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3120 27  16.799411241772287 BM25
+
+
+An Event-Driven Compiling Technique
+Due to the linear structure of source text , difficulties may arise in a one-pass compilation process These difficulties occur when an entitycannot be processed because of a forward reference to informationonly obtainable from subsequent entities Classic solutionsask for data structures appropriate for each case A technique ispresented here which uses instead control structures , namely eventsand processes Three examples from that implementationare described and discussed here Banatre , J 
+
+CA790105 DH April 10, 1979  12:26 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3031 28  16.718008258080545 BM25
+
+
+Abstract Data Types and Software Validation
+Abstract Data Types and Software Validation The virtue of these axioms is that they permit a representation-independentformal specification of a data type First , it is shown howthe use of algebraic axiomatizations can simplify the process of proving the correctness of an implementationof an abstract data type Second , semi-automatic tools are described which can be used both to automatesuch proofs of correctness and to derive an immediate implementation from the axioms This implementationallows for limited testing of programs at design time , before a conventional implementation is accomplished Abstract data type , correctness proof , data type , data structure , specification CACM December , 1978 
+
+CA781208 DH January 18, 1979  2:51 PM   
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1155 29  16.454973670070526 BM25
+
+
+Experiments with a Deductive Question-Answering Program
+As an investigation in artificial intelligence , computer experiments on deductive question-answering were run with a LISP program called DEDUCOM , an acronymfor DEDUctive COMmunicator When given 68 facts , DEDUCOM answered 10 questions answerable from the facts Some conclusions drawn in the article are : ( 1 ) DEDUCOM can answer a wide variety of questions ( 2 ) A human can increase the deductive power of DEDUCOM by telling it more facts ( 3 ) DEDUCOM can write verysimple programs ( it is hoped that this ability is the forerunner of an ability to self-program , whichis a way to learn ) ( 4 ) DEDUCOM 's search procedure at present has two bad defects : some questions answerablefrom the given facts can not be answered and some other answerable questions can be answered only ifthe relevant facts are given in the `` right '' order ( 6 ) At present , DEDUCOM 's method of making logical deductionsin predicate calculus has two bad defects : some facts have to be changed to logically equivalent onesbefore being given to DEDUCOM , and some redundant facts have to be given to DEDUCOM Experiments with a Deductive Question-Answering Program A fact tells DEDUCOM either some specific information or a method of answering a general kind of question CACM December , 1965 
+
+CA651214 JB March 6, 1978  3:34 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2113 30  16.406387934700398 BM25
+
+
+The Multistore Parser for Hierarchical Syntactic Structures
+The Multistore Parser for Hierarchical Syntactic Structures A syntactic parser is described for hierarchical concatenation patternsthat are presented to the analyzer in the form of linear strings Particularemphasis is given to the system of `` significant addresses '' by meansof which processing times for large-scale matching procedurescan be substantially reduced The description makes frequent useof examples taken from the fully operational implementation of theparser in an experimental English sentence analyzer By structuringan area of the computer 's central core storage in such a waythat the individual locations of bytes and bits come to represent thedata involved in the matching procedure , the shifting of informationis reduced to a minimum , and the searching of lists is eliminatedaltogether The matches are traced by means of binary masksand the state of single bits determines the operational flow of theprocedure The method could be implemented with any interpretivegrammar , provided it can be expressed by the functional classificationof the items composing the input hierarchical structures parsing , syntactic analysis , natural-language analysis , linguistic dataprocessing , computational linguistics , correlational grammar , structurerecognition , pattern recognition , matching procedures , tree-structure interpretation , machine translation , automatic abstracting VON Glasersfeld , E 
+
+CA700202 JB February 14, 1978  12:57 PM 
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2645 31  16.31326629677166 BM25
+
+
+Two Languages for Estimating Program Efficiency
+Two languages enabling their users to estimatethe efficiency of computer programs are presented The program whose efficiency one wishes to estimate is writtenin the first language , a go-to-less programming language which includes most of the features of Algol60 The second language consists of interactive commands enabling its users to provide additional informationabout the program written in the first language and to output results estimating its efficiency Processors for the two languages are also described The first processor is a syntax-directedtranslator which compiles a program into a symbolic formula representing the execution time for that program The sound processor is a set of procedures for that program The second processor is a set ofprocedures for algebraic manipulation which can be called by the user to operate on the formula producedby the first processor Examples of the usage of the two languages are included The limitations ofthe present system , its relation to Knuth 's work on the analysis of algorithms , and some of the directionsfor further research are also discussed programming languages , syntax-directed translation , symbolic manipulation , program efficiency , analysis of algorithms 
+
+CA740601 JB January 17, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2931 32  16.291416194887912 BM25
+
+
+Logic and Programming Languages
+Logic has been long in terested in whether answersto certain questions are computable in principle , since the outcome puts bounds on the possibilities offormalization More recently , precise comparisons in the efficiency of decision methods have become availablethrough the developments in complexity theory These , however , are applications to logic , and a big questionis whether methods of logic have significance in the other direction for the more applied parts ofcomputability theory The definition of the precise meaning of a programthen requires us to explain what are the objects of computation ( in a way , the statics of the problem ) and how they are to be transformed ( the dynamics ) So far the theories of automata and of nets , thoughmost in teresting for dynamics , have formalized only a portion of the field , and there has been perhaps toomuch concentration on the finite-state and algebraic aspects It would seem that the understanding of higher-levelprogram features involves us with infinite objects and forces us to pass through several levelsof explanation to go from the conceptual ideas to the final simulation on a real machine These levelscan be made mathematically exact if we can find the right abstractions to represent the necessary structures The experience of many independent workers with the method of data types as lattices ( or partialorderings ) under an information content ordering , and with their continuous mappings , has demonstrated theflexibility of this approach in providing definitions and proofs , which are clean and without undue dependenceon implementations Nevertheless much remains to be done in showing how abstract conceptualizationscan ( or can not ) be actualized before we can say we have a unified theory Though we havemany examples , we have still to give wide-ranging mathematical answers to these queries : What is a machine ? What is a computable process ? How ( or how well ) does a machine simulate a process ? Programs naturallyenter in giving descriptions of processes logic , programming languages , automata , denotationalsemantics , a-calculus models , computability , partial functions , approximation , function spaces CA770902 JB December 28 , 1977 6:49 AM 
+
+CA770902 JB December 28, 1977  6:49 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1470 33  16.290099325150475 BM25
+
+
+The Structure of Programming Languages
+The Structure of Programming Languages The following are identified as major componentsof every programming language : ( 1 ) the elementary program statement , ( 2 ) mechanisms for linking elementarystatements together , ( 3 ) the means by which a program can obtain data inputs Several alternativeforms of each of these components are described , compared and evaluated Many examples , frequently fromlist processing languages , illustrate the forms described Elementary program statements usually takethe form of commands , requirements , or implicit specifications A requirement describes the effect to be achieved without saying anythingabout the actions to be taken An implicit specification is similar to a requirement , but the programmermust understand what actions will be taken to achieve the desired effect Subroutines may be enteredexplicitly , by execute call , or by function composition Explicitly called subroutines generallyrequire special linkage conventions The three principal ways of getting inputs for routines are ( 1 ) by referring tothe data itself , ( 2 ) by referring to the data by a `` name '' , and ( 3 ) by referring to it implicitly by meansof variables or functions Names are useful entry points into permanent data structures , but canbe error-causing distractions in other contexts He concludes by suggesting the evolutionof programming languages toward one which will permit all the most convenient ways of structuringprograms , organizing systems , and referencing data 
+
+CA660302 JB March 3, 1978  2:20 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2148 34  16.256544429131655 BM25
+
+
+The Composition of Semantics in Algol 68
+The main features of Algol 68 are explainedfrom a semantic point of view ultimately programs , from a minimum set of primitives with a few fundamental recursive rulesof composition The associated syntax is briefly reviewed An attempt has been made to obtain a structuredand simple introduction to both Algol 68 and its orthogonal design programming primitives , programming languages , Algol , semantics , recursive composition , design of programming languages , data structures 
+
+CA711101 JB February 2, 1978  11:49 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3033 35  16.071350653228752 BM25
+
+
+Optimizing Decision Trees Through Heuristically Guided Search
+Optimizing Decision Trees Through Heuristically Guided Search Optimal decision table conversion has beentackled in the literature using two approaches , dynamic programming and branch-and-bound The formertechnique is quite effective , but its time and space requirements are independent of how `` easy '' thegiven table is Furthermore , it can not be used to produce good , quasi optimal solutions The branch-and-boundtechnique uses a good heuristic to direct the search , but is cluttered up by an enormous searchspace , since the number of solutions increases with the number of test variables according to a double exponential In this paper we suggest a heuristically guided top-down search algorithm which , like dynamicprogramming , recognizes identical subproblems but which can be used to find both optimal and quasi optimalsolutions Compressed tables with a large number of variables can be handled without deriving expanded tables first Decision table , optimal decision table conversion , decision tree , heuristic search , AND/OR graphs , dynamic programming , branch-and-bound CACM December , 1978 
+
+CA781206 DH January 18, 1979  3:56 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2470 36  15.994791456650965 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+A formal system is presented which abstractsthe notions of data item , function , and relation It is argued that the system is more suitable than settheory ( or its derivatives ) for the concise and accurate description of program semantics Both deterministic and nondeterministicfunctions are shown to be definable in the system It is described how the local environment can be modeledas a data item and how imperative statements can be considered functions on the environment Thenature of recursive functions is briefly discussed , and a technique is presented by which they can be introducedinto the system Thequestions of local and global environments and of various modes of function calling and parameter passingare touched upon The theory is applied to the proof of several elementary theorems concerning the semanticsof the assignment , conditional , and iterative statements An appendix is included which presents indetail the formal system governing webs and fen , the abstractions used informally in the body of the paper semantics , formal systems , lambda-calculus , extensiblelanguages , data types , modes , axioms , correctness , formal language definition , formal description , data structures , description languages , models of computation It is also demonstrated that completely new primitive types can be introducedinto languages through the mechanism of singleton data types 
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2943 37  15.707647760297549 BM25
+
+
+Lucid, a Nonprocedural Language with Iteration
+The proofs are particularly easy to follow and straightforwardto produce because the statements in a Lucid program are simply axioms from which the proofproceeds by ( almost ) conventional logical reasoning , with the help of a few axioms and rules of inferencefor the special Lucid functions As a programming language , Lucid is unconventional because , among otherthings , the order of statements is irrelevant and assignment statements are equations Nevertheless , Lucid programs need not look much different than iterative programs in a conventional structured programminglanguage using assignment and conditional statements and loops program proving , formal systems , semantics , iteration , structured programming CA770709 JB December 28 , 1977 8:30 AM 
+
+CA770709 JB December 28, 1977  8:30 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2864 38  15.423580513277372 BM25
+
+
+Characteristics of Program Localities
+The term `` locality '' has been used to denote thatsubset of a program 's segments which are referenced during a particular phase of its execution A program'sbehavior can be characterized in terms of its residence in localities of various sizes and lifetimes , and the transitions between these localities In this paper the concept of a locality is made more explicitthrough a formal definition of what constitutes a phase of localized reference behavior , and by a correspondingmechanism for the detection of localities in actual reference strings This definition providesfor the existence of a hierarchy of localities at any given time , and the reasonableness of the definitionis supported by examples taken from actual programs Empirical data from a sample of productionAlgol 60 programs is used to display distributions of locality sizes and lifetimes , and these results arediscussed in terms of their implications for the modeling of program behavior and memory management in virtual memory systems 
+
+CA760507 JB January 4, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1764 39  15.4195025901846 BM25
+
+
+Panel Discussion on Computer Appreciation
+Panel Discussion on Computer Appreciation Session 19 of the ACM 20 th Anniversary Conferenceon August 31 , 1967 , was entitled Education , Design Experiments , and Computer Appreciation Its secondhalf consisted of a panel discussion on computer appreciation , organized and chaired by Elliot I The four panelists were Charles H After making prepared statements , the panelists were joined in discussion by Andries van Dam and ArthurBohn , who had presented papers in the first half Some remarks referred to papers by vanDam and Kahn or to the discussion during the first half of the session Pertinent papers are included in the references computer appreciation , students ' liberal arts courses , survey courses , beginning programming , course content , computer courses dropout rates , college versusprecollege , teaching and social responsibility This is a transcript of the panel discussion , condensed by Dr PERLIS 
+
+CA680406 JB February 23, 1978  10:34 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1834 40  15.405880750819085 BM25
+
+
+An Axiomatic Basis for Computer Programming
+In this paper an attempt is made to explorethe logical foundations of computer programming by use of techniques which were first applied in thestudy of geometry and have later been extended to other branches of mathematics This involves the elucidationof sets of axioms and rules of inference which can be used in proofs of the properties of computerprograms Examples are given of such axioms and rules , and a formal proof of a simple theorem isdisplayed Finally , it is argued that important advantages , both theoretical and practical , mayfollow from a pursuance of these topics Hoare , C axiomatic method , theory of programming , proofs ofprograms , formal language definition , programming language design , machine-independent programming , program documentation 
+
+CA691012 JB February 15, 1978  1:48 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2060 41  15.313880934782857 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept In particular , functions and labels are permissible results of functions and valuesof variables ( 2 ) Assignment and indirect addressing are formalizedby introducing values , called reference , which in turn possessother values The assignment operation always affects the relationbetween some reference and its value , ( 3 ) All compound datastructures are treated as functions ( 4 ) Type declarations arenot permitted The functional approach to data structures and theuse of references insure that any process which accepts some datastructure will accept any logically equivalent structure , regardlessof its internal representation More generally , any data structuremay be implicit ; i Limitations and possible extensions are discussed briefly Reynolds , J programming language , data structure , reference , assignment , coroutine , quasi-parallel process , typeless language , applicative language , lambda calculus , list processing , nondeterministic algorithm 
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3099 42  15.236145653914441 BM25
+
+
+New Sufficient Optimality Conditions forInteger Programming and their Application
+The purpose of this report is to present anew class of sufficient optimality conditions for pure and mixed integer programming problems Some ofthe sets of sufficient conditions presented can be thought of as generalizations of optimality conditionsbased on primal-dual complementarity in linear programming These sufficient conditions are particularlyuseful for the construction of difficult integer programming problems with known optimal solutions Integer programming , optimality conditions , testproblem construction , Kuhn-Tucker conditions , greatest common divisor Theseproblems may then be used to test and/or `` benchmark '' integer programming codes 
+
+CA780508 DH February 26, 1979  1:19 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3145 43  15.06673786274528 BM25
+
+
+An Implementation of Structured Walk-Throughsin Teaching Cobol Programming
+An Implementation of Structured Walk-Throughsin Teaching Cobol Programming The effectiveness of structuredwalk-throughs in teaching introductory Cobol programming was empiricallyassessed with a sample of 215 under-graduate business administrationmajors Cobol proficiency was measured by a final examinationtesting ( a ) knowledge of language rules , ( b ) ability to readand debug a program , and ( c ) the ability to write a program Analysisof multiple covariance was used to statistically adjust testscores for age and conditional reasoning scores The findings provideempirical support for incorporating structured walk-throughsinto the programming learning process more effectivelydevelop student proficiency in writing Cobol programs Structured walk-throughs , Cobol programming , teachingof programming , testing programming proficiency 
+
+CA790601 DH August 21, 1979 3:19 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2175 44  14.955053572953851 BM25
+
+
+Subexpression Ordering in the Execution of Arithmetic Expressions
+Subexpression Ordering in the Execution of Arithmetic Expressions An arithmetic expression can often be brokendown into its component subexpressions Depending on the hardware environment in which the expression isto be executed , these subexpressions can be evaluated in serials , in parallel , or in a combination of thesemodes This paper shows that expression execution time can be minimized only if consideration is given tothe ordering of the subexpressions In particular , subexpressions should be executed in order of decreasingmemory and processor time requirements This observation is valid for configurations ranging froma uniprocessor with an unbuffered main memory to multiprocessor with a `` cache '' buffer memory If thenumber of subexpressions which can be executed in parallel exceeds the number of available processors , then execution of some of these subexpressions must be postponed A procedure is given which combines thisrequirement with the earlier ordering considerations to provide an optimal execution sequence parallel processing , cache , arithmetic expressions , subexpression ordering , computational trees , compilers 
+
+CA710707 JB February 2, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3002 45  14.873089209050804 BM25
+
+
+A Record and File Partitioning Model
+A Record and File Partitioning Model One of the main objectives in the design ofa file system is the reduction of storage and data transfer costs This paper presents a model in whichseveral requests access the file system , and each request requires information from one or more variablelength data-items The probabilities of access and the distribution of each data-item 's length are assumedto be known , and to be mutually independent The file system uses one or more storage devices , andeach record may be partitioned into subrecords that are stored on different devices One of the subrecordsis designated as the primary record ; when a request for a record is made , the primary record isfirst accessed , and other subrecords are accessed only if the pertinent information is not stored in theprimary record The model that is presented in this paper , both as a nonlinear programming model anda mixed integer programming model , is a very general one ; several types of file systems may be derived fromit by an appropriate selection of its parameters This model has already been used in the optimization oflibrary routines ' storage at a large scale operating system file system , file design , file partitioning , record partitioning 
+
+CA770103 JB January 3, 1978  12:28 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2886 46  14.797358142842555 BM25
+
+
+Semantic Evaluation from Left to Right
+This paper describes attribute grammars and theiruse for the definition of programming languages and compilers ; a formal definition of attribute grammarsand a discussion of some of its important aspects are included The paper concentrates on the evaluationof semantic attributes in a few passes from left to right over the derivation tree of a program Acondition for an attribute grammar is given which assures that the semantics of any program can be evaluatedin a single pass over the derivation tree , and an algorithm is discussed which decides how manypasses from left to right are in general necessary , given the attribute grammar These notions are explainedin terms of an example grammar which describes the scope rules of Algol 60 Practical questions , suchas the relative efficiency of different evaluation schemes , and the ease of adapting the attribute grammarof a given programming language to the left-to-right evaluation scheme are discussed 
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3059 47  14.77164159313789 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+Approximate queueing models for internal parallelprocessing by individual programs in a multiprogrammed system are developed in this paper The models are formulated in terms of CPU : I/O and I/O : I/O overlapand applied to the analysis of these problems The percentage performance improvement from CPU : I/Ooverlap is found to be greatest for systems which are in approximate CPU : I/O utilization balance and forlow degrees of multiprogramming The percentage improvement from I/O : I/O overlap is found to be greatestfor systemtems in which the I/O system is more utilized than the CPU Models for Parallel Processing WIthin Programs : Application to CPU : I/O and I/O : I/O Overlap The solution techniqueis developed by network decomposition Multiprogramming , parallel processing , queueingnetwork models , multiprocessing of computation and I/O 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1695 48  14.311522693630682 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+A description is presented of PLEXUS , a systemwhich enables a user to construct and specify a neural network , to analyze the output data producedby the network , and to store and retrieve networks and data from a library The system , operated entirelyfrom a digital display unit , interacts directly with the user and permits easy and rapid transitionsbetween the various phases of the modeling process PLEXUS is designed to complement neurophysiological researchso that the systematic development of neural models can be coordinated with experimental work PLEXUSnetworks are built up from components representing individual neurons , external stimuli , and interconnectingfibers , each component being of a relatively detailed nature Convenient means for specification and modification of a network andextensive error-checking capabilities are provided Data resulting from the simulation of a network may beanalyzed by a variety of techniques ranging from examinations of the gross characteristics of the data tothe determination of detailed statistical properties biological modeling , data analysis , discrete systemsimulation , library systems , modeling , network simulation , neural networks , neurophysiologicalmodels , on-line simulation , simulation PLEXUS-An On-Line System for Modeling Neural Networks Provision is also made for the use ofexperimental data as input to a network 
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1354 49  14.08389474456826 BM25
+
+
+Conversion of Decision Tables to ComputerPrograms by Rule Mark Techniques
+Recent discussion suggest that in many circumstancesit is to be preferred to the technique of constructing networks or trees A drawback of thetechnique as hitherto presented is its liability to produce object programs of longer run time than necessary In this paper a modification of the technique is discussed which takes into account both rule frequenciesand the relative times for evaluating conditions Conversion of Decision Tables to ComputerPrograms by Rule Mark Techniques The rule mask technique is one method of convertinglimited entry decision tables to computer programs 
+
+CA661104 JB March 2, 1978  3:41 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2716 50  13.974965739698403 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+Optimizing the Performance of a Relational Algebra Database Interface An approach for implementing a `` smart '' interfaceto support a relational view of data is proposed The basic idea is to employ automatic programming techniquesso that the interface analyzes and efficiently refines the high level query specification supplied bythe user A relational algebra interface , called SQUIRAL , which was designed using this approach , is describedin detail SQUIRAL seeks to minimize query response time and space utilization by : ( 1 ) performingglobal query optimization , ( 2 ) exploiting disjoint and pipelined concurrency , ( 3 ) coordinating sort ordersin temporary relations , ( 4 ) employing directory analysis , and ( 5 ) maintaining locality in page references Codd 's relational algebra are presented , anda methodology for composing them to optimize the performance of a particular user query is described relational database , database optimization , invertedfile , automatic programming , query language , data manipulation language , very high level language 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-0796 51  13.92543263672447 BM25
+
+
+SABRAG, A Time-Sharing Low-Cost Computer
+The serial SABRAC computer designed and builtin the Scientific Department of the Israel defense Ministry has a 5000-location magnetic drum , main store To avoid a need to resort to optimum programming techniques and to increase its overall efficiency thecomputer has also been given a 224-word ferrite core store from which the program is obeyed Transfersbetween the core and drum stores and to and from the twin paper-tape input and output channels are allavailable autonomously ( concurrently , time-shared ) Multiplication and division orders are also autonomous , so that the machine may be executing up to three orders simultaneously All functions naturally are interlocked A number of other advanced orders and facilities are also incorporatedn particular , an '' Execute '' order permits a temporary jump for up to four orders and a second modifier register permits doublemodification in general and relative addressing of subroutines in particular Thus the overall effectivespeed of the machine is muchhigher than its basic specification would lead one to expect and itsdesign indicates one way in which the concepts of time sharing may be incorporated in `` low-cost '' computers 
+
+CA630802 JB March 13, 1978  8:54 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1630 52  13.877683340212194 BM25
+
+
+Computer Representation of Planar Regions by Their Skeletons
+Computer Representation of Planar Regions by Their Skeletons Any region can be regarded as a union of maximalneighborhoods of its points , and can be specified by the centers and radii of these neighborhoods ; thisset is a sort of '' skeleton '' of the region The storage required to represent a region in this way iscomparable to that required when it is represented by encoding its boundary Moreover , the skeleton representationseems to have advantages when it is necessary to determine repeatedly whether points are insideor outside the region , or to perform set-theoretic operations on regions 
+
+CA670212 JB February 28, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1811 53  13.835585670804354 BM25
+
+
+A Case Study in Programming for Parallel-Processors
+An affirmative partial answer is provided tothe question of whether it is possible to program parallel-processor computing systems to efficiently decreaseexecution time for useful problems Parallel-processor systems are multiprocessor systems in which several ofthe processors can simultaneously execute separate tasks of a single job , thus cooperating to decreasethe solution time of a computational problem The processors have independent instruction counters , meaningthat each processor executes its own task program relatively independently of the other processors Communicationbetween cooperating processors is by means of data in storage shared by all processors Aprogram for the determination of the distribution of current in an electrical network was written for aparallel-processor computing system , and execution of this program was simulated The data gathered fromsimulation runs demonstrate the efficient solution of this problem , typical of a large class of importantproblems It is shown that , with proper programming , solution time when N processors are applied approaches1/N times the solution time for a single processor , while improper programming can actually lead to an increaseof solution time with the number of processors parallel-processor , parallelism , parallel programming , multiprocessor , multiprogramming , tasking , storage interference , electrical network , simulation , relaxation , Jacobi , Gauss-Seidel , convergence CACM December , 1969 
+
+CA691201 JB February 15, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3091 54  13.806939148602638 BM25
+
+
+Some Basic Determinants of Computer Programming Productivity
+The propose of this research was to examinethe relationship between processing characteristics of programs and experience characteristics of programmersand program development time The ultimate objective was to develop a technique for predictingthe amount of time necessary to create a computer program The fifteen program characteristics hypothesizedas being associated with an increase in programming time required are objectively measurable from preprogrammingspecifications The five programmer characteristics are experience-related and are also measurable before a programmingtask is begun Nine program characteristics emerged as major influences on program development time , each associated with increased program development time All five programmer characteristics were foundto be related to reduced program development time A multiple regression equation which contained one programmercharacteristic and four program characteristics gave evidence of good predictive power forforecasting program development time Programmer performance standards , predicting programdevelopment time , program estimation techniques , program development equation , value of programming experience , programmer evaluation , programmer scheduling , programmer productivity , programming management , Cobol programming Some Basic Determinants of Computer Programming Productivity 
+
+CA780606 DH February 26, 1979  11:42 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2181 55  13.780860590463078 BM25
+
+
+The State of Computer Oriented Curricula in Business Schools 1970
+The ACM Committee on Computer Education for Management , supported by a National Science Foundation Grant , is established to appraise the state of the artand to develop a series of recommendations for improving computer education for management To providethe Committee with material for its study of curricular needs , five regional meetings in the UnitedStates were held in 1970 , at each of which a broad cross section of invited academicians and practitionersconsidered the state of curricula in business schools Three topics were covered : curricula forthe general manager ; computer-related material in required and functional courses ; and curricula for studentsconcentrating on computer-based information systems An analysis of the minutes of the meetingsrevealed a common set of experiences which raised similar pedagogic and economic issues This presentationgives a summary of the discussions ; a condensationof the pedagogic and substantive concerns raised ; andconsideration of the resource allocation issues involved Preliminary to the Committee 's recommendationsfor improving computer education for management , this report has been prepared to provide the participantsand the administrators of their institutions with background information for the ongoing task of coursedevelopment university programs , management education , curriculumdesign , business administration curricula , graduate business school resource planning 
+
+CA710701 JB February 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2937 56  13.770505829467865 BM25
+
+
+An Experimental Evaluation of Data Type Conventions
+The language in which programs are writtencan have a substantial effect on the reliability of the resulting programs This paper discusses an experimentthat compares the programming reliability of subjects using a statically typed language and a `` typeless '' language Analysis of the number of errors and the number of runs containing errors shows that , atleast in one environment , the use of a statically typed language can increase programming reliability Detailed analysis of the errors made by the subjects in programming solutions to reasonably small problemsshows that the subjects had difficulty manipulating the representation of data data types , experimentation , languagedesign , redundancy , reliable software CA770806JB December 28 , 1977 7:32 AM 
+
+CA770806JB December 28, 1977  7:32 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1350 57  13.756224833473713 BM25
+
+
+The Augmented Predictive Analyzer for Context-FreeLanguages-Its Relative Efficiency
+The Augmented Predictive Analyzer for Context-FreeLanguages-Its Relative Efficiency It has been proven by Greibach that for a givencontext-free grammar G , a standard-form grammar Gs can be constructed , which generates the same languagesas is generated by G and whose rules are all of the form Z -- > cY ( 1 ) Y ( m ) , ( m > = O ) where Z andY ( i ) are intermediate symbols and c a terminal symbol Since the predictive analyzer at Harvard usesa standard-form grammar , it can accept the language of any context-free Grammar G , given an equivalent standard-formgrammar Gs The structural descriptions SD ( Gs , X ) assigned to a given sentence X by the predictiveanalyzer , however , are usually different from the structural descriptions SD ( G , X ) assigned to thesame sentence by the original context-free grammar G from which Gs is derived In Section 1 , an algorithm , originally due to Abbott is described standard-form grammar each of whose rules is in standard form , supplementedby additional information describing its derivation from the original context-free grammar In section2 , the augmented predictive analyzer as a parsing algorithm for arbitrary context-free languages is comparedwith two other parsing algorithms : a selective top-to-bottom algorithm similar to Irons ' `` error correctingparse algorithm '' and an immediate constituent analyzer which is an extension of Sakai-Cocke 's algorithmfor normal grammars The comparison is based upon several criteria of efficiency , covering core-storagerequirements , complexities of the programs and processing time A technique for performing the SD ( Gs , X ) to SD ( G , X ) transformation effectively is also described 
+
+CA661108 JB March 2, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2097 58  13.712722543809022 BM25
+
+
+A Program to Teach Programming
+The TEACH system was developed at MIT to ease the cost and improve the results of elementary instruction in programming Pedagogically , the system appears to be successful ; straightforward reimplementation will make it economically successful as well Similar programs of profound tutorial skill will appear only as the results ofextended research The outlines of his research are beginning to become clear To the student , TEACH offers loosely guided experience with a conversational language which was designed withteaching in mind 
+
+CA700301 JB February 14, 1978  8:42 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2972 59  13.69730934341266 BM25
+
+
+Proof Techniques for Hierarchically Structured Programs
+Proof Techniques for Hierarchically Structured Programs A method for describing and structuring programsthat simplifies proofs of their correctness is presented The method formally represents a programin terms of levels of abstraction , each level of which can be described by a self-contained nonproceduralspecification The proofs , like the programs , are structured by levels Although only manual proofsare described in the paper , the method is also applicable to semi-automatic and automatic proofs Preliminaryresults are encouraging , indicating that the method can be applied to large programs , such as operating systems hierarchical structure , program verification , structuredprogramming , formal specification , abstraction , and programming methodology CA770410 JB December 29 , 1977 4:53 AM 
+
+CA770410 JB December 29, 1977  4:53 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1029 60  13.696362062517657 BM25
+
+
+A Simple Automatic Derivative Evaluation Program
+A procedure for automatic evaluation of total/partialderivatives of arbitrary algebraic functions is presented The technique permits computation ofnumerical values of derivatives without developing analytical expressions for the derivatives A library of elementary function subroutines is providedfor the automatic evaluation and differentiation of these new variables The final step in this processproduces the desired function 's derivative The main feature of this approach is its simplicity It can be used as a quick-reaction tool where the derivation of analytical derivatives is laborious andalso as a debugging tool for programs which contain derivatives A Simple Automatic Derivative Evaluation Program The keyto the method is the decomposition of the given function , by introduction of intermediate variables , into a series of elementary functional steps 
+
+CA640801 JB March 9, 1978  7:38 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3144 61  13.689612083427873 BM25
+
+
+A Model for and DIscussion of Multi-Interpreter Systems
+A Model for and DIscussion of Multi-Interpreter Systems A multi-interpreter system is a system in which programs executeby virtue of being interpreted by other programs , which themselves mayeither be interpreted ( i nested interpreters ) or run directly onthe host machine The model reveals the anatomy of interpretersand how these differ from procedures , and exhibits linksto protection domains and multiprocessor architectures Interpreters , transfer-of-control , hierarchies 
+
+CA790505 DH August 21, 19791:14 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-0616 62  13.637282038904509 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee This report represents the results of thefirst phase of the work of the Language Structure Group The goal of this work is to arrive at a properstructure for a machine-independent problem-defining language , at the systems level of data processing Thereport is based , for the most part , on a mathematical model called `` An Information Algebra '' developed primarilyby R It is hoped that this report will be read ( a ) with avid interest by programming languagedesigners and implementors , and all those interested in developing a theoretical approach to dataprocessing ; ( b ) with interest and understanding by professional programmers and systems analysts ; and ( c ) with appreciation by the businessman-analyst-manager The authors have not attempted an exhaustive discoursein this report Rather , they have tried to present a philosophy to the professional people who are vitallyconcerned with providing a working language for the systems analyst 's use They trust that the ideasin this report will stimulate others to think along similar lines Questions and comments will be welcomed , and can be addressed to any of the members of the Language Structure Group : Robert Bosak , SystemDevelopment Corporation ; Richard F Clippinger , Honeywell EDP Division ; Carey Dobbs , Remington RandUnivac Division ; Roy Goldfinger ( Chairman ) , IBM Corporation ; Renee B Jasper , Navy Management Office ; William Keating , National Cash Register ; George Kendrick , General Electric Company ; Jean E 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1162 63  13.579329910930042 BM25
+
+
+An Assembly Language for Reprogramming
+An Assembly Language for Reprogramming Complete reprogramming of compiler language programsis seldom necessary It is assembly language programs which present the greatest difficulty The meta-language presented here can be used to specifythe mapping of any language which conforms to a canonical list form into an arbitrary stream of bits This bit stream may be treated as a machine language program , a character stream , or whatever elsethe user might desire Assemblylanguages generally provide a one-for-one translation from a symbolic to a numeric version of a program , thatis , from assembly language to machine language CACM December , 1965 
+
+CA651207 JB March 6, 1978  4:01 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3133 64  13.49503619430918 BM25
+
+
+Logic and Semantic Networks
+An extended form of semantic network is defined , which canbe regarded as a syntactic variant of the clausal form of logic By virtue of its relationship with logic , the extendedsemantic network is provided with a precise semantics , inference rules , and a procedural interpretation Onthe other hand , by regarding semantic networks as an abstract data structure for the representation of clauses , we provide atheorem-prover with a potentially useful indexing scheme and path-followingstrategy for guiding the search for a proof Logic , semantic networks , theorem-proving , indexing , resolution , deduction , logic programming Deliyanni , A 
+
+CA790304 DH April 12, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2542 65  13.44005503567005 BM25
+
+
+A Software Design and Evaluation System
+A Software Design and Evaluation System A critical failure of current software systemdesign and implementation methodology is that the performance of a proposed design is not evaluatedbefore it is actually implemented In this paper the reasons for this failure are explored , and a new methodologywhich overcomes many of the difficulties is proposed The source languagedescription is used as direct input to performance analysis and simulation routines Using the performanceinformation obtained from these routines as feedback , the problems which adversely affect performanceare detected early enough so that they can be corrected without costly major reimplementation of the proposed system operating system development , language processingsoftware evaluation , compilers , system programming , supervisory systems , debugging , program maintenance , modeling , system integration , simulation A system which integrates performance evaluationwith design and implementation is described This system is based on a simple , high level languagewhich is used to describe the evolving system at all stages of its development DeVaney , D 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3106 66  13.370658532431694 BM25
+
+
+A Fast Algorithm for Copying List Structures
+A Fast Algorithm for Copying List Structures An algorithm is presented for copying an arbitrarilylinked list structure into a block of contiguous storage locations without destroying the originallist It is shown to be significantly fasterthan Fisher 's algorithm , the fastest previous linear-time algorithm for the same problem Its speedcomes mainly from its efficient list-traversal technique , which folds the processing stack into thestructure being built , and from its classification of list cells into nine types , which enables processingoperations to be optimized for each type 
+
+CA780501 DH February 26, 1979  3:25 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1323 67  13.319235122061503 BM25
+
+
+A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I*
+A Correspondence Between ALGOL 60 and Church 's Lambda-Notation : Part I* This paper describes how some of the semanticsof ALGOL 60 can be formalized by establishing a correspondence between expressions of ALGOL 60 and expressionsin a modified form of Church 's L-notation First a model for computer languages and compute behavioris described , based on the notions of functional application and functional abstraction , but also havinganalogues for imperative language features Many of ALGOL 60 's features emerge as particular arrangements ofa small number of structural rules , suggesting new classifications and generalizations The correspondenceis first described informally , mainly by illustrations `` This is itself presented in a `` purelyfunctional '' notation , that is one using only application and abstraction Then this model is used as an `` abstract object language '' into which ALGOL 60 is mapped The second part of the paper gives a formal description , i 
+
+CA650201 JB March 7, 1978  11:26 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2898 68  13.306807719326322 BM25
+
+
+A Conceptual Framework for a Nonprocedural Programming Language
+A sequential programming language forces theprogrammer to prescribe explicitly the order in which the operations in his program have to be executed , even if the order is not relevant to the solution of his problem The requirement to indicate irrelevantsequencing can be removed if the language provides facilities for specifying a task in a nonproceduralmanner In general , a program specified in this way will allow concurrent evaluation Within a program , nonprocedural and sequential program modules may be nested freely This paper describesa conceptual framework for a high level programming language providing both nonprocedural and sequentialfacilities CACM December , 1977 parallel programming , descriptive programming , nonprocedural programming , definitional language , data flow programming , applicative programming 
+
+CA771202 JB February 1, 1980  4:05 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3080 69  13.224601466884783 BM25
+
+
+Proving the Correctness of Heuristically Optimized Code 
+Proving the Correctness of Heuristically Optimized Code A system for proving that programs writtenin a high level language are correctly translated to a low level language is described Examples of the usefulness of such a systemare given Some interesting results are the ability to handle programs that implement recursion bybypassing the start of the program , and the detection and pinpointing of a wide class of errors in the lowlevel language programs The examples demonstrate that optimization of the genre of this paper can resultin substantially faster operation and the saving of memory in terms of program and stack sizes Compilers , correctness , code optimization , debugging , program verification , Lisp A primary use ofthe system is as a post optimization step in code generation The low level language programs need notbe generated by a compiler and in fact could be hand coded 
+
+CA780708 DH February 7, 1979  3:53 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3049 70  13.171702691950038 BM25
+
+
+A Simply Extended and Modified BatchEnvironment Graphical System (SEMBEGS)
+SEMBEGS is a complete batch environment graphicalsystem containing components for handling graphical data files , for displaying the contents ofthese files on a variety of graphical hardware , and for performing graphical batch input operations The paper presents the conceptual view of graphics leadingto the design of SEMBEGS and outlines the major components of the system BAGDAMSprovides facilities for storing , retrieving , and manipulating the descriptions of graphical entitiesprovided by , and received by application programs , graphics packages , and graphical devices Computer graphics , data structures , graphic display , graphic input , graphical database , device independent graphics A Simply Extended and Modified BatchEnvironment Graphical System ( SEMBEGS ) The design of SEMBEGS is foundedupon the basic assumption that the true aim of computer graphics is to describe graphical entities , rather than , as commonly held , to provide graphical input and output functional capabilities SEMBEGSis built around a Basic Graphical Data Management System ( BAGDAMS ) which provides a common means of communicatingthe descriptions of graphical entities between the various components of SEMBEGS 
+
+CA781102 DH January 26, 1979  1:30 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1805 71  13.097936001507115 BM25
+
+
+Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method
+Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method Multiprogramming as it is discussed here isa mode of computer operation in which two or moreprograms are concurrently in processor memory and proceeding , each using the same central processor unit ( CPU ) and input-output ( I/O ) channels These programsare actually proceeding intermittently and singly , according to eligibility ( readiness to proceed ) and priority It is useful to be able to represent them as proceeding continuously and simultaneously , eachat an effective rate , which may be a fraction of that which it would enjoy in the absence of the otherprograms The effective progress rate of each program is sensitive to many detailed characteristicsof itself and its co-residents and simulation has been the best available method of predicting it Thispaper presents the results of progress in developing an alternative to simulation , a simulation-tested iterativecomputation of these rates under certain situations The algorithm is sensitive to most of thefactors that control the phenomenon , including nonquantitative or topological features of the programs ' structures productivity , prediction , multiprogramming , simulation , equipment evaluation , hardware , evaluation , monitor , operating system , system software , supervisors , performance , time sharing , time slicing CACM December , 1969 
+
+CA691207 JB February 15, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2883 72  13.025048346253676 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+This paper presents a method for detecting edgesand contours in noisy pictures The properties of an edge are embedded in a figure of merit and the edgedetection problem becomes the problem of minimizing the given figure of merit This problem can be representedas a shortest path problem on a graph and can be solved using well-known graph search algorithms The relations between this representation of the minimization problem and a dynamic programming approachare discussed , showing that the graph search method can lead to substantial improvements in computingtime Moreover , if heuristic search methods are used , the computing time will depend on the amountof noise in the picture Some experimental results are given ; these show how various information about theshape of the contour of an object can be embeddedin the figure of merit , thus allowing the extractionof contours from noisy picture and the separation of touching objects picture processing , pattern recognition , edgedetection , contour detection , contour following , optimization problems , dynamic programming , shortestpath , heuristic search methods , problem solving methods An Application of Heuristic Search Methods to Edge and Contour Detection 
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2020 73  13.01856826857828 BM25
+
+
+The Allocation of Computer Resources-Is Pricing the Answer?
+The Allocation of Computer Resources-Is Pricing the Answer ? The widespread use of complex third generation computing systems has led to a much broader concern about the means by which the resources of these systemsare allocated among the user community One means that is suggestedmore and more frequently is a pricing procedure In thispaper the manner in which one would like to allocate computing resourcesis considered , and then the extent to which a pricing mechanism fits this mold is discussed Inasmuch as pricing must serve as a rationing mechanism at times , consideration is given to the means by which prices can be adjusted flexibly in order to make a dynamic allocation of resources Consideration is also given to the means by which users can be insulated from the harmful effects of frequent price fluctuations Although the subject of pricing hasbeen given a lot of attention recently , a number of misconceptionspersist about its purpose and its operation Twoillustrative pricing systems are also discussed in order to demonstrate the applicability of pricing in quite different environments allocation mechanisms , charging , computer pricing , costing , flexible pricing , pricing , priority charges , resource allocation , user motivation An attempt is made to clarify some of these misunderstandings and to highlight the advantages and disadvantages and to highlight the advantages and disadvantages of pricing 
+
+CA700801 JB February 10, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1046 74  12.956768346580594 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number of ARTICLES published during thepast two years , R Rohl in their most recent paper have presenteda very interesting programming system that they have developed for the Ferranti Atlas computer Thepresent paper describes some of the major features of their system it expands on some points that the originalauthors cover briefly , and treats only very lightly some topics to which they devote considerable space The purpose of this paper is purely expository Except in some very small details , and in some comments , it does not intentionally depart from or add to the material published in the listed references A Compiler-Building System Developed by Brooker and Morris 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1835 75  12.909905610812519 BM25
+
+
+The IITRAN Programming Language
+The IITRAN language , developed to be usedby students , and its important important features are described IITRAN is a procedure-oriented languagewith a one-level block structure and a variety of data types Several novel and powerful featuresare included A discussion of design principles to be followed in a student language is given Dewar , R languages programming languages , student programmingsystems , language design , high school programs , college courses 
+
+CA691011 JB February 15, 1978  1:54 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3146 76  12.886517645571665 BM25
+
+
+An Academic Program Providing Realistic Training in Software Engineering
+An Academic Program Providing Realistic Training in Software Engineering The objective ofthe Clinic is to provide students , working as small teams under careful faculty supervision , an opportunity to work on real worldproblems of sufficient magnitude and complexity Under this program , students can acquire essential skills of software engineering , such as team work , software project management , software designmethodology , and communication skills , in a realistic environment Sample software projects undertaken by the Clinic are described Software engineering , software engineering education , softwareprojects , student teams , software engineering skills An academic program at Harvey Mudd College , calledthe Clinic program , brings projects from industry on campus to be studied and solved by student teams Experience so far has shown that the program is a viabletransition from an academic to industrial world 
+
+CA790602 DH August 21, 1979  4:04 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3093 77  12.872260745360268 BM25
+
+
+Automatic Error Recovery for LR Parsers
+Automatic Error Recovery for LR Parsers In this paper we present a scheme for detectingand recovering from syntax errors in programs The scheme , which is based on LR parsing , is drivenby information which is directly and automatically obtainable from the information that is already presentin an LR parser The approach , which is patterned after that of Levy and Graham and Rhodes , appears toprovide error recovery which is both simple and powerful Programming languages , error correction , automaticcorrection , parsing , LR , syntax errors , compilers 
+
+CA780604 DH February 26, 1979  12:22 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2189 78  12.834782097327569 BM25
+
+
+Generation of Rosary Permutations Expressed in Hamiltonian Circuits
+Generation of Rosary Permutations Expressed in Hamiltonian Circuits Each of them corresponds to two circular permutations which mirror-imageeach other , and is generated successively by a number system covering 3*4* Every set of edges { E [ k ] } , 1 < = E [ k ] < = k , 3 < = k < = ( n-1 ) is determined recursively by constructinga Hamiltonian circuit with k vertices from a Hamiltonian circuit with k-1 vertices , starting withthe Hamiltonian circuit of 3 vertices The basic operation consists of transposition of a pair of adjacentvertices where the position of the pair in the permutation is determined by { E [ k ] } Two algorithmstreating the same example for five vertices are presented 5 ( n - 1 ) ! rosary permutations be cycling the permutations and by taking them in thereverse order-procedures which can be performed fairly efficiently by computer Systematic generation of a specific classof permutations fundamental to scheduling problems is described 5 ( n - 1 ) ! specific permutations of n elements , termed rosarypermutations , can be defined It is very easy to derive all possible n ! permutations from the 
+
+CA710601 JB February 3, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2344 79  12.781524292656552 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+A simulation model of a time-sharing systemwith a finite noncontiguous store and an infinite auxiliary store is used to study the variation of systemparameters such as store size , number of jobs allowed to execute simultaneously , job-scheduling algorithm , etc The effects of these variations on a measure of system performance is used to ascertain whichof the parameters controllable by the job-scheduling algorithm , including the scheduling itself , require optimization , and which of the parameters not normally controllable by the scheduling algorithm have a markedeffect on system performance It is shown that significant improvements in the measure of system performance can be obtained byusing variable time-slice techniques and by selecting the optimum round-robin cycle time It appears that thesefeatures would benefit from optimization whereas other parameters controllable by the scheduling algorithmaffect system performance in a predictable manner and would not benefit from optimization Featuresnot normally under the control of the scheduling algorithm can also have a marked effect on the measureof performance ; in particular , supervisor overheads , the size of the store , and the speed of the CPU A comparisonis made between the results of the simulation model and two analytical equations for quantum-orientednonpreemptive time-sharing systems time-sharing , simulation studies , optimization , measure of performance , scheduling algorithms System performance is based upon the mean cost of delay to all jobs processed 
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1988 80  12.731572268228032 BM25
+
+
+A Formalism for Translator Interactions
+A formalism is presented for describing the actionsof processors for programming languages-compilers , interpreters , assemblers-and their interactions in complex systemssuch as compiler-compilers or extendible languages The formalism here might be used to define and answer such aquestion as `` Can one do bootstrapping using a meta-compiler whose metaphase is interpretive ? '' In addition an algorithmis presented for deciding whether or not a given system canbe produced from a given set of component processors translator , compiler , interpreter , bootstrapping , language processor , compiler-compiler 
+
+CA701002 JB February 10, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1391 81  12.719563537791561 BM25
+
+
+Computer Experiments in Finite Algebra
+Maurer , W A medium-scale programming system is writtenin MAD and FAP on the IBM 7094 to manipulate some of the objects of modern algebra : finite groups , mapsand sets of maps , subsets and sets of subsets , constant integers and truth-values Designed to operatein a time-sharing environment , the system can serve as a teacher 's aid to the undergraduate student ofmodern algebra , as well as for the working scientist or engineer wishing to familiarize himself with the subset 
+
+CA660807 JB March 2, 1978  7:36 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2971 82  12.704828610303363 BM25
+
+
+SP/k: A System for Teaching Computer Programming
+The features of the SP/k language were chosen to encouragestructured problem solving by computers , to make the language easy to learn and use , to eliminateconfusing and redundant constructs , and to make the language easy to compile The resulting languageis suitable for in troducing programming concepts used in various applications , including business dataprocessing , scientific calculations and non-numeric computation Each subset in troduces new programming language constructs whileretaining all the constructs of preceding subsets Each subset is precisely defined and can be learnedor implemented without the following subsets SP/k is a compatible subset of the PL/I languagethat has been designed for teaching programming programmer education , universities , community colleges , high schools , PL/I , SP/k , minicomputers , programming language design , teaching programming , in troductory computing CA770501 JB December 29 , 1977 4:40 AM 
+
+CA770501 JB December 29, 1977  4:40 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3014 83  12.696303836977423 BM25
+
+
+Is "Sometime" Sometimes Better than "Always"? (IntermittentAssertions in Proving Program Correctness)
+Is `` Sometime '' Sometimes Better than `` Always '' ? ( IntermittentAssertions in Proving Program Correctness ) This paper explores a technique for proving thecorrectness and termination of programs simultaneously This approach , the intermittent-assertion method , involvesdocumenting the program with assertions that must be true at some time when control passes throughthe corresponding point , but that need not be true every time The method , introduced by Burstall , promisesto provide a valuable complement to the more conventional methods The intermittent-assertion methodis presented with a number of examples of correctness and termination proofs Some of these proofs are markedlysimpler than their conventional counterparts On the other hand , it is shown that a proof of correctnessor termination by any of the conventional techniques can be rephrased directly as a proof usingintermittent assertions Finally , it is shown how the intermittent-assertion method can be appliedto prove the validity of program transformations and the correctness of continuously operating programs intermittent assertions , correctness of programs , termination of programs , program verification , program transformation , continuously operating programs 
+
+CA780209 JB March 28, 1978  2:04 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2856 84  12.69153742048582 BM25
+
+
+The Synthetic Approach to Decision Table Conversion
+Previous approaches to the problem of automaticallyconverting decision tables to computer programs have been based on decomposition At anystage , one condition is selected for testing , and two smaller problems ( decision tables with one lesscondition ) are created An optimal program ( with respect to average execution time or storage space , forexample ) is located only through implicit enumeration of all possible decision trees using a technique suchas branch-and-bound The new approach described in this paper uses dynamic programming to synthesizean optimal decision tree from which a program can be created Using this approach , the efficiency of creatingan optimal program is increased substantially , permitting generation of optimal programs for decisiontables with as many as ten to twelve conditions decision tables , decision trees , dynamic programming , optimal programs The Synthetic Approach to Decision Table Conversion 
+
+CA760606 JB January 4, 1978  1:50 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1890 85  12.654732914962928 BM25
+
+
+Simulation of Traffic Flows in a Network
+A computer simulation program which dealswith traffic flows in the network of a large area is described Each road is segmented into blocks ofseveral ten-meter lengths and is represented by a bidirectional list in computer memory the transfer of cars from one block to the next , is expressed by a proper formula Thissimulation scheme has its excellent point in that it makes it possible to trace the dynamic behaviorof traffic flows in a variety of situations , some examples of which are given for an actual area of the city of Kyoto , Japan traffic simulation , traffic flow , traffic networktraffic control , traffic density , intersection , signal setting , vehicle , road network , list structure , computer simulation Thisformula is based on the supposition that the speed of cars in a block is determined only by the density ofcars in the block , and this speed-versus-density curve is empirically given the numerical values 
+
+CA690603 JB February 17, 1978  1:26 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2083 86  12.646173085423353 BM25
+
+
+Creation and Control of Internal Data BasesUnder a Fortran Programming Environment
+Creation and Control of Internal Data BasesUnder a Fortran Programming Environment A method is described for the definition of a user 's COMMON structureand the automatic generation of the necessary COMMON , DIMENSION , EQUIVALENCE , and type declarations for each of the user 's routines The definitionfor the COMMON is contained in an easy to modify form , thusallowing the control of general communications of data between routines The described system has been implemented on the IBM 7094 , CDC 6000 series , and the IBM 360 The method has proved to be invaluablefor the definition and control of COMMON in many large-scale programs DeSalvio , A 
+
+CA700401 JB February 13, 1978  3:34 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3105 87  12.614508862387897 BM25
+
+
+A Language Extension for Expressing Constraints on Data Access
+A Language Extension for Expressing Constraints on Data Access The extension permitsexpression of access constraints on shared data Access constraints can apply both to simple objects , andto objects that are components of larger objects , such as bank account records in a bank 's data base The constraints are stated declaratively , and can be enforced by static checking similar to type checking Controlled sharing of information is needed anddesirable for many applications and is supported in operating systems by access control mechanisms Thispaper shows how to extend programming languages to provide controlled sharing 
+
+CA780502 DH February 26, 1979  3:19 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3054 88  12.60258988746775 BM25
+
+
+Implementing Quicksort Programs
+This paper is a practical study of how toimplement the Quicksort sorting algorithm and its best variants on real computers , including how to applyvarious code optimization techniques Analyticresults describing the performance of the programs are summarized A variety of special situations are consideredfrom a practical standpoint to illustrate Quicksort 's wide applicability as an internal sortingmethod which requires negligible extra storage A detailed implementation combining the most effective improvementsto Quicksort is given , along with a discussion of how to implement it in assembly language Quicksort , analysis of algorithms , code optimization , sorting 
+
+CA781007 DH January 29, 1979  5:40 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-0071 89  12.561689689300488 BM25
+
+
+Proposal for a Feasible Programming System
+This paper proposes designing a programmingfacility ( itself involving a digital computer and a program ) which will assist the preparation of large-scalereal-time programs This facility is to be capable of preparing programs for any of a varietyof machines having characteristics similar to those of the facility 's computer One of the basic assumptionsis that there will be enough random-access storage available to avoid the necessity for segmentinga constructed program in any fashion other than a trivial one While this assumption is somewhat unrealistic , it is intended to provide an opportunity to concentrate on the other aspects of program construction The programming system should stress the discovery in source program statements of as many errorsas possible , before attempting to construct an object program Among the computer characteristicswhich are advocated are a program interrupt scheme , a large set of characters , and indirect addressing 
+
+CA590802 JB March 22, 1978  6:16 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3008 90  12.526717008802319 BM25
+
+
+Preserving Average Proximity in Arrays
+DeMillo , R Preserving Average Proximity in Arrays Programmers and data structure designers are oftenforced to choose between alternative structures In storing these structures , preserving logical adjacenciesor `` proximity '' is usually an important consideration The combinatorial problem of storing arrays as variouskinds of list structures is examined Embeddings of graphs are used to model the loss of proximity involvedin such storage schemes , and an elementary proof that arrays can not be stored as linear lists withbounded loss of proximity is presented Average loss of proximity is then considered , and it is shownthat arrays can not be stored as linear lists with only bounded loss of average proximity , but can be sostored in binary trees The former result implies , for instance , that row major order is an asymptoticallyoptimal storage strategy for arrays arrays , graph embedding , linear lists , proximity , average proximity , trees LIPTON , R 
+
+CA780305 JB March 28, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1327 91  12.436909760760027 BM25
+
+
+Use of Decision Tables in Computer Programming
+Decision tables have many inherent advantages The technique to be illustratedputs these advantages to use in that it enables one to program directly from a decision table The techniqueis based on the creation of a binary image of a limited entry decision table in computer memory A binary image of a given set of input conditions can also be created There are several advantages gainedfrom the programming point view : ( 1 ) amount of computer memory used is drastically reduced , ( 2 ) programmingis simplified , and ( 3 ) documentation is brief and clear Use of Decision Tables in Computer Programming A decision table is a tabular form for displayingdecision logic This data image is used to scanthe decision table image to arrive at the proper course of action 
+
+CA650110 JB March 8, 1978  2:36 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1693 92  12.313782307509157 BM25
+
+
+GPL, a Truly General Purpose Language
+Constructslike the ALGOL 60 for-statements , and if-statements are not basic ; they are special types of procedures New `` symbols '' ( underlined words in ALGOL 60 ) are implicitly defined by usage in other declarations Aspart words are definable , packed words are handled as easily as full words `` Address '' variables ( pointers ) are included in full generality A truly general purpose programming language , GPL , is described which contains facilities for constructing ( within the language ) new data types aswell as facilities for operations performed upon them The basic language is minimal in the sense thatno basic element can be derived from the others with high efficiency in the object programs 
+
+CA680908 JB February 22, 1978  8:40 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1135 93  12.28950385694289 BM25
+
+
+A General Business-Oriented Language Based on Decision Expressions*
+A General Business-Oriented Language Based on Decision Expressions* The structure of a digital compute programminglanguage which covers a wide class of business and file processing applications is presented Sucha structure , based on identifying and incorporating into a compiler the aspects common to all processesof such class , permits writing extremely compact programs , even for comparatively complex applications , in terms of tables of control expressions which express only information characteristic of the particularapplication Furthermore , local changes of a process ( e This structure also allows for inexpensive preparation of loading-speed compilers which translate thesource programs into efficient machine codes The approach adopted here departs from conventional mechanicallanguage design philosophies It stresses the structural analysis of the class of processes to be representedin the languages , as opposed to emphasizing formal ( i It relies exclusively on nonprocedural representation of process as sets ( tables ) of relationsbetween data and results ( there are no control statements such as GO TO , etc ) , instead of using proceduredescriptions ( which are one-to-one translations of flowcharts ) Here an invariant pattern of procedureis identified as characteristic of the class of all batch file processes This new philosophy hasthe potential to overcome well-known deficiencies of other business-oriented languages and fully meetsthe requirements set by CODASYL for such languages , including machine-independence , contents-independent ) syntactical definitions 
+
+CA640208 JB March 10, 1978  4:08 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1591 94  12.280787985124256 BM25
+
+
+A Model for a Multifunctional Teaching System
+The model transferred control to theoperating system to execute functions other than teaching , and then recovered control in order to resumeteaching Because the teaching system automatically terminated and rescheduled itself , a student studying a course presented at a cathode-ray display terminal could switch readily between studentmode and programmer mode During the latter , the full resources of the operating system ( language processors , compilers , library and user 's programs ) were at his disposal A course could therefore include text material interleaved with programming problems which the studentcould solve without leaving the terminal Theimplications of a teaching system with this degree of flexibility for industrial and executive trainingas well as academic education are discussed In addition , the advantages of this type of system for computerprogramming and operation are also considered A Model for a Multifunctional Teaching System A teaching system model that was incorporatedinto an operating system of a large computer is described The teaching system ( ABAC-II ) was written to run under the operating system ( IBSYS ) forthe IBM 7044 Graphic System He could for example , write , assemble , debug , and execute at the terminal a program written in any language processed by the operating system Exercises in simulation and gaming could also be provided 
+
+CA670601 JB February 28, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1614 95  12.275314566023003 BM25
+
+
+A Proposal for Definitions in ALGOL
+They are an integral part of the program and are not fixed in the language Eventhe behavior of existing operators may be redefined The processing of text containing defined contexts featuresa `` replacement rule '' that eliminates unnecessary iterations and temporary storage Examples of definition setsare given for real and complex matrices , complex numbers , file processing , and list manipulation A Proposal for Definitions in ALGOL Definitions may occur in any block heading and terminatewith the block PERLIS , A 
+
+CA670401 JB February 28, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-2342 96  12.247183595885218 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference Between Communicating Parallel Processes Various kinds of interference between communicatingparallel processes have been examined by Dijkstra , Knuth , and others Solutions have been givenfor the mutual exclusion problem and associated subproblems , in the form of parallel programs , and informalproofs of correctness have been given for these solutions In this paper a system of parallelprocesses is regarded as a machine which proceeds from one state S ( i The mutual exclusion problemand the associated subproblems are formulated as questions of inclusion between sets of states , orof the existence of certain sequences A mechanical proof procedure is shown , which will either verify ( provethe correctness of ) or discredit ( prove the incorrectness of ) an attempted solution , with respectto any of the interference properties The formation of partial rules and the calculation oftransition rules are both applicable to hardware processes as well as to software processes , andsymmetry between processes is not required concurrent programming control , cooperating processes , formal programs , interference , mutual exclusion , operating systems , parallel processes 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-3052 97  12.193499293095568 BM25
+
+
+Cold-Start vs. Warm-Start Miss Ratios
+In a two-level computer storage hierarchy , missratio measurements are often made from a `` cold start , '' that is made with the first-level store initiallyempty For large capacities the effect on the measured miss ratio of the misses incurred whilefilling the first-level store can be significant , even for long reference strings Use of `` warm-start '' rather than `` cold-start '' miss ratios cast doubt on the widespread belief that the observed `` S-shape '' oflifetime ( reciprocal of miss ratio ) versus capacity curve indicates a property of behavior of programs thatmaintain a constant number of pages in main storage On the other hand , if cold-start miss ratios are measuredas a function of capacity and measurement length , then they are useful in studying systems in whichoperation of a program is periodically interrupted by task switches It is shown how to obtain , under simpleassumptions , the cache miss ratio for multiprogramming from cold-start miss ratio values and how to obtainapproximate cold-start miss ratios from warm-start miss ratios 
+
+CA781009 DH January 29, 1979  5:16 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1703 98  12.133182340165572 BM25
+
+
+Accommodating Standards and Identification of Programming Languages
+The user public wants standardization andreliable identification of programming languages and related services One way of achieving these goalsillustrated by the methods adopted for TRAC T-64 interactive language , and its related family of languages Oppressive rigidity usually associated with standardization is avoided by a new accommodation techniqueaccessible to the user to allow local variations with the language Use of the organizational trademark ( TRAC ) on the published standards , and services relying upon them , provides a reliable public identification Accommodating Standards and Identification of Programming Languages Explicit standardization of the languageis undertaken at the organizational source of the language standardization , programming languages , TRAC T-64language , tranemark , public identification of programming languages , standards which accommodate 
+
+CA680811 JB February 22, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1170 99  12.09227784268682 BM25
+
+
+Analyzing English Syntax with a Pattern-Learning Parser
+A dependency analysis system based on patternrecognition and learning logic was developed to infer word classes and rules of syntactic combinationfrom experience with text which had been analyzed The characteristics used to form word classes are thedepth in the dependency tree of each word , the direction of its governor and the same features foreach of its immediate neighbors Syntactic rules of combination show the relation of a word to its governorin the depth pattern of the sentence The system was tested on 400 elementary basic English sentencesincluding 300 used earlier by Knowlton in a different learning parser of all 400 sentences Afterexperience with 300 sentences it was able to generalize with 77 percent accuracy to the next 100 9 for accuratelyparsing each new sentence it encountered It was concluded that the system is adequate for learningto parse the bulk of basic English but that further development is required before conclusions aboutits application to ordinary English can be stored The system is operational and available onthe ARPA/SDC time-shared computing system 
+
+CA651111 JB March 6, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+57 Q0 CACM-1902 100  12.016751314651277 BM25
+
+
+An Automatic Grading Scheme for Simple Programming Exercises
+A discussion is given of alterations that weremade to a typical university operating system to record the results of programming exercises in threedifferent languages , including assembly language Exercisesrun under the scheme may be mixed with other programs , and no special recognition of exercises by the operators is necessary In this computer-controlled grading scheme provisionis made for testing with programmer-supplied data and for final runs with system-supplied data 
+
+CA690507 JB February 17, 1978  3:35 PM
+
+

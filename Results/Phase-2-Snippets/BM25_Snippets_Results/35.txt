@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+35 Q0 CACM-2932 1  34.462595776617384 BM25
+
+
+Complexity of Computations
+RABIN , M complexity of computations , ALGEBRAIC complexity , in tractable problems , PROBABILISTIC algorithms Illustrative EXAMPLES of practical and theoretical significance are given 
+
+CA770901 JB December 28, 1977  6:54 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1474 2  25.97936424306423 BM25
+
+
+Tests of Probabilistic Models for Propagation of Roundoff Errors
+Tests of PROBABILISTIC Models for Propagation of Roundoff Errors The purpose of thispaper is to give precise descriptions of certain PROBABILISTIC models for roundoff error , and then todescribe a series of experiments for TESTING the validity of these models 
+
+CA660210 JB March 3, 1978  2:37 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2165 3  22.907045543728003 BM25
+
+
+General Relativity and the Application of Algebraic Manipulative Systems
+The paper describes some applications of symbolicalgebra systems to problems of general relativity including the derivation of the FIELD equations , thePetrov classification of a metric , and the solution of the FIELD equations in the presence of matter ina simple case SYMBOLIC mathematics , nonnumerical mathematics , generalrelativity , ALGEBRAIC manipulation , equation manipulation General Relativity and the Application of ALGEBRAIC Manipulative Systems Attention is drawn to the strictly ALGEBRAIC difficulties encountered in this work 
+
+CA710807 JB February 2, 1978  2:53 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2836 4  22.642079369568304 BM25
+
+
+Weighted Derivation Trees
+The method may be applied to problemsinvolving PROBABILISTIC parsing or combinatorial optimization derivation tree , parse tree , PROBABILISTIC grammar , structural ambiguity , combinatorial optimization 
+
+CA760903 JB January 4, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3175 5  22.40948409503149 BM25
+
+
+Breaking Substitution Ciphers Using a Relaxation Algorithm
+In this paper the problem of breaking substitutionciphers is represented as a PROBABILISTIC labeling problem Cryptography , substitution ciphers , PROBABILISTIC classification , relaxation The method is applies successfully to two EXAMPLES 
+
+CA791103 DB January 23, 1980  11:15 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2090 6  20.299398665366546 BM25
+
+
+Symbolic Expansion of Algebraic Expressions (Algorithm 377 $R2))
+SYMBOLIC Expansion of ALGEBRAIC Expressions ( Algorithm 377 $ R2 ) ) algebra , SYMBOLIC algebra , symbolicmultiplication , ALGEBRAIC distribution , ALGEBRAIC multiplication , distribution algorithm , multiplication algorithm , product algorithm , polynomial distribution , polynomial expansion 
+
+CA700308 JB February 13, 1978  3:49 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1397 7  19.958805192388756 BM25
+
+
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation
+Proceedings of the ACM Symposium on SYMBOLIC and ALGEBRAIC Manipulation The ACM Symposium on SYMBOLIC and AlgebraicManipulation brought together over four hundred people interested in programming languages designedfor manipulation of ALGEBRAIC formulas and symbol strings , in their applications , and in algorithms fortheir implementation The conference was sponsoredby the ACM Special Interest Committee on SYMBOLIC and ALGEBRAIC Manipulation 
+
+CA660801 JB March 2, 1978  8:17 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2681 8  19.514556536392323 BM25
+
+
+Dynamic Memory Repacking
+A PROBABILISTIC model of a multiprogramming systemis exercised in order to determine the conditions under which the dynamic repacking of main memory is beneficial dynamic memory repacking , memory compaction , storagefragmentation , multiprogramming system model , PROBABILISTIC model , central processor productivity , resource utilization , system throughput 
+
+CA740302 JB January 18, 1978  12:37 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2323 9  17.74544717512145 BM25
+
+
+Toward a General Theory of Special Functions
+A list of a number of natural developmentsfor the FIELD of ALGEBRAIC manipulation is given ALGEBRAIC manipulation , special functions , algebraicsimplification , SYMBOLIC integration , ALGEBRAIC geometry , differential algebra Such a theory is preferable to a less general effort to make algebraicmanipulation systems knowledgeable about the usual special functions ( e 
+
+CA720705 JB January 30, 1978  3:07 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1386 10  17.679092508000068 BM25
+
+
+Symbolic Factoring of Polynomials in Several Variables
+The algorithm is an extension of a techniqueused by Kronecker in a proof that the prime factoring of any polynomial may be found in a FINITE numberof steps SYMBOLIC Factoring of Polynomials in Several Variables An algorithm for finding the SYMBOLIC factors ofa multi-variate polynomial with integer coefficients is presented The algorithm promises sufficient power to be used efficientlyin an online system for SYMBOLIC mathematics Techniques for implementing thealgorithm and several EXAMPLES are discussed 
+
+CA660812 JB March 2, 1978  7:06 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3071 11  17.51875755928304 BM25
+
+
+An Algorithm Using Symbolic Techniques for theBel-Petrov Classification of Gravitational Fields
+An Algorithm Using SYMBOLIC Techniques for theBel-Petrov Classification of Gravitational Fields In this note , an algorithm is presented for thesymbolic calculation of certain ALGEBRAIC invariants of the Weyl tensor which permits the determinationof the Bel-Petrov types of a gravitational FIELD General relativity , Bel-Petrov types , FORMAC , SYMBOLIC manipulation , tensors An appendix contains EXAMPLES illustrating the use of the algorithm 
+
+CA780901 DH February 5, 1979  3:43 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2166 12  16.51511284488093 BM25
+
+
+Automated Algebraic Manipulation in Celestial Mechanics
+Automated ALGEBRAIC Manipulation in Celestial Mechanics In this paper we consider some of the applicationsof automated ALGEBRAIC manipulation which have been made in celestial mechanics 
+
+CA710806 JB February 2, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2560 13  16.20758308294844 BM25
+
+
+A Queuing Model of a MultiprogrammedComputer with a Two-Level Storage System
+The results are presented of an analysis ofa PROBABILISTIC model of a multiprogrammed computer system with a two-level storage system in which thereis sequential dependency of accesses between the devices 
+
+CA730101 JB January 24, 1978  4:55 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3203 14  15.388653553550526 BM25
+
+
+   GRAD Assistant - A Program for Symbolic Algebraic Manipulation and Differentiation
+GRAD Assistant - A Program for SYMBOLIC ALGEBRAIC Manipulation and Differentiation The General Recursive Algebra and Differentiation Assistant ( GRAD Assistant ) now under development is a set of LISP functions which symbolically manipulateabd differentiate ALGEBRAIC expressions 
+
+CA660817 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1935 15  15.105702175715217 BM25
+
+
+Randomized Binary Search Technique
+binary pattern , file examination , graph theory , informationretrieval , mathematical model , partitioning , PROBABILISTIC method , random sequencing , search techniques , tree structures 
+
+CA690203 JB February 20, 1978  11:15 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2645 16  14.925981833093722 BM25
+
+
+Two Languages for Estimating Program Efficiency
+The first processor is a syntax-directedtranslator which compiles a program into a SYMBOLIC formula representing the execution time for that program programming languages , syntax-directed translation , SYMBOLIC manipulation , program efficiency , analysis of algorithms The second processor is a set ofprocedures for ALGEBRAIC manipulation which can be called by the user to operate on the formula producedby the first processor EXAMPLES of the usage of the two languages are included 
+
+CA740601 JB January 17, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2169 17  14.91584068346647 BM25
+
+
+The Altran System for Rational Function Manipulation-A Survey
+Altran is a complete system for SYMBOLIC computationwith rational functions in several variables with integer coefficients SYMBOLIC algebra , rational function manipulation , polynomial manipulation , interpreters , translators 
+
+CA710803 JB February 2, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2516 18  14.6945365020182 BM25
+
+
+Hierarchical Storage in Information Retrieval
+A PROBABILISTIC analysis is employed to determinethe effect of hierarchical storage organizations on information retrieval operations 
+
+CA730504 JB January 24, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2170 19  14.65764658291442 BM25
+
+
+Applications of Symbol Manipulation in Theoretical Physics
+This paper surveys the applications of symboliccomputation techniques to problems in theoretical physics symbol manipulation , ALGEBRAIC simplification , computational physics , quantum electrodynamics 
+
+CA710802 JB February 2, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0717 20  14.475569830217342 BM25
+
+
+Partitioning Algorithms for Finite Sets
+Partitioning Algorithms for FINITE Sets 
+
+CA631008 JB March 13, 1978  5:57 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2167 21  14.403650079086031 BM25
+
+
+Algebraic Simplification: A Guide for the Perplexed
+ALGEBRAIC Simplification : A Guide for the Perplexed ALGEBRAIC simplification is examined first fromthe point of view of a user who needs to comprehend a large expression , and second from the point of viewof a designer who wants to construct a useful and efficient system Then we delineate the spectrum of approaches to the design of automatic simplificationcapabilities in an ALGEBRAIC manipulation system Finally we discusssome of the theoretical results related to ALGEBRAIC simplification ALGEBRAIC manipulation , ALGEBRAIC simplification , canonical simplification 
+
+CA710805 JB February 2, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0265 22  13.930269109459456 BM25
+
+
+Low Level Language Subroutines for Use Within Fortran
+This paper describes some subroutines , codedin SYMBOLIC languages and for use within Fortran coded programs , to deal with `` special arithmetic '' ( e 
+
+CA611103 JB March 15, 1978  10:59 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2580 23  13.644889429356041 BM25
+
+
+A Method for Composing Simple Traditional Music by Computer
+artificial intelligence , heuristic programming , models of cognitive processes , computer music , computer composition , music theory , formal languages , PROBABILISTIC grammars 
+
+CA741104 JB January 16, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2850 24  12.940453703353944 BM25
+
+
+Symbolic Execution and Program Testing
+SYMBOLIC Execution and Program TESTING A particular system called EFFIGY which provides symbolicexecution for program TESTING and debugging is also described It includes many standard debugging features , the abilityto manage and to prove things about SYMBOLIC expressions , a simple program TESTING manager , and a programverifier SYMBOLIC execution , program TESTING , program debugging , program proving , program verification , SYMBOLIC interpretation This paper describes the SYMBOLIC execution ofprograms The execution proceeds as in a normal execution except that values may be symbolicformulas over the input symbols The difficult , yet interesting issues arise during the SYMBOLIC executionof conditional branch type statements A brief discussion of the relationship between SYMBOLIC execution and program proving is also included 
+
+CA760703 JB January 4, 1978  12:59 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1214 25  12.858521860953397 BM25
+
+
+Some Experiments in Algebraic Manipulation by Computer 
+Some Experiments in ALGEBRAIC Manipulation by Computer A set of subroutines to allow ALGEBRAIC manipulationson the IBM 7094 computer has been written a List Processor , SLIP 
+
+CA650810 JB March 6, 1978  8:10 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1396 26  12.319653324777104 BM25
+
+
+Survey of Formula Manipulation
+The FIELD of formula manipulation is surveyed , with particular attention to the specific capabilities of differentiation , integration and the supporting capabilitiesof simplification , displays and input/output editing , and precision arithmetic 
+
+CA660802 JB March 2, 1978  8:07 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2450 27  12.273622672211769 BM25
+
+
+Empirical Working Set Behavior
+Althoughthe words `` working set '' are now commonly encountered in the literature DEALING with resource allocation , thereis a dearth of published data on program measurements , in the hope that workers in the FIELD might find experimentalevidence upon which to substantiate and base theoretical work 
+
+CA730905 JB January 23, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2414 28  12.2051703614493 BM25
+
+
+Arithmetic Overa Finite Field [A1] (Algorithm A469)
+Arithmetic Overa FINITE FIELD [ A1 ] ( Algorithm A469 ) 
+
+CA731112 JB January 20, 1978  9:25 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0393 29  12.019488581562538 BM25
+
+
+Two Subroutines for Symbol Manipulation with an Algebraic Compiler
+Two Subroutines for Symbol Manipulation with an ALGEBRAIC Compiler 
+
+CA610205 JB March 17, 1978  12:59 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2437 30  11.83874193404008 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+In this approach the keys ina file are assumed to have been selected from the key space according to a certain PROBABILISTIC selectionalgorithm 
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0719 31  11.80802288899041 BM25
+
+
+Variable Width Stacks
+Character addressable , variable FIELD computerspermit ready establishment and manipulation of variable width stacks Single machine commands maypush variable FIELD items down into such stacks or pop them up The availability of a variety of fielddelimiters allows the machine to push down or pop up more than one variable width item with one command 
+
+CA631006 JB March 13, 1978  6:25 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1216 32  11.65518210951523 BM25
+
+
+Symbolic Derivatives Without List Processing, Subroutines, or Recursion
+SYMBOLIC Derivatives Without List Processing , Subroutines , or Recursion A routine has been developed which computes andprints out the SYMBOLIC derivative of an absolutely continuous elementary function of one or several variables A subset may be imbededin a formula translator to introduce a differentiation operator into an `` ALGEBRAIC '' programming language 
+
+CA650808 JB March 6, 1978  8:18 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2096 33  11.567575418338112 BM25
+
+
+Experiments with the M & N Tree-Searching Program
+Since information on statistical significance has often been lacking in papers on computer experiments in the artificial intelligence FIELD , these experiments can perhaps serve as a model for future work 
+
+CA700302 JB February 14, 1978  8:34 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2164 34  11.123800440962045 BM25
+
+
+Symbolic Integration: The Stormy Decade
+The third , from mathematics , led to Richardson 's proof of the unsolvability of the problem for a class of functionsand for Risch 's decision procedure for the elementary functionseneralizations of Risch 's algorithmto a class of special functions and programs for solving differential equations and for findingthe definite integral are also described integration , SYMBOLIC integration , definite integrals , rational functions SYMBOLIC Integration : The Stormy Decade Three approaches to SYMBOLIC integration in the1960 's are described The second , from ALGEBRAIC manipulation , led to Manove 's implementation and toHorowitz ' and Tobey 's reexamination of the Hermite algorithm for integrating rational functions 
+
+CA710808 JB February 2, 1978  2:48 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2253 35  10.91162190456702 BM25
+
+
+Index Ranges for Matrix Calculi
+The paper describes a scheme for symbolicmanipulation of index expressions which arise as a by-product of the SYMBOLIC manipulation of expressionsin the matrix calculi described by the authors in a previous paper address calculations , algorithm transformation , compilation , data structures , indexing by name , indexing by position , index domain , index map , indexrange , matrix expressions , normal form , programming languages , program optimization , range operations , symbolicmanipulation , syntactic analysis , well-formed expressions 
+
+CA721202 JB January 27, 1978  1:12 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2231 36  10.770227659644757 BM25
+
+
+The Reconstruction of Binary Patterns from Their Projections
+Given the horizontal and vertical projectionsof a FINITE binary pattern f , can we construct the original pattern f ? In this paper we give a characterizationof patterns that are reconstructable from their projection 
+
+CA710103 JB February 8, 1978  12:33 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1667 37  10.166596588154741 BM25
+
+
+Roots of Polynomials by a Root-Squaringand Resultant Routine (Algorithm 340 [C2])
+root finders , roots of polynomial equations , polynomialzeros , root-squaring operations , Graeffe method , resultant procedure , subresultant procedure , TESTING of roots , acceptance criteria 
+
+CA681112 JB February 21, 1978  2:24 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1893 38  10.166596588154741 BM25
+
+
+Roots of Polynomials by a Root-Squaringand Resultant routine (Algorithm 340 [C2])
+root finders , roots of polynomial equations , polynomialzeros , root-squaring operations , Graeffe method , resultant procedure , subresultant procedure , TESTING of roots , acceptance criteria 
+
+CA690517 JB February 17, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2809 39  10.030090808067683 BM25
+
+
+Positivity and Norms
+Householder , the character and use of ALGEBRAIC methods in the theory of norms is demonstrated 
+
+CA750102 JB January 12, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1392 40  9.958622608431291 BM25
+
+
+Experience with FORMAC Algorithm Design
+Concrete EXAMPLES are provided by theFORMAC EXPAND and differentiation algorithms , a basic FORMAC utility routine , and an experiment in theextraction of the skeletal structure of an expression 
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0762 41  9.830505132167149 BM25
+
+
+Some Remarks on the Syntax of Symbolic Programming Languages
+Some Remarks on the Syntax of SYMBOLIC Programming Languages 
+
+CA630836 JB March 13, 1978  8:07 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0278 42  9.789007817966782 BM25
+
+
+A General Formulation of storage Allocation
+
+
+CA611003 JB March 16, 1978  1:22 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2266 43  9.785142152726177 BM25
+
+
+A Highly Parallel Algorithm for ApproximatingAll Zeros of a Polynomial with Only Real Zeros
+
+
+CA721103 JB January 27, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2704 44  9.75850498304407 BM25
+
+
+Exception Handling: Issues and a Proposed Notation
+This paper defines exception conditions , discussesthe requirements exception handling language features must satisfy , and proposes some new languagefeatures for DEALING with exceptions in an orderly and reliable way 
+
+CA751203 JB January 5, 1978  4:47 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1257 45  9.50273004114098 BM25
+
+
+DEBUG-An Extension to Current On-Line Debugging Techniques
+With this program , an online user may insert or delete ( in SYMBOLIC assembly language ) any number of lines at any point of his previously assembled program in core , with the remainderof the program being relocated appropriately 
+
+CA650514 JB March 7, 1978  12:58 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1696 46  9.468937364110614 BM25
+
+
+An Algorithm for Identifying the Ergodic Subchainsand Transient States of a Stochastic Matrix
+Applications in Markov renewal programmingand in the construction of variable length codes are reviewed , and an updating procedure for dealingwith certain sequences of stochastic matrices is discussed 
+
+CA680905 JB February 22, 1978  9:04 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1619 47  9.430942421607595 BM25
+
+
+Error-Free Methods for Statistical Computations
+
+
+CA670310 JB February 28, 1978  1:02 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2921 48  9.240197439106485 BM25
+
+
+Regular Right Part Grammars and Their Parsers
+Formally , RRP grammars have production right parts , which are nondeterministic FINITE state machines ( FSMs ) , and , as a special case , regular expressions , since these can be converted to FSMs FINITE state machines ( automata ) , regular expressions , syntax diagrams , LR ( k ) grammars , parser construction , parsing , programming languages , language generation , formal definition , compilers , translators , scanners 
+
+CA771005 JB December 27, 1977  11:01 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1524 49  9.231101876519954 BM25
+
+
+A Stopping Criterion for Polynomial Root Finding
+This stoppingcriterion has been tested on numerous EXAMPLES and has been found to serve as a satisfactory meansfor accepting a complex number as a zero of a real polynomial 
+
+CA671009 JB February 27, 1978  1:56 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3201 50  9.182573095052218 BM25
+
+
+   Symbolic Manipulation of Poisson Series
+SYMBOLIC Manipulation of Poisson Series Poisson series of three variables are manageable symbolically through as a set of formal subroutines written partially in the IBM 7094 machine language , but to be called in the FORTRAN language for use in Fortran programs 
+
+CA660815 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2567 51  9.164305641469934 BM25
+
+
+An Exponential Method for the Solution ofSystems of Ordinary Differential Equations 
+The method was designed to be general purpose in nature but to be ESPECIALLY efficient when dealingwith stiff systems of differential equations 
+
+CA741207 JB January 13, 1978  4:20 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2490 52  9.153121520722765 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1862 53  9.092217255032232 BM25
+
+
+Computing Capabilities at Argentine and Chilean Universities
+Universities , ESPECIALLY THOSE with strong European traditions , adapt slowly to new academicresources and disciplines ; superimposed are the severe technological and economic constraints of thedeveloping nation 
+
+CA690801 JB February 15, 1978  6:21 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3007 54  9.078435708746078 BM25
+
+
+Complexity of Computations (Corrigendum)
+RABIN , M 
+
+CA780306 JB March 28, 1978  1:02 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2767 55  8.983334109062518 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+The algorithmsare tested with a set of typical stochastic scheduling distributions ESPECIALLY chosen to showthe advantages and limitations of the algorithms 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1154 56  8.981532370455495 BM25
+
+
+Multi-Tape and Infinite-State Automata -- A Survey
+Multi-Tape and Infinite-State Automata -- A Survey A survey of machines which are more powerfulthan FINITE automata and less powerful than general Turing machines is presented It is felt that the machinesin this category are as closely related to digital computers as either the FINITE automata or theunrestricted Turing machines Intermediate machines can be created by adjoining on infinite-state memoryto a finite-state machine and then performing any or all of the following : ( 1 ) restrict the manner inwhich the unbounded portion of the memory can be accessed , ( 2 ) bound the number of steps allowed for acomputation by some increasing recursive function of the length of the input , ( 3 ) restrict the total amountof memory available in the same manner EXAMPLES from all three classes and their properties are discussed 
+
+CA651215 JB March 6, 1978  3:24 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2283 57  8.952475808469538 BM25
+
+
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+
+CA720907 JB January 27, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2956 58  8.946517856036253 BM25
+
+
+Some Ideas on Data Types in High-Level Languages
+Amongthese are the need for a notation for iterating over the elements of any FINITE set ( instead of themore narrow for i : = 1 to n notation ) , the use of the domain of an array as a data type , the need fora simple notation for allowing types of parameters to be themselves parameters ( but in a restrictive fashion ) , and resulting problems with conversion of values from one type to another 
+
+CA770607 JB December 28, 1977  1:27 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0111 59  8.926814119846892 BM25
+
+
+On Programming the Numerical Solution of Polynomial Equations
+Numerical EXAMPLES are shown to illustrate the pitfallsand to show how these are circumvented by application of the recommended procedures 
+
+CA601205 JB March 20, 1978  6:41 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2953 60  8.914224488089305 BM25
+
+
+Notes on Recursion Elimination
+
+
+CA770610 JB December 28, 1977  12:50 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1806 61  8.90709655263434 BM25
+
+
+On the Downhill Method
+downhill method , complex relaxation method , complexiteration , complex equation , transcendental complex equation , ALGEBRAIC complex equation Some numerical EXAMPLES are included 
+
+CA691206 JB February 15, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1743 62  8.798296614210017 BM25
+
+
+Reliable Full-Duplex file Transmission over Half-Duplex Telephone Lines
+A field-proven scheme for achieving reliableduplex transmission over a half-duplex communication line is presented , and to demonstrate the difficultyof the problem , another similar scheme , which is only slightly unreliable , is also presented A flowchartfor the reliable scheme and some interesting EXAMPLES are given 
+
+CA680602 JB February 22, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0892 63  8.78670465155183 BM25
+
+
+RECOL-A Retrieval Command Language
+Some EXAMPLES ofa typical file application and the more significant features of a particular machine implementation are given 
+
+CA630328 JB March 14, 1978  12:42 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2714 64  8.733563636348372 BM25
+
+
+Merging with Parallel Processors
+
+
+CA751005 JB January 6, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1948 65  8.57032848168642 BM25
+
+
+Computers in Group Theory: a Survey
+The most important areas of application at present arecoset enumeration , subgroup lattices , automorphism groups of FINITE groups , character tables , and commutatorcalculus 
+
+CA690101 JB February 20, 1978  1:27 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1388 66  8.538885729553114 BM25
+
+
+AUTOMAST: Automatic Mathematical Analysis and Symbolic Translation
+The procedure is basedon a FINITE Taylor series expansion that includes an estimate of the error in the final result AUTOMAST : Automatic Mathematical Analysis and SYMBOLIC Translation A procedure for numerically solving systemsof ordinary differential equation is shown to also generate SYMBOLIC solutions The expansions are determined symbolically , hence any non-numeric parametersin the original equations are carried automatically into the final expansions 
+
+CA660810 JB March 2, 1978  7:16 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0644 67  8.331158343931369 BM25
+
+
+A String Language for Symbol Manipulation Based on ALGOL 60
+A primer or informal description of thelanguage is followed by EXAMPLES , a description of experiments with the language on an IBM 704 computer , and a formal description which , taken with the ALGOL 60 Report , defines the proposed string language 
+
+CA620115 JB March 20, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1210 68  8.225550836271646 BM25
+
+
+File-Handling Within FORTRAN
+They allow SYMBOLIC naming of information files , without violatingthe casual scientific programmer 's idea of simplicity 
+
+CA650814 JB March 6, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1391 69  8.10860792849357 BM25
+
+
+Computer Experiments in Finite Algebra
+Computer Experiments in FINITE Algebra A medium-scale programming system is writtenin MAD and FAP on the IBM 7094 to manipulate some of the objects of modern algebra : FINITE groups , mapsand sets of maps , subsets and sets of subsets , constant integers and truth-values 
+
+CA660807 JB March 2, 1978  7:36 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1699 70  8.058882809148345 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+information retrieval TESTING , information systemevaluation , experimental document retrieval , document retrieval , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , SYMBOLIC command language , interactive systems , user learning factors , on-line searching 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1628 71  8.025267643884273 BM25
+
+
+The Emergence of a Profession
+It seems clearthat part but not all of this activity is evolving toward a distinct professional FIELD , but that thescope of this emerging profession , and some of its economic , social , and educational characteristics areas yet by no means well defined 
+
+CA670301 JB February 28, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1946 72  7.992576570239109 BM25
+
+
+Computing Polynomial Resultants: Bezout's Determinantvs. Collins' Reduced P. Algorithm
+
+
+CA690103 JB February 20, 1978  12:10 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1664 73  7.932194273843663 BM25
+
+
+An Algorithm for Deriving the Equations ofMathematical Physics by Symbolic Manipulation
+An Algorithm for Deriving the Equations ofMathematical Physics by SYMBOLIC Manipulation FORMAC , Navier-Strokes equations , continuity equation , tensor , tensor equation , curvilinear coordinate systems , FORTRAN , SYMBOLIC manipulation 
+
+CA681202 JB February 21, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1121 74  7.886064535910225 BM25
+
+
+Comments on "A Continued Operation Notation"*
+
+
+CA640310 JB March 10, 1978  2:45 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2094 75  7.882927164238254 BM25
+
+
+On an Algorithm for Nonlinear Minimax Approximation
+EXAMPLES are given to illustrate that thisalgorithm can give satisfactory results and , in particular , cansuccessfully solve problems which lead to difficultieswith the more conventional specialist method 
+
+CA700304 JB February 13, 1978  4:52 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2273 76  7.873600490749048 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1049 77  7.851960434852784 BM25
+
+
+Numerical Solution of Nonlinear Two-PointBoundary Problems by Finite Difference Methods
+Numerical Solution of Nonlinear Two-PointBoundary Problems by FINITE Difference Methods When these fail , the more difficult method of FINITE differencescan often be used to obtain a solution This paper gives EXAMPLES and discusses the FINITE differencemethod for non-linear two-point boundary-value problems 
+
+CA640618 JB March 9, 1978  9:07 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1543 78  7.7213749766429585 BM25
+
+
+Computer Formulation of the Equations of Motion Using Tensor Notation
+By the use of tensor calculusand a computer language designed to facilitate SYMBOLIC mathematical computation , a method has beendevised whereby a digital computer can be used to do non-numeric work , that is , SYMBOLIC ALGEBRAIC manipulationand differentiation 
+
+CA670903 JB February 27, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3189 79  7.719822595995477 BM25
+
+
+   An Algebraic Compiler for the FORTRAN Assembly Program
+An ALGEBRAIC Compiler for the FORTRAN Assembly Program An ALGEBRAIC compiler has been written which may be added to the FORTRAN Assembly Program This compiler will expand all ALGEBRAIC statements with the following operations : addition , subtraction , multiplication and division 
+
+CA621124 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2410 80  7.6250660916920925 BM25
+
+
+A Recurrence Scheme for Converting fromOne Orthogonal Expansion into Another
+A generalization of a scheme of Hamming forconverting a polynomial Pn ( x ) into a Chebyshev series is combined with a recurrence scheme of Clenshawfor summing any FINITE series whose terms satisfy a three-term recurrence formula 
+
+CA731116 JB January 19, 1978  4:16 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1387 81  7.592127782446664 BM25
+
+
+Solution of Systems of Polynomial Equations By Elimination
+A comparison is made with difficulties found in otherproblems in non-numerical mathematics such as SYMBOLIC integration and simplification 
+
+CA660811 JB March 2, 1978  7:11 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2325 82  7.564956992636194 BM25
+
+
+Numerical Mathematics and Computer Science
+These are : foundations ( FINITE precision number systems , computational complexity ) , synthesis and analysis of algorithms , analysis of error , programs and program libraries 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3006 83  7.520465161148319 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+Two paging algorithms , are examined in terms of theiranomaly potential , and reference string EXAMPLES of various anomalies are presented 
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3078 84  7.504255398592645 BM25
+
+
+Analysis of the Availability of ComputerSystems Using Computer- Aided Algebra
+These resultsare obtained by using various computer-aided ALGEBRAIC manipulation techniques 
+
+CA780710 DH February 7, 1979 3:37 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1999 85  7.501587562351674 BM25
+
+
+Optimal Starting Approximations for GeneratingSquare Root for Slow or No Divide
+
+
+CA700906 JB February 10, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1706 86  7.475315249987759 BM25
+
+
+CHAMP-Character Manipulation Procedures
+ALGOL procedures can in turn be called by string procedures so that numeric and SYMBOLIC processes mayconveniently be programmed together 
+
+CA680808 JB February 22, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2554 87  7.449051240026464 BM25
+
+
+Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+An algorithm is described for reducing thegeneralized eigenvalue problem Ax = lambda Bx to an ordinary problem , in case A and B are symmetric bandmatrices with B positive definite 
+
+CA730107 JB January 24, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3131 88  7.4382470353967625 BM25
+
+
+FOCUS Microcomputer Number System
+FOCUS is a number system and supporting computationalalgorithms ESPECIALLY useful for microcomputer control and othersignal processing applications 
+
+CA790302 DH April 12, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2268 89  7.429963196384833 BM25
+
+
+A Comparative Study of Computer Programsfor Integrating Differential Equations
+The TESTING procedure is described together with the evaluationcriteria applied 
+
+CA721101 JB January 27, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0319 90  7.408865614731843 BM25
+
+
+On a Class of Iteration Formulas and Some Historical Notes
+
+
+CA610606 JB March 16, 1978  10:36 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2719 91  7.343892627116416 BM25
+
+
+Mechanical Program Analysis
+analysis of programs , performance analysis , executiontime , execution behavior , difference equations , generating functions , list processing , Lisp , algebraicmanipulation , programming languages , analysis of algorithms 
+
+CA750905 JB January 6, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2402 92  7.320189841831438 BM25
+
+
+Pictorial Pattern Recognition and thePhase Problem of X-ray Crystallography
+Model buildingby cross-correlations has intrinsic advantages over usual crystallographic techniques based on theautocorrelation or Patterson function , ESPECIALLY for large structures This is significant , for crystallographyof biological macromolecules hasbeen and will continue to be a FIELD of intense interest 
+
+CA720101 JB February 1, 1978  9:53 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2997 93  7.29949164789805 BM25
+
+
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions
+Convex Hulls of FINITE Sets of Poin ts in Two and Three Dimensions 
+
+CA770203 JB December 30, 1977  2:47 AM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1394 94  7.220117786413179 BM25
+
+
+Computation of Algebraic Properties of ElementaryParticle Reactions Using a Digital Computer
+Computation of ALGEBRAIC Properties of ElementaryParticle Reactions Using a Digital Computer A large number of calculations in high-energyelementary particle physics involve the manipulation of complicated ALGEBRAIC expressions containing bothtensor and noncommutative matrix quantities 
+
+CA660804 JB March 2, 1978  7:58 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3031 95  7.163939015327282 BM25
+
+
+Abstract Data Types and Software Validation
+This implementationallows for limited TESTING of programs at design time , before a conventional implementation is accomplished A data abstraction can be naturally specifiedusing ALGEBRAIC axioms An example is given which shows how to employ ALGEBRAIC axioms atsuccessive levels of implementation First , it is shown howthe use of ALGEBRAIC axiomatizations can simplify the process of proving the correctness of an implementationof an abstract data type 
+
+CA781208 DH January 18, 1979  2:51 PM   
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0284 96  7.163303552206344 BM25
+
+
+Manipulation of Algebraic Expressions
+Manipulation of ALGEBRAIC Expressions An algorithm for algebraically manipulatingexpressions of the form SUM { CiPi , i=1 , This algorithm enablesus to derive over-all system transfer functionsfrom algebraically described block diagrams of any linear continuous multi-loop feedback system 
+
+CA610910 JB March 16, 1978  9:36 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-0044 97  7.147081857192316 BM25
+
+
+RUNCIBLE-Algebraic Translation on a Limited Computer
+RUNCIBLE-Algebraic Translation on a Limited Computer 
+
+CA591104 JB March 22, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-3023 98  7.122939785961234 BM25
+
+
+Architecture of the IBM System/370
+
+
+CA780107 JB March 28, 1978  5:16 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-1197 99  7.08937606733535 BM25
+
+
+Finding Zeros of a Polynomial by the Q-D Algorithm
+
+
+CA650908 JB March 6, 1978  7:21 PM
+
+
+--------------------------------------------------------------
+35 Q0 CACM-2532 100  7.073120108366879 BM25
+
+
+On Harrison's Substring Testing Technique
+On Harrison 's Substring TESTING Technique 
+
+CA730307 JB January 24, 1978  10:30 AM
+
+

@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+25 Q0 CACM-2318 1  18.71615498109992 BM25
+
+
+The Role of Computer System Models in Performance Evaluation
+The Role OF COMPUTER System Models in PERFORMANCE EVALUATION modeling , EVALUATION , PERFORMANCE , analytic-models , simulation-models , system-models Models constitute a useful means OF investigatingcomputer system PERFORMANCE This paper examines the interrelationships between models AND othermethods for evaluating the PERFORMANCE OF COMPUTER SYSTEMS AND establishes circumstances underwhich the use OF a model is appropriate 
+
+CA720710 JB January 30, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3119 2  16.3646504502034 BM25
+
+
+The Impact of Distributions and Disciplineson Multiple Processor Systems
+Multiprogramming , multiprocessing , scheduling disciplines , PERFORMANCE EVALUATION , queueing models Simple queueing models are used to study the PERFORMANCE tradeoffs OF multiple processor SYSTEMS The Impact OF Distributions AND Disciplineson Multiple Processor SYSTEMS 
+
+CA790104 DH April 10, 1979  12:10 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1653 3  16.25810354748342 BM25
+
+
+System Performance Evaluation: Survey and Appraisal
+System PERFORMANCE EVALUATION : Survey AND Appraisal The state OF the art OF system performanceevaluation is reviewed AND EVALUATION goals AND problems are examined Analysis , simulation , AND synthesis arepresented as three levels OF approach to EVALUATION , requiring successively greater amounts OF information The central role OF measurement in PERFORMANCE EVALUATION AND in the development OF EVALUATION methods is explored Throughput , turnaround , andavailability are defined as fundamental measures OF PERFORMANCE ; overhead AND CPU speed are placed inperspective 
+
+CA670102 JB March 1, 1978  9:10 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2812 4  15.75554934331507 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+Computer-aided analysis consists OF a set OF procedures AND computerprograms specifically designed to aid in the process OF applications software design , COMPUTER selectionand PERFORMANCE EVALUATION There are four major components : Problem Statement Language , Problem StatementAnalyzer , Generator OF Alternative Designs , AND PERFORMANCE Evaluator Computer-Aided Analysis AND Design OF Information SYSTEMS The statement OF requirementswas written in ADS ( Accurately Defined SYSTEMS ) AND analyzed by a Problem Statement Analyzer for ADS The analyzed problem statement was translated to the form necessary for use by theSODA ( SYSTEMS Optimization AND Design Algorithm ) program for the generation OF alternative specificationsof program modules AND logical database structures computer-aided analysis , information SYSTEMS , logicalsystem design , problem statement language , problem statement analyzer , physical system design , accurately defined SYSTEMS , SYSTEMS optimization AND design algorithm This paper describes the use OF computer-aidedanalysis for the design AND development OF an integrated financial management system by the Navy MaterialCommand Support Activity ( NMCSA ) 
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2319 5  15.388731535335502 BM25
+
+
+Operating System Performance
+COMPUTER system , operating system , performanceevaluation , PERFORMANCE measurement , measurement , techniques , modularity , layering , structured programming , paging , virtual memory , input/output , disk storage facility , drum storage facility , sector queueing Operating System PERFORMANCE An overview OF the current AND future positionswith respect to operating system PERFORMANCE is given Because OF thesevere interactions between the various subsystems OF an operating system , an overall model OF the totalsystem must be developed to be able to analyze AND design the PERFORMANCE aspects OF an operating systemalthough such total system designs are exceptional today , it is projected that they will become increasinglymore common AND necessary in the near future While a great deal OF information AND a largenumber OF models for subsystems have been developed , gaps still exist in out knowledge Such a design philosophy will clearly have a severe impacton the way we go about modularizing operating AND COMPUTER SYSTEMS 
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3089 6  15.117057887124336 BM25
+
+
+Performance of Rollback Recovery Systems under Intermittent Failures
+Database reliability , file SYSTEMS , checkpoints , recoveryprocedures , checking techniques , reliability AND system PERFORMANCE EVALUATION PERFORMANCE OF Rollback Recovery SYSTEMS under Intermittent Failures The model is used to derive theprincipal PERFORMANCE measures , including availability , response time , AND the system saturation point 
+
+CA780608 DH February 9, 1979  10:26 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2984 7  14.943693593399274 BM25
+
+
+Cost/Utilization: A Measure of System Performance
+COMPUTER system , PERFORMANCE EVALUATION , cost/utilization , system balance Cost/Utilization : A Measure OF System PERFORMANCE A method is presented for evaluating computersystem PERFORMANCE in terms OF a cost/utilization factor AND a measure OF imbalance The method includes atechnique for the visual representation OF system PERFORMANCE 
+
+CA770308 JB December 29, 1977  6:41 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2741 8  14.849170030563686 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+multiprogramming , paging , PERFORMANCE EVALUATION , saturation , instabilities , thrashing , aggregation , system levels , hierarchy , networks OF queues A step-by-step approach to model the dynamicbehavior AND evaluate the PERFORMANCE OF computing SYSTEMS is proposed Decomposability , Instabilities , andSaturation in Multiprogramming SYSTEMS This approachis taken in order to identify in multiprogramming paging SYSTEMS ( i ) unstable regimes OF operations AND ( ii ) critical computing loads which bring the system into states OF saturation 
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2542 9  14.597060665676828 BM25
+
+
+A Software Design and Evaluation System
+A Software Design AND EVALUATION System A system which integrates PERFORMANCE evaluationwith design AND implementation is described operating system development , language processingsoftware EVALUATION , compilers , system programming , supervisory SYSTEMS , debugging , program maintenance , modeling , system integration , simulation A critical failure OF current software systemdesign AND implementation methodology is that the PERFORMANCE OF a proposed design is not evaluatedbefore it is actually implemented The source languagedescription is used as direct input to PERFORMANCE analysis AND simulation routines Using the performanceinformation obtained from these routines as feedback , the problems which adversely affect performanceare detected early enough so that they can be corrected without costly major reimplementation OF the proposed system 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1719 10  14.521077919706183 BM25
+
+
+A Methodology for Calculating andOptimizing Real-Time System Performance
+A Methodology for Calculating andOptimizing Real-Time System PERFORMANCE The continually increasing size , complexity , number OF types , AND cost OF data processing SYSTEMS are causing serious re-examination within governmentand industry OF the criteria for AND methods OF calculating AND optimizing data processing system costand PERFORMANCE Criteria for evaluating PERFORMANCE are described ; a methodology for calculatingand optimizing is outlined ; AND the method is illustrated by carrying out a portion OF the performancecalculation AND the optimization OF a drum-oriented message switching system real-time system analysis , real-time system design , real-time system PERFORMANCE criteria , real-time system cost PERFORMANCE ratio Real-time data processing SYSTEMS as typified by the automated airline reservation systemare discussed in this paper 
+
+CA680710 JB February 22, 1978  11:40 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2268 11  14.352061616803057 BM25
+
+
+A Comparative Study of Computer Programsfor Integrating Differential Equations
+The testing procedure is described together with the evaluationcriteria applied A study comparing the PERFORMANCE OF several computerprograms for integrating SYSTEMS OF ordinary differential equations is reported For the particular problems AND criteria used in the investigation it was found that a program based onrational extrapolation showed the best PERFORMANCE A Comparative Study OF COMPUTER Programsfor Integrating Differential Equations 
+
+CA721101 JB January 27, 1978  2:45 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3070 12  13.99113893958626 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+PERFORMANCE EVALUATION , simulation , queueingnetwork models , central server model Hybrid Simulation Models OF COMPUTER SYSTEMS In an example based on a simple hypotheticalcomputer system , discrete-event simulation is used to model the arrival AND activation OF jobs , AND acentral-server queueing network models the use OF system processors 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2988 13  13.97681905504476 BM25
+
+
+Memory Management and Response Time
+Relations between workloadvariables such as memory requirement distribution AND job swap time , AND PERFORMANCE measures such as responsetime AND memory utilization are graphically displayed memory management , system PERFORMANCE , queueingnetwork models , in teractive COMPUTER SYSTEMS This paper presents a computationally tractablemethodology for including accurately the effects OF finite memory size AND workload memory requirementsin queueing network models OF COMPUTER SYSTEMS A multiphase , analytically soluble model isproposed as being broadly applicable to the analysis OF in teractive COMPUTER SYSTEMS which use nonpaged memories 
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1908 14  13.916853639389055 BM25
+
+
+Time-Sharing and Batch-Processing:  An ExperimentalComparison of Their Values in a Problem - Solving Situation
+Statisticallyand logically significant results indicate equal cost for usage OF the two COMPUTER SYSTEMS ; however , a much higher level OF PERFORMANCE is attained by time-sharing users There are indications that significantlylower costs would have resulted if the time-sharing users had stopped work when they reacheda PERFORMANCE level equal to that OF the batch users time-sharing vs batch-processing , user PERFORMANCE , man/machine communications , cost effectiveness , on-line vs off-line PERFORMANCE , decision-making PERFORMANCE , user/programmer behavior , programming experimental empirical studies , problem-solving , research in man/machinecommunications , man/machine symbiosis An experimental comparison OF problem-solvingusing time-sharing AND batch-processing COMPUTER SYSTEMS conducted at MIT is described in this paper This study is the first known attempt to evaluate two such SYSTEMS for what may well be the predominant userpopulation within the next decade-the professionals who , as nonprogrammers , are using the COMPUTER as anaid in decision-making AND problem-solving rather than as a programming end in itself 
+
+CA690501 JB February 17, 1978  4:10 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2882 15  13.836498953604213 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+A Stochastic EVALUATION Model for DatabaseOrganization in Data Retrieval SYSTEMS database architecture , database PERFORMANCE andevaluation , invented list , threaded list , cellular list , information retrieval , database organizations , query complexity , stochastic model , Monte Carlo simulation Experimental work in the valuation OF largescale data retrieval SYSTEMS has been scarce due to its difficulty AND prohibitive cost The model is designed to estimatethe retrieval workload OF alternative data retrieval SYSTEMS These data retrieval SYSTEMS canbe organized under several database organizations , including inverted list , threaded list , AND cellularlist organizations AND hybrid combinations OF these SYSTEMS Effectiveness OF the methodology is demonstratedby using the model to study the effect OF database organizations in data retrieval SYSTEMS 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3048 16  13.796569022562213 BM25
+
+
+Performance Evaluation of Highly ConcurrentComputers by Deterministic Simulation
+PERFORMANCE EVALUATION OF Highly ConcurrentComputers by Deterministic Simulation Simulation is presented as a practical techniquefor PERFORMANCE EVALUATION OF alternative configurations OF highly concurrent computers Simulation OF thesystem model yields the timing AND resource usage statistics needed for PERFORMANCE EVALUATION , withoutthe necessity OF emulating the system PERFORMANCE EVALUATION , deterministic simulation , control stream , concurrent computers 
+
+CA781103 DH January 26, 1979  11:26 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2634 17  13.773020306938802 BM25
+
+
+An Evaluation of Statistical Software in the Social Sciences 
+An EVALUATION OF Statistical Software in the Social Sciences In order to provide users with a basis for selectionand use , tests were made for each OF these SYSTEMS , AND the results are summarized as to cost AND PERFORMANCE Several hundred college AND university computerinstallations now offer various types OF statistical packages for general use 
+
+CA740612 JB January 17, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2990 18  13.758814163041865 BM25
+
+
+Effective Information Retrieval Using Term Accuracy
+Much OF the published EVALUATION work is basedon measuring the retrieval PERFORMANCE OF an average user query In the present study , retrieval EVALUATION is based on optimizing theperformance OF a specific user query The PERFORMANCE OF information retrieval systemscan be evaluated in a number OF different ways By relating term accuracyto the frequency OF occurrence OF the term in the documents OF a collection it is possible to give formalproofs OF the effectiveness with respect to a given user query OF a number OF automatic indexing systemsthat have been used successfully in experimental situations 
+
+CA770302 JB December 30, 1977  1:52 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1267 19  13.71975750298515 BM25
+
+
+Performance of Systems Used for Data TransmissionTransfer Rate of Information Bits -An ASA Tutorial Standard
+PERFORMANCE OF SYSTEMS Used for Data TransmissionTransfer Rate OF Information Bits -An ASA Tutorial Standard Information thruput as a characteristic ofsystems PERFORMANCE is discussed It concludes that a PERFORMANCE characteristic involving information rate can best be expressed as theTRIB in conjunction with the Residual Error Rate 
+
+CA650504 JB March 7, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1938 20  13.688565745599755 BM25
+
+
+Some Criteria for Time-Sharing System Performance
+It is each terminal user 's abilityto utilize the full resources OF the system that makes quantitative EVALUATION OF time-sharing systemsparticularly difficult Six criteria are described which have been successfully used to perform first-levelquantitative time-sharing system PERFORMANCE EVALUATION Some Criteria for Time-Sharing System PERFORMANCE time-sharing PERFORMANCE criteria , time-sharingsystem operation , time-sharing PERFORMANCE analysis Time-sharing SYSTEMS , as defined in this article , are those multiaccess SYSTEMS which permit a terminal user to utilize essentially the full resourcesof the system while sharing its time with other terminal users 
+
+CA690111 JB February 20, 1978  11:37 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2798 21  13.568900875764859 BM25
+
+
+Analysis of Interleaved Memory Systems Using Blockage Buffers
+The simulations investigatethe PERFORMANCE OF various system structures , i PERFORMANCE is measured by determining the distribution OF the number OF memorymodules in operation during a memory cycle interleaved memory SYSTEMS , modular memory SYSTEMS , memory PERFORMANCE analysis , blockage buffer , conflict buffer , simulation , Monte Carolo simulation Analysis OF Interleaved Memory SYSTEMS Using Blockage Buffers A model OF interleaved memory SYSTEMS is presented , AND the analysis OF the model by Monte Carlo simulation is discussed 
+
+CA750201 JB January 12,1978  8:54 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2375 22  13.121142129408355 BM25
+
+
+A Comparative Analysis of Disk Scheduling Policies
+Five well-known scheduling policies for movablehead disks are compared using the PERFORMANCE criteria OF expected seek time ( system oriented ) AND expectedwaiting time ( individual I/O request oriented ) The variance OF waiting time is introduced as another meaningful measure OF PERFORMANCE , showing possiblediscrimination against individual requests Then the choice OF a utility function to measure totalperformance including system oriented AND individual request oriented measures is described The selection AND implementation OF a maximum PERFORMANCE two-policy algorithm are discussed access time , analytical models , auxiliary storage , direct access storage , disk analysis , disk scheduling , PERFORMANCE criteria , peripheral memory devices , real-timesystems , response time , rotational delay , scheduling policies , seek time , simulation , storageunits , time-sharing SYSTEMS , waiting time 
+
+CA720306JB January 31, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2344 23  13.084335304685965 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+On the Optimization OF PERFORMANCE OF Time-Sharing SYSTEMS by Simulation The effects OF these variations on a measure OF system PERFORMANCE is used to ascertain whichof the parameters controllable by the job-scheduling algorithm , including the scheduling itself , require optimization , AND which OF the parameters not normally controllable by the scheduling algorithm have a markedeffect on system PERFORMANCE System PERFORMANCE is based upon the mean cost OF delay to all jobs processed It is shown that significant improvements in the measure OF system PERFORMANCE can be obtained byusing variable time-slice techniques AND by selecting the optimum round-robin cycle time It appears that thesefeatures would benefit from optimization whereas other parameters controllable by the scheduling algorithmaffect system PERFORMANCE in a predictable manner AND would not benefit from optimization Featuresnot normally under the control OF the scheduling algorithm can also have a marked effect on the measureof PERFORMANCE ; in particular , supervisor overheads , the size OF the store , AND the speed OF the CPU time-sharing , simulation studies , optimization , measure OF PERFORMANCE , scheduling algorithms A comparisonis made between the results OF the simulation model AND two analytical equations for quantum-orientednonpreemptive time-sharing SYSTEMS 
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2017 24  13.068491188225593 BM25
+
+
+Sorting in a Paging Environment
+sorting , merging , virtual machines , paging SYSTEMS , dynamicstorage allocation , measurement OF SYSTEMS program behavior , PERFORMANCE EVALUATION , memory management Descriptions OF the experimental sort programs AND analysis OF the performancemeasurement results obtained for them are presented 
+
+CA700804 JB February 10, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2535 25  13.003516312106711 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+A study is made OF the way in which asynchronoustime division multiplexing changes the stochastic nature OF the arrival process from a user to the computerand , consequently , affects the PERFORMANCE OF a time-shared computer-communications system It isconcluded that while , for certain values OF system parameters , there is noticeable improvement in theperformance OF the COMPUTER ( model ) , in the sense that time-shared scheduling delays are reduced , theseimprovements are offset by the transmission delays imposed by multiplexing so that there may be little orno change in the computer-communications system PERFORMANCE COMPUTER communications , time-sharing , multiplexing , scheduling algorithms , operating SYSTEMS The Effects OF Multiplexing on a Computer-Communications System Analytical AND simulation results arebased on the model OF the computer-communications system being an M/D/1 queue ( the multiplexor ) in tandemwith a single exponential server ( the COMPUTER ) 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1518 26  12.99707863954325 BM25
+
+
+An Experimental Model of System/360
+The problem OF predicting the PERFORMANCE ofmodern COMPUTER SYSTEMS is formidable The measures OF system performanceproduced by the model consist OF statistics relating to turnaround time , throughput , hardware utilization , software utilization , AND queueing processes 
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1827 27  12.990554984833594 BM25
+
+
+Performance Monitoring in a Time-Sharing System
+PERFORMANCE monitoring , PERFORMANCE measurement , program behavior , PERFORMANCE data , multiprogramming PERFORMANCE , software measurement , time-sharing PERFORMANCE , system EVALUATION , software monitor , software instrumentation PERFORMANCE Monitoring in a Time-Sharing System It exists for the purpose OF monitoringoperating system AND user program behavior AND PERFORMANCE 
+
+CA691103 JB February 15, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2894 28  12.89968203555245 BM25
+
+
+A Methodology for Interactive Computer Service Measurement
+A demonstration OF the methodology , leading to a pragmatic figure-of-meritevaluation OF results , is included Its primary purpose is to enable external , user-oriented assessmentof COMPUTER PERFORMANCE , instead OF the more frequently used in ternal system measurement techniques in teractive system , COMPUTER service , measurement , PERFORMANCE , external measurement , methodology , measurement model , network measurement system , measures , figure-of-merit A Methodology for Interactive COMPUTER Service Measurement A measurement methodology applicable to in teractivecomputer service is described 
+
+CA771206 JB December 22, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2151 29  12.57166872472137 BM25
+
+
+User Program Measurement in a Time-Shared Environment
+operating SYSTEMS , multiprogramming SYSTEMS , time-sharingsystems , software measurement , user program measurement , measurement technology , TX-2 COMPUTER , virtual computers , PERFORMANCE improvement A general discussion OF the measurement ofsoftware SYSTEMS is followed by a description OF a hardware AND software scheme for measuring user programsin a time-shared environment Finally , it is shown how other time-sharing SYSTEMS may provide similar measuring facilities The TX-2 COMPUTER at MIT Lincoln Laboratory was used for the implementationof such a system AND the characteristics OF this implementation are reported 
+
+CA711005 JB February 2, 1978  1:05 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2522 30  12.266532446758541 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+The Design , Implementation , AND EVALUATION OF a Working Set Dispatcher working set , dispatcher , scheduler , time-sharingsystems , resource allocation , software EVALUATION , operating SYSTEMS , supervisory SYSTEMS Recent research in time-sharing paging SYSTEMS has developed the working set model for program behavior , AND are source allocation strategy based on this model has been proposed The behavior OF a COMPUTER system is largelydependent upon the algorithms employed to allocate the system resources to the processes competing for them This report discusses the design AND implementation OF a dispatcher based on the working setprinciple , presents data to permit analysis OF its behavior , AND indicates future directions OF researchon methods OF controlling a COMPUTER system 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1032 31  12.246866062215599 BM25
+
+
+Theoretical Considerations in Information Retrieval Systems
+For searching strategy , a linear model for an EVALUATION functionof relevancy is developed which rewards the system for retrieving relevant documents AND not retrievingthe nonrelevant , AND penalizes the system for the escaped relevant documents AND false drops One is self-organizationof the file based on its history AND past PERFORMANCE , AND the second is a self-generating subsetof the file with a high probability OF being relevant Theoretical Considerations in Information Retrieval SYSTEMS Information storage AND retrieval SYSTEMS are composedof three major components : ( a ) identification OF information AND tagging it for effective retrieval , ( b ) searching strategy , how to enter the file to circumvent the scanning OF nonrelevant material , AND ( c ) file organization to make access to information efficient 
+
+CA640715 JB March 9, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1750 32  12.071268197416517 BM25
+
+
+Considerations in the Design of a MultipleComputer System with Extended Core Storage
+The use OF large quantities OF addressable ( but not executable ) fast random access memory to heighten the multiprogramming PERFORMANCE OF a multicomputer systemis discussed multiple COMPUTER SYSTEMS , extended core storage , multiprogrammed operating SYSTEMS , multiprocessor operating SYSTEMS , control data corporation 6600 , operating system with ECS Considerations in the Design OF a MultipleComputer System with Extended Core Storage In the generalization OF such a design , special emphasis isplaced on estimating expected gains when compared with the traditional configuration OF separate AND independentcomputers without extended core storage 
+
+CA680506 JB February 23, 1978  9:27 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1792 33  12.060564972463881 BM25
+
+
+Exploratory Experimental Studies ComparingOnline and Off line Programming Performance
+Exploratory Experimental Studies ComparingOnline AND Off line Programming PERFORMANCE Two exploratory experiments were conducted atSystem Development Corporation to compare debugging PERFORMANCE OF programmers working under conditionsof on-line AND off line access to a COMPUTER These are the first known studies that measure programmers'performance under controlled conditions for standard tasks Statistically significant results OF both experimentsindicated faster debugging under online conditions , but perhaps the most important practical findinginvolves the striking individual differences in programmer PERFORMANCE off line PERFORMANCE , programmer/computercommunication , programming experimental-empirical studies , programming cost effectiveness , programmingperformance , debugging effectiveness , time sharing vs batch processing , factor analysis application , programmer trainee PERFORMANCE , basic programming knowledge test , experienced programmer study , analysisof variance , programmer individual differences 
+
+CA680101 JB February 23, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3028 34  12.013246295799219 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+The wider impact OF Manchester innovationsin these AND other areas is discussed , AND the contemporary PERFORMANCE OF the Mark I AND Atlas is evaluated In 30 years OF COMPUTER design at Manchester Universitytwo SYSTEMS stand out : the Mark I ( developed over the period 1946-49 ) AND the Atlas ( 1955-62 ) This paper places each COMPUTER in its his torical context AND then describes the architecture AND systemsoftware in present-day terminology architecture , index registers , paging , virtualstorage , extra codes , compilers , operating SYSTEMS , Ferranti , Manchester Mark I , Atlas , ICL 
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2951 35  11.948360407367735 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+Analytical , simulation , AND statistical performanceevaluation tools are employed to investigate the feasibility OF a dynamic response time monitorthat is capable OF providing comparative response time information for users wishing to process variouscomputing applications at some network computing node The research clearly reveals that sufficientsystem data are currently obtainable , at least for the five diverse ARPA network SYSTEMS studied in detail , to describe AND predict the response time for network time-sharing SYSTEMS as it depends on somemeasure OF system activity or load level response time monitor , COMPUTER networks , time-sharingsystems , comparative response time , ARPA network , anlytic modeling , simulation , benchmark jobs , system measurement Dynamic Response Time Prediction for COMPUTER Networks 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2298 36  11.917610536724082 BM25
+
+
+An Environment for Research in Microprogramming and Emulation
+The development OF the research project inmicroprogramming AND emulation at State University OF New York at Buffalo consisted OF three phases : theevaluation OF various possible machines to support this research ; the decision to purchase one such machine , which appears to be superior to the others considered ; AND the organization AND definition OF goalsfor each group in the project microprogramming , emulation , COMPUTER SYSTEMS , languageprocessors , input-output SYSTEMS , nano-program , project management , hardware EVALUATION 
+
+CA720804 JB January 30, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2452 37  11.89836069970269 BM25
+
+
+Evaluation and Selection of File Organization-A Model and System
+EVALUATION AND Selection OF File Organization-A Model AND System The system is a convenient tool to study file structures AND to facilitate as much as possible the processof data base structure design AND EVALUATION This work first discusses the factors thataffect file ( data base ) organization PERFORMANCE , an elusive subject , AND then presents a methodology , amodel AND a programmed system to estimate primarily total storage costs AND average access time OF severalfile organizations , given a specific data base , query characterization AND device-related specifications file organization , file structures , file management , file organization PERFORMANCE , file organization model , file structure design , secondary index organization , simulation , data base , access time , storage requirement , data base analysis , data management 
+
+CA730903 JB January 23, 1978  9:46 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2765 38  11.756072136241695 BM25
+
+
+Analysis and performance of Inverted Data Base Structures
+Analysis AND PERFORMANCE OF Inverted Data Base Structures Formulations are derivedto estimate average access time ( read only ) AND storage requirements , formalizing the interaction OF database content characteristics , logical complexity OF queries , AND machine timing AND blocking specificationsidentified as having a first-order effect on PERFORMANCE data base architecture , inverted file organization , data base PERFORMANCE AND measurement , secondary index organization , information storage AND retrieval , query answering The need to envision AND architecture data basesystems in a hierarchical level by level framework is stressed 
+
+CA750502 JB January 9, 1978  3:15 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3136 39  11.636413669306247 BM25
+
+
+Price/Performance Patterns of U. Computer Systems
+Price/Performance Patterns OF U COMPUTER market have been developed to study the relationships between system price AND hardware PERFORMANCE Singlemeasures OF price/performance such as `` Grosch 's Law '' are shown tobe so over simplified as to be meaningless Price/performance , Grosch 's law , U COMPUTER SYSTEMS On one hand thereexists a stable , price predictable market for larger , generalpurpose COMPUTER SYSTEMS The other market is the developing onefor small business COMPUTER SYSTEMS , a market which is relativelyunstable with low price predictability COMPUTER market 
+
+CA790402 DH May 21, 1979  1:09 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2016 40  11.588034654030226 BM25
+
+
+The Instrumentation of Multics
+instrumentation , PERFORMANCE measurement , multiprogramming SYSTEMS , measuring tools , system analysis , Multics , metering , event tracing , demand paging , script drivenmeasurement An array OF measuring tools devised to aid in the implementation OF a prototypecomputer utility is discussed 
+
+CA700805 JB February 10, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2892 41  11.553001165747705 BM25
+
+
+A Study of Line Overhead in the Arpanet
+ARPANET , COMPUTER communication networks , interprocesscommunication , measurement , packet switching , PERFORMANCE EVALUATION AND efficiency , resource sharing 
+
+CA760101 JB January 5, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3088 42  11.482526614014686 BM25
+
+
+General Equations for Idealized CPU-I/O Overlap Configurations
+Blocking , buffering , input/output , overlap , PERFORMANCE , resource allocation , throughput , timesharing General equations are derived for estimatingthe maximum possible utilization OF main storage partitions , CPU AND I/O devices under different conditionsin an idealized CPU-I/O overlap model OF multiprogrammed COMPUTER SYSTEMS 
+
+CA780609 DH February 8, 1979  4:35 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3072 43  11.459773876940243 BM25
+
+
+Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor Computer System
+Even relatively simple dynamicschedulers are shown to improve system PERFORMANCE ( as measured by user CPU time ) over that given by optimalor near-optimal static schedulers imbeded in identical system structures AND workload environments Model studies OF some integrated , feedback-drivenscheduling SYSTEMS for multiprogrammed- multiprocessor COMPUTER SYSTEMS are presented The model SYSTEMS feature simulatedcontinuous-flow AND preempt-resume scheduling OF input-output activity Integrated schedulers , feedback scheduling , multiprogramming SYSTEMS , I/O system scheduling Feedback Coupled Resource Allocation Policiesin the Multiprogramming- Multiprocessor COMPUTER System 
+
+CA780806 DH February 5, 1979  4:01 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1728 44  11.451539207097696 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+These data are used also for the EVALUATION OF page replacement algorithms AND for assessing theeffects on PERFORMANCE OF changes in the amount OF storage allocated to executing programs Results are summarized from an empirical studydirected at the measurement OF program operating behavior in those multiprogramming SYSTEMS in whichprograms are organized into fixed length pages paging SYSTEMS , paging , dynamic program behavior , programbehavior , virtual memory SYSTEMS , single-level storage , one-level storage , operating system simulation , operating SYSTEMS , supervisor simulation , machine language program interpretation 
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2571 45  11.379192729165034 BM25
+
+
+An Analytic Model of the Hasp Execution Task Monitor
+Hasp , OS/360 , dispatching , scheduling , modeling , PERFORMANCE EVALUATION This paper develops a simple model OF the Execution TaskMonitor AND employs it to study the effectiveness OF the monitor in improving system PERFORMANCE 
+
+CA741203 JB January 16, 1978  9:51 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2852 46  11.366875766962067 BM25
+
+
+The Technology of Computer Center Management: AProposed Course for Graduate Professional Programs in Computer Science or in Information Systems
+education , information SYSTEMS administration , computercenter management , COMPUTER system PERFORMANCE The Technology OF COMPUTER Center Management : AProposed Course for Graduate Professional Programs in COMPUTER Science or in Information SYSTEMS McFarlan AND Nolan have made a strong case foradding a course on information SYSTEMS administration to the 13 courses proposed by the ACM Curriculum Committeeon COMPUTER Education for Management for Graduate Professional Programs in Information SYSTEMS The course is suitable either for graduate professional programsin information SYSTEMS or for graduate professional programs in COMPUTER science This paperis a report on a course entitled , `` The Technology OF COMPUTER Center Management , '' which has been offeredat Purdue for the past four years 
+
+CA760701 JB January 4, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-0040 47  11.255302920710285 BM25
+
+
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+The binary number system offers many advantagesover a decimal representation for a high-performance , general-purpose COMPUTER Less obvious AND perhaps more important is the way binary addressing AND instruction formats canincrease the overall PERFORMANCE On the other hand , decimal numbers are essential forcommunicating between man AND the COMPUTER In applications requiring the processing OF a large volumeof inherently decimal input AND output data , the time for decimal-binary conversion needed by a purelybinary COMPUTER may be significant 
+
+CA591202 JB March 22, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2317 48  11.162736747607415 BM25
+
+
+Programming Systems and Languages 1965-1975
+Important trends include the increased interest in the development ofsystem measurement AND EVALUATION techniques , AND increased use OF microprogramming for some programming system functions Programming SYSTEMS AND Languages 1965-1975 In the operating system area all major COMPUTER manufacturers set out to produce very ambitious multiprogrammingsystems , AND they all ran into similar problems languages , operating SYSTEMS , programmingsystems , multiprogramming , history 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2859 49  11.119021351163484 BM25
+
+
+Interference in Multiprocessor Computer Systems with Interleaved Memory
+The modelresults provide a good indication OF the PERFORMANCE that should be expected from real system OF this type Interference in Multiprocessor COMPUTER SYSTEMS with Interleaved Memory The model OF the limiting behavior OF the system yields approximateresults for the simple model AND also suggests that the results are valid for a much larger class OF models , including those more nearly like real SYSTEMS that the simple model are tested against some measurementsof program behavior AND simulations OF SYSTEMS using memory references from real programs 
+
+CA760603 JB January 4, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1805 50  11.070117723298203 BM25
+
+
+Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method
+productivity , prediction , multiprogramming , simulation , equipment EVALUATION , hardware , EVALUATION , monitor , operating system , system software , supervisors , PERFORMANCE , time sharing , time slicing Productivity OF Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method Multiprogramming as it is discussed here isa mode OF COMPUTER operation in which two or moreprograms are concurrently in processor memory AND proceeding , each using the same central processor unit ( CPU ) AND input-output ( I/O ) channels 
+
+CA691207 JB February 15, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1572 51  11.061783756623583 BM25
+
+
+The Simulation of Time sharing Systems
+Unfortunately , these SYSTEMS often do not respond to changes in the manner that intuitionwould suggest , AND there are few guides to assist in the analysis OF PERFORMANCE characteristics The Simulation OF Time sharing SYSTEMS The development OF new large scale time-sharingsystems has raised a number OF problems for computation center management Not only is it necessaryto develop an appropriate hardware configuration for these SYSTEMS , but appropriate software adjustmentsmust be made The resulting model has a general purpose design AND can be used to study avariety OF time-sharing SYSTEMS 
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1347 52  11.05418871871322 BM25
+
+
+General Time-Varying Systems Error Sensitivities Program
+The EVALUATION , by the propagation OF variancetechnique , OF the sensitivity OF time-varying SYSTEMS to initial condition AND parameter errors , involvesthe determination OF several system-dependent partial derivative matrices General Time-Varying SYSTEMS Error Sensitivities Program A new program , through utilization OF the Wengert differentiationtechnique , automatically determines the required matrices from specific system equations suppliedin subroutine form at execution time , eliminating the need for individualized programs , AND presaging thefurther development OF extremely general COMPUTER programs 
+
+CA661203 JB March 2, 1978  2:44 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2985 53  10.976652672813684 BM25
+
+
+Effects of Chargeout on User/Manager Attitudes
+The relationship OF in ternal pricing systemsfor COMPUTER services ( chargeout SYSTEMS ) AND user management attitudes about their computer-basedinformation SYSTEMS is investigated The results alsoindicate that the chargeout SYSTEMS characteristic OF advanced EDP stage environments are associated withrelatively high levels OF positive user attitudes AND marked increases in EDP training for users Both factorsare important to the user/manager involvement necessary for effective control OF computer-based SYSTEMS Development AND main tenance OF computer-based SYSTEMS is asserted to be a category OF organizationalchange COMPUTER management , COMPUTER budget , chargeout , stage hypothesis , control 
+
+CA770307 JB December 29, 1977  6:43 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3153 54  10.948855167407526 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+Queueing networks , paging , virtual memory , PERFORMANCE control The Control OF Response Times in Multi-ClassSystems by Memory Allocations A way OF applying the results to SYSTEMS with morethan two job classes is indicated The possibility OF giving different quality OF service to jobs OF differentclasses by regulating their memory allocation is examined inthe context OF a paged COMPUTER system 
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1699 55  10.86543405891964 BM25
+
+
+Experimental Evaluation of InformationRetrieval Through a Teletypewriter
+Experimental EVALUATION OF InformationRetrieval Through a Teletypewriter Factors involved in EVALUATION OF such a system include ease OF use , learning time , andeffectiveness OF actual retrieval information retrieval testing , information systemevaluation , experimental document retrieval , document retrieval , document perusal , man-machine communication , remote console communication , teletypewriter communication , remote terminal communication , retrievalcommand language , symbolic command language , interactive SYSTEMS , user learning factors , on-line searching Experiments designed to evaluate the capabilitiesof mechanized information retrieval SYSTEMS , with emphasis on interactive ( man-machine ) language AND onsome OF the mechanical AND psychological limitations in their design , were conducted at the Moore School informationSystems Laboratory 
+
+CA680902 JB February 22, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2669 56  10.841750265075794 BM25
+
+
+A Simple Linear Model of Demand Paging Performance
+A Simple Linear Model OF Demand Paging PERFORMANCE Predicting the PERFORMANCE OF a proposed automaticallymanaged multilevel memory system requires a model OF the patterns by which programs refer to theinformation stored in the memory paging , demand paging , memory models , program models , PERFORMANCE measurement , multilevel memory SYSTEMS , virtual memory , associative memory , memory usage accounting , Multics 
+
+CA740401 JB January 18, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1747 57  10.828893616603766 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+Three Criteria for Designing Computing SYSTEMS to Facilitate Debugging Examples OF applicationsof the criteria concern the reading OF a time-of-day clock , the synchronization OF parallelprocesses , protection in multiprogrammed SYSTEMS , AND the assignment OF capability indexes COMPUTER design , COMPUTER design criteria , computersystems , COMPUTER SYSTEMS design , input equipment , input equipment design , operating SYSTEMS , operatingsystems design , multiprogramming , multiprogrammed SYSTEMS , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , information security , information privacy , computing reliability , debugging , program debugging , program testing , parallel processing , parallel programming , multiprocessing These criteriaimply that a user can , if he desires , either know or control all the influences affecting the contentand extent OF his COMPUTER 's output To define the scope OF the criteria , the notion OF an abstractmachine OF a programming language AND the notion OF a virtual COMPUTER are explained 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1030 58  10.752200861023931 BM25
+
+
+Techniques for the Simulation of Computer Logic
+The EVALUATION OF the Boolean functions whichcharacterize the COMPUTER being simulated constitutes one major portion OF a simulation system The simulation OF a digital COMPUTER is anintegral part OF most COMPUTER design automation SYSTEMS Techniques for the Simulation OF COMPUTER Logic 
+
+CA640717 JB March 9, 1978  7:42 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1844 59  10.691483820343006 BM25
+
+
+A Modular Computer Sharing System
+Economic configurationsare possible for a range OF SYSTEMS sizes that span at least one order OF magnitude multiple terminal SYSTEMS , terminal oriented SYSTEMS , multiple processor SYSTEMS , high availability , conversational SYSTEMS , general purpose time-sharing SYSTEMS , real-time response system , modular constructed SYSTEMS , modular computer-sharing SYSTEMS , graphics , file switch , intercomputer communications , control COMPUTER , problem COMPUTER , roll-in , roll-out A Modular COMPUTER Sharing System The system organization describedis a conceptually simple arrangement OF a bank OF interchangeable computers , each OF whichis a memory/processor pair , that are assigned to process terminal jobs as they arrive One OF the computersserves as the master or control COMPUTER AND supervises the collection AND distribution OF messagesfrom AND to the remote terminals A crosspoint switching network allows any such disk drive to be connected to any COMPUTER Thus , while each active terminal user `` occupies '' a dedicated disk drive , he may share the COMPUTER withmany other terminal users in a simple manner The ratio OF users to computers is dependent on boththe size AND power OF the machines used AND the computation requirements OF the particular mix OF users This system organization is inherently a simpler AND therefore more reliable approach to time-sharing computersand has the potential OF a highly available system at relatively low cost Finally , problemprograms developed by remote terminal users can be run on a dedicated batch system if compatible computers are used 
+
+CA691002 JB February 15, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1341 60  10.622430430431546 BM25
+
+
+Levels of Computer Systems
+Levels OF COMPUTER SYSTEMS In building current COMPUTER SYSTEMS , we tendto break them down into `` levels '' OF control , command AND communication ; in using the system , we breakour problems down correspondingly The continued use OF such a structure raises questions about its effectson the usefulness OF future SYSTEMS , particularly with regard to such trends as time sharing , parallelprogramming , AND , eventually , SYSTEMS which learn 
+
+CA661208 JB March 2, 1978  2:29 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1529 61  10.605641101258808 BM25
+
+
+Decomposition Programming An Analysis of Matrix Substructure 
+In the course OF the analysis , a substructurewas discovered which has relevance to the relative PERFORMANCE OF the two algorithms AND to theirabsolute PERFORMANCE as compared with a standard primal-Simplex solution without decomposition 
+
+CA671004 JB February 27, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2679 62  10.509484703166159 BM25
+
+
+Some Performance Tests of "quicksort" and Descendants
+Detailed PERFORMANCE evaluations are presentedfor six ACM algorithms : quicksort ( No Some PERFORMANCE Tests OF `` quicksort '' AND Descendants sorting , in-place sorting , sorting efficiency , sorting PERFORMANCE tests , quicksort , quickersort , qsort , Shellsort , stringsort , TREESORT3 , utility sortalgorithm , general-purpose sort algorithm , sorting algorithm documentation 
+
+CA740304 JB January 18, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3091 63  10.424382297409737 BM25
+
+
+Some Basic Determinants of Computer Programming Productivity
+Programmer PERFORMANCE standards , predicting programdevelopment time , program estimation techniques , program development equation , value OF programming experience , programmer EVALUATION , programmer scheduling , programmer productivity , programming management , Cobol programming Some Basic Determinants OF COMPUTER Programming Productivity The ultimate objective was to develop a technique for predictingthe amount OF time necessary to create a COMPUTER program 
+
+CA780606 DH February 26, 1979  11:42 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2314 64  10.372877384207438 BM25
+
+
+Requirements for Advanced Programming Systems for List Processing
+The need for extended data forms , storage management , AND extensibilityare stressed , as is the duality OF data retrieval AND function EVALUATION Requirements for Advanced Programming SYSTEMS for List Processing List processing SYSTEMS should be designed tofacilitate production OF large programs to manipulate large complex symbolic data stores Because OF this general framework , the requirements specified are applicableto the design OF advanced programming SYSTEMS for a wide range OF applications Three aspects OF programmingsystems are highlighted : good interactive facilities , programmable control structures , AND sophisticateddata communication mechanisms list processing , programming languages , design ofprogramming languages , interactive SYSTEMS , control structures , data structures , programming primitives , semantics , advanced programming SYSTEMS 
+
+CA720714 JB January 30, 1978  1:30 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3090 65  10.341232196114227 BM25
+
+
+Automated Welfare Client-Tracking and ServiceIntegration: The Political Economy of Computing
+It illustrates theway `` successful '' automated information SYSTEMS fit the political economies OF the groups that use them Social impacts OF computing , organizational impactsof computing , management information SYSTEMS , sociology OF computing , information SYSTEMS andservice integration , urban information SYSTEMS This impact is a joint product OF both the technical features OF the computer-based system AND OF the organizationaldemands placed upon different agencies , administrators , AND caseworkers 
+
+CA780607 DH February 12, 1979  11:01 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2719 66  10.318109791836267 BM25
+
+
+Mechanical Program Analysis
+One means OF analyzing program performanceis by deriving closed-form expressions for their execution behavior analysis OF programs , PERFORMANCE analysis , executiontime , execution behavior , difference equations , generating functions , list processing , Lisp , algebraicmanipulation , programming languages , analysis OF algorithms 
+
+CA750905 JB January 6, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3150 67  10.273055549622146 BM25
+
+
+Beyond Programming Languages
+As COMPUTER technology matures , our growing ability to create large SYSTEMS is leading to basic changes in the nature OF programming Current programming language concepts will not be adequate for building AND maintainingsystems OF the complexity called for by the tasks we attempt Justas high level languages enabled the programmer to escape from theintricacies OF a machine 's order code , higher level programming systemscan provide the means to understand AND manipulate complexsystems AND components In order to develop such SYSTEMS , we needto shift our attention away from the detailed specification ofalgorithms , towards the description OF the properties OF the packagesand objects with which we build Programming , programming languages , programming SYSTEMS , SYSTEMS development 
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1752 68  10.23616935225353 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+Throughout the discussion particular emphasis is placed on balancingthe system PERFORMANCE relative to the characteristics OF all the system resources time-sharing , operating SYSTEMS , resource management , task scheduling , paging , system simulation , memory management , virtual memories 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-0671 69  10.231891537616045 BM25
+
+
+TELEFILE-A Case Study of an On-Line Savings Bank Application
+Operation OF the on-lineand off-line programs are described AND statistics are cited for reliability AND PERFORMANCE OF the system The development OF an on-line COMPUTER systemfor a savings bank institution is traced from the early conceptual needs OF the bank to the consummationof design by The Teleregister Corporation 
+
+CA631203 JB March 13, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2325 70  10.191352244209508 BM25
+
+
+Numerical Mathematics and Computer Science
+These are : foundations ( finite precision number SYSTEMS , computational complexity ) , synthesis AND analysis OF algorithms , analysis OF error , programs AND program libraries Numerical Mathematics AND COMPUTER Science numerical mathematics , COMPUTER science , mathematicsof computation , algorithms , continuous algorithms 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1901 71  10.149871798764455 BM25
+
+
+Dynamic Space-Sharing in Computer Systems
+Dynamic Space-Sharing in COMPUTER SYSTEMS A formalization OF relationships between space-shadingprogram behavior , AND processor efficiency in COMPUTER SYSTEMS is presented space-sharing , storage allocation , memory allocation , storage management , memory management , program behavior , multiprogramming , COMPUTER system design , allocationstrategies , replacement strategies , demand-paging , time-sharing 
+
+CA690508 JB February 17, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2437 72  10.148132228906967 BM25
+
+
+General Performance Analysis of Key-to-AddressTransformation Methods Using an Abstract File Concept
+General PERFORMANCE Analysis OF Key-to-AddressTransformation Methods Using an Abstract File Concept This paper presents a new approach to the analysisof PERFORMANCE OF the various key-to-address transformation methods All files with the same number OF keys selected from this key space will be suitably weightedin accordance with the algorithm , AND the average PERFORMANCE OF the transformation methods onthese files will be used as the potential OF these methods Using this analysis , methods with the same overallperformance can be classified AND key distributions partial to certain transformations can be identified hashing , hashing techniques , hashing methods , hash coding , key transformation , key-to-address transformation , direct addressing , randomizing , random access , scatterstorage , information retrieval , hashing analysis , randomization PERFORMANCE analysis 
+
+CA731003 JB January 20, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2106 73  10.088465788423434 BM25
+
+
+Computer Education in a Graduate School of Management
+Several years OF experience have led to the belief that the creativedesign AND EVALUATION OF management information SYSTEMS requiresa thorough understanding OF the related COMPUTER technology Conceptssuch as paging AND priority interrupt SYSTEMS can best be explained at the machine language level education , simulation , machine language , management information SYSTEMS , interpreters COMPUTER Education in a Graduate School OF Management 
+
+CA700209 JB February 14, 1978  10:15 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2308 74  10.074199214604523 BM25
+
+
+Computers and Urban Society
+urban SYSTEMS , urban applications , data acquisition , data management , engineering analysis , information SYSTEMS Computers AND Urban Society This brief survey OF the use OF computers inurban society covers the broad range OF activities found in any city The COMPUTER can be , if properly used , with respect for human dignity AND civil liberty , a significant factor in improving the efficiency OF the urban process It is expected that the benefitsof such COMPUTER usage will outweigh the costs AND that we may look forward to an expansion OF such usage 
+
+CA720720 JB January 30, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1542 75  10.052673766022302 BM25
+
+
+A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+The system is describedand results are given in terms OF microprogram AND main storage space required AND compiler AND interpreterperformance obtained The structure AND content OF a higher level language can be matched by an appropriateinterpretive language which can be executed efficiently by microprograms on existing COMPUTER hardware 
+
+CA670904 JB February 27, 1978  3:44 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2936 76  10.019306815251914 BM25
+
+
+An Efficient Data Structure for the Simulation Event Set
+Several exhibited a PERFORMANCE superior to that OF commonly used simple linked list algorithms First , the new algorithm 's PERFORMANCE is quite insensitive to skewed distributions , AND second , its worst-case complexity is O ( n ) , where n is the number OF events in the set Recently algorithms have been presented for therealization OF event scheduling routines suitable for general purpose discrete event simulation SYSTEMS 
+
+CA770807 JB December 28, 1977  7:15 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2967 77  9.978429864849025 BM25
+
+
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer Graphics
+associative memory , associative processor , content-addressablememory , graphics , information retrieval , data structures , software EVALUATION , hardware EVALUATION , parallel processing , database management A Comparison OF Hardware AND Software AssociativeMemories in the Context OF COMPUTER Graphics The APLD functionswere duplicated on the TX-2 COMPUTER at M 
+
+CA770505 JB December 29, 1977  2:07 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1247 78  9.94092619223006 BM25
+
+
+An Operating Environment for Dynamic-RecursiveComputer Programming Systems
+An Operating Environment for Dynamic-RecursiveComputer Programming SYSTEMS Presented in this paper is a brief nontechnicalintroduction to OEDIPUS , a COMPUTER programming system which can serve as an operating environment fordynamic and/or recursive programs AND programming SYSTEMS 
+
+CA650608 JB March 6, 1978  10:18 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3182 79  9.852417027186213 BM25
+
+
+Vulnerabilities of EFTs to Intentionally Caused Losses
+The hypothesis that consumersare provided greater accuracy AND freedom from error AND fraud withelectronic funds transfer SYSTEMS ( EFTs ) is discussed in lightof the technical capabilities AND potential OF the COMPUTER to protectagainst both accidentally AND intentionally caused losses Although the nomenclature for business crimes remains the same as formanual depository AND other financial service SYSTEMS - for example , fraud , theft , embezzlement - the characteristics OF the crimesare new EFTs , COMPUTER abuse , crime , security , errors , losses , positions OF trust , legislation 
+
+CA791205 DB February 25, 1980  1:56 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3025 80  9.827383761143011 BM25
+
+
+The Evolution of the DEC system 10
+The DEC system 10 , also known as the PDP-10 , evolvedfrom the PDP-6 ( circa 1963 ) over five generations OF implementations to presently include SYSTEMS coveringa price range OF five to one The PDP-10'scontributions to computing technology include : accelerating the transition from batch oriented to timesharing computing SYSTEMS ; transferring hardware technology within DEC ( AND elsewhere ) to minicomputerdesign AND manufacturing ; supporting minicomputer hardware AND software development ; AND serving as amodel for single user AND timeshared interactive minicomputer/microcomputer SYSTEMS COMPUTER structures , architecture , operating system , timesharing 
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1415 81  9.78977894224759 BM25
+
+
+Automatic Derivation of Microsentences
+The authors conclude that while microsentences OF the quality achieved do not open up immediate prospectsfor improving the PERFORMANCE OF automatic message retrieval SYSTEMS , they may have practicalvalue in man-machine SYSTEMS using human monitors to select the preferred syntactic interpretation OF a sentence 
+
+CA660606 JB March 3, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-0417 82  9.788134415761208 BM25
+
+
+Legal Implications of Computer Use
+This paper points out a variety OF ways computersystems used in business AND industry can be involved in legal entanglements AND suggests thatcomputer specialists have a responsibility to call for assistance in forestalling or minimizing those entanglementsduring the planning stage COMPUTER specialists also are alerted to potential opportunities to interpret to lawyers the technical aspectsof COMPUTER SYSTEMS involved in legal situations Legal Implications OF COMPUTER Use 
+
+CA621222 JB March 17, 1978  4:37 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1196 83  9.785754178296656 BM25
+
+
+Applications of Differential Equations in General Problem Solving
+A large class OF problems leading to digitalcomputer processing can be formulated in terms OF the numerical solution OF SYSTEMS OF ordinary differentialequations Powerful methods are in existence for the solution OF such SYSTEMS A good general purposeroutine for the solution OF such SYSTEMS furnishes a powerful tool for processing many problems This istrue from the point OF view OF ease OF programming , ease OF debugging , AND minimization OF COMPUTER time 
+
+CA650910 JB March 6, 1978  7:16 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1892 84  9.782304591275114 BM25
+
+
+Degree of Multiprogramming in Page-on-Demand Systems
+Degree OF Multiprogramming in Page-on-Demand SYSTEMS A simple stochastic model is described whichoffers a base for understanding the relationship between the number OF programs permitted to share memory ( the degree OF multiprogramming ) , drum traffic rates , AND central processing unit utilization in page-on-demand , multiprogrammed , time-shared COMPUTER SYSTEMS page-on-demand , demand paging , time-sharing multiprogramming , Markovian COMPUTER models , scheduling strategies , operating SYSTEMS , memory management 
+
+CA690601 JB February 17, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3059 85  9.77315786222776 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+The percentage PERFORMANCE improvement from CPU : I/Ooverlap is found to be greatest for SYSTEMS which are in approximate CPU : I/O utilization balance AND forlow degrees OF multiprogramming 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2321 86  9.74653436599177 BM25
+
+
+On the Interface Between Computers and Data Communications Systems
+On the Interface Between Computers AND Data Communications SYSTEMS Future SYSTEMS that combine computers , digitalterminals , AND communications equipment present design optimization problems that require reconsiderationof the traditional functional responsibilities OF the respective subsystems Several `` standard '' interfaces , by means OF which computers AND digital terminals connect to the communications SYSTEMS willbe required A focus on some OF the problems isobtained in a discussion OF a detailed specification for a particular computer-communications system interface 
+
+CA720707 JB January 30, 1978  2:46 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1435 87  9.729125515091248 BM25
+
+
+Design of Computer Simulation Experiments for Industrial Systems
+Design OF COMPUTER Simulation Experiments for Industrial SYSTEMS The aim OF this paper is to provide backgroundinformation on the existing literature on experimental design techniques which may be applicable to the designof COMPUTER simulation experiments for industrial SYSTEMS 
+
+CA660502 JB March 3, 1978  10:20 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-3076 88  9.68803595866448 BM25
+
+
+Value Conflicts and Social Choice in ElectronicFunds Transfer System Developments
+During the last few years , computer-basedsystems which automate the transfer AND recording OF debits AND credits have begun to be implemented ona large scale These SYSTEMS promise both financial benefits for the institutions that use them AND potentialconveniences to their customers However , they also raise significant social , legal , AND technicalquestions that must be resolved if full scale SYSTEMS for Electronic Funds Transfer ( EFT ) are notto cause more problems for the larger public than they solve Electronic funds transfer SYSTEMS , social impactsof computing , privacy , social choice , COMPUTER networks , network reliability , security , social values 
+
+CA780802 DH February 7, 1979  2:25 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1926 89  9.680141261278823 BM25
+
+
+Description of FORMAT, a Text-Processing Program
+It features good PERFORMANCE , totally free-form input , very flexible formatting capabilitiesincluding up to eight columns per page , automatic capitalization , aids for index construction , AND aminimum OF nontext items FORMAT is a production program which facilitatesthe editing AND printing OF `` finished '' documents directly on the printer OF a relatively small ( 64k ) computersystem 
+
+CA690301 JB February 20, 1978 9:45 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-0533 90  9.665256702060999 BM25
+
+
+Digital Synthesis of Correlated Stationary Noise
+The need for such a techniqueoften arises in testing the PERFORMANCE OF data processing AND engineering SYSTEMS , where inputscorrupted with correlated noise ( OF a known form ) are required 
+
+CA620728 JB March 17, 1978  7:59 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1071 91  9.635255104621729 BM25
+
+
+Computer-Usage Accounting for Generalized Time-Sharing Systems
+Computer-Usage Accounting for Generalized Time-Sharing SYSTEMS The current development OF general time-sharingsystems requires a revision OF accounting procedures for COMPUTER usage The various cost factors which should be considered for COMPUTER usageaccounting in generalized time-sharing SYSTEMS are discussed Since time-sharing system usersoperate concurrently , it is necessary to be more precise as to the amount OF COMPUTER time AND storagespace that a user actually utilizes 
+
+CA640518 JB March 9, 1978  11:40 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1912 92  9.5947459971022 BM25
+
+
+Simulation of Outpatient Appointment Systems
+Simulation OF Outpatient Appointment SYSTEMS An experimental COMPUTER program is describedwhich simulates appointment SYSTEMS employed by outpatient departments OF hospitals Both major kindsof appointment systems-individual AND block-can be simulated The purpose OF the Simulator is to enablethe user to evaluate the effectiveness OF alternative appointment SYSTEMS in a given clinical environment 
+
+CA690405 JB February 17, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2111 93  9.567495266674952 BM25
+
+
+Spelling Correction in Systems Programs
+Spelling Correction in SYSTEMS Programs Several specialized techniques are shown for efficientlyincorporating spelling correction algorithms into compilers AND operating SYSTEMS By using SYSTEMS which perform spelling correction , the number OF debugging runs per program has been decreased , saving both programmer AND machine time spelling correction , error correction , debugging , compilers , operating SYSTEMS , diagnostics , error detection , misspelling , lexical analysis SYSTEMS programming 
+
+CA700204 JB February 14, 1978  10:40 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2734 94  9.552258792933545 BM25
+
+
+On the External Storage Fragmentation Producedby First-Fit and Best-Fit Allocation Strategies
+Through simulation , a series OF experiments were performed in order to obtain better data on the relative PERFORMANCE offirst-fit AND best-fit AND a better understanding OF the reasons underlying observed differences Results OF simulation experiments supported this hypothesis AND showed that the relativeperformance OF first-fit AND best-fit depends on the frequency OF request 
+
+CA750801 JB January 9, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1270 95  9.548651294448149 BM25
+
+
+On ALGOL Education: Automatic Grading Programs
+Two ALGOL grader programs are presented forthe COMPUTER EVALUATION OF student ALGOL programs There is a statement OF the essential properties OF a COMPUTER system , in order thatgrader programs can be effectively used 
+
+CA650501 JB March 7, 1978  3:16 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2406 96  9.522507454540348 BM25
+
+
+A Data Definition and Mapping Language
+Such languages will be a key SYSTEMS , as wellas in advanced data management SYSTEMS AND distributed data bases data definition language , data AND storage structure , data translation , data base management SYSTEMS , file translation A data definition language i sa declarativecomputer language for specifying data structures Most data definition languages concentrate on the declarationof logical data structures with little concern for how these structures are physically realizedon a COMPUTER system 
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-0059 97  9.510755694692657 BM25
+
+
+Survey of Progress and Trend of Developmentand Use of Automatic Data Processing in Businessand Management control Systems of the FederalGovernment, as of December 1957-III
+Survey OF Progress AND Trend OF Developmentand Use OF Automatic Data Processing in Businessand Management control SYSTEMS OF the FederalGovernment , as OF December 1957-III 
+
+CA590910 JB March 22, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2886 98  9.510550725993147 BM25
+
+
+Semantic Evaluation from Left to Right
+Semantic EVALUATION from Left to Right The paper concentrates on the evaluationof semantic attributes in a few passes from left to right over the derivation tree OF a program Practical questions , suchas the relative efficiency OF different EVALUATION schemes , AND the ease OF adapting the attribute grammarof a given programming language to the left-to-right EVALUATION scheme are discussed attribute grammars , semantics OF programming languages , semantic attributes , left-to-right parsing , multipass compilers , semantic EVALUATION , semantic conditions 
+
+CA760201 JB January 5, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-1748 99  9.483931387535979 BM25
+
+
+A Scheduling Philosophy for Multiprocessing Systems
+A Scheduling Philosophy for Multiprocessing SYSTEMS A collection OF basic ideas is presented , whichhave been evolved by various workers over the past four years to provide a suitable framework for thedesign AND analysis OF multiprocessing SYSTEMS A very general approach to priority-oriented scheduling is described , AND its relationship to conventional interrupt SYSTEMS is explained time-sharing , multiprocessing , process , scheduling , interlocks , protection , priority , interrupt SYSTEMS 
+
+CA680508 JB February 23, 1978  9:13 AM
+
+
+--------------------------------------------------------------
+25 Q0 CACM-2198 100  9.475592963515743 BM25
+
+
+Introduction to "Feature Analysis ofGeneralized Data Base Management Systems"
+Introduction to `` Feature Analysis ofGeneralized Data Base Management SYSTEMS '' This paper is a separately published introductionto a main report which analyzes the features OF generalized data base management SYSTEMS This introductiongives a review OF the current state OF the art in these SYSTEMS AND discusses the differencesand similarities between capabilities found in host language SYSTEMS AND those found in self-containedsystems Codasyl SYSTEMS Committee data base management SYSTEMS , programming languages , data structures , storage structures , information retrieval , transaction processing 
+
+CA710501 JB February 3, 1978  3:18 PM
+
+

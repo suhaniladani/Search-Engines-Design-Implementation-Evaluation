@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+52 Q0 CACM-2721 1  14.627668427093308 BM25
+
+
+The Digital Simulation of River Plankton Population Dynamics
+IN addition , the study demonstrates the usefulness ofdigital simulations IN the examinations of certain aquatic ECOSYSTEMS , as well as IN environmentalplanning involving such examinations digital SIMULATION , mathematical modeling , planktonpopulation dynamics , phytoplankton , zooplankton , river ECOSYSTEMS , ecological mechanisms , environmental SIMULATION , modeling ECOSYSTEMS , pollution , environmental impact , environmental planning The Digital SIMULATION of River Plankton Population Dynamics This paper deals with the development of amathematical model for AND the digital SIMULATION IN Fortran IV of phytoplankton AND zooplankton populationdensities IN a river using previously developed rate expressions IN order to study the relationshipsbetween the ecological mechanisms involved , the SIMULATION parameters were varied illustrating theresponse of the ecosystem to different conditions , including those corresponding to certain types of chemicaland thermal pollution As an investigation of the accuracy of the SIMULATION methods , a simulationof the actual population dynamics of Asterionella IN the Columbia River was made based on approximationsof conditions IN that river Although not totally accurate , the SIMULATION was found to predict the generalannual pattern of plankton growth fairly well AND , specifically , revealed the importance of the annualvelocity cycle IN determining such patterns 
+
+CA750903 JB January 6, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2749 2  6.10313998856049 BM25
+
+
+Significant Event Simulation
+Significant Event SIMULATION This paper compares a new method of simulationorganization , called the significant event method , with an old one , called the clock pulse method , usingas examples two automobile traffic models The model aids IN choosing between the two SIMULATION methods for a particular experiment It is concludedthat the significant event method can be of value IN the SIMULATION of some systems when computationalefficiency is of sufficient importance SIMULATION organization , event SIMULATION , clockpulse SIMULATION , significant event SIMULATION 
+
+CA750604 JB January 9, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1928 3  5.914197804727992 BM25
+
+
+Exclusive Simulation of Activity in Digital Networks
+Exclusive SIMULATION of Activity IN Digital Networks The main results obtained are a clear AND useful separation of structural AND behavioralmodel description , a reduction of manual tasks IN converting Boolean logic into a structural model , the elimination of manual processes IN achieving exclusive SIMULATION of activity , an event-schedulingtechnique which does not deteriorate IN economyas the event queue grows IN length , AND a simulationprocedure which deals effectively with any mixture of serial AND simultaneous activities Certain aspects of the techniques described may be used for the simulationof network structures other than digital networks SIMULATION , logical SIMULATION , digital SIMULATION , large systems SIMULATION , network structures , scheduling , queuing , simultaneous activities , parallel events 
+
+CA690210 JB February 20, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3070 4  5.903435022959856 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+Hybrid SIMULATION Models of Computer Systems This paper describes the structure AND operationof a hybrid SIMULATION model IN which both discrete-event SIMULATION AND analytic techniques arecombined to produce efficient yet accurate system models IN an example based on a simple hypotheticalcomputer system , discrete-event SIMULATION is used to model the arrival AND activation of jobs , AND acentral-server queueing network models the use of system processors The accuracy AND efficiency of thehybrid technique are demonstrated by comparing the result AND computational costs of the hybrid model ofthe example with those of an equivalent simulation-only model Performance evaluation , SIMULATION , queueingnetwork models , central server model 
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2767 5  5.762741577344739 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+A Comparison of SIMULATION Event List Algorithms Four algorithms are considered which can be usedto schedule events IN a general purpose discrete SIMULATION system The end-order tree algorithm is shown to be an advantageous , immediate replacement for the algorithm IN use with current SIMULATION languages SIMULATION , time flow mechanisms , event list algorithm , SIMULATION , time flow mechanisms , event list algorithm , SIMULATION executive , event schedulingroutine , discrete system SIMULATION , sorting 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1366 6  5.734073398890777 BM25
+
+
+Computer Simulation-Discussion of theTechnique and Comparison of Languages 
+Computer Simulation-Discussion of theTechnique AND Comparison of Languages The purpose of this paper is to present a comparisonof some computer SIMULATION languages AND of some of the involved IN comparing software packagesfor digital computers are discussed IN Part I Substantial costs can occur , particularly IN training , implementation AND computer time if an inappropriate language is chosenore AND more computer simulationlanguages are being developed : comparisons AND evaluations of existing languages are useful for designersand implementers as well as users The second part is devoted to computer SIMULATION AND simulationlanguages The computational characteristics of SIMULATION are discussed with special attention beingpaid to a distinction between continuous AND discrete change models Part III presents a detailed comparisonof six SIMULATION languages AND packages : SIMSCRIPT , CLP , CSL , GASP , CPSS AND SOL The conclusion of the paper is that the packages nowavailable for computer SIMULATION offer features which none of the more general-purpose packages do andthat analysis of strengths AND weaknesses of each suggests ways IN which both current AND future simulationlanguages AND packages can be improved 
+
+CA661001 JB March 2, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1870 7  5.539793925795013 BM25
+
+
+Some Techniques for Using Pseudorandom Numbers in Computer Simulation
+Some Techniques for Using Pseudorandom Numbers IN Computer SIMULATION Techniques for making use of such `` numbers '' IN SIMULATION programming are described random numbers , SIMULATION , Boolean algebra , bit manipulation 
+
+CA690710 JB February 17, 1978  8:54 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2742 8  5.340222725018912 BM25
+
+
+Improved Event-Scanning Mechanisms for Discrete Event Simulation
+Improved Event-Scanning Mechanisms for Discrete Event SIMULATION SIMULATION models of large , complex `` real-world '' applications have occasionally earned the reputation of eating up hours of computer time This paper presents a method for significantly reducing the time spent scanningfuture event lists IN discrete event simulations discrete event SIMULATION , SIMULATION , event scanning mechanisms 
+
+CA750611 JB January 9, 1978  12:43 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3051 9  5.323453036047621 BM25
+
+
+A Comparison of Heaps and the TL Structure for the SImulation Event Set
+A Comparison of Heaps AND the TL Structure for the SIMULATION Event Set SIMULATION , event set , heaps , TL structure 
+
+CA781010 DH January 29, 1979  11:51 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2902 10  5.309349587509252 BM25
+
+
+Dynamic Memory Allocation in Computer Simulation
+Dynamic Memory Allocation IN Computer SIMULATION This paper investigates the performance of35 dynamic memory allocation algorithms when used to service SIMULATION programs as represented by 18test cases algorithm performance , dynamic memory allocation , dynamicmemory management , dynamic storage allocation , garbage collection , list processing , memory allocation , memory management , programming techniques , SIMULATION , SIMULATION memory management , SIMULATION techniques , space allocation , storage allocation 
+
+CA771114 JB December 27, 1977  6:09 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1030 11  5.287404260947102 BM25
+
+
+Techniques for the Simulation of Computer Logic
+Techniques for the SIMULATION of Computer Logic The SIMULATION of a digital computer is anintegral part of most computer design automation systems The evaluation of the Boolean functions whichcharacterize the computer being simulated constitutes one major portion of a SIMULATION system Toward greatly increased efficiency of a simulationsystem , methods are presented for simultaneously evaluating many functions for one set of values of thevariables , AND for evaluating simultaneously one function for many sets of values for the variables 
+
+CA640717 JB March 9, 1978  7:42 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1890 12  5.268068853269957 BM25
+
+
+Simulation of Traffic Flows in a Network
+SIMULATION of Traffic Flows IN a Network A computer SIMULATION program which dealswith traffic flows IN the network of a large area is described Thissimulation scheme has its excellent point IN that it makes it possible to trace the dynamic behaviorof traffic flows IN a variety of situations , some examples of which are given for an actual area of the city of Kyoto , Japan traffic SIMULATION , traffic flow , traffic networktraffic control , traffic density , intersection , signal setting , vehicle , road network , list structure , computer SIMULATION 
+
+CA690603 JB February 17, 1978  1:26 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3048 13  5.110752649433724 BM25
+
+
+Performance Evaluation of Highly ConcurrentComputers by Deterministic Simulation
+Performance Evaluation of Highly ConcurrentComputers by Deterministic SIMULATION SIMULATION is presented as a practical techniquefor performance evaluation of alternative configurations of highly concurrent computers A techniqueis described for constructing a detailed deterministic SIMULATION model of a system SIMULATION of thesystem model yields the timing AND resource usage statistics needed for performance evaluation , withoutthe necessity of emulating the system Performance evaluation , deterministic SIMULATION , control stream , concurrent computers 
+
+CA781103 DH January 26, 1979  11:26 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0678 14  5.066618730825139 BM25
+
+
+Optimizing Bit-time Computer Simulation
+Optimizing Bit-time Computer SIMULATION A major component of a bit-time computer simulationprogram is the Boolean compiler Techniques are discussed for increasing the sophistication of the Booleancompiler so as to optimize bit-time computer SIMULATION 
+
+CA631114 JB March 13, 1978  3:34 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2218 15  5.020812581955491 BM25
+
+
+An Analysis of Some Time-Sharing Techniques
+The vehicle for this investigationwas a SIMULA based SIMULATION model reflecting an early framework for a planned Burroughs B6500 time-sharingsystem The design characteristics AND operational capabilitiesof the SIMULATION model are also described B6500 , bulk core usage , operating system model , relocation , rotational delay minimization , SIMULATION , swap volume minimization , system SIMULATION , time-sharing 
+
+CA710203 JB February 8, 1978  9:40 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1329 16  4.968405765945084 BM25
+
+
+Simulation of Boolean Functions in a Decimal computer
+SIMULATION of Boolean Functions IN a Decimal computer 
+
+CA650108 JB March 8, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2970 17  4.911707454458689 BM25
+
+
+Achieving Specific Accuracy in Simulation Output Analysis
+Achieving Specific Accuracy IN SIMULATION Output Analysis This paper extends the use of the regenerativeproperty of queueing systems IN the analysis of SIMULATION output A second example then describes how using the most frequently entered stateas the regenerative state reduces the chance of making a costly error IN a preliminary SIMULATION run confidence IN terval , ratio estimator , regenerativeproperty , sequential estimator , SIMULATION , stopping rule , variance reduction 
+
+CA770502 JB December 29, 1977  2:43 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0557 18  4.890570626816697 BM25
+
+
+Simulation of Computer Timing Device
+SIMULATION of Computer Timing Device 
+
+CA620704 JB March 17, 1978  8:57 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1637 19  4.809322863320907 BM25
+
+
+Problems in the Statistical Analysis of SimulationExperiments: The Comparison of Means and the Length of Sample Records
+Problems IN the Statistical Analysis of SimulationExperiments : The Comparison of Means AND the Length of Sample Records Research is continued into statistical analysisof SIMULATION experiments containing autocorrelated time series The resultsexpand the possibilities of statistical spectral analysis as applied to SIMULATION experiments 
+
+CA670205 JB February 28, 1978  3:34 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0757 20  4.776017770049327 BM25
+
+
+Simulation of a Traffic Network
+SIMULATION of a Traffic Network 
+
+CA630841 JB March 13, 1978  7:55 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2914 21  4.7521847224958895 BM25
+
+
+Use of the LRU Stack Depth Distributionfor Simulation of Paging Behavior
+Use of the LRU Stack Depth Distributionfor SIMULATION of Paging Behavior Two families of probability distributions wereneeded for use by a virtual memory SIMULATION model : headway between page fault distributions , andworking set size distributions virtual memory , paging , LRU stack , working set , headwaybetween page faults , computer system SIMULATION 
+
+CA771102 JB December 27, 1977  8:04 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1207 22  4.7390167769483575 BM25
+
+
+Remarks on Simulation of Boolean Functions
+Remarks on SIMULATION of Boolean Functions 
+
+CA650817 JB March 6, 1978  7:52 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1208 23  4.702584688128811 BM25
+
+
+Simulation of Computer Logic by Fortran Arithmetic
+SIMULATION of Computer Logic by Fortran Arithmetic 
+
+CA650816 JB March 6, 1978  7:53 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1380 24  4.673293620405829 BM25
+
+
+SIMULA-an ALGOL-Based Simulation Language
+SIMULA-an ALGOL-Based SIMULATION Language A system description also serves as a source language simulationprogram 
+
+CA660907 JB March 2, 1978  6:21 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2062 25  4.670791351224949 BM25
+
+
+The Application of Sequential Samplingto Simulation: An Example Inventory Model
+The Application of Sequential Samplingto SIMULATION : An Example Inventory Model Four different sequential sampling procedures are appliedto the analysis of data generated by a computer simulationexperiment with a multi-item inventory model SIMULATION , inventory models , sequentialsampling , models , experimental design 
+
+CA700504 JB February 13, 1978  2:11 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1912 26  4.659885914318543 BM25
+
+
+Simulation of Outpatient Appointment Systems
+SIMULATION of Outpatient Appointment Systems SIMULATION , scheduling , appointment system , outpatientdepartment , medicine , health , managementscience , operations research 
+
+CA690405 JB February 17, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2936 27  4.657661208436614 BM25
+
+
+An Efficient Data Structure for the Simulation Event Set
+An Efficient Data Structure for the SIMULATION Event Set Recently algorithms have been presented for therealization of event scheduling routines suitable for general purpose discrete event SIMULATION systems SIMULATION , time flow mechanisms , eventscanning mechanisms , multilinked lists 
+
+CA770807 JB December 28, 1977  7:15 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1805 28  4.6194574752376525 BM25
+
+
+Productivity of Multiprogrammed Computers-Progressin Developing an Analytic Prediction Method
+The effective progress rate of each program is sensitive to many detailed characteristicsof itself AND its co-residents AND SIMULATION has been the best available method of predicting it Thispaper presents the results of progress IN developing an alternative to SIMULATION , a simulation-tested iterativecomputation of these rates under certain situations productivity , prediction , multiprogramming , SIMULATION , equipment evaluation , hardware , evaluation , monitor , operating system , system software , supervisors , performance , time sharing , time slicing 
+
+CA691207 JB February 15, 1978  2:47 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1695 29  4.619252096801828 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+Data resulting from the SIMULATION of a network may beanalyzed by a variety of techniques ranging from examinations of the gross characteristics of the data tothe determination of detailed statistical properties biological modeling , data analysis , discrete systemsimulation , library systems , modeling , network SIMULATION , neural networks , neurophysiologicalmodels , on-line SIMULATION , SIMULATION 
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0238 30  4.617282689481644 BM25
+
+
+Simulation and Analysis of Biochemical Systems
+SIMULATION AND Analysis of Biochemical Systems 
+
+CA611212 JB March 15, 1978  10:09 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1752 31  4.604354470882244 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+A synopsis is given of the task scheduling AND paging algorithms that were implemented , AND the results of comparative SIMULATION are given by tracing the development of the algorithmsthrough six predecessor versions SIMULATION results relativeto alternate hardware characteristics AND the effects of program mix AND loading variations are also presented time-sharing , operating systems , resource management , task scheduling , paging , system SIMULATION , memory management , virtual memories 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2798 32  4.598001853454174 BM25
+
+
+Analysis of Interleaved Memory Systems Using Blockage Buffers
+A model of interleaved memory systems is presented , AND the analysis of the model by Monte Carlo SIMULATION is discussed The simulations investigatethe performance of various system structures , i Results of the simulations AND an analyticalstudy are displayed for various system structures interleaved memory systems , modular memory systems , memory performance analysis , blockage buffer , conflict buffer , SIMULATION , Monte Carolo SIMULATION 
+
+CA750201 JB January 12,1978  8:54 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2725 33  4.596573598391735 BM25
+
+
+A Comparison of Simulation Event List Algorithms (Corrigendum)
+A Comparison of SIMULATION Event List Algorithms ( Corrigendum ) 
+
+CA750810 JB January 6, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0643 34  4.516231913395301 BM25
+
+
+Simulation and Analysis of Biochemcial Systems(II. Solution of Differential Equations)
+SIMULATION AND Analysis of Biochemcial Systems ( II 
+
+CA620116 JB March 20, 1978  3:58 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1812 35  4.495236784333629 BM25
+
+
+More on Fortran Random Number Generators
+random number generation , Monte Carlo , SIMULATION 
+
+CA691118 JB February 15, 1978  11:57 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3064 36  4.434757927783616 BM25
+
+
+Event Manipulation for Discrete SimulationsRequiring Large Numbers of Events
+Event Manipulation for Discrete SimulationsRequiring Large Numbers of Events SIMULATION , discrete systems SIMULATION , discreteevent SIMULATION , time-flow mechanisms 
+
+CA780908 DH January 29, 1979  6:46 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2057 37  4.427914054588742 BM25
+
+
+Random Vectors Uniform in Solid Angle (Algorithm 381 $G5))
+random number , random vector , random number generator , probabilitydistribution , frequency distribution , SIMULATION , Monte Carlo 
+
+CA700509 JB February 13, 1978  1:19 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0633 38  4.401463669804385 BM25
+
+
+Simulation and Analysis of Biochemical Systems(III. Analysis and Pattern Recognition)
+SIMULATION AND Analysis of Biochemical Systems ( III 
+
+CA620210 JB March 20, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3061 39  4.398271764959491 BM25
+
+
+Simulations of Dynamic Sequential Search Algorithms
+Simulations of Dynamic Sequential Search Algorithms Searching , list processing , sequentialsearching , dynamic reordering , SIMULATION 
+
+CA780911 DH January 29, 1979  6:30 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2844 40  4.366873053350036 BM25
+
+
+Heaps Applied to Event Driven Mechanisms
+discrete event SIMULATION , event-scanningmechanisms , priority queues , heaps 
+
+CA760709 JB January 4, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1572 41  4.31422523307888 BM25
+
+
+The Simulation of Time sharing Systems
+The SIMULATION of Time sharing Systems Thedevelopment of a comprehensive SIMULATION model to assist IN the investigation of these questions isdescribed IN this paper The use ofthe SIMULATION is demonstrated by a study of the IBM 360/67 time-sharing system 
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2261 42  4.238604051469569 BM25
+
+
+An Approximate Method for Generating Symmetric Random Variables
+Since it approximates many of the continuoustheoretical distributions AND empirical distributions frequently used IN simulations , the method shouldbe useful to SIMULATION practitioners SIMULATION , Monte Carlo , probability , statistics , approximations , random variables , random numbers , moments , distribution 
+
+CA721108 JB January 27, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1894 43  4.216372283455555 BM25
+
+
+Normal Random Deviates (Algorithm 334 [G5])
+normal deviates , normal distribution , random number , random number generator , SIMULATION , probability distribution , frequency distribution , random 
+
+CA690516 JB February 17, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0104 44  4.1952564406037585 BM25
+
+
+Digital Simulation of Discrete Flow Systems*
+Digital SIMULATION of Discrete Flow Systems* The principal portion of the paper is a discussion of two SIMULATION studies that illustratesome of the programming problems involved 
+
+CA601212 JB March 20, 1978  6:27 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1716 45  4.18750846078026 BM25
+
+
+Normal Random Deviates (Algorithm 334 [G5])
+normal deviates , normal distribution , random number , random number generator , SIMULATION , probability distribution , frequency distribution , random 
+
+CA680713 JB February 22, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2549 46  4.15903713465338 BM25
+
+
+Random Deviates from the Dipole Distribution [G5] (Algorithm A441)
+random number , probability density , probability distribution , Dipole distribution , Cauchy distribution , SIMULATION , Monte Carlo 
+
+CA730112 JB January 24, 1978  3:42 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2344 47  4.118436749557492 BM25
+
+
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+On the Optimization of Performance of Time-Sharing Systems by SIMULATION A SIMULATION model of a time-sharing systemwith a finite noncontiguous store AND an infinite auxiliary store is used to study the variation of systemparameters such as store size , number of jobs allowed to execute simultaneously , job-scheduling algorithm , etc A comparisonis made between the results of the SIMULATION model AND two analytical equations for quantum-orientednonpreemptive time-sharing systems time-sharing , SIMULATION studies , optimization , measure of performance , scheduling algorithms 
+
+CA720601 JB January 31, 1978  9:19 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1427 48  4.112501354120899 BM25
+
+
+Simulation of Radioisotope Scans by Computer
+SIMULATION of Radioisotope Scans by Computer The structure of this program can be useful IN the SIMULATION of the output of any quantum-limited system 
+
+CA660510 JB March 3, 1978  9:47 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2349 49  4.103240378144209 BM25
+
+
+Generation of Random Correlated Normal Variables [G5] (Algorithm A425)
+random number , normal density , normal distribution , Gaussian density , Gaussian distribution , SIMULATION , Monte Carlo 
+
+CA720511 JB January 31, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1261 50  4.028744672010187 BM25
+
+
+Modeling and Simulation of Digital Networks
+Modeling AND SIMULATION of Digital Networks The SIMULATION of digital networks on a digitalcomputer provides the engineer with an effective means of analyzing time-quantized logical behavior 
+
+CA650510 JB March 7, 1978  1:15 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1680 51  3.923704169123826 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+This system was designed to improve man-computer communications by employinga display unit to interleave tutoring with other computer operations such as SIMULATION , programming , andinformation retrieval Language processorsand compilers , SIMULATION models , mathematical solution techniques , stored data , AND all other library anduser programs can be incorporated into instructional material without reprogramming computer-assisted instruction , tutorial systems , programming , SIMULATION , modeling , information retrieval operating systems , graphics , displays , man-machineinterface , on-line computing , graphic programming 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1435 52  3.8902209777253334 BM25
+
+
+Design of Computer Simulation Experiments for Industrial Systems
+Design of Computer SIMULATION Experiments for Industrial Systems The aim of this paper is to provide backgroundinformation on the existing literature on experimental design techniques which may be applicable to the designof computer SIMULATION experiments for industrial systems 
+
+CA660502 JB March 3, 1978  10:20 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2911 53  3.8236095742748404 BM25
+
+
+Anomalous Behavior of the Fifty-PercentRule in Dynamic Memory Allocation
+This paper reports SIMULATION data showingthat , IN dynamic memory allocation , the average free-to-allocated-block ratio can differ considerablyand IN both directions from the predictions of the 50 percent rule On the basis of the simulationdata AND the derivation , it is hypothesized that the anomalous behavior results from the combinedeffects of systematic placement AND the statistics of the release process Additional simulations supportthis hypothesis The simulations show that allocation efficiency depends strongly on the residence time distribution ; efficiencydecreases as the distribution 's coefficient of variation increases dynamic memory allocation , storage fragmentation , fifty-percent rule , first-fit , SIMULATION 
+
+CA771105 JB December 27, 1977  7:37 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1728 54  3.778897337105966 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+paging systems , paging , dynamic program behavior , programbehavior , virtual memory systems , single-level storage , one-level storage , operating system SIMULATION , operating systems , supervisor SIMULATION , machine language program interpretation 
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2882 55  3.6988032256167696 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+This paperdiscusses a SIMULATION model of a data retrieval system which has the effect of significantly reducingthe cost of experimentation AND enabling research never attempted before database architecture , database performance andevaluation , invented list , threaded list , cellular list , information retrieval , database organizations , query complexity , stochastic model , Monte Carlo SIMULATION 
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1288 56  3.6202591082208784 BM25
+
+
+CLP-The Cornell List Processor
+Presented IN this paper are the highlights ofCLP , a teaching language which has been employed at Cornell University AND was constructed to serve as a meansof introducing SIMULATION AND other list-processing concepts 
+
+CA650403 JB March 7, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2318 57  3.6124538440482508 BM25
+
+
+The Role of Computer System Models in Performance Evaluation
+modeling , evaluation , performance , analytic-models , simulation-models , system-models 
+
+CA720710 JB January 30, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3107 58  3.5929232192813965 BM25
+
+
+Generating Beta Variates with Nonintegrel Shape Parameters
+Beta variates , random numbers , SIMULATION 
+
+CA780409 DH February 26, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2077 59  3.576862045883358 BM25
+
+
+The Cyclical Majority Problem
+Arrow 's paradox , cyclical majority , SIMULATION , voter 's paradox , voting paradox 
+
+CA700407 JB February 13, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2272 60  3.538366902769478 BM25
+
+
+Sorting by Natural Selection
+Extensivesimulation results are presented , AND various implications AND further applications are discussed 
+
+CA721006 JB January 27, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2829 61  3.5351399702666444 BM25
+
+
+Texture and Reflection in Computer Generated Images
+This paper describes extensions of this algorithm inthe areas of texture SIMULATION AND lighting models The patch renderingalgorithm allows accurate computation of the surface normal to the patch at each picture element , permitting the SIMULATION of the mirror reflections 
+
+CA761002 JB January 4, 1978  8:36 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2951 62  3.5325251854064463 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+Analytical , SIMULATION , AND statistical performanceevaluation tools are employed to investigate the feasibility of a dynamic response time monitorthat is capable of providing comparative response time information for users wishing to process variouscomputing applications at some network computing node response time monitor , computer networks , time-sharingsystems , comparative response time , ARPA network , anlytic modeling , SIMULATION , benchmark jobs , system measurement 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2262 63  3.461914330723257 BM25
+
+
+Garbage Collection for Virtual Memory Computer Systems
+This paper examines the practical implications of thisgrowth within a virtual memory computer system , proposes two new garbage collection techniques for virtualmemory systems , AND compares them with traditional methods by discussion AND by SIMULATION 
+
+CA721107 JB January 27, 1978  1:50 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1846 64  3.455210468845295 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+Briefly reviewedare the common techniques used to handle such simulations when simultaneous events do not occur , canbe ignored , or can be handled by simple priority rules SIMULATION , parallel processes , simultaneous events , picture processing , computer system SIMULATION 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2375 65  3.4166105458947587 BM25
+
+
+A Comparative Analysis of Disk Scheduling Policies
+Both analytical AND SIMULATION results are obtained access time , analytical models , auxiliary storage , direct access storage , disk analysis , disk scheduling , performance criteria , peripheral memory devices , real-timesystems , response time , rotational delay , scheduling policies , seek time , SIMULATION , storageunits , time-sharing systems , waiting time 
+
+CA720306JB January 31, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2435 66  3.41584636666044 BM25
+
+
+A Class of Dynamic Memory Allocation Algorithms
+dynamic storage allocation , buddy system , SIMULATION , Fibonacci , fragmentation 
+
+CA731005 JB January 20, 1978  11:38 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2542 67  3.4115492515666612 BM25
+
+
+A Software Design and Evaluation System
+The source languagedescription is used as direct input to performance analysis AND SIMULATION routines operating system development , language processingsoftware evaluation , compilers , system programming , supervisory systems , debugging , program maintenance , modeling , system integration , SIMULATION 
+
+CA730206 JB January 24, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-0605 68  3.3825988285192987 BM25
+
+
+Computer Simulation Of City Traffic
+Computer SIMULATION Of City Traffic 
+
+CA620412 JB March 20, 1978  2:00 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1541 69  3.3677901754350534 BM25
+
+
+A Language for Modeling and Simulating Dynamic Systems
+The general objective of this language isto facilitate both the modeling AND experimental aspects of SIMULATION studies 
+
+CA670905 JB February 27, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1165 70  3.215921410024748 BM25
+
+
+The Spectra 70/45 Emulator for the RCA 301
+Execution rates are considerablybetter than traditional SIMULATION 
+
+CA651204 JB March 6, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1199 71  3.183602374379942 BM25
+
+
+A Computer Center Simulation Project
+A Computer Center SIMULATION Project 
+
+CA650907JB March 6, 1978  7:29 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2955 72  3.1722936614265542 BM25
+
+
+Buddy Systems
+Comparative SIMULATION results are also presented for IN ternal , external , AND total fragmentation 
+
+CA770608 JB December 28, 1977  1:20 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1484 73  3.150194222678967 BM25
+
+
+A Language for Describing the Functions of Synchronous Systems* 
+These descriptions can be used for SIMULATION AND automatic design of the system described , inaddition to communicating system specifications 
+
+CA660203 JB March 3, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1856 74  3.132430968985164 BM25
+
+
+The Teachable Language Comprehender: A Simulation Program and Theory of Language
+The Teachable Language Comprehender : A SIMULATION Program AND Theory of Language natural language processing , natural language comprehension , teachable computer program , psychological SIMULATION , human memory SIMULATION , computerlinguistics , linguistic performance theory 
+
+CA690807 JB February 15, 1978  5:46 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1653 75  3.1052923821322143 BM25
+
+
+System Performance Evaluation: Survey and Appraisal
+Analysis , SIMULATION , AND synthesis arepresented as three levels of approach to evaluation , requiring successively greater amounts of information 
+
+CA670102 JB March 1, 1978  9:10 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1811 76  3.102924712842135 BM25
+
+
+A Case Study in Programming for Parallel-Processors
+The data gathered fromsimulation runs demonstrate the efficient solution of this problem , typical of a large class of importantproblems parallel-processor , parallelism , parallel programming , multiprocessor , multiprogramming , tasking , storage interference , electrical network , SIMULATION , relaxation , Jacobi , Gauss-Seidel , convergence 
+
+CA691201 JB February 15, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1253 77  3.100031625859202 BM25
+
+
+QUIKSCRIPT-A SIMSCRIPT- Like Language for the G-20
+QUIKSCRIPT is a SIMULATION language based onSIMSCRIPT AND programmed entirely IN an algebraic language , 20-GATE 
+
+CA650602 JB March 7, 1978  12:45 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2686 78  3.0270636748784434 BM25
+
+
+An Approximate Method for Generating Asymmetric Random Variables
+SIMULATION , Monte Carlo , probability , statistics , approximations , random variables , random numbers , moments , distribution 
+
+CA740203 JB January 18, 1978  1:19 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2734 79  2.979904907667537 BM25
+
+
+On the External Storage Fragmentation Producedby First-Fit and Best-Fit Allocation Strategies
+Through SIMULATION , a series of experiments were performed IN order to obtain better data on the relative performance offirst-fit AND best-fit AND a better understanding of the reasons underlying observed differences Results of SIMULATION experiments supported this hypothesis AND showed that the relativeperformance of first-fit AND best-fit depends on the frequency of request 
+
+CA750801 JB January 9, 1978  9:41 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1426 80  2.95637497830588 BM25
+
+
+A Simulation of Hospital Admission Policy
+A SIMULATION of Hospital Admission Policy 
+
+CA660511 JB March 3, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1518 81  2.923966973910607 BM25
+
+
+An Experimental Model of System/360
+One general technique which can ease this problem is macroscopic SIMULATION 
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2276 82  2.8446622732214175 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+random numbers , pseudorandom , normal distribution , exponential distribution , exponential distribution , SIMULATION , numerical analysis 
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1933 83  2.8165816978956535 BM25
+
+
+Coding the Lehmer Pseudo-random Number Generator
+pseudo-random number , random number , modular arithmetic , uniform probability density , uniform frequency function , SIMULATION , prime factorization , primitive roots 
+
+CA690205 JB February 20, 1978  11:07 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1674 84  2.7993387948360438 BM25
+
+
+One-Line Random Number Generators and Their Use in Combinations
+random number generation , Monte Carlo , SIMULATION 
+
+CA681105 JB February 21, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2652 85  2.783286949277282 BM25
+
+
+Reduction of Compilation Costs Through Language Contraction
+Thispaper describes the use of SIMULATION techniques to predict the savings IN compilation cost achievableby such an approach 
+
+CA740501 JB January 17, 1978  4:39 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2918 86  2.7822500414259403 BM25
+
+
+Multiprocessor Memory Organization and Memory Interference
+Trace-driven simulations are used to verify the conclusions of the analysis memory IN terference , interleaving , multiprocessing , trace-driven SIMULATION , queueing theory , shared memory 
+
+CA771008 JB December 27, 1977  10:28 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1234 87  2.7573516165497955 BM25
+
+
+The Structure of Yet Another ALGOL Compiler
+A technique of SIMULATION at compile time of the use of a conventional run-time stackenables the generation of code for expressions which minimizes stores , fetches AND stack-pointer motionat run time , while properly trating recursion AND side effects of procedures 
+
+CA650701 JB March 6, 1978  9:29 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-3042 88  2.6912948575379017 BM25
+
+
+Power Trees
+The average behavior of such trees , studied by an extensive set of SIMULATION runs , is close to thatof AVL trees 
+
+CA781109 DH January 25, 1979  4:29 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1166 89  2.6620451559113674 BM25
+
+
+A Use of Macros in Translation of SymbolicAssembly Language of One Computer to Another
+I/O is handled by generating calls to I/O SIMULATION subroutines 
+
+CA651203 JB March 6, 1978  4:20 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2105 90  2.6570301889346974 BM25
+
+
+An Interactive Computer System Using Graphical Flowchart Input
+SIMULATION program , graphical input-output sampled data systems 
+
+CA700210 JB February 14, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2091 91  2.6119710724064706 BM25
+
+
+PDEL-A Language for Partial Differential Equations
+problem oriented or digital SIMULATION language , partial differential equations , translator , PL/1 , preprocessor PL/1 , finite difference algorithms 
+
+CA700307 JB February 13, 1978  4:18 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2967 92  2.573410103564564 BM25
+
+
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer Graphics
+'s Lincoln Laboratory under the LEAP Language AND DataStructure , A comparison of the hardware approach with the software SIMULATION illustrates the advantagesof the hardware associative memory IN three areas : ( 1 ) processing speed , ( 2 ) storage requirements , AND ( 3 ) flexibility 
+
+CA770505 JB December 29, 1977  2:07 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1711 93  2.5582720984904253 BM25
+
+
+When Your Computer Needs a Lawyer
+law , legal , lawyer , liability , torts , negligence , contracts , warrantees , guarantees , accounting , regulations , SIMULATION , income tax , copyrights , patents , trade secrets , standard of care , slander of credit , crime , criminals , record keeping records , evidence , copying 
+
+CA680803 JB February 22, 1978  11:12 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2862 94  2.5433033465531127 BM25
+
+
+Analysis of the PFF Replacement Algorithm via a Semi-Markov Model
+PFF replacement algorithm , semi-Markovmodel , SIMULATION of replacement algorithm 
+
+CA760509 JB January 4, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2859 95  2.452994890798456 BM25
+
+
+Interference in Multiprocessor Computer Systems with Interleaved Memory
+The model of the limiting behavior of the system yields approximateresults for the simple model AND also suggests that the results are valid for a much larger class of models , including those more nearly like real systems that the simple model are tested against some measurementsof program behavior AND simulations of systems using memory references from real programs memory , memory interference , multiprocessing , interleaved memory , trace driven SIMULATION 
+
+CA760603 JB January 4, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-1845 96  2.4499170470625264 BM25
+
+
+Loader Standardization for Overlay Programs
+A critique of thefirst three systems is based on actual experience with a large overlaid trajectory SIMULATION program ; a short history AND description of this program is presented 
+
+CA691001 JB February 15, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2535 97  2.4343140177836595 BM25
+
+
+The Effects of Multiplexing on a Computer-Communications System
+Analytical AND SIMULATION results arebased on the model of the computer-communications system being an M/D/1 queue ( the multiplexor ) IN tandemwith a single exponential server ( the computer ) 
+
+CA730304 JB January 24, 1978  11:13 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2596 98  2.4270075839948397 BM25
+
+
+A Weighted Buddy Method for Dynamic Storage Allocation
+SIMULATION results are presented whichcompare this method with the buddy method 
+
+CA741002 JB January 16, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2890 99  2.4232699829898428 BM25
+
+
+On Quadratic Adaptive Routing Algorithms
+SIMULATION results are presented which confirm the theoretical analysis for a simple network 
+
+CA760103 JB January 5, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+52 Q0 CACM-2452 100  2.403491714187857 BM25
+
+
+Evaluation and Selection of File Organization-A Model and System
+file organization , file structures , file management , file organization performance , file organization model , file structure design , secondary index organization , SIMULATION , data base , access time , storage requirement , data base analysis , data management 
+
+CA730903 JB January 23, 1978  9:46 AM
+
+

@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+51 Q0 CACM-3075 1  14.745103559729557 BM25
+
+
+Fast Parallel Sorting Algorithms
+A PARALLEL bucket-sort algorithm is presentedthat requires time O ( log n ) AND the use of n PROCESSORS The algorithm makes use of a technique thatrequires more space than the product of PROCESSORS AND time A procedure is also presented to sort n numbers in time O ( k logn ) using n 1 + 1/k PROCESSORS , for k an arbitrary integer Fast PARALLEL Sorting ALGORITHMS PARALLEL processing , sorting , ALGORITHMS , bucket sort 
+
+CA780803 DH February 7, 1979  10:25 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3156 2  13.793740687001488 BM25
+
+
+Computing Connected Components on Parallel Computers
+We present a PARALLEL algorithm which uses n2 PROCESSORS to find the connectedcomponents of an undirected graph with n vertices in time O ( log2n ) AnO ( log2n ) time bound also can be achieved using only n $ n/ $ log2n ) ) PROCESSORS We assume that the PROCESSORS haveaccess to a common memory Computing Connected Components on PARALLEL Computers Graph theory , PARALLEL processing , ALGORITHMS , transitive closure , connected component 
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1811 3  12.56237472621617 BM25
+
+
+A Case Study in Programming for Parallel-Processors
+A Case Study in Programming for Parallel-Processors Parallel-processor systems are multiprocessor systems in which several ofthe PROCESSORS can simultaneously execute separate tasks of a single job , thus cooperating to decreasethe solution time of a computational problem The PROCESSORS have independent instruction counters , meaningthat each processor executes its own task program relatively independently of the other PROCESSORS Communicationbetween cooperating PROCESSORS is by means of data in storage shared by all PROCESSORS It is shown that , with proper programming , solution time when N PROCESSORS are applied approaches1/N times the solution time for a single processor , while improper programming can actually lead to an increaseof solution time with the number of PROCESSORS An affirmative partial answer is provided tothe question of whether it is possible to program parallel-processor computing systems to efficiently decreaseexecution time for useful problems Aprogram for the determination of the distribution of current in an electrical network was written for aparallel-processor computing system , AND execution of this program was simulated parallel-processor , parallelism , PARALLEL programming , multiprocessor , multiprogramming , tasking , storage interference , electrical network , simulation , relaxation , Jacobi , Gauss-Seidel , convergence 
+
+CA691201 JB February 15, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2714 4  12.150574281542061 BM25
+
+
+Merging with Parallel Processors
+Merging with PARALLEL PROCESSORS Consider two linearly ordered sets A , B , |A|=m , |B|=n , m < =n , AND p , p < =m , PARALLEL PROCESSORS working synchronously The paper presents an algorithmfor merging A AND B with the p PARALLEL PROCESSORS , which requires at most 2 [ log2 ( 2m+1 ) ] + [ 3m/p ] + [ m/p ] [ log2 ( n/m ) ] steps These performances compare very favorably withthe previous best PARALLEL merging algorithm , Batcher 's algorithm , which requires n/p + ( ( m+n ) /2p ) log2 msteps in the general case AND km/p + ( ( k+1 ) /2 ) ( m/p ) log2 m in the special case where n=km PARALLEL processing , PARALLEL merging , PARALLEL binary insertion 
+
+CA751005 JB January 6, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3006 5  10.575360809289243 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+Anomalies with Variable Partition PAGING ALGORITHMS One type of anomaly , for example , concernsthe fact that , with certain reference strings AND PAGING ALGORITHMS , an increase in mean memory allocationmay result in an increase in fault rate Two PAGING ALGORITHMS , are examined in terms of theiranomaly potential , AND reference string examples of various anomalies are presented Two PAGING algorithmproperties , the inclusion property AND the generalized inclusion property , are discussed AND theanomaly implications of these properties presented anomaly , memory management , program behavior , stackalgorithms , virtual memory , working set , page fault frequency , PAGING ALGORITHMS 
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2723 6  9.839954492493973 BM25
+
+
+Multiprocessing Compactifying Garbage Collection
+The simple case of two PROCESSORS , one performing LISP-likelist operations AND the other performing garbage collection continuously , is thoroughly examined The morecomplex cases involving several list PROCESSORS AND one or more garbage collection PROCESSORS are also briefly discussed garbage collection , storage reclamation , reclaimer , storage allocation , multiprocessing , synchronization , semaphores , PARALLEL processing , compactification , relocation , LISP , list processing , free storage , pointers , data structures , gc processor ALGORITHMS for a multiprocessing compactifyinggarbage collector are presented AND discussed 
+
+CA750901 JB January 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2570 7  9.661899461466618 BM25
+
+
+A Comparison of List Schedules for Parallel Processing Systems
+The problem of scheduling two or more processorsto minimize the execution time of a program which consists of a set of partially ordered tasksis studied A Comparison of List Schedules for PARALLEL Processing Systems PARALLEL processing , precedence graphs , scheduling , list scheduling , optimization , dynamic programming It is shown that different ALGORITHMS suggested in the literature vary significantlyin execution time AND that the B-schedule of Coffman AND Graham is near-optimal 
+
+CA741204 JB January 16, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2973 8  9.343738693154126 BM25
+
+
+Sorting on a Mesh-Connected Parallel Computer
+Sorting on a Mesh-Connected PARALLEL Computer PARALLEL computer , PARALLEL sorting , PARALLEL merge , routing AND comparison steps , perfect shuffle Two ALGORITHMS are presented for sorting n^2elements on an n X n mesh-connected processor array that require O ( n ) routing AND comparison steps The ALGORITHMS of this paper are shown to be optimalin time within small constant factors 
+
+CA770409 JB December 29, 1977  4:58 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1752 9  8.159814148429875 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+Task scheduling AND resource balancing fora medium size virtual memory PAGING machine are discussed in relation to a combined batch processingand time-sharing environment A synopsis is given of the task scheduling AND PAGING ALGORITHMS that were implemented , AND the results of comparative simulation are given by tracing the development of the algorithmsthrough six predecessor versions time-sharing , operating systems , resource management , task scheduling , PAGING , system simulation , memory management , virtual memories 
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2365 10  8.004227810767047 BM25
+
+
+Matrix Computations with Fortran and Paging
+Matrix Computations with Fortran AND PAGING Such modificationsproduce modest savings in many common situations AND very significant savings for large problems rununder an operating system which uses PAGING matrix ALGORITHMS , linear equations , Fortran , paged memory , virtual memory , array processing 
+
+CA720408 JB January 31, 1978  12:54 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2497 11  7.8691081514110905 BM25
+
+
+Synchronizing Processors with Memory-Content-Generated Interrupts
+Synchronizing PROCESSORS with Memory-Content-Generated Interrupts Implementations of the `` Lock-Unlock '' methodof synchronizing PROCESSORS in a multiprocessor system usually require uninterruptable , memory-pause type instructions The read-interlock method doesrequire a special '' read-interlock '' instruction in the repertoire of the PROCESSORS AND a special `` read-interlock '' cycle in the repertoire of the memory modules interrupts , supervisors , monitors , debugging , parallelprocessing , associative memories , microprogramming 
+
+CA730603 JB January 23, 1978  3:29 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2266 12  7.7840671467475175 BM25
+
+
+A Highly Parallel Algorithm for ApproximatingAll Zeros of a Polynomial with Only Real Zeros
+A Highly PARALLEL Algorithm for ApproximatingAll Zeros of a Polynomial with Only Real Zeros The algorithm , whichis conceptually suitable for PARALLEL computation , determines its own starting values so that convergenceto the zeros is guaranteed PARALLEL numerical ALGORITHMS , real polynomials , real zeros , Newton 's method , starting values , guaranteed convergence 
+
+CA721103 JB January 27, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2863 13  7.528727927424515 BM25
+
+
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+demand PAGING , performance measurement , multilevelmemory systems , virtual memory , working set , page replacement ALGORITHMS , optimal page replacement A criterion for comparing variable space pagereplacement ALGORITHMS is presented The results of simulating VMIN , Denning 's working set , AND the page partitioning replacement ALGORITHMS on five virtual memory programs are presented to demonstratethe improvement possible over the known realizable variable space ALGORITHMS 
+
+CA760508 JB January 4, 1978  3:06 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2175 14  7.436967810627769 BM25
+
+
+Subexpression Ordering in the Execution of Arithmetic Expressions
+If thenumber of subexpressions which can be executed in PARALLEL exceeds the number of available PROCESSORS , then execution of some of these subexpressions must be postponed Depending on the hardware environment in which the expression isto be executed , these subexpressions can be evaluated in serials , in PARALLEL , or in a combination of thesemodes PARALLEL processing , cache , arithmetic expressions , subexpression ordering , computational trees , compilers 
+
+CA710707 JB February 2, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1601 15  7.433798620530153 BM25
+
+
+Parallel Numerical Methods for the Solution of Equations
+PARALLEL Numerical Methods for the Solution of Equations The s8everal approximations obtained in any iteration are computationallyindependent , making the methods of interest in a PARALLEL processing environment Several families of numerical procedureswhich use the technique of the procedures in a PARALLEL processing environment are developed AND measurementsof these statistics are reported These measurements are interpreted in a PARALLEL processingenvironment In such an environment the procedures obtained are superior to standard ALGORITHMS 
+
+CA670505 JB February 28, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2557 16  7.3841940119274465 BM25
+
+
+On the Time Required for a Sequence of Matrix Products
+The minimum time required to evaluatesuch products on ordinary serial computers as well as PARALLEL computers is discussed matrix expressions , matrix multiplication , operationminimization , PARALLEL machine , time minimization Algorithmsare presented which properly parse such matrix sequences subject to the constraints of the machine organization 
+
+CA730104 JB January 24, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2450 17  7.381946568058037 BM25
+
+
+Empirical Working Set Behavior
+The working set model for program behaviorhas been proposed in recent years as a basis for the design of scheduling AND PAGING ALGORITHMS virtual memory , PAGING , working set , software measurement , program behavior 
+
+CA730905 JB January 23, 1978  9:22 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0950 18  7.281169876820016 BM25
+
+
+Parallel Methods for Integrating Ordinary Differential Equations
+PARALLEL Methods for Integrating Ordinary Differential Equations This paper is dedicated to the proposition that , in order to take full advantage for real-time computations of highly PARALLEL computers as can beexpected to be available in the near future , much of numerical analysis will have to be recast in a more '' PARALLEL '' form As an example , a method is proposed for `` parallelizing '' the numerical integration of an ordinary differentialequation , which process , by all standard methods , is entirely serial By this is meant that serial ALGORITHMS ought to be replaced by algorithm whichconsist of several subtasks which can be computed without knowledge of the results of the other subtasks 
+
+CA641221 JB March 9, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2022 19  7.169045798535639 BM25
+
+
+Note on an Anomaly in Paging
+Note on an Anomaly in PAGING PAGING machines , demand PAGING , replacement algorithm 
+
+CA700715 JB February 10, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2085 20  7.169045798535639 BM25
+
+
+Comment on a Paging Anomaly
+Comment on a PAGING Anomaly PAGING machines , demand PAGING , replacement algorithm 
+
+CA700313 JB February 13, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2373 21  7.134553419132267 BM25
+
+
+Properties of the Working-Set Model
+The relation to LRU ( least recently used ) PAGING is characterized working-set model , PAGING , PAGING ALGORITHMS , program behavior , program modeling 
+
+CA720308 JB January 31, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0082 22  7.090742058835557 BM25
+
+
+Handling Identifiers as Internal Symbols in Language Processors
+Handling Identifiers as Internal Symbols in Language PROCESSORS Substitution of computer-oriented symbols forprogrammer-oriented symbols in language PROCESSORS is examined AND a feasible method for doing so is presented 
+
+CA590602 JB March 22, 1978  6:38 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1810 23  6.977829257295196 BM25
+
+
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual?
+AND by Nelson on an automatic foldingmechanism of simple design , a demand PAGING unit built at the IBM Research Center by Belady , Nelson , O'Neil , AND others , permitting its quality to be compared with that of manual folding , are discussed , AND it is shown that given some care in use the unit performs satisfactorily under the conditions tested , even though it is operating across a memory-to-storage interface with a very large speed difference PAGING , automatic PAGING , demand PAGING , folding , automatic folding , storage hierarchies , memory hierarchies , replacement ALGORITHMS , performance , measurement 
+
+CA691202 JB February 15, 1978  4:33 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1468 24  6.840971916418778 BM25
+
+
+Syntax-Directed Interpretation of Classes of Pictures
+A descriptive scheme for classes of pictures basedon labeling techniques using PARALLEL processing ALGORITHMS was proposed by the author some years ago The PARALLEL processingsimulator , originally written for an IBM 7094system , has now been rewritten for a CDC 3600 system A partial generative grammar for '' handwritten '' English letters is given , as are also a few computer-generated outputs using this grammarand the PARALLEL processing simulator mentioned earlier 
+
+CA660304 JB March 3, 1978  1:56 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2277 25  6.745293070587778 BM25
+
+
+Demand Paging Through Utilization of Working Sets on the MANIAC II
+Demand PAGING Through Utilization of Working Sets on the MANIAC II A hardware implementation on the Maniac II computerof the working set model for demand PAGING , as introduced by Denning , is discussed Characteristicsof the Maniac II are given , along with a description of the basic demand PAGING scheme AND the associate memorywhich has been added to the Maniac II hardware Finally , a description of the hardware design for implementationof the working set model is discussed AND a specification of the actions taken under variousconditions which may arise during the operation of the full working set model , demand PAGING system is given demand PAGING , dynamic storage allocation , ManiacII , memory allocation , one-level store , PAGING , PAGING associative memory , storage allocation , thrashing , virtual memory , working set model 
+
+CA721001 JB January 27, 1978  4:06 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1728 26  6.742763561384725 BM25
+
+
+Further Experimental Data on the Behaviorof Programs in a Paging Environment
+Further Experimental Data on the Behaviorof Programs in a PAGING Environment PAGING systems , PAGING , dynamic program behavior , programbehavior , virtual memory systems , single-level storage , one-level storage , operating system simulation , operating systems , supervisor simulation , machine language program interpretation These data are used also for the evaluation of page replacement ALGORITHMS AND for assessing theeffects on performance of changes in the amount of storage allocated to executing programs 
+
+CA680701 JB February 22, 1978  3:13 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1924 27  6.673302010750255 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+matrix ALGORITHMS , array processing , PAGING ALGORITHMS , paged memory systems , virtual memory systems , array storage allocation , storage allocation It is shown thatcarefully designed matrix ALGORITHMS can lead to enormous savings in the number of page faults occurringwhen only a small part of the total matrix can be in main memory at one time Examination of addition , multiplication , AND inversion ALGORITHMS shows that a partitioned matrix representation ( i The number of page-pulls required by these matrix manipulation ALGORITHMS is also studied as a functionof the number of pages of main memory available to the algorithm 
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2740 28  6.583529678236868 BM25
+
+
+A Large Semaphore Based Operating System
+cooperating processes , operating system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , operating system structure , asynchronous structuring , buffering , PARALLEL processes , synchronizingprimitives , reentrant code , RC 4000 , project management , time schedule , debugging , project planning , project scheduling , reliability , program proving , coroutines , correctness , program maintenance , software PAGING The number of PARALLEL processes is carefullyjustified , AND the various semaphore constructions are explained 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2128 29  6.499521372240565 BM25
+
+
+A Processor Allocation Method for Time-Sharing
+A scheduling algorithm is proposed which is intended to minimize changes of tasks on PROCESSORS AND thereby reduce over-head time sharing , resource allocation , scheduling ALGORITHMS , monitors , dynamic allocation , processorallocation , multiprogramming , multiprocessing , timeslicing , scheduling , conversational systems , interactive systems 
+
+CA700103 JB February 14, 1978  2:15 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1964 30  6.484398090961436 BM25
+
+
+Comment on the Working Set Model for Program Behavior
+demand PAGING , working set , PAGING rate , multiprogramming 
+
+CA701115 JB February 9, 1978  4:23 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2838 31  6.334380932764579 BM25
+
+
+Analysis of an Algorithm for Real Time Garbage Collection
+A real time garbage collection system avoidssuspending the operations of a list processor for the long times that garbage collection normally requiresby performing garbage collection on a second processor in PARALLEL with list processing operations , or on a single processor time-shared with them garbage collection , storage reclamation , listprocessing , Lisp , time-sharing , multiprocessing , PARALLEL processing , real time , data structures , analysis of ALGORITHMS ALGORITHMS for recovering discarded list structures inthis manner are presented AND analyzed to determine sufficient conditions under which the list processor neverneeds to wait on the collector 
+
+CA760901 JB January 4, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3153 32  6.234807002598427 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+Initially , a closed system consisting of a processor AND PAGING AND file devices , with fixed numbers of jobs , is studiedto determine optimal degrees of multiprogramming AND the proportionof processor time devoted to each class Queueing networks , PAGING , virtual memory , performance control Two parameterized algorithmswhich partition the main memory between two classes of jobs areconsidered The object is to investigate the effect of the memoryalocation parameters on the expected response times under the two ALGORITHMS 
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2669 33  6.232730375430516 BM25
+
+
+A Simple Linear Model of Demand Paging Performance
+A Simple Linear Model of Demand PAGING Performance The simplemodel combines the effect of the information reference pattern with the effect of the automatic managementalgorithm to produce a single , composite statement : the mean number of memory references betweenpaging exceptions increases linearly with the size of the PAGING memory The resulting model is easyto manipulate , AND is applicable to such diverse problems as choosing an optimum size for a PAGING memory , arranging for reproducible memory usage charges , AND estimating the amount of core memory sharing PAGING , demand PAGING , memory models , program models , performance measurement , multilevel memory systems , virtual memory , associative memory , memory usage accounting , Multics 
+
+CA740401 JB January 18, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2289 34  6.215106898835931 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+The chief computational advantage offered by cellular arrays is the improvement in speedachieved by virtue of the possibilities for PARALLEL processing A major challengein the effective use of cellular arrays for the solution of graph problems is the determination of algorithmsthat exploit the possibilities for parallelism , especially for problems whose solutions appear to be inherentlyserial In particular , several parallelized ALGORITHMS are presented for the solution of certainspanning tree , distance , AND path problems , with direct applications to wire routing , PERT chart analysis , AND the analysis of many types of networks graph theory , cellular logic-in-memory arrays , PARALLEL processing , special purpose computers , ALGORITHMS for distance AND spanning tree problems These ALGORITHMS exhibit a computation time that inmany cases grows at a rate not exceeding log2 n , where n is the number of nodes in the graph Straightforwardcellular implementations of the well-known serial ALGORITHMS for these problems require about nsteps , AND noncellular implementations require from n^2 to n^3 steps 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1825 35  6.1977600787623714 BM25
+
+
+A Practical Method for Constructing LR(k) Processors
+A Practical Method for Constructing LR ( k ) PROCESSORS A practical method for constructing LR ( k ) processorsis developed These PROCESSORS are capable of recognizing AND parsing an input during a singleno-backup scan in a number of steps equal to the length of the input plus the number of steps in itsderivation If an LR ( k ) processor can beconstructed for each part ( using Knuth 's algorithm ) AND if certain conditions relating these individualprocessors are satisfied , then an LR ( k ) processor for the entire grammar can be constructed for them 
+
+CA691105 JB February 15, 1978  12:52 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2017 36  6.190429691339682 BM25
+
+
+Sorting in a Paging Environment
+Sorting in a PAGING Environment This sorting study was part of an extensive measurement projectundertaken on the M44/44X , an experimental PAGING system which wasconceived AND implemented at IBM Research in order to explore thevirtual machine concept The study was concerned with the implementation of sorting procedures in the context of the dynamic pagingenvironment characteristic of virtual memory machines The insight gained from the experimental effort is used to arrive at a set ofbroad guidelines for writing sort programs for a PAGING environment sorting , merging , virtual machines , PAGING systems , dynamicstorage allocation , measurement of systems program behavior , performance evaluation , memory management 
+
+CA700804 JB February 10, 1978  3:51 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1884 37  6.164114421249963 BM25
+
+
+An Anomaly in Space-Time Characteristics ofCertain Programs Running in a Paging Machine
+An Anomaly in Space-Time Characteristics ofCertain Programs Running in a PAGING Machine The running time of programs in a PAGING machinegenerally increases as the store in which programs are constrained to run decreases PAGING machines , demand PAGING , replacement algorithm 
+
+CA690609 JB February 17, 1978  9:59 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2685 38  6.142377228391386 BM25
+
+
+The Parallel Execution of DO Loops
+The PARALLEL Execution of DO Loops Methods are developed for the PARALLEL executionof different iterations of a DO loop PARALLEL computing , multiprocessor computers , array computers , vector computers , loops 
+
+CA740204 JB January 18, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0763 39  6.087697803833842 BM25
+
+
+A Syntax Controlled Generator of Formal Language Processors
+A Syntax Controlled Generator of Formal Language PROCESSORS 
+
+CA630835 JB March 13, 1978  8:08 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1262 40  6.0716828687079065 BM25
+
+
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+Procedure-Oriented Language Statements to Facilitate PARALLEL Processing Two statements are suggested which allow a programmerwriting in a procedure-oriented language to indicate sections of program which are to be executedin PARALLEL These serve partly as brackets in establishinga range of PARALLEL operation AND partly to define each PARALLEL path within this range 
+
+CA650509 JB March 7, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2700 41  5.927395427396059 BM25
+
+
+Reduction: A Method of Proving Properties of Parallel Programs
+Reduction : A Method of Proving Properties of PARALLEL Programs When proving that a PARALLEL program has agiven property it is often convenient to assume that a statement is indivisible , i Thus correctness proofs of a PARALLEL system can often be greatly simplified deadlock free , reduction , interruptible , indivisible , PARALLEL program , semaphore , verification method , process , computation sequence 
+
+CA751207 JB January 5, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2433 42  5.8975743650867765 BM25
+
+
+Control Structures in Illiac IV Fortran
+This languageprovides a means of expressing data AND control structures suitable for exploiting ILLIAC IV parallelism Language structures to utilize this storage method AND express PARALLEL ALGORITHMS are described array processing , parallelism detection , explicitparallelism , array allocation , PARALLEL control structures , ILLIAC IV Fortran 
+
+CA731007 JB January 20, 1978  11:30 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2896 43  5.866101863475593 BM25
+
+
+An Exercise in Proving Parallel Programs Correct
+An Exercise in Proving PARALLEL Programs Correct A PARALLEL program , Dijkstra 's on-the-fly garbagecollector , is proved correct using a proof method developed by Owicki Difficultieswith proving such PARALLEL programs correct are discussed 
+
+CA771204 JB February 1, 1980  3:37 AM 
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1828 44  5.852492899194313 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+Synchronization in a Parallel-Accessed Data Base The following problem is considered : Givena data base which can be manipulated simultaneously by more than one process , what are the rules for synchronizationwhich will maximize the amount of PARALLEL activity allowed PARALLEL accessing , PARALLEL search , file search , data base , synchronization , locking , deadlock 
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1665 45  5.840316140380384 BM25
+
+
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques
+Automatic Generation of Efficient LexicalProcessors Using Finite State Techniques The practical application of the theory offinite-state automata to automatically generate lexical PROCESSORS is dealt with in this tutorial articleby the use of the AED RWORD system , developed at M The PROCESSORS produced by the system are based on finite-state machines The system has been in operationsince 1966 , AND PROCESSORS generated have compared favorably in speed to carefully hand-coded programsto accomplish the same task Lexical PROCESSORS for AED-O AND MAD are among the many which have beenproduced If theword `` events '' is substituted for character string , these PROCESSORS may be described as generalized decision-makingmechanisms based upon an ordered sequence of events In designing a system for automatic generation of alexical processor , the goal was a processor which completely eliminated backup or rereading , which was nearlyas fast as hand-coded PROCESSORS , which would analyze the language AND detect errors , andwhich would be convenient AND easy to use 
+
+CA681201 JB February 21, 1978  2:19 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1158 46  5.83069554142646 BM25
+
+
+Program Structures for Parallel Processing
+Program Structures for PARALLEL Processing Constructs for organizing AND explicating parallelprogram segments are discussed as extensions to ALGOL 60 
+
+CA651211 JB March 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2579 47  5.786011907842891 BM25
+
+
+Register Allocation Via Usage Counts
+optimization , redundant computations , common subexpressions , register allocation , compilers , programming languages , virtual memory , demand PAGING This paper introduces the notion of usage counts , shows how usage counts can be developed by ALGORITHMS that eliminate redundant computations , anddescribes how usage counts can provide the basis for register allocation 
+
+CA741105 JB January 16, 1978  10:24 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3152 48  5.743647947272677 BM25
+
+
+Storage Reorganization Techniques forMatrix Computation in a Paging Environment
+Storage Reorganization Techniques forMatrix Computation in a PAGING Environment Matrix multiplication , PAGING , virtual memory , data reorganization , pagination , transpose In order to multiply matrices while minimizingthe number of page fetches required , it is often more efficient toreorganize the data into submatrix form AND to use block multiplication rather than to use the best known ALGORITHMS which leave thematrices stored in row- ( or column- ) oriented form 
+
+CA790703 DH August 22, 1979  2:29 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2872 49  5.626065018564649 BM25
+
+
+A Counterintuitive Example of Computer Paging (Corrigendum)
+A Counterintuitive Example of Computer PAGING ( Corrigendum ) 
+
+CA760404 JB January 4, 1978  4:19 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1988 50  5.612714848922957 BM25
+
+
+A Formalism for Translator Interactions
+A formalism is presented for describing the actionsof PROCESSORS for programming languages-compilers , interpreters , assemblers-and their interactions in complex systemssuch as compiler-compilers or extendible languages The formalism here might be used to define AND answer such aquestion as `` Can one do bootstrapping using a meta-compiler whose metaphase is interpretive ? '' In addition an algorithmis presented for deciding whether or not a given system canbe produced from a given set of component PROCESSORS 
+
+CA701002 JB February 10, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2785 51  5.4675206153095655 BM25
+
+
+Glypnir-A Programming Language for Illiac IV
+The syntax of the language is based on ALGOL 60 , but hasbeen extended to allow the programmer explicitly to specify the parallelism of his algorithm in terms of 64-wordvectors This paper describes the characteristics , goals AND philosophy of the language , AND discusses someof the problems associated with PARALLEL computer architectures GLYPNIR , Illiac IV , Programming language , PARALLEL computation , PARALLEL architecture 
+
+CA750303JB January 9, 1978  4:57 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2498 52  5.460516767317145 BM25
+
+
+Minimizing Wasted Space in Partitioned Segmentation
+dynamic storage allocation , virtual memory , PAGING , multiple page sizes , fragmentation , segmentation Two ALGORITHMS for assigning pages to segments are discussed 
+
+CA730602 JB January 23, 1978  3:38 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0141 53  5.427781355465572 BM25
+
+
+Some Thoughts on Parallel Processing
+Some Thoughts on PARALLEL Processing 
+
+CA601007 JB March 20, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2297 54  5.399757825135855 BM25
+
+
+A Model of Memory Contention in a Paging Machine
+A Model of Memory Contention in a PAGING Machine This paper is concerned with certain aspects of contentionfor main memory resources in a multiprogrammed computer system operating under demand PAGING PAGING machines , demand PAGING , operating systemsstudies , queuing analysis , memory contention , memory management 
+
+CA720805 JB January 30, 1978  9:50 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2881 55  5.379584646627299 BM25
+
+
+A Counterintuitive Example of Computer Paging
+A Counterintuitive Example of Computer PAGING A counterexample is exhibited to a natural conjectureconcerning the optimal way to group records into pages in the independent reference model of computerpaging ( an organization is said to be optimal if the `` least recently used '' miss ratio is minimized ) 
+
+CA760206 JB January 5, 1978  8:53 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0392 56  5.344327161592579 BM25
+
+
+Comment on A Paper on Parallel Processing
+Comment on A Paper on PARALLEL Processing 
+
+CA610206 JB March 17, 1978  12:58 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1302 57  5.344327161592579 BM25
+
+
+Parallel Signaling Speeds for Data Transmission(Proposed American Stand ard)
+PARALLEL Signaling Speeds for Data Transmission ( Proposed American Stand ard ) 
+
+CA650305 JB March 7, 1978  6:08 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2068 58  5.336654334190823 BM25
+
+
+Comment on Multiprogramming Under a Page on Demand Strategy
+multiprogramming , PAGING , modeling 
+
+CA700416 JB February 13, 1978  2:34 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1957 59  5.326787345014474 BM25
+
+
+The List Set Generator: A Construct for Evaluating Set Expressions
+Theefficiency derives from evaluating the expression as a whole andin PARALLEL , rather than evaluating subexpressions andthen using those sets to arrive at the final result The list set generator is defined AND algorithmsfor its use are given 
+
+CA701206 JB February 9, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2114 60  5.183097361950889 BM25
+
+
+A Formal System for Information Retrieval from Files
+attribute-value pair , index , keyword , record , record address , K-pointer , K-list , file , directory , generalized filestructure , inverted file , index-sequential-file , multilist file , description , file search , directory search , serial processing oflists , prime keyword , PARALLEL processing of lists Two ALGORITHMS which retrieve records from the generalized file structure are presented 
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1367 61  5.162866996971604 BM25
+
+
+Character Structure and Character Parity Sensefor Parallel-by-Bit Data Communication in ASCII* (Proposed American Standard)
+Character Structure AND Character Parity Sensefor Parallel-by-Bit Data Communication in ASCII* ( Proposed American Standard ) 
+
+CA660912 JB March 2, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2895 62  5.113386607489827 BM25
+
+
+A Language for Formal Problem Specification
+A language for specifying the in tended behaviorof communicating PARALLEL processes is described formal specifications , program correctness , parallelprocessing , synchronization , readers/writers problem 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2182 63  5.071414923984406 BM25
+
+
+Interrupt Driven Programming
+interrupts , supervisors , monitors , debugging , parallelprocessing , associative memories , microprogramming 
+
+CA710608 JB February 3, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2342 64  5.063271836871898 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference Between Communicating PARALLEL Processes Various kinds of interference between communicatingparallel processes have been examined by Dijkstra , Knuth , AND others Solutions have been givenfor the mutual exclusion problem AND associated subproblems , in the form of PARALLEL programs , AND informalproofs of correctness have been given for these solutions In this paper a system of parallelprocesses is regarded as a machine which proceeds from one state S ( i concurrent programming control , cooperating processes , formal programs , interference , mutual exclusion , operating systems , PARALLEL processes 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1795 65  5.015438751898286 BM25
+
+
+Optimal Code for Serial and Parallel Computation
+Optimal Code for Serial AND PARALLEL Computation 
+
+CA691217 JB February 15, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2667 66  5.001939317533151 BM25
+
+
+Execution Characteristics of Programs in a Page-on-Demand System
+Other data show PAGING characteristics of tasks as a function of the number of pages those tasks have in core program behavior , virtual memory , PAGING , demand PAGING , software monitor , program execution characteristics , compiler execution behavior , editor execution behavior 
+
+CA740403 JB January 18, 1978  10:12 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3059 67  4.994040405616438 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+Models for PARALLEL Processing WIthin Programs : Application to CPU : I/O AND I/O : I/O Overlap Approximate queueing models for internal parallelprocessing by individual programs in a multiprogrammed system are developed in this paper Multiprogramming , PARALLEL processing , queueingnetwork models , multiprocessing of computation AND I/O 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2645 68  4.9726133608316765 BM25
+
+
+Two Languages for Estimating Program Efficiency
+PROCESSORS for the two languages are also described The limitations ofthe present system , its relation to Knuth 's work on the analysis of ALGORITHMS , AND some of the directionsfor further research are also discussed programming languages , syntax-directed translation , symbolic manipulation , program efficiency , analysis of ALGORITHMS 
+
+CA740601 JB January 17, 1978  3:48 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2851 69  4.965828269112795 BM25
+
+
+Formal Verification of Parallel Programs
+Formal Verification of PARALLEL Programs Two formal models for PARALLEL computationare presented : an abstract conceptual model AND a parallel-program model A special case of the assertions method , which is called PARALLEL place assertions , is shown to beincomplete PARALLEL program , correctness , verification , assertions , deadlock , mutual exclusion , Petrinet 
+
+CA760702 JB January 4, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2692 70  4.965389715248827 BM25
+
+
+Reentrant Polygon Clipping
+The two additional planes PARALLEL to the projectionscreen serve to limit the range of depth preserved through the projection A new family of clipping ALGORITHMS is described These ALGORITHMS are able to clip polygons against irregular convex plane-faced volumes in threedimensions , removing the parts of the polygon which lie outside the volume In two dimensions the algorithmspermit clipping against irregular convex windows The ALGORITHMS easily handlethe particularly difficult problem of detecting that a new vertex may be required at a corner of theclipping window The ALGORITHMS described achieve considerable simplicity by clipping separately againsteach clipping plane or window boundary 
+
+CA740107 JB January 18, 1978  2:04 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2952 71  4.910277189159128 BM25
+
+
+Functions Realizable with Word-Parallel Logicaland Two's-Complement Addition Instructions
+Functions Realizable with Word-Parallel Logicaland Two's-Complement Addition Instructions 
+
+CA770611 JB December 28, 1977  12:45 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2865 72  4.905383684141278 BM25
+
+
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+Verifying Properties of PARALLEL Programs : An Axiomatic Approach An axiomatic method for proving a numberof properties of PARALLEL programs is presented A crucial axiom provides for the use of auxiliary variables , which are added to a PARALLEL program as an aid to proving it correct 
+
+CA760506 JB January 4, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1753 73  4.8789158650069755 BM25
+
+
+Virtual Memory, Processes, and Sharing in MULTICS
+MULTICS concepts of processes , address space , AND virtualmemory are defined AND the use of PAGING AND segmentation is explained virtual memory , information sharing , shared procedures , data sharing , dynamic linking , segmentation , PAGING , multiprogramming , storage management , storage hierarchies , file maintenance 
+
+CA680503 JB February 23, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2401 74  4.863561512100436 BM25
+
+
+On Shrinking Binary Picture Patterns
+A PARALLEL processing algorithm for shrinkingbinary patterns to obtain single isolated elements , one for each pattern , is presented The principal features of this method are the very smallwindow employed ( two-by-two elements ) , the PARALLEL nature of the process , AND the possibility of shrinkingany pattern , regardless of the complexity of its configuration counting binary patterns , shrinking , parallelprocessing , multiple connected pictures 
+
+CA720102 JB February 1, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0303 75  4.830896660785004 BM25
+
+
+Some Basic Terminology Connected WithMechanical Languages and Their Processors
+Some Basic Terminology Connected WithMechanical Languages AND Their PROCESSORS 
+
+CA610801 JB March 16, 1978  10:16 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2016 76  4.803392827986427 BM25
+
+
+The Instrumentation of Multics
+Someparticular measurements of interest in a system which combines demand PAGING with multiprogramming are described in detail instrumentation , performance measurement , multiprogramming systems , measuring tools , system analysis , Multics , metering , event tracing , demand PAGING , script drivenmeasurement 
+
+CA700805 JB February 10, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2914 77  4.7955746845198535 BM25
+
+
+Use of the LRU Stack Depth Distributionfor Simulation of Paging Behavior
+Use of the LRU Stack Depth Distributionfor Simulation of PAGING Behavior virtual memory , PAGING , LRU stack , working set , headwaybetween page faults , computer system simulation 
+
+CA771102 JB December 27, 1977  8:04 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2069 78  4.792161579889576 BM25
+
+
+Comments on a Paper by Wallace and Mason
+page-on-demand , demand PAGING , time-sharing multiprogramming , Markovian computer models , scheduling strategies , operating systems , memory management 
+
+CA700415 JB February 13, 1978  2:36 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1684 79  4.789164326986767 BM25
+
+
+Ambiguity in Limited Entry Decision Tables
+PROCESSORS which automaticallytranslate tables to more conventional program usually base their diagnostic facilities on these rules The importance of well-designed diagnostic facilities in decision table PROCESSORS is emphasized 
+
+CA681003 JB February 21, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3073 80  4.715369607100916 BM25
+
+
+Communicating Sequential Processes
+This paper suggests that input AND output arebasic primitives of programming AND that PARALLEL composition of communicating sequential processes isa fundamental program structuring method Programming , programming languages , programming primitives , program structures , PARALLEL programming , concurrency , input , output , guarded commands , nondeterminacy , coroutines , procedures , multiple entries , multiple exits , classes , data representations , recursion , conditional critical regions , monitors , iterative arrays 
+
+CA780805 DH February 7, 1979  10:07 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2664 81  4.7125536356864774 BM25
+
+
+Parallelism in Tape-Sorting
+Both approximatelyachieve the goal of reducing the processing time by a divisor which is the number of PROCESSORS Parallelism in Tape-Sorting Two methods for employing parallelism in tape-sortingare presented Method A is the natural way to use parallelism tape sorting , parallelism , external sorting , queues , stacks 
+
+CA740406 JB January 18, 1978  9:44 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1923 82  4.686090225981692 BM25
+
+
+Pseudofiles
+It is shown that this techniquecan provide potentially inexpensive methods for programs to communicate with deeply embeddedfacilities such as command language PROCESSORS 
+
+CA690304 JB February 20, 1978  9:12 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2522 83  4.6772020871138995 BM25
+
+
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+Recent research in time-sharing PAGING systems has developed the working set model for program behavior , AND are source allocation strategy based on this model has been proposed The behavior of a computer system is largelydependent upon the ALGORITHMS employed to allocate the system resources to the processes competing for them 
+
+CA730406 JB January 24, 1978  9:36 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2741 84  4.642776634960438 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+This approachis taken in order to identify in multiprogramming PAGING systems ( i ) unstable regimes of operations AND ( ii ) critical computing loads which bring the system into states of saturation multiprogramming , PAGING , performance evaluation , saturation , instabilities , thrashing , aggregation , system levels , hierarchy , networks of queues 
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2080 85  4.576371185611958 BM25
+
+
+The Nucleus of a Multiprogramming System
+The systemnucleus simulates an environment in which program execution AND input/outputare handled uniformly as PARALLEL , cooperating processes multiprogramming , operating systems , PARALLEL processes , process concept , process communication , message buffering , processhierarchy , process creation , process removal 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2884 86  4.551604271277566 BM25
+
+
+Permutation Enumeration: Four New Permutation Algorithms
+Permutation Enumeration : Four New Permutation ALGORITHMS Classical permutation enumeration ALGORITHMS encounterspecial cases requiring additional computation every nth permutation when generating the n ! permutationson n marks Four new ALGORITHMS have the attribute that special cases occur every n ( n-1 ) permutations Two of the ALGORITHMS produce the next permutation with a single exchange of two marks The other two algorithmsinfrequently exchange more than two marks , but the rules for generating the next permutation arevery simple Performance tests which have counted execution of assignment statements , comparisons , arithmeticoperations , AND subscripted array references have shown superiority of the new ALGORITHMS compared toBoothroyd 's implementation of M permutations , loop-free ALGORITHMS 
+
+CA760203 JB January 5, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2195 87  4.533667826862163 BM25
+
+
+On the Optimal Detection of Curves in Noisy Pictures
+The method described is suitable for PARALLEL processing because the operations relative to eachstate can be computed in PARALLEL , AND the numberof stages is equal to the length N of the curves ( orto log2 N if the approximate method is used ) picture processing , picture recognition , picturedescription , curve detection , line detection , edge detection , optimal detection , heuristic methods , global recognition , PARALLEL processing , dynamic programming , interaction graph , secondary optimization problem 
+
+CA710504 JB February 3, 1978  2:49 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2325 88  4.531179132860524 BM25
+
+
+Numerical Mathematics and Computer Science
+Numerical mathematics is viewed as the analysisof continuous ALGORITHMS These are : foundations ( finite precision number systems , computational complexity ) , synthesis AND analysis of ALGORITHMS , analysis of error , programs AND program libraries numerical mathematics , computer science , mathematicsof computation , ALGORITHMS , continuous ALGORITHMS 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2095 89  4.4997338059280825 BM25
+
+
+Measurements of Segment Size
+Althoughthe results are certainly not installation independent , AND although they are particularly influenced by features of the B5500 ALGOL system , they should be relevant to the design of new computer systems , especially with respect to the organization of PAGING schemes storage allocation , segmentation , segment sizes , page sizes , PAGING , resource allocation , memory allocation , core utilization 
+
+CA700303 JB February 13, 1978  4:58 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-0371 90  4.478072136388997 BM25
+
+
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+Remarks on ALGORITHMS 2 AND 3 , Algorithm 15 AND ALGORITHMS 25 AND 26 
+
+CA610311 JB March 17, 1978  12:35 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1846 91  4.438352085442989 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+On Simulating Networks of PARALLEL Processesin Which Simultaneous Events May Occur The technique will either find a method ofsimulating the PARALLEL events or report that none can be found simulation , PARALLEL processes , simultaneous events , picture processing , computer system simulation 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1569 92  4.430742968696503 BM25
+
+
+Implementing Phrase-Structure Productions in PL/I
+A method is described for implementing the productionsof a context-free phrase structure grammar in a PL/I procedure whose structure AND statements parallelthe structure AND notation of the grammar 
+
+CA670704 JB February 28, 1978  9:01 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-3166 93  4.397811336111726 BM25
+
+
+Computing Standard Deviations: Accuracy
+Four ALGORITHMS for the numerical computationof the standard deviation of ( unweighted ) sampled dataare analyzed Two of the ALGORITHMS are well-known in the statisticaland computational literature ; the other two are new algorithmsspecifically intended for automatic computation `` Each of the four ALGORITHMS is analyzed for the conditionsunder which it will be accurate We conclude that all fouralgorithms will provide accurate answers for many problems , but twoof the ALGORITHMS , one new , one old , are substantially more accurateon difficult problems than are the other two 
+
+CA790907 DB January 16, 1980  4:23 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2950 94  4.368404256605767 BM25
+
+
+A Unifying Approach to Scheduling
+This paper presents a scheme for classifyingscheduling ALGORITHMS based on an abstract model of a scheduling system which formalizes the notion ofpriority Various classes of scheduling algorithmsare defined AND related to existing ALGORITHMS Acriterion for the implementation efficiency of an algorithm is developed AND results in the definitionof time-invariant ALGORITHMS , which include most of the commonly implemented ones For time-invariantalgorithms , the dependence of processing rates on priorities is derived scheduling ALGORITHMS , scheduling models , priority , operating systems , processor sharing , implementation efficiency 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2668 95  4.3555608076412575 BM25
+
+
+Computation of Page Fault Probability from Program Transition Diagram
+An algorithm is given for calculating page faultprobability in a virtual memory system operating under demand PAGING with various memory sizes AND replacementrules virtual memory , demand PAGING , replacement rule , program model , program behavior , Markov model , page fault , page fault probability 
+
+CA740402 JB January 18, 1978  10:31 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2226 96  4.337960643789918 BM25
+
+
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem The purpose of this note is to report computationalexperience additional to that recently summarized by Gue et al , with two ALGORITHMS for thezero-one linear programming problem The utility of one ofthe ALGORITHMS as a suboptimizer is indicated operations research , integer programming , zero-one variables , ALGORITHMS 
+
+CA710108 JB February 8, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1747 97  4.3261848808521615 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+Examples of applicationsof the criteria concern the reading of a time-of-day clock , the synchronization of parallelprocesses , protection in multiprogrammed systems , AND the assignment of capability indexes computer design , computer design criteria , computersystems , computer systems design , input equipment , input equipment design , operating systems , operatingsystems design , multiprogramming , multiprogrammed systems , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , information security , information privacy , computing reliability , debugging , program debugging , program testing , PARALLEL processing , PARALLEL programming , multiprocessing 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2137 98  4.267570279299668 BM25
+
+
+New LISP Techniques for a Paging Environment
+New LISP Techniques for a PAGING Environment LISP , list processing , PAGING , virtual memory , garbage collection , core fragmentation , compact list structures , block , segment 
+
+CA711206 JB February 2, 1978  10:01 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-2902 99  4.249361195710621 BM25
+
+
+Dynamic Memory Allocation in Computer Simulation
+This paper investigates the performance of35 dynamic memory allocation ALGORITHMS when used to service simulation programs as represented by 18test cases ALGORITHMS main taining separate free space lists for each size of memory block usedtended to perform quite well compared with other ALGORITHMS Simple ALGORITHMS operating on memory orderedlists ( without any free list ) performed surprisingly well ALGORITHMS employing power-of-two block sizeshad favorable processing requirements but generally unfavorable memory usage ALGORITHMS employing LIFO , FIFO , or memory ordered free lists generally performed poorly compared with others 
+
+CA771114 JB December 27, 1977  6:09 AM
+
+
+--------------------------------------------------------------
+51 Q0 CACM-1551 100  4.244005806678686 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+On Compiling ALGORITHMS for Arithmetic Expressions This paper deals with ALGORITHMS concerning arithmeticexpressions used in a FORTRAN IV compiler for a HITAC-5020 computer having n accumulators Thealgorithms generate an object code which minimizes the frequency of storing AND recovering the partial resultsof the arithmetic expressions in cases where there are several accumulators 
+
+CA670804 JB February 27, 1978  4:35 PM
+
+

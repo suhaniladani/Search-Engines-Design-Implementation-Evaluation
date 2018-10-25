@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+64 Q0 CACM-2651 1  26.251520102730584 BM25
+
+
+The Treatment of Data Types in EL1
+The Treatment of Data Types in EL1 The EL1 language containsa number of features specifically designed to simultaneously satisfy both requirements 
+
+CA740502 JB January 17, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1878 2  12.826964358466862 BM25
+
+
+Recovery of Reentrant List Structures in SLIP
+Recovery of Reentrant LIST Structures in SLIP One consequence of the reference-count-basedspace-recovery system employed by SLIP is that reentrant LIST structures are not recovered even whenexplicitly erased The list-creating functionLIST of SLIP may be amended to mark those lists for which the programmer wishes to assume responsibility GIVEN this modification , a LISP-like garbage collector that recovers abandoned reentrant LIST structuresmay then be appended to the SLIP system LIST processing , SLIP , garbage-collection 
+
+CA690702 JB February 17, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3188 3  11.930438999397625 BM25
+
+
+   Semiotics and Programming Languages
+
+
+CA660319 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0497 4  11.291613689744167 BM25
+
+
+Further Remarks on Line Segment Curve-Fitting Using Dynamic Programming
+
+
+CA620831 JB March 17, 1978  9:19 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1717 5  10.584536213508237 BM25
+
+
+Generating Prime Implicants Via Ternary Encoding and Decimal Arithmetic
+The algorithm , which has been programmed in the FORTRAN language , generally requiresless memory than other minimization procedures , and treats DO N'T CARE terms in an efficient manner 
+
+CA680712 JB February 22, 1978  11:30 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1614 6  10.355586053339966 BM25
+
+
+A Proposal for Definitions in ALGOL
+Examples of definition setsare GIVEN for real and complex matrices , complex numbers , file processing , and LIST manipulation 
+
+CA670401 JB February 28, 1978  11:43 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0595 7  10.338762429589366 BM25
+
+
+Guides to Teaching COBOL
+
+
+CA620510 JB March 20, 1978  1:44 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2845 8  10.105620445244966 BM25
+
+
+A Buddy System Variation for Disk Storage Allocation
+
+
+CA760708 JB January 4, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2513 9  9.668801951831234 BM25
+
+
+A Nonrecursive List Moving Algorithm
+A Nonrecursive LIST Moving Algorithm An efficient , nonrecursive algorithm is givenfor moving any LISP-type LIST In particular , the algorithm requires no storage other than the newnodes into which the LIST is to be moved , and no additional bits per node for marking ; the algorithmruns in time proportional to the number of nodes in the LIST The original LIST structure is destroyed as it is moved LIST moving , LIST copying , LIST traversal , garbage collection LISP 
+
+CA730507 JB January 23, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1051 10  9.63645837673231 BM25
+
+
+Multiword List Items
+Multiword LIST Items The LIST concept as originally proposed byNewell , Simon and Shaw specified single computer words as elements of a LIST Following a brief description of standard LIST structures with single-word items , themultiword items are introduced Finally , several examples are GIVEN to illustrate the use of multiword lists 
+
+CA640616 JB March 9, 1978  9:15 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1046 11  9.607808495613797 BM25
+
+
+A Compiler-Building System Developed by Brooker and Morris
+In a number of ARTICLES published during thepast two years , R Except in some very small details , and in some comments , it does not intentionally depart from or add to the material published in the listed references 
+
+CA640701 JB March 9, 1978  8:47 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3140 12  9.594795561767677 BM25
+
+
+Social Processes and Proofs of Theorems and Programs
+
+
+CA790501 DH June 5, 1979  2:23 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1957 13  9.492578529041444 BM25
+
+
+The List Set Generator: A Construct for Evaluating Set Expressions
+The LIST Set Generator : A Construct for Evaluating Set Expressions The LIST set generator is defined and algorithmsfor its use are GIVEN The LIST set generator isa construct which may be added to a LIST processing system or anysystem that handles sets set manipulating , LIST processing , setgeneration , sets , lists , file processing 
+
+CA701206 JB February 9, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2177 14  9.312120749734706 BM25
+
+
+An Algorithm for the Blocks and Cutnodes of a Graph
+The graph may be represented either ( I ) as anordered LIST of edges or ( ii ) as a packed adjacency matrix 
+
+CA710705 JB February 3, 1978  8:58 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1262 15  9.060482610314839 BM25
+
+
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+
+
+CA650509 JB March 7, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3121 16  9.052404460373896 BM25
+
+
+Syntactic Source to Source Transforms and Program Manipulation
+
+
+CA790106 DH April 10, 1979  1:57 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1264 17  9.013219504598553 BM25
+
+
+BLNSYS-A 1401 Operating System with Braille Capabilities
+This system will perform any or ALL of the following users specifiedfunctions : assemble SPS source decks , post LIST , produce condensed or uncondensed object decks , executeuser 's program , LIST card input to a program , LIST punched output , provide a storage dump , executea program submitted for execution as an uncondensed object deck under debugging trace control , card-to-brailleconversion , brailled listings of 7040 IBSYS batch output , and update or duplicate the system tapeitself 
+
+CA650507 JB March 7, 1978  2:30 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1459 18  9.002989069946045 BM25
+
+
+Requirements for Real-Time Languages
+
+
+CA660313 JB March 3, 1978  11:48 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3142 19  8.846720323525757 BM25
+
+
+Consumer Difficulties With Computerized Transactions: An Empirical Investigation
+
+
+CA790503 DH June 5, 1979  3:21 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1853 20  8.571455497747024 BM25
+
+
+Compact List Representation: Definition,Garbage Collection, and System Implementation
+Compact LIST Representation : Definition , Garbage Collection , and System Implementation Compact lists are stored sequentially in memory , rather than chained with pointers Since this is not always convenient , the Swym system permitsa LIST to be chained , compact , or any combination of the two A description is GIVEN of that LIST representationand the operators implemented ( most are similar to those of LISP 1 The system garbage collectorattempts to make ALL lists compact ; it relocates and rearranges ALL of LIST storage using temporary storage This unique list-compacting garbage collection algorithm is presented in detail data structure , data representation , LIST structure , LIST representation , LIST , compact LIST , garbage collection , relocation , storage reclamation , macro , primitive LIST operations , plex processing , plex , pointer , LIST processing system , LISP , free storage 
+
+CA690902 JB February 15, 1978  5:01 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0106 21  8.523604156615887 BM25
+
+
+A Method for Overlapping and Erasure of Lists
+A Method for Overlapping and Erasure of Lists An important property of the Newell-Shaw-Simonscheme for computer storage of lists is that data having multiple occurrences need not be storedat more than one place in the computer That is , lists may be `` overlapped GIVEN a LIST that is no longer needed , it is desired to erasejust those parts that DO not overlap other lists 
+
+CA601210 JB March 20, 1978  6:33 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2756 22  8.457657456978684 BM25
+
+
+A Problem-List of Public Policy IssuesConcerning Computers and Health Care
+A Problem-List of Public Policy IssuesConcerning Computers and Health Care 
+
+CA750511 JB January 9, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2723 23  8.41761638460559 BM25
+
+
+Multiprocessing Compactifying Garbage Collection
+The simple case of two processors , one performing LISP-likelist operations and the other performing garbage collection continuously , is thoroughly examined Complete procedures for garbage collection and for standard LIST processing primitivesare presented and thoroughly explained Particular attention is GIVEN to the problems of marking and relocatinglist cells while another processor may be operating on them The primary aim throughout is toallow the LIST processor to run unimpeded while the other processor reclaims LIST storage The morecomplex cases involving several LIST processors and one or more garbage collection processors are also briefly discussed garbage collection , storage reclamation , reclaimer , storage allocation , multiprocessing , synchronization , semaphores , parallel processing , compactification , relocation , LISP , LIST processing , free storage , pointers , data structures , gc processor 
+
+CA750901 JB January 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2354 24  8.382301614542833 BM25
+
+
+Implementing Clenshaw-Curtis Quadrature,II Computing the Cosine Transformation
+
+
+CA720506 JB January 31, 1978  9:56 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2305 25  8.312726646019529 BM25
+
+
+The "Plankalkul" of Konrad Zuse: A Forerunnerof Today's Programming Languages
+
+
+CA720723 JB January 30, 1978  10:46 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2766 26  8.245142989976175 BM25
+
+
+Copying Cyclic List Structures in Linear Time Using Bounded Workspace
+Copying Cyclic LIST Structures in Linear Time Using Bounded Workspace A bounded workspace copying algorithm for arbitrarylist structures is GIVEN LIST processing , copying , linear time , space complexity 
+
+CA750501 JB January 9, 1978  3:22 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1443 27  8.121780869997776 BM25
+
+
+A Method for Finding the Least Squares Estimateof the Intersection Point of Two Helices in Space
+When the helical trajectories of two chargedparticles moving away from a common point in a magnetic field are reconstructed from measurements onthe tracks , the reconstructed tracks are perturbed by measurement and other errors and DO not , in general , intersect 
+
+CA660406 JB March 3, 1978  10:42 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0598 28  8.06283980711625 BM25
+
+
+The COBOL Librarian - A Key to Object Program Efficiency
+
+
+CA620507 JB March 20, 1978  1:50 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3144 29  8.01042583190866 BM25
+
+
+A Model for and DIscussion of Multi-Interpreter Systems
+
+
+CA790505 DH August 21, 19791:14 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3106 30  7.870622751778462 BM25
+
+
+A Fast Algorithm for Copying List Structures
+A Fast Algorithm for Copying LIST Structures An algorithm is presented for copying an arbitrarilylinked LIST structure into a block of contiguous storage locations without destroying the originallist Its speedcomes mainly from its efficient list-traversal technique , which folds the processing stack into thestructure being built , and from its classification of LIST cells into nine types , which enables processingoperations to be optimized for each type LIST copying , Lisp , space complexity , constant workspace 
+
+CA780501 DH February 26, 1979  3:25 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1931 31  7.855874231666939 BM25
+
+
+Interval Arithmetic Determinant Evaluationand Its Use in Testing for a Chebyshev System
+
+
+CA690207 JB February 20, 1978  10:49 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2317 32  7.808873253934351 BM25
+
+
+Programming Systems and Languages 1965-1975
+
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1083 33  7.807475364569718 BM25
+
+
+An Experiment in a User-Oriented Computer System
+
+
+CA640506 JB March 10, 1978  12:03 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1216 34  7.683979000694596 BM25
+
+
+Symbolic Derivatives Without List Processing, Subroutines, or Recursion
+Symbolic Derivatives Without LIST Processing , Subroutines , or Recursion No use is made of list-processing languages 
+
+CA650808 JB March 6, 1978  8:18 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3074 35  7.6014192906001075 BM25
+
+
+A Time- and Space- Efficient Garbage Compaction Algorithm
+The algorithm operates by reversibly encoding the situation ( that a collection of locations point to a single location ) by a linear LIST , emanating from the pointed-tolocation , passing through the pointing locations , and terminating with the pointed-to location 's transplanted contents Garbage collection , compaction , compact ification , storage reclamation , storage allocation , record structures , relocation , LIST processing , free storage , pointers , data structures 
+
+CA780804 DH February 7, 1979  10:16 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2060 36  7.57588052138731 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+programming language , data structure , reference , assignment , coroutine , quasi-parallel process , typeless language , applicative language , lambda calculus , LIST processing , nondeterministic algorithm 
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2484 37  7.481435792780761 BM25
+
+
+A Note on Information Organization and Storage
+The use of different relations and algorithms results in differentinformation structures , as LIST , tree , ring , etc 
+
+CA730702 JB January 23, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2867 38  7.479748281159746 BM25
+
+
+Modularization and Hierarchy in a Family of Operating Systems
+
+
+CA760504 JB January 4, 1978  3:33 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1676 39  7.469373322966591 BM25
+
+
+The LRLTRAN Compiler
+
+
+CA681103 JB February 21, 1978  3:03 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1307 40  7.38742326881522 BM25
+
+
+A Lightpen-Controlled Program For On-Line Data Analysis
+In the system described , the user is not required to learnor REMEMBER the vocabulary of the language because the vocabulary is displayed before him on '' menus '' bymeans of a computer-drive scope He does not have to learnor REMEMBER the grammar 
+
+CA650217 JB March 7, 1978  10:40 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1382 41  7.38201951957133 BM25
+
+
+Desired Computer Impact on Undergraduate Mathematics 
+
+
+CA660904 JB March 2, 1978  6:35 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3028 42  7.306224534286274 BM25
+
+
+The Manchester Mark I and Atlas: A His torical Perspective
+
+
+CA780102 JB March 28,1978  5:50 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1456 43  7.294563089050003 BM25
+
+
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+Animportant conclusion is that , although LISP and other LIST processing languages are ideally suited forproducing complex associative structures , THEY are inadequate vehicles for language processing on anylarge scale-at east until THEY can use auxiliary memory as a continuous extension of core memory 
+
+CA660316 JB March 3, 1978  11:25 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2340 44  7.29402132373468 BM25
+
+
+A Boolean Matrix Method for the Computationof Linear Precedence Functions
+
+
+CA720605 JB January 30, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1643 45  7.271606866503731 BM25
+
+
+An Improvement to Iterative Methods of Polynomial Factorization
+
+
+CA670112 JB February 28, 1978  4:20 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3112 46  7.2350885129890266 BM25
+
+
+List Processing in Real Time on a Serial Computer
+LIST Processing in Real Time on a Serial Computer A real-time LIST processing system is onein which the time required by the elementary LIST operations ( e Classical implementations of LIST processing systemslack this property because allocating a LIST cell from the heap may cause a garbage collection , which processrequires time proportional to the heap size to finish A real-time LIST processing system is presentedwhich continuously reclaims garbage , including directed cycles , while linearizing and compacting theaccessible cells into contiguous locations to avoid fragmenting the free storage pool Finally , the system requiresthe same average time , and not more than twice the space , of a classical implementation , and thosespace requirements can be reduced to approximately classical proportions by compact LIST representation Real-time , compacting , garbage collection , LIST processing , virtual memory , file or database management , storage management , storage allocation , LISP , CDR-coding , reference counting 
+
+CA780404 DH February 26,1979  4:32 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2905 47  7.210965446697249 BM25
+
+
+Perfect Hashing Functions: A SingleProbe Retrieving Method for Static Sets
+
+
+CA771111 JB December 27, 1977  6:45 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1625 48  7.169766105870396 BM25
+
+
+On the Automatic Simplification of Source-Language Programs
+
+
+CA670304 JB February 28, 1978  1:33 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3069 49  7.13033519377533 BM25
+
+
+A Practical Interprocedural Data Flow Analysis Algorithm
+
+
+CA780903 DH February 5, 1979  3:07 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3102 50  7.07340049915389 BM25
+
+
+Incorporation of Units into Programming Languages
+
+
+CA780505 DH February 26, 1979  1:43 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2232 51  7.05122177493297 BM25
+
+
+Pattern Width at a Given Angle
+
+
+CA710102 JB February 8, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2390 52  7.047388111550992 BM25
+
+
+A Proposal for a Computer-Based Interactive Scientific Community
+
+
+CA720201 JB February 1, 1978  8:51 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1486 53  7.044224467342861 BM25
+
+
+A Reprogramming Machine
+
+
+CA660201 JB March 3, 1978  3:50 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1390 54  7.002869210315153 BM25
+
+
+CONVERT
+The advantages of thelanguage are that it allows one to apply transformation rules to lists and arrays as easily as strings , that bothpatterns and skeletons may be defined recursively , and that as a consequence programs may be stated quite concisely 
+
+CA660808 JB March 2, 1978  7:32 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1424 55  6.98327648740179 BM25
+
+
+Automatic Analysis of Electronic Digital Circuits Using List Processing
+Automatic Analysis of Electronic Digital Circuits Using LIST Processing A mapping from black diagrams of digital circuitsto LIST structures is described , together with a LIST processing program written for the ControlData 3600 which uses this mapping to automatically carry out circuit analysis 
+
+CA660513 JB March 3, 1978  9:24 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2355 56  6.973716958066162 BM25
+
+
+Implementing Clenshaw-Curtis quadrature, I Methodology and Experience
+
+
+CA720505 JB January 31, 1978  10:05 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2622 57  6.940966847149253 BM25
+
+
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+
+
+CA740802 JB January 17, 1978  10:19 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3057 58  6.915499659084458 BM25
+
+
+Optimal His togram Matching by Monotone Gray Level Transformation
+
+
+CA781004 DH January 29, 1979  6:08 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1368 59  6.87901229411406 BM25
+
+
+Systematic Generation of Hamiltonian Circuits
+
+
+CA660911 JB March 2, 1978  4:30 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1072 60  6.853367242605927 BM25
+
+
+An Improved Equivalence Algorithm
+
+
+CA640517 JB March 9, 1978  11:48 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2358 61  6.84004782342335 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0796 62  6.82320375267168 BM25
+
+
+SABRAG, A Time-Sharing Low-Cost Computer
+
+
+CA630802 JB March 13, 1978  8:54 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1255 63  6.798290543649125 BM25
+
+
+A Method of Data List Processing With Application to EEG Analysis
+A Method of Data LIST Processing With Application to EEG Analysis A set of subroutines is discussed , which isdesigned to aid in the programming of computations on indexed lists of numbers using machine languageor a symbolic assembly system The most commonly performed LIST operations are outlined , and logicallyarranged into five groups 
+
+CA650516 JB March 7, 1978  12:52 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2179 64  6.787302414612132 BM25
+
+
+Simple LR(k) Grammars
+
+
+CA710703 JB February 3, 1978  9:31 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1098 65  6.769120629354547 BM25
+
+
+A Comparison of List-Processing Computer Languages(Including a Detailed Comparison of COMIT, IPL-V, LISP 1.5, and SLIP)
+A Comparison of List-Processing Computer Languages ( Including a Detailed Comparison of COMIT , IPL-V , LISP 1 5 and SLIP - four well-known computer programming languages which , among them , exhibit ALL theprincipal characteristics of existing list-processing languages Important common features of list-processinglanguages are reviewed : forms of data structures which are manipulated , necessity for dynamic allocationof storage , use of pushdown stores , and use of recursive operations Finally , the authors give some heuristics to aid in the selection of one of theselanguages for use in particular problem applications , concluding that no one of the languages considered isdistinctly superior in ALL possible list-processing applications 
+
+CA640410 JB March 10, 1978  1:37 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3202 66  6.767557829408462 BM25
+
+
+   MANIP: A Computer System for Algebra and Analytic Differentiation
+
+
+CA660816 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0944 67  6.708867434057234 BM25
+
+
+Storage and Search Properties of a Tree-Organized Memory System
+A memory with LIST properties [ 1 ] may be usedto construct numeric , alphabetic or alphanumeric trees The purpose of this paper is to examine the storage and search properties of a tree-organizedstorage system assuming that a memory possessing certain LIST properties is available 
+
+CA630104 JB March 14, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1013 68  6.676853076672913 BM25
+
+
+Final Examination Scheduling
+
+
+CA640817 JB March 9, 1978  6:33 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1012 69  6.647745904103926 BM25
+
+
+Formal Parsing Systems
+
+
+CA640818 JB March 9, 1978  6:30 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1415 70  6.62939990415725 BM25
+
+
+Automatic Derivation of Microsentences
+
+
+CA660606 JB March 3, 1978  8:47 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3031 71  6.623813079585844 BM25
+
+
+Abstract Data Types and Software Validation
+
+
+CA781208 DH January 18, 1979  2:51 PM   
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2184 72  6.6059347987021315 BM25
+
+
+On the Meaning of Names in Programming Systems
+Whereas a function can be regarded as the abstraction based upon the first two terms ofthe expression Lambda ( name LIST ) ( expression ) ( value LIST ) , it is found that a context can be viewed as an abstractionbased upon the first two terms in the equivalent expression Mu ( name LIST ) ( value LIST ) ( expression ) 
+
+CA710606 JB February 3, 1978  9:58 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-3189 73  6.58905997409608 BM25
+
+
+   An Algebraic Compiler for the FORTRAN Assembly Program
+
+
+CA621124 ES March 17, 1982 10:10 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2865 74  6.519940891865215 BM25
+
+
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+
+
+CA760506 JB January 4, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1620 75  6.51835667191671 BM25
+
+
+Methods of Evaluating Polynomial Approximationsin Function Evaluation Routines
+
+
+CA670309 JB February 28, 1978  1:08 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2219 76  6.492568922542725 BM25
+
+
+A Policy-Driven Scheduler for a Time-Sharing System
+
+
+CA710202 JB February 8, 1978  9:54 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0616 77  6.475745030188905 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2821 78  6.401810427151192 BM25
+
+
+Cobol Under Control
+
+
+CA761102 JB January 3, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1434 79  6.391506451101192 BM25
+
+
+A Monte Carlo Algorithm for Assigning Students to Classes
+
+
+CA660503 JB March 3, 1978  10:14 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0527 80  6.380062639368915 BM25
+
+
+The Description List of Concepts
+The Description LIST of Concepts A concept is described by a LIST structure A one-to-one correspondence is established between therecursive definition of a concept and its description LIST structure Like the definition , the descriptionlist structure of a concept is also built up from elementary LIST structures by a recursive process The LIST structures obtained this way are compared with the description LIST structure discussedby the author in a previous publication 
+
+CA620801 JB March 17, 1978  7:39 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2470 81  6.364906577130917 BM25
+
+
+Fen-An Axiomatic Basis for Program Semantics
+
+
+CA730804 JB January 23, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0397 82  6.332593321129593 BM25
+
+
+A Card Format for Reference Files in Information Processing
+Since this card format is sufficient to identify the materialnormally associated with reference files for books , ARTICLES , programming terms , hardware terms , equipment , machine systems , abbreviations , etc 
+
+CA610201 JB March 17, 1978  1:08 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0726 83  6.249730259764756 BM25
+
+
+A General Program for the Analysis ofSquare and Rectangular Lattice Designs
+
+
+CA630932 JB March 13, 1978  6:53 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2526 84  6.234656696955451 BM25
+
+
+Asymmetric Memory Hierarchies
+
+
+CA730402 JB January 24, 1978  10:15 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1752 85  6.221345998033236 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1288 86  6.2167377041066345 BM25
+
+
+CLP-The Cornell List Processor
+CLP-The Cornell LIST Processor Presented in this paper are the highlights ofCLP , a teaching language which has been employed at Cornell University and was constructed to serve as a meansof introducing simulation and other list-processing concepts 
+
+CA650403 JB March 7, 1978  4:02 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1231 87  6.202364435060637 BM25
+
+
+Peephole Optimization
+
+
+CA650704 JB March 6, 1978  9:05 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2051 88  6.148787993372801 BM25
+
+
+A PL/I Program to Assist the Comparative Linguist
+The program tabulates the correspondences , and uses LIST processing techniques to sort and count them The output is a LIST of ALL correspondencetypes with their frequency of occurrence in the data , and aseparate listing of each correspondence with ALL word-pairs showingthat correspondence ( unless their relative value is below an arbitrarily chosen cutoff point ) comparative linguistics , naturallanguage processing , comparative method , historical linguistics , diachroniclinguistics , genetic relationship , sound change , soundcorrespondence , regular correspondence , LIST processing 
+
+CA700604 JB February 13, 1978  11:51 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2646 89  6.130481946145652 BM25
+
+
+A Model for Masking Rotational Latency by Dynamic Disk Allocation
+
+
+CA740507 JB January 17, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2712 90  6.124280735649006 BM25
+
+
+Horner's Rule for the Evaluation of General Closed Queueing Networks
+
+
+CA751007 JB January 6, 1978  10:35 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2855 91  6.074382042109339 BM25
+
+
+An Efficient List-Moving Algorithm Using Constant Workspace
+An Efficient List-Moving Algorithm Using Constant Workspace An efficient algorithm is presented for movingarbitrary LIST structures , using no storage ( apart from program variables ) other than that requiredto hold the original LIST and the copy The original LIST is destroyed as it is moved LIST moving , LIST copying , LISP , space complexity , constant workspace 
+
+CA760607 JB January 4, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1877 92  6.038380942441831 BM25
+
+
+Prevention of System Deadlocks
+
+
+CA690703 JB February 17, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1727 93  6.028250744791078 BM25
+
+
+One Way of Estimating Frequencies of Jumps in a Program
+
+
+CA680702 JB February 22, 1978  3:05 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1972 94  6.02394879462613 BM25
+
+
+A  Nonrecursive List Compacting Algorithm 
+A Nonrecursive LIST Compacting Algorithm A simple nonrecursive LIST structure compacting scheme or garbage collector suitable for both compact and LISP-like LIST structures is presented The algorithm avoids the need for recursion by using the partial structure as it is built up to keep track of those lists that have been copied LIST compacting , garbage collection , compact LIST , LISP 
+
+CA701106 JB February 9, 1978  4:54 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1014 95  6.022448992551534 BM25
+
+
+Machine Controls for Analysis of Variance
+
+
+CA640816 JB March 9, 1978  6:37 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2648 96  6.019800318637191 BM25
+
+
+A Design for a Number Theory Packagewith an Optimized Trial Division routine
+A number theory package is described which usesdoubly linked LIST structures for storing multiprecise integers number theory package , trial division , multiprecisearithmetic , factorization , doubly linked lists , pseudoprime 
+
+CA740505 JB January 17, 1978  4:09 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2920 97  6.010819258515784 BM25
+
+
+Game Interpretation of the Deadlock Avoidance Problem
+
+
+CA771006 JB December 27, 1977  10:50 AM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-1787 98  6.009345843807036 BM25
+
+
+Use of Transition Matrices in Compiling
+
+
+CA680107 JB February 23, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-0602 99  5.993408789690351 BM25
+
+
+COBOL and Compatibility
+
+
+CA620503 JB March 20, 1978  1:54 PM
+
+
+--------------------------------------------------------------
+64 Q0 CACM-2406 100  5.987967931894079 BM25
+
+
+A Data Definition and Mapping Language
+
+
+CA731202 JB January 19, 1978  2:58 PM
+
+

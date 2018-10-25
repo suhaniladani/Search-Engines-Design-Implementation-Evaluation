@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+60 Q0 CACM-3087 1  34.78602775514639 BM25
+
+
+An English Language Question Answering Systemfor a Large Relational Database
+An English Language Question Answering Systemfor a Large RELATIONAL Database By typing requests in English , casual userswill be able to obtain explicit answers from a large RELATIONAL database of aircraft flight and maintenancedata using a system called PLANES Other system componentsconstruct a formal query for the RELATIONAL database , and optimize the order of searching relations Question answering , RELATIONAL database , natural language , database front END , artificial intelligence , dialogue , query generation , information retrieval , natural language programming 
+
+CA780701 DH February 8, 1979  4:26 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2882 2  28.628280620714893 BM25
+
+
+A Stochastic Evaluation Model for DatabaseOrganization in Data Retrieval Systems
+
+
+CA760205 JB January 5, 1978  9:20 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2716 3  27.37385733305952 BM25
+
+
+Optimizing the Performance of a Relational Algebra Database Interface
+Optimizing the Performance of a RELATIONAL Algebra Database Interface An approach for implementing a `` smart '' interfaceto support a RELATIONAL view of data is proposed A RELATIONAL algebra interface , called SQUIRAL , which was designed using this approach , is describedin detail Codd 's RELATIONAL algebra are presented , anda methodology for composing them to optimize the performance of a particular user query is described RELATIONAL database , database optimization , invertedfile , automatic programming , query language , data manipulation language , very high level language 
+
+CA751003 JB January 6, 1978  11:19 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2876 4  27.264083345248608 BM25
+
+
+Intentional Resolution of Privacy Protection in Database Systems
+This paper is concerned with another , independent , dimension of privacy protection , the control over whata user is allowed to do with a piece of information supplied to him by the database The ability to conditionthe supply of information on its intended use is called here `` intentional resolution '' of privacyprotection 
+
+CA760304 JB January 4, 1978  4:44 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2816 5  26.56999620984342 BM25
+
+
+Optimal Reorganization of Distributed Space Disk Files
+
+
+CA761107 JB January 3, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2888 6  24.84719609004745 BM25
+
+
+Information Reference Coding
+
+
+CA760105 JB January 5, 1978  10:11 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2817 7  24.75656301207608 BM25
+
+
+The Notions of Consistency and Predicate Locks in a Database System
+
+
+CA761106 JB January 3, 1978  3:14 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2957 8  24.079530210553113 BM25
+
+
+Database Abstractions: Aggregation
+RELATIONAL databases definedas collections of aggregates are structured as a hierarchy on n-ary relations data abstraction , RELATIONAL database , data type , aggregation , database design , data structure , knowledge representation , data definition language 
+
+CA770606 JB December 29, 1977  12:33 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2715 9  24.033984326461155 BM25
+
+
+Implementation of a Structured English Query Language
+The RELATIONAL model of data , the XRM RelationalMemory System , and the SEQUEL language have been covered in previous papers and are reviewed SEQUEL is a RELATIONAL data sublanguages intended for the ad hoc interactive problem solving by non-computerspecialists RELATIONAL model , query language , nonprocedural language , database , data structure , data organization 
+
+CA751004 JB January 6, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3089 10  23.80756157342455 BM25
+
+
+Performance of Rollback Recovery Systems under Intermittent Failures
+Performance of Rollback Recovery Systems under Intermittent Failures The system is assumed to operate with a checkpointingand rollback/recovery method to ensure reliable information processing 
+
+CA780608 DH February 9, 1979  10:26 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2718 11  22.17357055741754 BM25
+
+
+A Preliminary System for the Design of DBTG Data Structures
+
+
+CA751001 JB January 6, 1978  2:02 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3137 12  21.786288785017916 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+The modeldescribes the major costs of using an informationsystem from the perspective of the end-user 
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2976 13  21.057848687400387 BM25
+
+
+Approximating Block Accesses in Database Organizations
+
+
+CA770406 JB December 29, 1977  5:06 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2710 14  20.723927274343907 BM25
+
+
+Specifying Queries as Relational Expressions:The SQUARE Data Sublanguage
+A syntax is given , and suggestions are made for alternative syntaxes , including a syntax based on English key words forusers with limited mathematical background Specifying Queries as RELATIONAL Expressions : The SQUARE Data Sublanguage SQUAREis based on the RELATIONAL model of data , and is shown to be relationally complete ; however , it avoidsthe quantifiers and bound variables required by languages based on the RELATIONAL calculus database , data sublanguages , relations , query languages , casual user , RELATIONAL data model , tabular data , interactive problem solving , nonprocedurallanguages , RELATIONAL completeness This paper presents a data sublanguage calledSQUARE , intended for use in ad hoc , interactive problem solving by non-computer specialists 
+
+CA751102 JB January 6, 1978  10:04 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3049 15  20.042761485089418 BM25
+
+
+A Simply Extended and Modified BatchEnvironment Graphical System (SEMBEGS)
+BAGDAMSprovides facilities for storing , retrieving , and manipulating the descriptions of graphical entitiesprovided by , and received by application programs , graphics PACKAGES , and graphical devices A Simply Extended and Modified BatchEnvironment Graphical System ( SEMBEGS ) SEMBEGS is easy to extend and modify to meet the growing needs of a large batch environment , and is evenextendable to a fully interactive system Wendorf , J Computer graphics , data structures , graphic display , graphic input , graphical database , device independent graphics 
+
+CA781102 DH January 26, 1979  1:30 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2812 16  19.836068734889547 BM25
+
+
+Computer-Aided Analysis and Design of Information Systems
+
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2967 17  19.505211290069774 BM25
+
+
+A Comparison of Hardware and Software AssociativeMemories in the Context of Computer Graphics
+
+
+CA770505 JB December 29, 1977  2:07 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2959 18  19.279170635237772 BM25
+
+
+The System for Business Automation (SBA): Programming Language
+
+
+CA770604 JB December 29, 1977  1:25 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3026 19  19.091427330709152 BM25
+
+
+The Evolution of the Sperry Univac 1100Series: A His tory, Analysis, and Projection
+1100 computer series , computer architecture , multiprocessinglanguages , data management systems , END user facilities , executive control software 
+
+CA780104 JB March 28, 1978  5:38 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2516 20  19.07590683019873 BM25
+
+
+Hierarchical Storage in Information Retrieval
+A system might , for example , consist of fast semiconductormemory , computer core memory , extended core storage , disk memory , and data cells 
+
+CA730504 JB January 24, 1978  8:48 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3112 21  19.005511136589163 BM25
+
+
+List Processing in Real Time on a Serial Computer
+
+
+CA780404 DH February 26,1979  4:32 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3142 22  18.7022913862626 BM25
+
+
+Consumer Difficulties With Computerized Transactions: An Empirical Investigation
+How many andwhat type of errors occur ? How easily are they corrected ? Whatis the reaction of consumers to errors-to a failure to correctthem ? What can be learned by designers of large management packagesfrom such data ? Results show that with the present state of theart , approximately 40 percent of individuals ( or households ) havingaverage contacts with different types of accounts experience oneor more errors per year Also the role of poor management PACKAGES including poor software is indicated While mostmanagement systems may be adequate , results of the survey raiseconcerns about the timeliness and the number of designs of verylarge linked program PACKAGES ( as EFT for instance ) The prevalence with which errors may be encountered by the END targets of a computerized process is assessed 
+
+CA790503 DH June 5, 1979  3:21 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2593 23  18.60643857268023 BM25
+
+
+A Back-end Computer for Data Base Management
+It is proposed that the data base managementfunction be placed on a dedicated back-end computer which accepts commands ( in a relatively high level languagesuch as the CODASYL Data Base Task Group , April 1971 Report ) from a host computer , accesses thedata base on secondary storage , and returns results A Back-end Computer for Data Base Management Anexperimental implementation , called the experimental Data Management System , XDMS , is described and certainconclusions about the back-end approach are drawn from this implementation data base management , information retrieval , computerconfigurations , computer networks , Data Base Task Group Language , data base protection , data base portability , back-end computer 
+
+CA741005 JB January 16,1978  12:35 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3164 24  18.528980932715292 BM25
+
+
+Progressive Acyclic Digraphs-A Tool for Database Integrity
+
+
+CA790905 DB January 14, 1980  11:56 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2964 25  18.350748648038326 BM25
+
+
+An Approach to Optimal Design of Storage Parameters in Databases
+
+
+CA770508 JB December 29, 1977  1:48 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2988 26  18.27201296229841 BM25
+
+
+Memory Management and Response Time
+
+
+CA770304 JB December 30, 1977  12:51 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3025 27  17.52578375777046 BM25
+
+
+The Evolution of the DEC system 10
+
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3136 28  17.313386332157634 BM25
+
+
+Price/Performance Patterns of U. Computer Systems
+
+
+CA790402 DH May 21, 1979  1:09 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-0695 29  16.86858973179901 BM25
+
+
+Use of the Disk File on Stretch
+Certain programming techniques are discussed for transmitting words betweendisk and core storage with minimum delaying and interruption of the arithmetic unit 
+
+CA631030 JB March 13, 1978  4:28 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1844 30  16.40477500559696 BM25
+
+
+A Modular Computer Sharing System
+The ratio of users to computers is dependent on boththe size and power of the machines used and the computation requirements of the particular mix of users 
+
+CA691002 JB February 15, 1978  3:52 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2424 31  16.32591726145339 BM25
+
+
+Dynamic Verification of Operating System Decisions
+Dynamic verification of a decision impliesthat every time the decision is made there is a consistency check performed on the decision using independenthardware and software 
+
+CA731102 JB January 20, 1978  10:56 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3070 32  16.312959223303213 BM25
+
+
+Hybrid Simulation Models of Computer Systems
+
+
+CA780902 DH February 5, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1572 33  16.05171633805251 BM25
+
+
+The Simulation of Time sharing Systems
+
+
+CA670701 JB February 28, 1978  9:15 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1695 34  15.959270904098055 BM25
+
+
+PLEXUS-An On-Line System for Modeling Neural Networks
+
+
+CA680906 JB February 22, 1978  8:56 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1752 35  15.940767869606155 BM25
+
+
+Resource Management for a Medium Scale Time-Sharing Operating system
+
+
+CA680504 JB February 23, 1978  9:39 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2198 36  15.913616820118467 BM25
+
+
+Introduction to "Feature Analysis ofGeneralized Data Base Management Systems"
+CODASYL Systems Committee After some discussion of the problems of data independence and binding , the four user levelsare identified and described 
+
+CA710501 JB February 3, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2319 37  15.830859262057754 BM25
+
+
+Operating System Performance
+
+
+CA720709 JB January 30, 1978  2:33 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3059 38  15.816180341994375 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2188 39  15.668353167221126 BM25
+
+
+An Approach to the Optimum Design of Computer Graphics Systems
+
+
+CA710602 JB February 3, 1978  10:26 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2536 40  15.456380732800932 BM25
+
+
+Telecommunications Using a Front-End Minicomputer
+Telecommunications Using a Front-End Minicomputer The use of a front-end minicomputer to providevaried remote terminal access to a large scale computer is considered The problems of embeddingtelecommunications I/O within an operating system are discussed , and it is shown how the decentralizationof intelligence acquired by front-end processing vastly simplifies the problem telecommunications , minicomputer , front-endprocessor , remote job entry , remote terminals 
+
+CA730303 JB January 24, 1978  11:23 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1754 41  15.409497156588541 BM25
+
+
+Dynamic Storage Allocation Systems
+A brief survey of storage allocationfacilities in several representative computer systems is included as an appendix 
+
+CA680502 JB February 23, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2482 42  15.096579137503852 BM25
+
+
+Mixed Solutions for the Deadlock Problem
+
+
+CA730704 JB January 23, 1978  12:46 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2846 43  15.066589469665185 BM25
+
+
+Compressed Tries
+
+
+CA760707 JB January 4, 1978  12:26 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2951 44  15.03727227460966 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+The research clearly reveals that sufficientsystem data are currently obtainable , at least for the five diverse ARPA network systems studied in detail , to describe and predict the response time for network time-sharing systems as it depends on somemeasure of system activity or load level 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-0696 45  14.986271930216947 BM25
+
+
+An Automatic Data Acquisition and Inquiry System Using Disk Files
+
+
+CA631029 JB March 13, 1978  4:34 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2375 46  14.963953613202097 BM25
+
+
+A Comparative Analysis of Disk Scheduling Policies
+
+
+CA720306JB January 31, 1978  2:38 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2928 47  14.845679381796396 BM25
+
+
+Hardware Estimation of a Process' Primary Memory Requirements
+
+
+CA770906 JB December 27, 1977  1:05 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2717 48  14.74145982406913 BM25
+
+
+CONVERT: A High Level TranslationDefinition Language for Data Conversion
+
+
+CA751002 JB January 6, 1978  1:45 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2740 49  14.697005321124136 BM25
+
+
+A Large Semaphore Based Operating System
+The processes synchronize bymeans of semaphores and extended semaphores ( queue semaphores ) 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2298 50  14.666166417830189 BM25
+
+
+An Environment for Research in Microprogramming and Emulation
+
+
+CA720804 JB January 30, 1978  9:55 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3092 51  14.614219771068013 BM25
+
+
+Characteristics of Application Software Maintenance
+The results of the analysis indicatethat : ( 1 ) maintenance and enhancement do consume much of the total resources of systems and programminggroups ; ( 2 ) maintenance and enhancement tend to be viewed by management as at least somewhat more importantthan new application software development ; ( 3 ) in maintenance and enhancement , problems of a managementorientation tend to be more significant than those of a technical orientation ; and ( 4 ) userdemands for enhancements and extension constitute the most important management problem area 
+
+CA780605 DH February 26, 1979  11:59 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-0616 52  14.613924155158108 BM25
+
+
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee
+An Information Algebra - Phase I Report-LanguageStructure Group of the CODASYL Development Committee The goal of this work is to arrive at a properstructure for a machine-independent problem-defining language , at the systems level of data processing Jasper , Navy Management Office ; William Keating , National Cash Register ; George Kendrick , General Electric Company ; Jean E 
+
+CA620401 JB March 20, 1978  2:40 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2828 53  14.600648893533583 BM25
+
+
+Hierarchical Geometric Models for Visible Surface Algorithms
+
+
+CA761003 JB January 3, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2372 54  14.568887836788482 BM25
+
+
+On the Implementation of Security Measures in Information Systems
+Distinguishing between data dependent and data independent decision rules enablesone to perform much of the checking of security only once at translation time rather than repeatedlyat execution time 
+
+CA720401 JB January 31, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2738 55  14.497581280266289 BM25
+
+
+Use of the Concept of Transparency in theDesign of Hierarchically Structured Systems
+
+
+CA750704 DMM January 31, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2358 56  14.350976666158735 BM25
+
+
+The Multics Virtual Memory: Concepts and Design
+Through the use of segmentation , however , Multics provides direct hardware addressing by user andsystem programs of all information , independent of its physical storage location Information is storedin segments each of which is potentially sharable and carries its own independent attributes of size and accessprivilege 
+
+CA720502 JB January 31, 1978  11:24 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2541 57  14.22733163105292 BM25
+
+
+An Overview of the ISPL Computer System Design
+This separation enables incorporation of new scheduling algorithms ( decision of what to do ) withoutendangering the system integration ( correctly performing the scheduling decisions ) 
+
+CA730207 JB January 24, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2311 58  14.194222048565631 BM25
+
+
+A Generational Perspective of Information System Development
+
+
+CA720717 JB January 30, 1978  11:22 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2680 59  14.182745444012468 BM25
+
+
+Optimal Space Allocation on Disk Storage Devices
+
+
+CA740303 JB January 18, 1978  12:32 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2359 60  14.163083766665792 BM25
+
+
+An Improved Index Sequential Access Method Using Hashed Overflow
+Using hashed overflow , the time to locate a record is dependent not on the totalvolume of overflow records as in conventional ISAM , but on the percentage use of space dedicated to overflow records 
+
+CA720501 JB January 31, 1978  12:29 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3128 61  14.140473160625444 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1901 62  14.126391772650171 BM25
+
+
+Dynamic Space-Sharing in Computer Systems
+
+
+CA690508 JB February 17, 1978  3:31 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1680 63  14.067225898197126 BM25
+
+
+A General-Purpose Display Processing and Tutorial System
+Adept is a cataloged program that controls the standard operatingsystem by terminating and rescheduling itself automatically , relinquishing computer resources allocatedto it , and surrendering control to the operating system to perform other jobs 
+
+CA681007 JB February 21, 1978  3:36 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2138 64  14.051363671384946 BM25
+
+
+BLISS: A Language for Systems Programming
+
+
+CA711205 JB February 2, 1978  10:09 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2002 65  13.983053692985317 BM25
+
+
+AMESPLOT-A Higher Level Data Plotting Software System
+The system described is hardware-independent and has been implemented on a variety of installations , of different manufacturers , having diverse configurations These modules are specified independently and are independent of the axissystems or other attributes of the plot The structuring of plots from multiple , independent , self-contained subplots is described computer graphics , data potting , data displaysyntax , hardware independent software , display device independent software , plot elements , self-scaled plots , user interaction , tablet organization , map display , projection 
+
+CA700903 JB February 10, 1978 2:08 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3084 66  13.961874405645185 BM25
+
+
+Interpolation Search -A Log LogN Search
+
+
+CA780704 DH February 7, 1979  4:50 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1959 67  13.943123050829943 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2345 68  13.925732204944817 BM25
+
+
+Curriculum Recommendations for GraduateProfessional Programs in Information Systems
+Curriculum Recommendations for GraduateProfessional Programs in Information Systems 
+
+CA720515 JB January 31, 1978  9:28 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1033 69  13.810629979323203 BM25
+
+
+Experimental Personalized Array Translator System
+These include numeric , Boolean , RELATIONAL and selection operators on operands which can be entire arrays 
+
+CA640714 JB March 9, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3150 70  13.752385586662513 BM25
+
+
+Beyond Programming Languages
+In order to develop such systems , we needto shift our attention away from the detailed specification ofalgorithms , towards the description of the properties of the packagesand objects with which we build 
+
+CA790701 DH August 22, 1979  2:00 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1685 71  13.745104627978577 BM25
+
+
+GAN, a System for Generating and Analyzing Activity Networks
+
+
+CA681002 JB February 21, 1978  4:22 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3134 72  13.712225841377649 BM25
+
+
+The Use of Normal Multiplication Tablesfor Information Storage and Retrieval
+
+
+CA790305 DH May 21, 1979  9:46 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3058 73  13.70846241824688 BM25
+
+
+Jump Searching: A Fast Sequential Search Technique
+
+
+CA781003 DH January 29, 1979  6:15 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2720 74  13.649816800661812 BM25
+
+
+Optimal Balancing of I/O Requests to Disks
+The results indicate that faster devices should have higher utilization factors and thatthe number of different device types utilized tends to decrease with decreasing load 
+
+CA750904 JB January 6, 1978  2:42 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1912 75  13.649415399217329 BM25
+
+
+Simulation of Outpatient Appointment Systems
+
+
+CA690405 JB February 17, 1978  4:32 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1751 76  13.632569980033638 BM25
+
+
+The Working Set Model for Program Behavior
+
+
+CA680505 JB February 23, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1489 77  13.609420128188766 BM25
+
+
+Data, Documentation and Decision Tables
+
+
+CA660106 JB March 3, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3067 78  13.570140433676615 BM25
+
+
+Generalized Working Sets for Segment Reference Strings
+The working-set concept is extended for programsthat reference segments of different sizes 
+
+CA780905 DH February 5, 1979  11:20 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2669 79  13.553653137033338 BM25
+
+
+A Simple Linear Model of Demand Paging Performance
+
+
+CA740401 JB January 18, 1978  10:41 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2852 80  13.525362037466184 BM25
+
+
+The Technology of Computer Center Management: AProposed Course for Graduate Professional Programs in Computer Science or in Information Systems
+
+
+CA760701 JB January 4, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2127 81  13.511669493721495 BM25
+
+
+Natural Language Question-Answering Systems: 1969
+
+
+CA700104 JB February 14, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2955 82  13.502601023439777 BM25
+
+
+Buddy Systems
+
+
+CA770608 JB December 28, 1977  1:20 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2407 83  13.470568259214755 BM25
+
+
+Curriculum Recommendations for UndergraduatePrograms in Information Systems
+Curriculum Recommendations for UndergraduatePrograms in Information Systems 
+
+CA731201 JB January 19, 1978  3:24 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1518 84  13.42652251337507 BM25
+
+
+An Experimental Model of System/360
+The measures of system performanceproduced by the model consist of statistics RELATING to turnaround time , throughput , hardware utilization , software utilization , and queueing processes 
+
+CA671102 JB February 26,1978  3:20 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2106 85  13.371622295122744 BM25
+
+
+Computer Education in a Graduate School of Management
+
+
+CA700209 JB February 14, 1978  10:15 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3090 86  13.293001513977893 BM25
+
+
+Automated Welfare Client-Tracking and ServiceIntegration: The Political Economy of Computing
+
+
+CA780607 DH February 12, 1979  11:01 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1892 87  13.245521242069152 BM25
+
+
+Degree of Multiprogramming in Page-on-Demand Systems
+
+
+CA690601 JB February 17, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2985 88  13.222052330379462 BM25
+
+
+Effects of Chargeout on User/Manager Attitudes
+
+
+CA770307 JB December 29, 1977  6:43 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3153 89  13.190108274467484 BM25
+
+
+The Control of Response Times in Multi-ClassSystems by Memory Allocations 
+
+
+CA790704 DH August 22, 1979  3:32 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3082 90  13.147341612261489 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2479 91  13.087019805155823 BM25
+
+
+Curriculum Recommendations for Graduate ProfessionalPrograms in Information Systems: Recommended Addendum on Information Systems Administration
+Curriculum Recommendations for Graduate ProfessionalPrograms in Information Systems : Recommended Addendum on Information Systems Administration An addendum to the Report of the ACM CurriculumCommittee on Computer Education for Management is proposed The proposed addendum is to include in the curriculuma course on Information Systems administration It is important for two reasons : ( 1 ) the systems designermust understand the administrative framework in which he must operate to work effectively , and ( 2 ) animportant objective of the curriculum recommendations is to prepare the future manager of the computer activity It is felt that the importance of these two reasons justifies the addition of the recommended course 
+
+CA730707 JB January 23, 1978  12:30 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1083 92  13.072210338036408 BM25
+
+
+An Experiment in a User-Oriented Computer System
+
+
+CA640506 JB March 10, 1978  12:03 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-1774 93  13.063413051509055 BM25
+
+
+Program Overlay Techniques
+
+
+CA680208 JB February 23, 1978  11:59 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2948 94  13.0297130304394 BM25
+
+
+A Terminal-Oriented Communication System
+The system consists of a communicationscomputer directly connected to the time-shared system , a number of small remote computers to whichthe terminals are ATTACHED , and connecting medium speed telephone lines 
+
+CA770704 JB December 28, 1977  11:49 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-3050 95  13.006650231818806 BM25
+
+
+Systems Design Education: A Gaming Approach
+
+
+CA781101 DH January 29, 1979  11:43 AM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2625 96  12.981245928994017 BM25
+
+
+Capability-Based Addressing
+
+
+CA740706 JB January 17, 1978  12:39 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-0585 97  12.917970960715472 BM25
+
+
+Initial Experience With an Operating Multiprogramming System
+This simultaneity has evolved from an initialachievement of self-searching input and output to the automatic time sharing of independently codedproblems 
+
+CA620520 JB March 17, 1978  9:45 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2500 98  12.890516716841256 BM25
+
+
+A Practical Approach to Managing Resources and Avoiding Deadlocks
+
+
+CA730520 JB January 23, 1978  4:03 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2317 99  12.846493539278136 BM25
+
+
+Programming Systems and Languages 1965-1975
+Important trends include the increased interest in the development ofsystem measurement and evaluation techniques , and increased use of microprogramming for some programming system functions 
+
+CA720711 JB January 30, 1978  1:47 PM
+
+
+--------------------------------------------------------------
+60 Q0 CACM-2016 100  12.837474155077304 BM25
+
+
+The Instrumentation of Multics
+
+
+CA700805 JB February 10, 1978  3:43 PM
+
+

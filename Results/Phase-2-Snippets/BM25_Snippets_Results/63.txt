@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+63 Q0 CACM-3075 1  32.76104800458752 BM25
+
+
+Fast Parallel Sorting Algorithms
+Fast PARALLEL Sorting ALGORITHMS A PARALLEL bucket-sort algorithm is presentedthat requires time O ( log n ) AND the use of n processors PARALLEL processing , sorting , ALGORITHMS , bucket sort The model of COMPUTATION FOR this procedurepermits simultaneous fetches from the same memory location 
+
+CA780803 DH February 7, 1979  10:25 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2973 2  32.532427419257 BM25
+
+
+Sorting on a Mesh-Connected Parallel Computer
+Sorting on a Mesh-Connected PARALLEL Computer PARALLEL computer , PARALLEL sorting , PARALLEL merge , routing AND comparison steps , perfect shuffle Two ALGORITHMS are presented FOR sorting n^2elements on an n X n mesh-connected processor array that require O ( n ) routing AND comparison steps The ALGORITHMS of this paper are shown to be optimalin time within small constant factors 
+
+CA770409 JB December 29, 1977  4:58 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2266 3  31.03542093584197 BM25
+
+
+A Highly Parallel Algorithm for ApproximatingAll Zeros of a Polynomial with Only Real Zeros
+A Highly PARALLEL Algorithm FOR ApproximatingAll Zeros of a Polynomial with Only Real Zeros The algorithm , whichis conceptually suitable FOR PARALLEL COMPUTATION , determines its own starting values so that convergenceto the zeros is guaranteed PARALLEL numerical ALGORITHMS , real polynomials , real zeros , Newton 's method , starting values , guaranteed convergence 
+
+CA721103 JB January 27, 1978  2:35 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2289 4  28.22429039415895 BM25
+
+
+Cellular Arrays for the Solution of Graph Problems
+A major challengein the effective use of cellular arrays FOR the solution of graph problems is the determination of algorithmsthat exploit the possibilities FOR parallelism , ESPECIALLY FOR problems whose solutions appear to be inherentlyserial The chief computational advantage offered by cellular arrays is the improvement in speedachieved by virtue of the possibilities FOR PARALLEL processing In particular , several parallelized ALGORITHMS are presented FOR the solution of certainspanning tree , distance , AND path problems , with direct applications to wire routing , PERT chart analysis , AND the analysis of many types of networks graph theory , cellular logic-in-memory arrays , PARALLEL processing , special purpose computers , ALGORITHMS FOR distance AND spanning tree problems These ALGORITHMS exhibit a COMPUTATION time that inmany cases grows at a rate not exceeding log2 n , where n is the number of nodes in the graph Straightforwardcellular implementations of the well-known serial ALGORITHMS FOR these problems require about nsteps , AND noncellular implementations require from n^2 to n^3 steps 
+
+CA720901 JB January 30, 1978  9:16 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1601 5  27.88143187185669 BM25
+
+
+Parallel Numerical Methods for the Solution of Equations
+PARALLEL Numerical Methods FOR the Solution of Equations The s8everal approximations obtained in any iteration are computationallyindependent , making the methods of interest in a PARALLEL processing environment Several families of numerical procedureswhich use the technique of the procedures in a PARALLEL processing environment are developed AND measurementsof these statistics are reported These measurements are interpreted in a PARALLEL processingenvironment In such an environment the procedures obtained are superior to standard ALGORITHMS 
+
+CA670505 JB February 28, 1978  10:44 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2896 6  26.55405874268036 BM25
+
+
+An Exercise in Proving Parallel Programs Correct
+The fine degree of in terleavingin this program makes it ESPECIALLY difficult to understand , AND complicates the proof greatly An Exercise in Proving PARALLEL Programs Correct A PARALLEL program , Dijkstra 's on-the-fly garbagecollector , is proved correct using a proof method developed by Owicki Difficultieswith proving such PARALLEL programs correct are discussed 
+
+CA771204 JB February 1, 1980  3:37 AM 
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1468 7  26.49262364064608 BM25
+
+
+Syntax-Directed Interpretation of Classes of Pictures
+A descriptive scheme FOR classes of pictures basedon labeling techniques using PARALLEL processing ALGORITHMS was proposed by the author some years ago The PARALLEL processingsimulator , originally written FOR an IBM 7094system , has now been rewritten FOR a CDC 3600 system A partial generative grammar FOR '' handwritten '' English letters is given , as are also a few computer-generated outputs using this grammarand the PARALLEL processing simulator mentioned earlier 
+
+CA660304 JB March 3, 1978  1:56 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2557 8  26.484519330712207 BM25
+
+
+On the Time Required for a Sequence of Matrix Products
+The minimum time required to evaluatesuch products on ordinary serial computers as well as PARALLEL computers is discussed matrix expressions , matrix multiplication , operationminimization , PARALLEL machine , time minimization Algorithmsare presented which properly parse such matrix sequences subject to the constraints of the machine organization 
+
+CA730104 JB January 24, 1978  4:41 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1158 9  26.38612408232709 BM25
+
+
+Program Structures for Parallel Processing
+Program Structures FOR PARALLEL Processing Constructs FOR organizing AND explicating parallelprogram segments are discussed as extensions to ALGOL 60 
+
+CA651211 JB March 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1795 10  26.126470457781675 BM25
+
+
+Optimal Code for Serial and Parallel Computation
+Optimal Code FOR Serial AND PARALLEL COMPUTATION 
+
+CA691217 JB February 15, 1978  1:59 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2685 11  26.112372471353662 BM25
+
+
+The Parallel Execution of DO Loops
+The PARALLEL Execution of DO Loops Methods are developed FOR the PARALLEL executionof different iterations of a DO loop PARALLEL computing , multiprocessor computers , array computers , vector computers , loops 
+
+CA740204 JB January 18, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-0950 12  26.111830772077674 BM25
+
+
+Parallel Methods for Integrating Ordinary Differential Equations
+PARALLEL Methods FOR Integrating Ordinary Differential Equations This paper is dedicated to the proposition that , in order to take full advantage FOR real-time computations of highly PARALLEL computers as can beexpected to be available in the near future , much of numerical analysis will have to be recast in a more '' PARALLEL '' form As an example , a method is proposed FOR `` parallelizing '' the numerical integration of an ordinary differentialequation , which process , by all standard methods , is entirely serial By this is meant that serial ALGORITHMS ought to be replaced by algorithm whichconsist of several subtasks which can be computed without knowledge of the results of the other subtasks 
+
+CA641221 JB March 9, 1978  3:09 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3156 13  25.925811427594024 BM25
+
+
+Computing Connected Components on Parallel Computers
+Computing Connected Components on PARALLEL Computers We present a PARALLEL algorithm which uses n2 processors to find the connectedcomponents of an undirected graph with n vertices in time O ( log2n ) Graph theory , PARALLEL processing , ALGORITHMS , transitive closure , connected component 
+
+CA790802 DB January 4, 1980  12:18 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2785 14  25.84693280448269 BM25
+
+
+Glypnir-A Programming Language for Illiac IV
+The syntax of the language is based on ALGOL 60 , but hasbeen extended to allow the programmer explicitly to specify the parallelism of his algorithm in terms of 64-wordvectors This paper describes the characteristics , goals AND philosophy of the language , AND discusses someof the problems associated with PARALLEL computer architectures GLYPNIR , Illiac IV , Programming language , PARALLEL COMPUTATION , PARALLEL architecture 
+
+CA750303JB January 9, 1978  4:57 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3059 15  25.805284090158136 BM25
+
+
+Models for Parallel Processing WIthin Programs:Application to CPU:I/O and I/O:I/O Overlap
+Models FOR PARALLEL Processing WIthin Programs : Application to CPU : I/O AND I/O : I/O Overlap Approximate queueing models FOR internal parallelprocessing by individual programs in a multiprogrammed system are developed in this paper Multiprogramming , PARALLEL processing , queueingnetwork models , multiprocessing of COMPUTATION AND I/O 
+
+CA781002 DH January 29, 1979  6:23 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2714 16  25.105369220070237 BM25
+
+
+Merging with Parallel Processors
+Merging with PARALLEL Processors Consider two linearly ordered sets A , B , |A|=m , |B|=n , m < =n , AND p , p < =m , PARALLEL processors working synchronously The paper presents an algorithmfor merging A AND B with the p PARALLEL processors , which requires at most 2 [ log2 ( 2m+1 ) ] + [ 3m/p ] + [ m/p ] [ log2 ( n/m ) ] steps These performances compare very favorably withthe previous best PARALLEL merging algorithm , Batcher 's algorithm , which requires n/p + ( ( m+n ) /2p ) log2 msteps in the general case AND km/p + ( ( k+1 ) /2 ) ( m/p ) log2 m in the special case where n=km PARALLEL processing , PARALLEL merging , PARALLEL binary insertion 
+
+CA751005 JB January 6, 1978  10:50 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2895 17  24.95869892024974 BM25
+
+
+A Language for Formal Problem Specification
+A language FOR specifying the in tended behaviorof communicating PARALLEL processes is described formal specifications , program correctness , parallelprocessing , synchronization , readers/writers problem The specifications are constrain ts on the order in whichevents of a COMPUTATION can occur 
+
+CA771205 DMM December 22, 1977  12:44 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2570 18  24.698528152624387 BM25
+
+
+A Comparison of List Schedules for Parallel Processing Systems
+A Comparison of List Schedules FOR PARALLEL Processing Systems PARALLEL processing , precedence graphs , scheduling , list scheduling , optimization , dynamic programming It is shown that different ALGORITHMS suggested in the literature vary significantlyin execution time AND that the B-schedule of Coffman AND Graham is near-optimal 
+
+CA741204 JB January 16, 1978  9:42 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1828 19  24.64588272396154 BM25
+
+
+Synchronization in a Parallel-Accessed Data Base
+Synchronization in a Parallel-Accessed Data Base The following problem is considered : Givena data base which can be manipulated simultaneously by more than one process , what are the rules FOR synchronizationwhich will maximize the amount of PARALLEL activity allowed PARALLEL accessing , PARALLEL search , file search , data base , synchronization , locking , deadlock 
+
+CA691102 JB February 15, 1978  1:13 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1262 20  24.423559835414153 BM25
+
+
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+Procedure-Oriented Language Statements to Facilitate PARALLEL Processing Two statements are suggested which allow a programmerwriting in a procedure-oriented language to indicate sections of program which are to be executedin PARALLEL These serve partly as brackets in establishinga range of PARALLEL operation AND partly to define each PARALLEL path within this range 
+
+CA650509 JB March 7, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2433 21  24.12250839269331 BM25
+
+
+Control Structures in Illiac IV Fortran
+This languageprovides a means of expressing data AND control structures suitable FOR exploiting ILLIAC IV parallelism Language structures to utilize this storage method AND express PARALLEL ALGORITHMS are described array processing , parallelism detection , explicitparallelism , array allocation , PARALLEL control structures , ILLIAC IV Fortran 
+
+CA731007 JB January 20, 1978  11:30 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2838 22  23.979657704811483 BM25
+
+
+Analysis of an Algorithm for Real Time Garbage Collection
+A real time garbage collection system avoidssuspending the operations of a list processor FOR the long times that garbage collection normally requiresby performing garbage collection on a second processor in PARALLEL with list processing operations , or on a single processor time-shared with them garbage collection , storage reclamation , listprocessing , Lisp , time-sharing , multiprocessing , PARALLEL processing , real time , data structures , analysis of ALGORITHMS ALGORITHMS FOR recovering discarded list structures inthis manner are presented AND analyzed to determine sufficient conditions under which the list processor neverneeds to wait on the collector 
+
+CA760901 JB January 4, 1978  9:57 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1367 23  23.363944873258884 BM25
+
+
+Character Structure and Character Parity Sensefor Parallel-by-Bit Data Communication in ASCII* (Proposed American Standard)
+Character Structure AND Character Parity Sensefor Parallel-by-Bit Data Communication in ASCII* ( Proposed American Standard ) 
+
+CA660912 JB March 2, 1978  4:26 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1811 24  22.984952822445663 BM25
+
+
+A Case Study in Programming for Parallel-Processors
+A Case Study in Programming FOR Parallel-Processors An affirmative partial answer is provided tothe question of whether it is possible to program parallel-processor computing systems to efficiently decreaseexecution time FOR useful problems Parallel-processor systems are multiprocessor systems in which several ofthe processors can simultaneously execute separate tasks of a single job , thus cooperating to decreasethe solution time of a computational problem Aprogram FOR the determination of the distribution of current in an electrical network was written FOR aparallel-processor computing system , AND execution of this program was simulated parallel-processor , parallelism , PARALLEL programming , multiprocessor , multiprogramming , tasking , storage interference , electrical network , simulation , relaxation , Jacobi , Gauss-Seidel , convergence 
+
+CA691201 JB February 15, 1978  4:45 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2851 25  22.979481494231862 BM25
+
+
+Formal Verification of Parallel Programs
+Formal Verification of PARALLEL Programs Two formal models FOR PARALLEL computationare presented : an abstract conceptual model AND a parallel-program model A special case of the assertions method , which is called PARALLEL place assertions , is shown to beincomplete PARALLEL program , correctness , verification , assertions , deadlock , mutual exclusion , Petrinet 
+
+CA760702 JB January 4, 1978  1:20 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2865 26  22.636512355993883 BM25
+
+
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+Verifying Properties of PARALLEL Programs : An Axiomatic Approach An axiomatic method FOR proving a numberof properties of PARALLEL programs is presented A crucial axiom provides FOR the use of auxiliary variables , which are added to a PARALLEL program as an aid to proving it correct 
+
+CA760506 JB January 4, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2342 27  22.476284313373622 BM25
+
+
+Interference Between Communicating Parallel Processes
+Interference BETWEEN Communicating PARALLEL Processes Various kinds of interference BETWEEN communicatingparallel processes have been examined by Dijkstra , Knuth , AND others Solutions have been givenfor the mutual exclusion problem AND associated subproblems , in the form of PARALLEL programs , AND informalproofs of correctness have been given FOR these solutions In this paper a system of parallelprocesses is regarded as a machine which proceeds from one state S ( i concurrent programming control , cooperating processes , formal programs , interference , mutual exclusion , operating systems , PARALLEL processes 
+
+CA720603 JB January 31, 1978  8:44 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2700 28  22.408732237442642 BM25
+
+
+Reduction: A Method of Proving Properties of Parallel Programs
+Reduction : A Method of Proving Properties of PARALLEL Programs When proving that a PARALLEL program has agiven property it is often convenient to assume that a statement is indivisible , i Thus correctness proofs of a PARALLEL system can often be greatly simplified deadlock free , reduction , interruptible , indivisible , PARALLEL program , semaphore , verification method , process , COMPUTATION sequence 
+
+CA751207 JB January 5, 1978  3:59 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1957 29  22.32359512593413 BM25
+
+
+The List Set Generator: A Construct for Evaluating Set Expressions
+Theefficiency derives from evaluating the expression as a whole andin PARALLEL , rather than evaluating subexpressions andthen using those sets to arrive at the final result The list set generator is defined AND algorithmsfor its use are given 
+
+CA701206 JB February 9, 1978  3:23 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2401 30  22.29140234692703 BM25
+
+
+On Shrinking Binary Picture Patterns
+A PARALLEL processing algorithm FOR shrinkingbinary patterns to obtain single isolated elements , one FOR each pattern , is presented The principal features of this method are the very smallwindow employed ( two-by-two elements ) , the PARALLEL nature of the process , AND the possibility of shrinkingany pattern , regardless of the complexity of its configuration counting binary patterns , shrinking , parallelprocessing , multiple connected pictures 
+
+CA720102 JB February 1, 1978  9:43 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2114 31  21.835449347606115 BM25
+
+
+A Formal System for Information Retrieval from Files
+A generalized file structure is providedby which the concepts of keyword , index , record , file , directory , file structure , directory decoding , AND record retrieval are definedand from which some of the frequently used file structures suchas inverted files , index-sequential files , AND multilist files arederived attribute-value pair , index , keyword , record , record address , K-pointer , K-list , file , directory , generalized filestructure , inverted file , index-sequential-file , multilist file , description , file search , directory search , serial processing oflists , prime keyword , PARALLEL processing of lists Two ALGORITHMS which retrieve records from the generalized file structure are presented 
+
+CA700201 JB February 14, 1978  1:04 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1302 32  21.512152202381365 BM25
+
+
+Parallel Signaling Speeds for Data Transmission(Proposed American Stand ard)
+PARALLEL Signaling Speeds FOR Data Transmission ( Proposed American Stand ard ) 
+
+CA650305 JB March 7, 1978  6:08 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1536 33  21.019546329398327 BM25
+
+
+Dynamic Computation of Derivatives
+Evaluation of a function AND derivative proceed inparallel , as in Wengert 's procedure , but with the `` imaginary '' parts of variables declared complex bearingthe values of the derivatives of the real parts Dynamic COMPUTATION of Derivatives It is shown how Wengert 's procedure FOR computationof derivatives can be implemented conveniently by use of compiler-generated complex addition , subtraction , AND linkage to complex arithmetic subroutines 
+
+CA670908 JB February 27, 1978  3:11 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1569 34  20.72698795429438 BM25
+
+
+Implementing Phrase-Structure Productions in PL/I
+A method is described FOR implementing the productionsof a context-free phrase structure grammar in a PL/I procedure whose structure AND statements parallelthe structure AND notation of the grammar 
+
+CA670704 JB February 28, 1978  9:01 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3166 35  20.282697801003252 BM25
+
+
+Computing Standard Deviations: Accuracy
+Four ALGORITHMS FOR the numerical computationof the standard deviation of ( unweighted ) sampled dataare analyzed Two of the ALGORITHMS are well-known in the statisticaland computational literature ; the other two are new algorithmsspecifically intended FOR automatic COMPUTATION `` Each of the four ALGORITHMS is analyzed FOR the conditionsunder which it will be accurate We conclude that all fouralgorithms will provide accurate answers FOR many problems , but twoof the ALGORITHMS , one new , one old , are substantially more accurateon difficult problems than are the other two 
+
+CA790907 DB January 16, 1980  4:23 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2195 36  20.235934365322795 BM25
+
+
+On the Optimal Detection of Curves in Noisy Pictures
+The method described is suitable FOR PARALLEL processing because the operations relative to eachstate can be computed in PARALLEL , AND the numberof stages is equal to the length N of the curves ( orto log2 N if the approximate method is used ) picture processing , picture recognition , picturedescription , curve detection , line detection , edge detection , optimal detection , heuristic methods , global recognition , PARALLEL processing , dynamic programming , interaction graph , secondary optimization problem 
+
+CA710504 JB February 3, 1978  2:49 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2723 37  19.57190083186533 BM25
+
+
+Multiprocessing Compactifying Garbage Collection
+garbage collection , storage reclamation , reclaimer , storage allocation , multiprocessing , synchronization , semaphores , PARALLEL processing , compactification , relocation , LISP , list processing , free storage , pointers , data structures , gc processor ALGORITHMS FOR a multiprocessing compactifyinggarbage collector are presented AND discussed 
+
+CA750901 JB January 6, 1978  3:39 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1747 38  19.132827539316978 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+Examples of applicationsof the criteria concern the reading of a time-of-day clock , the synchronization of parallelprocesses , protection in multiprogrammed systems , AND the assignment of capability indexes computer design , computer design criteria , computersystems , computer systems design , input equipment , input equipment design , operating systems , operatingsystems design , multiprogramming , multiprogrammed systems , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , information security , information privacy , computing reliability , debugging , program debugging , program testing , PARALLEL processing , PARALLEL programming , multiprocessing 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2884 39  19.094772073801625 BM25
+
+
+Permutation Enumeration: Four New Permutation Algorithms
+Performance tests which have counted execution of assignment statements , COMPARISONS , arithmeticoperations , AND subscripted array references have shown superiority of the new ALGORITHMS compared toBoothroyd 's implementation of M Classical permutation enumeration ALGORITHMS encounterspecial cases requiring additional COMPUTATION every nth permutation when generating the n ! permutationson n marks Permutation Enumeration : Four New Permutation ALGORITHMS Four new ALGORITHMS have the attribute that special cases occur every n ( n-1 ) permutations Two of the ALGORITHMS produce the next permutation with a single exchange of two marks The other two algorithmsinfrequently exchange more than two marks , but the rules FOR generating the next permutation arevery simple permutations , loop-free ALGORITHMS 
+
+CA760203 JB January 5, 1978  9:33 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2692 40  19.042698485723403 BM25
+
+
+Reentrant Polygon Clipping
+The two additional planes PARALLEL to the projectionscreen serve to limit the range of depth preserved through the projection This method is ideal FOR subsequent hidden-surface computations A new family of clipping ALGORITHMS is described These ALGORITHMS are able to clip polygons against irregular convex plane-faced volumes in threedimensions , removing the parts of the polygon which lie outside the volume In two dimensions the algorithmspermit clipping against irregular convex windows The ALGORITHMS easily handlethe particularly difficult problem of detecting that a new vertex may be required at a corner of theclipping window The ALGORITHMS described achieve considerable simplicity by clipping separately againsteach clipping plane or window boundary 
+
+CA740107 JB January 18, 1978  2:04 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1471 41  18.958899671182692 BM25
+
+
+Programming Semantics for Multiprogrammed computations
+These meta-instructions relate to PARALLEL processing , protection of separate computations , programdebugging , AND the sharing among users of memory segments AND other computing objects , the names of whichare hierarchically structured Programming Semantics FOR Multiprogrammed computations 
+
+CA660301 JB March 3, 1978  2:25 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3073 42  18.843541499125518 BM25
+
+
+Communicating Sequential Processes
+Communicating SEQUENTIAL Processes This paper suggests that input AND output arebasic primitives of programming AND that PARALLEL composition of communicating SEQUENTIAL processes isa fundamental program structuring method Programming , programming languages , programming primitives , program structures , PARALLEL programming , concurrency , input , output , guarded commands , nondeterminacy , coroutines , procedures , multiple entries , multiple exits , classes , data representations , recursion , conditional critical regions , monitors , iterative arrays 
+
+CA780805 DH February 7, 1979  10:07 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2263 43  18.482015824354416 BM25
+
+
+The Conversion of Limited-Entry Decision Tablesto Optimal and Near-Optimal Flowcharts: Two New Algorithms
+( 1 ) The optimum-approaching algorithm will usually lead to better results than comparableexisting ones AND will not require more , but usually less , COMPUTATION time ( 2 ) In general , thegreater COMPUTATION effort needed FOR applying the optimum-finding algorithm will not be justifiedby the small reduction in execution time obtained The Conversion of Limited-Entry Decision Tablesto Optimal AND Near-Optimal Flowcharts : Two New ALGORITHMS Two new ALGORITHMS FOR deriving optimal andnear-optimal flowcharts from limited entry decision tables are presented One of the ALGORITHMS , called the optimum-finding algorithm , leads to a flowchart which truly minimizes execution time FOR a decision table in which simple rulesare already contracted to complex rules The ALGORITHMS are firstderived FOR treating decision tables not containing an ELSE-rule , but the optimum-approaching algorithmis shown to be equally valid FOR tables including such a rule Both ALGORITHMS are compared with existingones AND are applied to a somewhat large decision table derived from a real case 
+
+CA721106 JB January 27, 1978  2:10 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2950 44  18.324580725341793 BM25
+
+
+A Unifying Approach to Scheduling
+This paper presents a scheme FOR classifyingscheduling ALGORITHMS based on an abstract model of a scheduling system which formalizes the notion ofpriority Various classes of scheduling algorithmsare defined AND related to existing ALGORITHMS Acriterion FOR the implementation efficiency of an algorithm is developed AND results in the definitionof time-invariant ALGORITHMS , which include most of the commonly implemented ones FOR time-invariantalgorithms , the dependence of processing rates on priorities is derived scheduling ALGORITHMS , scheduling models , priority , operating systems , processor sharing , implementation efficiency 
+
+CA770702 JB December 28, 1977  12:32 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-0320 45  18.23977485768274 BM25
+
+
+Logic-Structure Tables
+Logic tables are two-dimensional innature , enabling us to fully express AND consider both the SEQUENTIAL AND PARALLEL aspects of logic 
+
+CA610605 JB March 16, 1978  10:40 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1411 46  18.22595760734994 BM25
+
+
+Comparison of Several Algorithms for Computationof Means, Standard Deviations and Correlation Coefficients
+Comparison of Several ALGORITHMS FOR Computationof Means , Standard Deviations AND Correlation Coefficients Several ALGORITHMS FOR COMPUTATION of basicstatistics are compared by their performance on systematically generated test data FOR each statistic , the algorithmincluded the usual computing formulas , correction due to an accumulated error term , AND a recursive computationof the current value of the statistic 
+
+CA660703 JB March 6, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2490 47  17.993698847790352 BM25
+
+
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+Efficient ALGORITHMS FOR Graph Manipulation [ H ] ( Algorithm A447 ) Efficient ALGORITHMS are presented FOR partitioninga graph into connected components , biconnected components AND simple paths graphs , analysis of ALGORITHMS , graph manipulation 
+
+CA730610 JB January 23, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2819 48  17.92797336473553 BM25
+
+
+Experiments in Text File Compression
+Two ALGORITHMS FOR encoding a string differ slightly from earlier proposals Four new ALGORITHMS FOR thisoperation are described AND compared Various parameters in the ALGORITHMS are optimized to obtaina high degree of compression FOR sample texts text compression , data file compaction , Huffmancodes , N-gram encoding , comparison of ALGORITHMS 
+
+CA761104 JB January 3, 1978  3:26 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2952 49  17.909422705502767 BM25
+
+
+Functions Realizable with Word-Parallel Logicaland Two's-Complement Addition Instructions
+Functions Realizable with Word-Parallel Logicaland Two's-Complement Addition Instructions 
+
+CA770611 JB December 28, 1977  12:45 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3131 50  17.853183088111468 BM25
+
+
+FOCUS Microcomputer Number System
+FOCUS is a number system AND supporting computationalalgorithms ESPECIALLY useful FOR microcomputer control AND othersignal processing applications FOCUS computationsare typically five times faster than single precision fixed-pointor integer arithmetic FOR a mixture of operations , comparable inspeed with hardware arithmetic FOR many applications Number representation , logarithmic arithmetic , computationalspeed , computational accuracy , microcomputer applications Algorithmsfor 8-bit AND 16-bit implementations of FOCUS are included 
+
+CA790302 DH April 12, 1979  11:12 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2175 51  17.689231809435032 BM25
+
+
+Subexpression Ordering in the Execution of Arithmetic Expressions
+Depending on the hardware environment in which the expression isto be executed , these subexpressions can be evaluated in serials , in PARALLEL , or in a combination of thesemodes If thenumber of subexpressions which can be executed in PARALLEL exceeds the number of available processors , then execution of some of these subexpressions must be postponed PARALLEL processing , cache , arithmetic expressions , subexpression ordering , computational trees , compilers 
+
+CA710707 JB February 2, 1978  4:49 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1603 52  17.53410522655934 BM25
+
+
+A Multiprogramming Monitor for Small Machines
+The software relieves the user program from the details of input/output timing , buffering , AND task scheduling AND provides PARALLEL processing capability 
+
+CA670503 JB February 28, 1978  10:57 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1658 53  17.440951502321248 BM25
+
+
+Analysis of Algorithms for the Zero-One Programming Problem
+Computational experienceis summarized Analysis of ALGORITHMS FOR the Zero-One Programming Problem This paper is concerned with a review AND examinationof several existing ALGORITHMS FOR the zero-one programming problem The machine time AND storage requirements of several of the ALGORITHMS are comparedover several test problems of small AND intermediate size operations research , optimization theory , integerprogramming , zero-one variables , ALGORITHMS 
+
+CA681208 JB February 21, 1978  1:31 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2898 54  17.42197921384598 BM25
+
+
+A Conceptual Framework for a Nonprocedural Programming Language
+A SEQUENTIAL programming language forces theprogrammer to prescribe explicitly the order in which the operations in his program have to be executed , even if the order is not relevant to the solution of his problem This paper describesa conceptual framework FOR a high level programming language providing both nonprocedural AND sequentialfacilities Within a program , nonprocedural AND SEQUENTIAL program modules may be nested freely PARALLEL programming , descriptive programming , nonprocedural programming , definitional language , data flow programming , applicative programming 
+
+CA771202 JB February 1, 1980  4:05 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2080 55  17.369120946287715 BM25
+
+
+The Nucleus of a Multiprogramming System
+The systemnucleus simulates an environment in which program execution AND input/outputare handled uniformly as PARALLEL , cooperating processes multiprogramming , operating systems , PARALLEL processes , process concept , process communication , message buffering , processhierarchy , process creation , process removal 
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1551 56  17.303547916853088 BM25
+
+
+On Compiling Algorithms for Arithmetic Expressions
+On Compiling ALGORITHMS FOR Arithmetic Expressions This paper deals with ALGORITHMS concerning arithmeticexpressions used in a FORTRAN IV compiler FOR a HITAC-5020 computer having n accumulators Thealgorithms generate an object code which minimizes the frequency of storing AND recovering the partial resultsof the arithmetic expressions in cases where there are several accumulators 
+
+CA670804 JB February 27, 1978  4:35 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2767 57  17.282323323434603 BM25
+
+
+A Comparison of Simulation Event List Algorithms
+The algorithmsare tested with a set of typical stochastic scheduling distributions ESPECIALLY chosen to showthe advantages AND limitations of the ALGORITHMS A Comparison of Simulation Event List ALGORITHMS Four ALGORITHMS are considered which can be usedto schedule events in a general purpose discrete simulation system Two of the ALGORITHMS are new , oneis based on an end-order tree structure FOR event notices , AND another uses an indexed linear list 
+
+CA750410 JB January 9, 1978  3:43 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1959 58  17.192685470439873 BM25
+
+
+An Interrupt Based Organization for Management Information Systems
+management information systems , integrated data processing , supervisors , interrupts monitoring systems , supervisorysystems , interrupt scheduling , PARALLEL processing 
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-0141 59  17.031677034817914 BM25
+
+
+Some Thoughts on Parallel Processing
+Some Thoughts on PARALLEL Processing 
+
+CA601007 JB March 20, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2325 60  17.020379279617334 BM25
+
+
+Numerical Mathematics and Computer Science
+These are : foundations ( finite precision number systems , computational complexity ) , synthesis AND analysis of ALGORITHMS , analysis of error , programs AND program libraries numerical mathematics , computer science , mathematicsof COMPUTATION , ALGORITHMS , continuous ALGORITHMS Numerical mathematics is viewed as the analysisof continuous ALGORITHMS 
+
+CA720703 JB January 30, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1008 61  16.952324301952537 BM25
+
+
+Scheduling Meetings with a Computer
+The techniquedeveloped FOR FASEB can be applied to schedule any meeting with PARALLEL sessions 
+
+CA640903 JB March 9, 1978  6:16 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1554 62  16.835332024226382 BM25
+
+
+A Computer Technique for Displaying n-Dimensional Hyperobjects
+A digital computer AND automatic plotter havebeen used to generate three-dimensional stereoscopic movies of the three-dimensional PARALLEL AND perspectiveprojections of four-dimensional hyperobjects rotating in four-dimensional space 
+
+CA670801 JB February 27, 1978  4:48 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1846 63  16.780439562361668 BM25
+
+
+On Simulating Networks of Parallel Processesin Which Simultaneous Events May Occur
+Thesystems are assumed to be described as a network of interconnected SEQUENTIAL processes On Simulating Networks of PARALLEL Processesin Which Simultaneous Events May Occur The technique will either find a method ofsimulating the PARALLEL events or report that none can be found simulation , PARALLEL processes , simultaneous events , picture processing , computer system simulation In some of the latter cases it is shownto be possible to find a solution by extending the information available to the solution technique , butin many cases the technique becomes computationally unfeasible when the additional information is provided 
+
+CA690910 JB February 15, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2679 64  16.771058550908606 BM25
+
+
+Some Performance Tests of "quicksort" and Descendants
+402 ) requires many more COMPARISONS than its author claims Of all these ALGORITHMS , quickersort requiresthe fewest COMPARISONS to sort random arrays Detailed performance evaluations are presentedfor six ACM ALGORITHMS : quicksort ( No ALGORITHMS 271 AND 402 are refinements of algorithm64 , AND all three are discussed in some detail 
+
+CA740304 JB January 18, 1978  11:26 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-0392 65  16.769808550411366 BM25
+
+
+Comment on A Paper on Parallel Processing
+Comment on A Paper on PARALLEL Processing 
+
+CA610206 JB March 17, 1978  12:58 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2337 66  16.76860932379929 BM25
+
+
+A Sorting Problem and Its Complexity
+One new algorithm FOR finding the minimum AND maximum elements of a set withfewest COMPARISONS is proved optimal with this technique sorting , computational complexity , computational combinatorics A technique FOR proving min-max norms of sortingalgorithms is given 
+
+CA720608 JB January 30, 1978  4:15 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2135 67  16.537506577304235 BM25
+
+
+Rapid Computation of General InterpolationFormulas and Mechanical Quadrature Rules
+Rapid COMPUTATION of General InterpolationFormulas AND Mechanical Quadrature Rules ALGORITHMS are developed FOR rapid COMPUTATION of L ( Q ) FOR a wide class ofselections of Q which includes the Lagrangian AND Hermitian rules as special cases 
+
+CA711208 JB February 2, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2968 68  16.462586710323507 BM25
+
+
+A Comparison of Tree-Balancing Algorithms
+A Comparison of Tree-Balancing ALGORITHMS Several algorithms-height-balance ( i binary search trees , AVL trees , weight-balanced trees , path length , analysis of ALGORITHMS , information storage AND retrieval 
+
+CA770504 JB December 29, 1977  2:16 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2426 69  16.42242865284728 BM25
+
+
+Algorithms SCALE1, SCALE2, and SCALE3 for Determinationof Scales on Computer Generated Plots [J6] (Algorithm A463)
+ALGORITHMS SCALE1 , SCALE2 , AND SCALE3 FOR Determinationof Scales on Computer Generated Plots [ J6 ] ( Algorithm A463 ) 
+
+CA731014 JB January 20, 1978  11:01 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2283 70  16.378569215521143 BM25
+
+
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+Thinning ALGORITHMS on Rectangular , Hexagonal , AND Triangular Arrays In this report three thinning ALGORITHMS aredeveloped : one each FOR use with rectangular , hexagonal , AND triangular arrays Pictorial results produced by each of the ALGORITHMS are presentedand the relative performances of the ALGORITHMS are compared thinning ALGORITHMS , rectangular , hexagonal , triangular arrays , image processing , skeleton 
+
+CA720907 JB January 27, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2276 71  16.29799363683476 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+The most efficientones are compared , in terms of memory requirements AND speed , with some new ALGORITHMS FOR the exponential distribution a definite recommendationcan be made , whereas in the case of the normal distribution there remains a choice BETWEEN slower andshorter ALGORITHMS AND faster but space consuming methods 
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2627 72  16.267803788878446 BM25
+
+
+Scheduling Independent Tasks to Reduce Mean Finishing Time
+In this paper a deterministic model of independenttasks is introduced AND new results are derived which extend AND generalize the ALGORITHMS known forminimizing mean finishing time In addition to presenting AND analyzing new ALGORITHMS it is shownthat the most general mean-finishing-time problem FOR independent tasks is polynomial complete , AND hence unlikelyto admit of a non-enumerative solution minimizing mean finishing time , minimizing mean flowtime , sequencing ALGORITHMS , optimal scheduling ALGORITHMS , deterministic scheduling models 
+
+CA740704 JB January 17, 1978  12:56 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1613 73  16.25874257732713 BM25
+
+
+One-Pass Compilation of Arithmetic Expressions for a Parallel Processor
+One-Pass Compilation of Arithmetic Expressions FOR a PARALLEL Processor Under the assumption that a processor may havea multiplicity of arithmetic units , a compiler FOR such a processor should produce object code to takeadvantage of possible parallelism of operation A technique is presented here FOR compiling arithmetic expressions into structures that can beevaluated with a high degree of parallelism 
+
+CA670402 JB February 28, 1978  11:36 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1200 74  16.21456554376649 BM25
+
+
+On Reversible Subroutines and Computers that Run Backwards
+Since these properties are analogous to certain matrixoperations , a PARALLEL nomenclature is suggested FOR their classification 
+
+CA650906 JB March 6, 19787:33 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3006 75  16.13744458276166 BM25
+
+
+Anomalies with Variable Partition Paging Algorithms
+Anomalies with Variable Partition Paging ALGORITHMS One type of anomaly , FOR example , concernsthe fact that , with certain reference strings AND paging ALGORITHMS , an increase in mean memory allocationmay result in an increase in fault rate Two paging ALGORITHMS , are examined in terms of theiranomaly potential , AND reference string examples of various anomalies are presented anomaly , memory management , program behavior , stackalgorithms , virtual memory , working set , page fault frequency , paging ALGORITHMS 
+
+CA780307 JB March 28,1978  1:01 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2454 76  15.942236289749316 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+Computational ALGORITHMS FOR Closed QueueingNetworks with Exponential Servers The computational ALGORITHMS are based on two-dimensionaliterative techniques which are highly efficient AND quite simple to implement 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1924 77  15.918256603949672 BM25
+
+
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+It is shown thatcarefully designed matrix ALGORITHMS can lead to enormous savings in the number of page faults occurringwhen only a small part of the total matrix can be in main memory at one time Examination of addition , multiplication , AND inversion ALGORITHMS shows that a partitioned matrix representation ( i The number of page-pulls required by these matrix manipulation ALGORITHMS is also studied as a functionof the number of pages of main memory available to the algorithm matrix ALGORITHMS , array processing , paging ALGORITHMS , paged memory systems , virtual memory systems , array storage allocation , storage allocation 
+
+CA690303 JB February 20, 1978  9:35 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2182 78  15.913445188406858 BM25
+
+
+Interrupt Driven Programming
+interrupts , supervisors , monitors , debugging , parallelprocessing , associative memories , microprogramming 
+
+CA710608 JB February 3, 1978  9:49 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2226 79  15.89084078000532 BM25
+
+
+Further Evidence for the Analysis of Algorithmsfor the Zero-One Programming Problem
+The purpose of this note is to report computationalexperience additional to that recently summarized by Gue et al , with two ALGORITHMS FOR thezero-one linear programming problem Further Evidence FOR the Analysis of Algorithmsfor the Zero-One Programming Problem The utility of one ofthe ALGORITHMS as a suboptimizer is indicated operations research , integer programming , zero-one variables , ALGORITHMS 
+
+CA710108 JB February 8, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2060 80  15.725981896321912 BM25
+
+
+GEDANKEN-A Simple Typeless Language Based on thePrinciple of Completeness and the Reference Concept
+The existence of label variables permits the construction of coroutines , quasi-parallel processes , AND other unorthodox control mechanisms programming language , data structure , reference , assignment , coroutine , quasi-parallel process , typeless language , applicative language , lambda calculus , list processing , nondeterministic algorithm 
+
+CA700506 JB February 13, 1978  1:43 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2630 81  15.71318182281983 BM25
+
+
+On Computing Sets of Shortest Paths in a Graph
+Two ALGORITHMS are presented that constructthe k shortest paths BETWEEN every pair of vertices in a directed graph These ALGORITHMS generalize the Floydalgorithm AND the Dantzig algorithm FOR finding the shortest path BETWEEN every pair of vertices in a directed graph 
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2740 82  15.668318841272853 BM25
+
+
+A Large Semaphore Based Operating System
+The paper describes the internal structure ofa large operating system as a set of cooperating SEQUENTIAL processes The number of PARALLEL processes is carefullyjustified , AND the various semaphore constructions are explained cooperating processes , operating system , semaphores , semaphore applications , queue semaphores , deadlock , deadly embrace , hierarchical structuring , multiprogramming , operating system structure , asynchronous structuring , buffering , PARALLEL processes , synchronizingprimitives , reentrant code , RC 4000 , project management , time schedule , debugging , project planning , project scheduling , reliability , program proving , coroutines , correctness , program maintenance , software paging 
+
+CA750702 JB January 9, 1978  10:32 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2863 83  15.658567975863763 BM25
+
+
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+A criterion FOR comparing variable space pagereplacement ALGORITHMS is presented The results of simulating VMIN , Denning 's working set , AND the page partitioning replacement ALGORITHMS on five virtual memory programs are presented to demonstratethe improvement possible over the known realizable variable space ALGORITHMS demand paging , performance measurement , multilevelmemory systems , virtual memory , working set , page replacement ALGORITHMS , optimal page replacement 
+
+CA760508 JB January 4, 1978  3:06 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-0409 84  15.649249044957852 BM25
+
+
+CL-1, An Environment for a Compiler
+The system isbased on a master file concept AND has provisions FOR accepting , storing , AND retrieving both descriptionsand instances of large AND complex data sets , as well as ALGORITHMS defined on these data sets Bothdata AND ALGORITHMS may be expressed in a family of command AND descriptive languages 
+
+CA610105 JB March 17, 1978  1:26 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2200 85  15.407974866215476 BM25
+
+
+On Complement Division
+ALGORITHMS FOR division yielding complement results are derivedfor numbers represented in any base greater than one The binary form of the ALGORITHMS thus includes both two 's AND one 's complement implementation 
+
+CA710405 JB February 3, 1978  3:28 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2932 86  15.37487467040454 BM25
+
+
+Complexity of Computations
+Complexity of Computations The framework FOR research in the theory of complexityof computations is described , emphasizing the in terrelation BETWEEN seemingly diverse problemsand methods complexity of computations , algebraic complexity , in tractable problems , probabilistic ALGORITHMS 
+
+CA770901 JB December 28, 1977  6:54 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1392 87  15.35616238198512 BM25
+
+
+Experience with FORMAC Algorithm Design
+Various facets of the design AND implementationof mathematical expression manipulation ALGORITHMS are discussed Concrete examples are provided by theFORMAC EXPAND AND differentiation ALGORITHMS , a basic FORMAC utility routine , AND an experiment in theextraction of the skeletal structure of an expression Although many details fromthe FORMAC implementation are presented , an attempt is made to stress principles AND ideas of general relevancein the design of ALGORITHMS FOR manipulating mathematical expressions 
+
+CA660806 JB March 2, 1978  7:43 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2828 88  15.348819978769658 BM25
+
+
+Hierarchical Geometric Models for Visible Surface Algorithms
+Finally , the geometric structure suggests a recursive descent , visible surface algorithm in which the COMPUTATION time potentially grows linearly with the visible complexity of the scene Hierarchical Geometric Models FOR Visible Surface ALGORITHMS visible surface ALGORITHMS , hidden surface ALGORITHMS , hierarchical data structures , geometric models 
+
+CA761003 JB January 3, 1978  4:42 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2146 89  15.324432664741757 BM25
+
+
+Optimizing the Polyphase Sort
+Various dispersion ALGORITHMS FOR the polyphasesorting procedure are examinedhe optimum algorithm based on minimizing the total number of unitstrings read is displayed The logic of this algorithm is rather complicated ; hence , several othernew dispersion ALGORITHMS with more straightforward logic are presented Of the simple dispersion algorithmsdiscussed , the Horizontal is best It does approximately one-fourth to one AND one-half percentless reading AND writing than most ALGORITHMS in use today sorting , polyphase sorting , dispersion ALGORITHMS , optimum dispersion algorithm , repetition operator 
+
+CA711103 JB February 2, 1978  11:39 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3032 90  15.151320903208065 BM25
+
+
+Reverse Path Forwarding of Broadcast Packets
+ALGORITHMS FOR accomplishing this delivery through a store-and-forward packet switching computer network include ( 1 ) transmission of separately addressed packets Tothis list of ALGORITHMS we add ( 6 ) reverse path forwarding , a broadcast routing method which exploitsrouting procedures AND data structures already available FOR packet switching 
+
+CA781207 DH  January 18, 1979  3:10 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2727 91  15.119346184606894 BM25
+
+
+Multiple Byte Processing with Full-Word Instructions
+A method is described which allows parallelprocessing of packed data items using only ordinary full-word computer instructions , even though the processingrequires operations whose execution is contingent upon the value of a datum 
+
+CA750808 JB January 6, 1978  4:21 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2273 92  15.072888031819613 BM25
+
+
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+Two ALGORITHMS FOR generating computer programsfrom decision tables are described The ALGORITHMS allow handling limited entry , extended entry , AND mixedentry tables The ALGORITHMS are based on the rule mask method but need not have the masks at executiontime Execution time can be considerably reduced by instantly marking rules which are not applicable ( Algorithms1 AND 2 ) or conditions which are already tested ( Algorithm 2 ) The new ALGORITHMS combine to acertain degree the advantages of mask methods with those of tree methods 
+
+CA721005 JB January 27, 1978  3:02 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3038 93  15.03917202179049 BM25
+
+
+Using Encryption for Authentication in Large Networks of Computers
+Both conventional AND public-key encryption ALGORITHMS are considered as the basis FOR protocols 
+
+CA781201 DH January 22, 1979  11:18 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2997 94  15.015593083497581 BM25
+
+
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions
+computational complexity , convex hull , optimal ALGORITHMS , planar set of poin ts , spatial set of poin ts The presented ALGORITHMS use the `` divideand conquer '' technique AND recursively apply a merge procedure FOR two nonin tersecting convex hulls Since any convex hull algorithm requires at least O ( n log n ) operations , the time complexity of theproposed ALGORITHMS is optimal within a multiplicative constant 
+
+CA770203 JB December 30, 1977  2:47 AM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-3044 95  14.978224351854477 BM25
+
+
+A Note on Conditional Expressions
+PARALLEL evaluation , suspending cons , Lisp , conditionalforms , if-then-else , ambiguous function , infinite structures 
+
+CA781107 DH January 26, 1979  10:44 AM 
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1409 96  14.942662073449437 BM25
+
+
+NEBULA: A Digital Computer Using a 20 Mc Glass Delay Line Memory
+The arithmetic unit has a command structure similarto large PARALLEL machines , AND uses flip-flop arithmetic AND control registers throughout 
+
+CA660705 JB March 2, 1978  9:35 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-1171 97  14.891805936151444 BM25
+
+
+A Comparison of the Primal-Simplex and Primal-DualAlgorithms for Linear Programming
+A Comparison of the Primal-Simplex AND Primal-DualAlgorithms FOR Linear Programming It has also been found , viaa regression analysis , that the relevant parameters in determining the difference in the number of iterationsbetween the ALGORITHMS is not only the number of constraints AND the number of variables butalso the ratio of the latter to the former 
+
+CA651110 JB March 6, 1978  4:50 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2030 98  14.83542949738528 BM25
+
+
+Context-Sensitive Parsing
+context-sensitive grammars , context-sensitive parsing , formal grammars , formal language theory , parsing , parsing ALGORITHMS , recognition ALGORITHMS 
+
+CA700707 JB February 10, 1978  4:43 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-2081 99  14.790834158361577 BM25
+
+
+Some Complete Calculi for Matrices
+Algorithmsare given which use symbol manipulation of matrix expressions soas to find the forms best suited FOR COMPUTATION 
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+63 Q0 CACM-0371 100  14.720464822022361 BM25
+
+
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+Remarks on ALGORITHMS 2 AND 3 , Algorithm 15 AND ALGORITHMS 25 AND 26 
+
+CA610311 JB March 17, 1978  12:35 AM
+
+

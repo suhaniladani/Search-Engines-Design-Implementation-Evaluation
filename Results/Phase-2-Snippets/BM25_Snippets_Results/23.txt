@@ -1,0 +1,1000 @@
+--------------------------------------------------------------
+23 Q0 CACM-3148 1  18.296978452795752 BM25
+
+
+High Level Programming for Distributed Computing
+High Level Programming for DISTRIBUTED COMPUTING Programming for DISTRIBUTED AND other loosely coupled systemsis a problem of growing interest This paper describes an approachto DISTRIBUTED COMPUTING at the level of general purpose programminglanguages DISTRIBUTED COMPUTING , modules , messages , assertions 
+
+CA790604 DH August 21, 1979  4:31 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2849 2  16.0247732552458 BM25
+
+
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Ethernet : DISTRIBUTED Packet Switching for Local Computer Networks Ethernet is a branching broadcast communicationsystem for carrying digital data packets among locally DISTRIBUTED COMPUTING stations Coordination of access to the Ether for packetbroadcasts is DISTRIBUTED among the contending transmitting stations using controlled statistical arbitration Switching of packets to their destinations on the Ether is DISTRIBUTED among the receiving stationsusing packet address recognition computer networks , packet switching , multiprocessing , DISTRIBUTED control , DISTRIBUTED COMPUTING , broadcast communication , statistical arbitration 
+
+CA760704 JB January 4, 1978  12:49 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3137 3  15.778691231110807 BM25
+
+
+A Methodology for the Design of Distributed Information Systems
+A Methodology for the Design of DISTRIBUTED Information Systems A macro model of a DISTRIBUTED information system in presented DISTRIBUTED processing , system design , cost minimization , distributeddatabase , interactive COMPUTING , economic modeling , transaction processing 
+
+CA790403 DH May 21, 1979  1:25 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1745 4  12.77372003505644 BM25
+
+
+A Position Paper on Computing and Communications
+information networks , information systems , computingand free enterprise , COMPUTING economics , computer installation management , government regulation , communications services , DISTRIBUTED data base , program leasing A Position Paper on COMPUTING AND Communications The effective operation of free enterprise increating the envisioned information service industry is dependent upon three accomplishments : ( 1 ) the restructuringof our information processing industry so that a clear division of costs is made among COMPUTING , communications , AND the development of information services ; ( 2 ) the wide use of multiaccess system conceptsso that information services may share in the use of computer installations AND so that the cost of theirconstruction is reasonable ; AND ( 3 ) the development of public , message-switched communications services sothat adequate provisions are made for information security 
+
+CA680511 JB February 23, 1978  8:49 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3043 5  12.464097775997896 BM25
+
+
+Distributed Processes: A Concurrent Programming Concept
+DISTRIBUTED Processes : A Concurrent Programming Concept This concept is proposed for real-time applications controlled bymicrocomputer networks with DISTRIBUTED storage The paper gives several examples of DISTRIBUTED processesand shows that they include procedures , coroutines , classes , monitors , processes , semaphores , buffers , pathexpressions , AND input/output as special cases Concurrent programming , DISTRIBUTED processes , microprocessor networks , nondeterminism , guarded regions , programming languages , process communicationand scheduling , sorting arrays , coroutines , classes , monitors , processes , semaphores , buffers , path expressions , input/output 
+
+CA781108 DH January 26, 1979  10:40 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3082 6  12.175601838090271 BM25
+
+
+Time, Clocks, and the Ordering of Events in a Distributed System
+Time , Clocks , AND the Ordering of Events in a DISTRIBUTED System The concept of one event happening beforeanother in a DISTRIBUTED system is examined , andis shown to define a partial ordering of the events A DISTRIBUTED algorithm is given for synchronizing a system of logical clocks which can be used to totallyorder the events DISTRIBUTED systems , computer networks , clock synchronization , multiprocess systems 
+
+CA780706 DH February 7, 1979  4:30 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2949 7  12.020361361009227 BM25
+
+
+A Correctness Proof of a Topology InformationMain tenance Protocol for a Distributed Computer Network
+A Correctness Proof of a Topology InformationMain tenance Protocol for a DISTRIBUTED Computer Network In order for the nodes of a DISTRIBUTED computernetwork to communicate , each node must have information about the network 's topology DISTRIBUTED computer network , correctness proofs , computer networks , DISTRIBUTED control , network topology , routing problem in networks , DISTRIBUTED operatingsystem , store AND forward packet switching , store AND forward message switching , traffic control 
+
+CA770703 JB December 28, 1977  11:59 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2578 8  11.30565480874006 BM25
+
+
+Self-stabilizing Systems in Spite of Distributed Control
+Self-stabilizing Systems in Spite of DISTRIBUTED Control multiprocessing , networks , self-stabilization , synchronization , mutual exclusion , robustness , sharing , error recovery , DISTRIBUTED control , harmonious cooperation , self-repair 
+
+CA741106 JB January 16,1978  10:18 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2276 9  9.976748803628528 BM25
+
+
+Computer Methods for Sampling fromthe Exponential and Normal Distributions
+Various methods are known for transforming uniformlydistributed random numbers into exponentiallyand normally DISTRIBUTED quantities The most efficientones are compared , in terms of memory requirements AND speed , with some new ALGORITHMS For the exponential distribution a definite recommendationcan be made , whereas in the case of the normal distribution there remains a choice between slower andshorter ALGORITHMS AND faster but space consuming methods 
+
+CA721002 JB January 27, 1978  3:55 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0052 10  9.3616873752958 BM25
+
+
+An Efficient Method for Generating Uniformly DistributedPoints on the Surface on an n-Dimensional Sphere (Corrigendum)
+An Efficient Method for Generating Uniformly DistributedPoints on the Surface on an n-Dimensional Sphere ( Corrigendum ) 
+
+CA591007 JB March 22, 1978  4:12 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1153 11  9.26142588494093 BM25
+
+
+A Fast Procedure for Generating Normal Random Variables*
+A technique for generating normally distributedrandom numbers is described 
+
+CA640101 JB March 10, 1978  5:43 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0088 12  9.229905100834012 BM25
+
+
+An Efficient Method for Generating Uniformly DistributedPoints on the Surface of an n-DimensionalSphere
+An Efficient Method for Generating Uniformly DistributedPoints on the Surface of an n-DimensionalSphere 
+
+CA590404 JB March 22, 1978  7:10 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1780 13  9.039044344394636 BM25
+
+
+Harmonic Analysis for SymmetricallyDistributed Data (Algorithm 320 [C6])
+Harmonic Analysis for SymmetricallyDistributed Data ( Algorithm 320 [ C6 ] ) 
+
+CA680202 JB February 23, 1978  1:34 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2816 14  9.030346088872895 BM25
+
+
+Optimal Reorganization of Distributed Space Disk Files
+Optimal Reorganization of DISTRIBUTED Space Disk Files A disk file organization which allows for DISTRIBUTED free space is described 
+
+CA761107 JB January 3, 1978  2:59 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3128 15  8.809724125127824 BM25
+
+
+Synchronization with Eventcounts and Sequencers
+Direct control of ordering seems to simplifycorrectness arguments AND also simplifies implementation in distributedsystems Process synchronization , interprocess communication , distributedsystems , security models , mutual exclusion , semaphores 
+
+CA790207 DH April 12, 1979  10:03 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1862 16  8.580770990011167 BM25
+
+
+Computing Capabilities at Argentine and Chilean Universities
+COMPUTING Capabilities at Argentine AND Chilean Universities The author reports on a trip to universities inArgentina AND Chile during November 1968 , describing university conditions AND COMPUTING activities University COMPUTING service AND academic activities are limited The number of computers is small AND so is the capacity , none larger than an IBM 360/40 ; with someexception , COMPUTING science academic programs are rare This situation is by no means attributable tothose responsible for COMPUTING developments , who strive for excellence ; rather the `` system '' is hard toover-come Consequently , in the absence of conscious government emphasis on strengthening computingcapabilities , future progress may be retarded university education , COMPUTING science academicprograms , university COMPUTING centers , surveys of COMPUTING centers , university COMPUTING capabilities , university-studentrelationship , Argentine universities , Chilean universities , South American universities , developing nations 
+
+CA690801 JB February 15, 1978  6:21 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2197 17  8.216285699227958 BM25
+
+
+The Merit of Regional Computing Networks
+The Merit of Regional COMPUTING Networks One of the suggested means for stimulating thespread of COMPUTING capabilities in institutions of higher learning is through the construction of regionalcomputing networks A major impact of the network was not so much the computer power delivered to the schoolsas the awakening of COMPUTING awareness AND the fostering of capability development at these schools computer sharing , computer utility , cooperative networks , curriculum development , educational COMPUTING , network COMPUTING , regional COMPUTING networks , remote COMPUTING , shared COMPUTING 
+
+CA710502 JB February 3, 1978  3:17 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3011 18  8.019141484153725 BM25
+
+
+Management Utilization of Computers in American Local Governments
+What exists is management-oriented COMPUTING , involving the use of relatively unsophisticatedapplications Despite the unsophisticated nature of these systems , management use of COMPUTING issurprisingly common , but also varied in its extent among local governments Management COMPUTING is mostprevalent in those governments with professional management practices where top management is supportiveof COMPUTING AND tends to control COMPUTING decisions AND where department users have less control over designand implementation activities Finally , management COMPUTING clearly has impacts for top managers , mostlyinvolving improvements in decision information computer utilization , management information system , American local government , city government computers , county government computers , computer impacts , management COMPUTING 
+
+CA780302 JB March 28, 1978  1:46 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1525 19  7.766423030181563 BM25
+
+
+On Computing The Fast Fourier Transform
+On COMPUTING The Fast Fourier Transform Cooley AND Tukey have proposed a fast algorithmfor COMPUTING complex Fourier transform AND have shown major time savings in using it to computelarge transforms on a digital computer With n a power of two , COMPUTING time for this algorithm isproportional to n log2 n , a major improvement over other methods with COMPUTING time proportional to n^2 In this paper , the fast Fourier transform algorithm is briefly reviewed AND fast difference equation methodsfor accurately COMPUTING the needed trigonometric function values are given The problem of computinga large Fourier transform on a system with virtual memory is considered , AND a solution is proposed A scaling plan for COMPUTING the fast Fourier transform with fixed-point arithmetic is also given 
+
+CA671008 JB February 27, 1978  2:03 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2371 20  7.762001065182865 BM25
+
+
+A System for Interprocess Communicationin a Resource Sharing Computer Network
+A system of communication between processes in atime-sharing system is described AND the communication system is extended so that it may be used between processesdistributed throughout a computer network 
+
+CA720402 JB January 31, 1978  1:51 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2406 21  7.5873034456049036 BM25
+
+
+A Data Definition and Mapping Language
+Such languages will be a key systems , as wellas in advanced data management systems AND DISTRIBUTED data bases A data definition language i sa declarativecomputer language for specifying data STRUCTURES Most data definition languages concentrate on the declarationof logical data STRUCTURES with little concern for how these STRUCTURES are physically realizedon a computer system 
+
+CA731202 JB January 19, 1978  2:58 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1224 22  7.561303519881937 BM25
+
+
+Determining a Computing Center Environment
+Determining a COMPUTING Center Environment An investigation is described in which severalgenerally unavailable parameters descriptive of a COMPUTING center environment are obtained 
+
+CA650711 JB March 6, 1978  8:48 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3035 23  7.494466488334895 BM25
+
+
+A Strategic Planning Methodology for the ComputingEffort in Higher Education: An Empirical Evaluation
+A Strategic Planning Methodology for the ComputingEffort in Higher Education : An Empirical Evaluation The findings of a study designed to addressthe pressing problems associated with the strategic planning of the COMPUTING effort in higher educationare presented here Two years after the methodology was implemented , the effectiveness of the planning methodology was assessedin terms of the improvement of the delivery of COMPUTING services to the major institutional rolesof instruction , research , AND administration The results of the research indicate the planning methodology significantlyenhanced the delivery of COMPUTING services Computer management , computer budget , university COMPUTING , computer planning 
+
+CA781204 DH January 18, 1979  4:26 PM 
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2926 24  7.460058116023792 BM25
+
+
+Pagination of B*-Trees with Variable-Length Records
+If records of each length are uniformly DISTRIBUTED within thefile , AND if a wide distribution of record lengths exists within the file , then this strategy results in shallowtrees with fast access times 
+
+CA770908 JB December 27, 1977  12:46 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3090 25  7.393893567150402 BM25
+
+
+Automated Welfare Client-Tracking and ServiceIntegration: The Political Economy of Computing
+Automated Welfare Client-Tracking AND ServiceIntegration : The Political Economy of COMPUTING Social impacts of COMPUTING , organizational impactsof COMPUTING , management information systems , sociology of COMPUTING , information systems andservice integration , urban information systems 
+
+CA780607 DH February 12, 1979  11:01 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2969 26  7.28970342542447 BM25
+
+
+Optimal Program and Data Locations in Computer Networks
+computer networks , databases , distributeddatabases , optimal file location 
+
+CA770503 JB December 29, 1977  2:22 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2810 27  7.234749261292978 BM25
+
+
+Professionalism in the Computing Field
+Professionalism in the COMPUTING Field But within the rather broad definition specified , the COMPUTING practitioner is , as yet , not regarded as a professional Each of the four types of institutions-academic , industry , government , AND the professional society- that educate , employ , regulate , AND mold the practitioner contributesto the `` nonprofessional '' status of the COMPUTING practitioner However , universities AND industry , specifically , can make certain improvements to help the COMPUTING practitioner achieve professional status 
+
+CA750101 JB January 12, 1978  11:05 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1889 28  7.227950069294913 BM25
+
+
+Introducing Computing to Smaller Collegesand Universities -- A Progress Report
+Introducing COMPUTING to Smaller Collegesand Universities -- A Progress Report Access , however , is not enough-effective organizational AND educational methodology for introducingcomputing at such institutions must also be developed regional network , introducing COMPUTING , under-graduateeducation , instructional usage , academic applications , curriculum development , orientation project , regional center , consortium , remote COMPUTING 
+
+CA690604 JB February 17, 1978  11:21 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3141 29  7.192270154033399 BM25
+
+
+An Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations of Processes
+Decentralized ALGORITHMS , DISTRIBUTED systems , operating systems 
+
+CA790502 DH June 5, 1979  2:35 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3158 30  7.145543113245811 BM25
+
+
+Secure Personal Computing in an Insecure Network
+Secure Personal COMPUTING in an Insecure Network A method for implementing secure personal COMPUTING in a networkwith one or more central facilities is proposed Personal COMPUTING , security , privacy , networks , public-key encryption 
+
+CA790804 DB January 14, 1980  9:26 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1411 31  6.967572088480322 BM25
+
+
+Comparison of Several Algorithms for Computationof Means, Standard Deviations and Correlation Coefficients
+For each statistic , the algorithmincluded the usual COMPUTING formulas , correction due to an accumulated error term , AND a recursive computationof the current value of the statistic The usual COMPUTING formulas were also evaluated indouble precision Large errors were noted for some calculation using the usual COMPUTING formulas Comparison of Several ALGORITHMS for Computationof Means , Standard Deviations AND Correlation Coefficients Several ALGORITHMS for computation of basicstatistics are compared by their performance on systematically generated test data 
+
+CA660703 JB March 6, 1978  2:54 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2357 32  6.9222445068945575 BM25
+
+
+MUX, a Simple Approach to On-Line Computing
+MUX , a Simple Approach to On-Line COMPUTING time-sharing , remote COMPUTING , on-line access , on-line COMPUTING , remote file manager , real time , multiplexer , implementation effort , operating overhead , user reactions , remote terminals , operating system 
+
+CA720503 JB January 31, 1978  11:04 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2900 33  6.796569583026387 BM25
+
+
+Some Theorems to Aid in Solving the File Allocation Problem
+File allocation , computer networks , DISTRIBUTED data management 
+
+CA771116 JB December 27, 1977  8:45 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3025 34  6.779254345183901 BM25
+
+
+The Evolution of the DEC system 10
+The PDP-10'scontributions to COMPUTING technology include : accelerating the transition from batch oriented to timesharing COMPUTING systems ; transferring hardware technology within DEC ( AND elsewhere ) to minicomputerdesign AND manufacturing ; supporting minicomputer hardware AND software development ; AND serving as amodel for single user AND timeshared interactive minicomputer/microcomputer systems computer STRUCTURES , architecture , operating system , timesharing 
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2756 35  6.7268554212803835 BM25
+
+
+A Problem-List of Public Policy IssuesConcerning Computers and Health Care
+economic AND social implications , the publicand COMPUTING , medicine AND health care 
+
+CA750511 JB January 9, 1978  2:22 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2822 36  6.585591771464861 BM25
+
+
+Homilies for Humble Standards
+Copyright 1976 , Association for ComputingMachinery , Inc General permission to republish , but not for profit , all or part of this material is grantedprovided that ACM 's copyright notice is given AND that reference is made to the publication , to itsdata of issue , AND to the fact that reprinting privileges were granted by permission ofthe Association for COMPUTING Machinery 
+
+CA761101 JB January 3, 1978  3:47 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3084 37  6.579972340773185 BM25
+
+
+Interpolation Search -A Log LogN Search
+It is shown that on the average log logN file accesses are required to retrieve a key , assuming that the N keys are uniformly DISTRIBUTED 
+
+CA780704 DH February 7, 1979  4:50 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2780 38  6.562319840173279 BM25
+
+
+On Computing Certain Elements of the Inverse of a Sparse Matrix
+On COMPUTING Certain Elements of the Inverse of a Sparse Matrix A recursive algorithm for COMPUTING the inverseof a matrix from the LU factors based on relationships in Takahashi , et al 
+
+CA750308 JB January 9, 1978  4:34 PM 
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2311 39  6.5191174518876585 BM25
+
+
+A Generational Perspective of Information System Development
+System development is categorized from a generationalpoint of view that parallels the commonly described COMPUTING system generations COMPUTING milieu , management data processing , hardwaresystems , software systems , systems development process , functional systems , management systems 
+
+CA720717 JB January 30, 1978  11:22 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1604 40  6.493480544487214 BM25
+
+
+Further Analysis of a Computing Center Environment
+Further Analysis of a COMPUTING Center Environment Empirical distributions of program lengths , execution times , processing times , AND loading times of over 10,000 jobs serviced in a university computingcenter environment are presented 
+
+CA670502 JB February 28, 1978  11:02 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1010 41  6.481990025650196 BM25
+
+
+A Multiuser Computation Facility for Education and Research
+Present-day COMPUTING facilities are limitedin their value for scientific research by inability to interact strongly with users The full power of aresearch COMPUTING instrument should be available at many terminals that give each user the ability to generate , correct AND operate any procedure he wishes , either simple or complex 
+
+CA640901 JB March 9, 1978  6:22 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2373 42  6.466116260294397 BM25
+
+
+Properties of the Working-Set Model
+Under general assumptions , working-setsize is shown to be normally DISTRIBUTED working-set model , paging , paging ALGORITHMS , program behavior , program modeling 
+
+CA720308 JB January 31, 1978  2:07 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2615 43  6.444538386914308 BM25
+
+
+Procedures for computing Smoothing and InterpolatingNatural Splines [E1] (Algorithm A480)
+Procedures for COMPUTING Smoothing AND InterpolatingNatural Splines [ E1 ] ( Algorithm A480 ) 
+
+CA740809 JB January 17, 1978  9:40 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2890 44  6.268474549078309 BM25
+
+
+On Quadratic Adaptive Routing Algorithms
+routing ALGORITHMS , adaptive routing , quadratic routing , alternate routing , store-and-forward network , DISTRIBUTED network , computer network , message switching On Quadratic Adaptive Routing ALGORITHMS 
+
+CA760103 JB January 5, 1978  10:37 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2741 45  6.176869783089022 BM25
+
+
+Decomposability, Instabilities, andSaturation in Multiprogramming Systems
+A step-by-step approach to model the dynamicbehavior AND evaluate the performance of COMPUTING systems is proposed This approachis taken in order to identify in multiprogramming paging systems ( i ) unstable regimes of operations AND ( ii ) critical COMPUTING loads which bring the system into states of saturation 
+
+CA750701 JB January 9, 1978  10:39 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2216 46  6.087803957254913 BM25
+
+
+On the Probability Distribution of the Values of Binary Trees
+The analysis does not assumeuniformly DISTRIBUTED branching ratios , AND therefore is applicable to a family of sorting algorithmsdiscussed by Hoare , Singleton , AND van Emden The solution to the integral equation indicates thatusing more advanced ALGORITHMS in the family makes only minor reductions in the expected sorting effort , but substantially reduces the variance in sorting effort 
+
+CA710205 JB February 8, 1978  9:09 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0072 47  6.01596817530508 BM25
+
+
+An Educational Program in Computing 
+An Educational Program in COMPUTING 
+
+CA590801 JB March 22, 1978  6:18 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1105 48  6.01596817530508 BM25
+
+
+On Introducing Digital Computing
+On Introducing Digital COMPUTING 
+
+CA640403 JB March 10, 1978  1:53 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1946 49  5.977910080274989 BM25
+
+
+Computing Polynomial Resultants: Bezout's Determinantvs. Collins' Reduced P. Algorithm
+COMPUTING Polynomial Resultants : Bezout 's Determinantvs ALGORITHMS for COMPUTING the resultant of twopolynomials in several variables , a key repetitive step of computation in solving systems of polynomialequations by elimination , are studied Determining the best algorithm for computer implementation dependsupon the extent to which extraneous factors are introduced , the extent of propagation of errors caused bytruncation of real coefficients , memory requirements , AND COMPUTING speed 
+
+CA690103 JB February 20, 1978  12:10 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2355 50  5.951499829354685 BM25
+
+
+Implementing Clenshaw-Curtis quadrature, I Methodology and Experience
+This paper is intwo parts ; a companion paper , `` II COMPUTING the Cosine Transformation , '' shows that this objection canbe overcome by COMPUTING the cosine transformation by a modification of the fast Fourier transform algorithm 
+
+CA720505 JB January 31, 1978  10:05 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0147 51  5.922753783036262 BM25
+
+
+Report on a Conference of University Computing Center Directors
+Report on a Conference of University COMPUTING Center Directors 
+
+CA601001 JB March 20, 1978  8:38 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1747 52  5.848229687892715 BM25
+
+
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+Three Criteria for Designing COMPUTING Systems to Facilitate Debugging The designer of a COMPUTING system should adoptexplicit criteria for accepting or rejecting proposed system features computer design , computer design criteria , computersystems , computer systems design , input equipment , input equipment design , operating systems , operatingsystems design , multiprogramming , multiprogrammed systems , multiprogrammed system design , virtual computers , programming languages , programming language design , program semantics , programming language semantics , determinism , reproducibility , repeatability , deterministic computers , protection , memory protection , information security , information privacy , COMPUTING reliability , debugging , program debugging , program testing , parallel processing , parallel programming , multiprocessing 
+
+CA680509 JB February 23, 1978  9:06 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1438 53  5.836861543061812 BM25
+
+
+A Method for Locating Zeros of Complex Functions
+A method for COMPUTING the index , or windingnumber , is developed AND applied to the problem of finding zeros of functions from the plane into the plane 
+
+CA660411 JB March 3, 1978  10:23 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2951 54  5.833309234028027 BM25
+
+
+Dynamic Response Time Prediction for Computer Networks
+If the ultimate aim of a COMPUTING networkis resource sharing , then the human component as well as the technical component of networking mustbe fully investigated to achieve this goal Analytical , simulation , AND statistical performanceevaluation tools are employed to investigate the feasibility of a dynamic response time monitorthat is capable of providing comparative response time information for users wishing to process variouscomputing applications at some network COMPUTING node 
+
+CA770701 JB December 28, 1977  12:42 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0830 55  5.832383935951662 BM25
+
+
+CORC-The Cornell Computing Language
+CORC-The Cornell COMPUTING Language 
+
+CA630619 JB March 14, 1978  10:06 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2596 56  5.78405754310084 BM25
+
+
+A Weighted Buddy Method for Dynamic Storage Allocation
+However , the totalfragmentation is smaller for the weighted buddy method when the requests are for exponentially DISTRIBUTED block sizes 
+
+CA741002 JB January 16, 1978  1:07 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3086 57  5.768181740681543 BM25
+
+
+On the Complexity of Computing the Measure of U[ai, bi]
+On the Complexity of COMPUTING the Measure of U [ ai , bi ] The decision tree complexity of COMPUTING themeasure of the union of n ( possibly overlapping ) intervals is shown to be ( n log n ) , even if comparisonsbetween linear functions of the interval endpoints are allowed Analysis of ALGORITHMS , combinatorial problems , computational complexity , computational models , decision tree programs , lower bounds 
+
+CA780702 DH February 8, 1979  3:46 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2630 58  5.752480066477173 BM25
+
+
+On Computing Sets of Shortest Paths in a Graph
+On COMPUTING Sets of Shortest Paths in a Graph Two ALGORITHMS are presented that constructthe k shortest paths between every pair of vertices in a directed graph These ALGORITHMS generalize the Floydalgorithm AND the Dantzig algorithm for finding the shortest path between every pair of vertices in a directed graph 
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1349 59  5.650521647201312 BM25
+
+
+Computing Capabilities at Western European Universities
+COMPUTING Capabilities at Western European Universities This report on the author 's trip to universitiesin Western Europe in the summer of 1966 gives brief descriptions of COMPUTING activities at each institutionvisited This lag is attributed to four principal factors : ( a ) the handicapping organization of academic procedures ; ( b ) the university-government financial relationship ; ( c ) the subordinated organization of the COMPUTING facility ; ( d ) the paucity of professional interchangeof knowledge 
+
+CA661201 JB March 2, 1978  2:55 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1417 60  5.57811086311321 BM25
+
+
+Economies of Scale and the IBM System/360
+Sizable economies of scale are unquestionably present in COMPUTING equipment 
+
+CA660604 JB March 3, 1978  8:57 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0080 61  5.5770965893466835 BM25
+
+
+A Technique for Computing Critical RotationalSpeeds of Flexible Shafts on an Automatic Computer
+A Technique for COMPUTING Critical RotationalSpeeds of Flexible Shafts on an Automatic Computer 
+
+CA590604 JB March 22, 1978  6:35 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2387 62  5.574217999537829 BM25
+
+
+Maximum Computing Power and Cost Factors in the Centralization Problem
+Maximum COMPUTING Power AND Cost Factors in the Centralization Problem 
+
+CA720204 JB January 31, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0481 63  5.536705703915527 BM25
+
+
+A One-Day Look At Computing
+A One-Day Look At COMPUTING 
+
+CA620911 JB March 17, 1978  7:30 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0300 64  5.5243178215396265 BM25
+
+
+COBOL: A Sample Problem
+A simplified Merchandise Control problem hasbeen chosen for presenting COBOL to users AND potential users of COMPUTING systems 
+
+CA610804 JB March 16, 1978  10:12 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2169 65  5.518797833651059 BM25
+
+
+The Altran System for Rational Function Manipulation-A Survey
+Considerable effort has been spent to ensurea minimum amount of machine dependence in the implementation , thus permitting the system to be installedquickly AND easily on a variety of COMPUTING machines In this paper a brief description of the language , run time data STRUCTURES , AND implementation is given 
+
+CA710803 JB February 2, 1978  4:17 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2745 66  5.516442195841051 BM25
+
+
+A Linear Space Algorithm for Computing Maximal Common Subsequences
+A Linear Space Algorithm for COMPUTING Maximal Common Subsequences 
+
+CA750608 JB January 9, 1978  12:56 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1810 67  5.473690455728926 BM25
+
+
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual?
+The disadvantagesof prefolding , which is required when the folding is manual , are examined , AND a number ofthe important troubles which beset COMPUTING today are shown to arise from , or be aggravated by , thissource It is concluded that a folding mechanism will probably become a normal part of most COMPUTING systems paging , automatic paging , demand paging , folding , automatic folding , storage hierarchies , memory hierarchies , replacement ALGORITHMS , performance , measurement 
+
+CA691202 JB February 15, 1978  4:33 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2934 68  5.45765400590602 BM25
+
+
+Comment on Computing the k Shortest Paths in a Graph
+Comment on COMPUTING the k Shortest Paths in a Graph 
+
+CA770809 JB December 28, 1977  7:00 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2883 69  5.433910609512619 BM25
+
+
+An Application of Heuristic Search Methods to Edge and Contour Detection
+The relations between this representation of the minimization problem AND a dynamic programming approachare discussed , showing that the graph search method can lead to substantial improvements in computingtime Moreover , if heuristic search methods are used , the COMPUTING time will depend on the amountof noise in the picture This problem can be representedas a shortest path problem on a graph AND can be solved using well-known graph search ALGORITHMS 
+
+CA760204 JB January 5, 1978  9:30 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1472 70  5.432034131521403 BM25
+
+
+Description of a High Capacity, FastTurnaround University Computing Center
+Description of a High Capacity , FastTurnaround University COMPUTING Center 
+
+CA660212 JB March 3, 1978  2:28 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2081 71  5.414345855312475 BM25
+
+
+Some Complete Calculi for Matrices
+The paper investigates how the special structure of matrices can be describedand utilized for efficient COMPUTING by saving memory space andsuperfluous operations A matrix calculus is introduced with the intention of developing data structuressuitable for a high level algorithmic language for mathematical programming complete calculus , data STRUCTURES , linearprogramming , matrix , matrix concatenation , matrix sequences , programming languages , sequence operations , symbol manipulation Algorithmsare given which use symbol manipulation of matrix expressions soas to find the forms best suited for computation 
+
+CA700403 JB February 13, 1978  3:18 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2454 72  5.407684131186697 BM25
+
+
+Computational Algorithms for Closed QueueingNetworks with Exponential Servers
+Methods are presented for COMPUTING the equilibriumdistribution of customers in closed queueing networks with exponential servers Computational ALGORITHMS for Closed QueueingNetworks with Exponential Servers The computational ALGORITHMS are based on two-dimensionaliterative techniques which are highly efficient AND quite simple to implement 
+
+CA730901 JB January 23, 1978  10:07 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1873 73  5.388667498539928 BM25
+
+
+Accelerating LP Algorithms
+It is shown how a novel method for COMPUTING ( related ) inner products can accelerate the pricing phase of LP ALGORITHMS Accelerating LP ALGORITHMS 
+
+CA690707 JB February 17, 19789:08 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2834 74  5.387846794581879 BM25
+
+
+Efficient Generation of the BinaryReflected Gray Code and Its Applications
+Gray code , combinations , subsets , compositions , combinatorial COMPUTING ALGORITHMS are presented to generate the n-bitbinary reflected Gray code AND codewords of fixed weight in that code Both ALGORITHMS are efficientin that the time required to generate the next element from the current one is constant 
+
+CA760905 JB January 4, 1978  9:14 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1109 75  5.364727500091389 BM25
+
+
+Conversion of a Power to a Series of Chebyshev Polynomials*
+The method is illustrated by COMPUTING the coefficients for the expansionof the logarithm AND dilogarithm 
+
+CA640323 JB March 10, 1978  2:05 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0111 76  5.364065667721714 BM25
+
+
+On Programming the Numerical Solution of Polynomial Equations
+Numerical techniques are presented for computingthe roots of polynomial equations 
+
+CA601205 JB March 20, 1978  6:41 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2685 77  5.333909564934771 BM25
+
+
+The Parallel Execution of DO Loops
+parallel COMPUTING , multiprocessor computers , array computers , vector computers , loops 
+
+CA740204 JB January 18, 1978  1:14 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2999 78  5.289318290540409 BM25
+
+
+An Approach to Multidimensional Data Array Processing by Computer
+array processing , table processing , statisticalanalysis , data retrieval , data processing , syntax for data STRUCTURES , COMPUTING techniques , time series , cross tabulation 
+
+CA770201 JB December 30, 1977  3:12 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0759 79  5.273145699737874 BM25
+
+
+Continued Operation Notation for SymbolManipulation and Array Processing
+A brief account is given of a notational devicethat is very useful in the formal representation of syntaxes , string relationships AND string transformationprocedures AND also of COMPUTING procedures that deal with arrays of functions of many variables 
+
+CA630839 JB March 13, 1978  8:02 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2743 80  5.233486764221453 BM25
+
+
+Sorting X + Y
+merge sorting , computational complexity , datamodeling , COMPUTING models , binary comparisons 
+
+CA750610 JB January 9, 1978  12:45 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2130 81  5.1759030100522265 BM25
+
+
+Automatic Segmentation of Cyclic Program StructuresBased on Connectivity and Processor Timing
+Ramamoorthy are subject to limitations that arise when the preferredsegment size is not compatible with the physical restrictionsimposed by the available COMPUTING equipment Automatic Segmentation of Cyclic Program StructuresBased on Connectivity AND Processor Timing automatic segmentation , cyclic program STRUCTURES , loops , paging , multiprogramming , loaders , assemblers , compilers , time-sharing , program connectivity 
+
+CA700101 JB February 14, 1978, 2:20 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1471 82  5.135878100619593 BM25
+
+
+Programming Semantics for Multiprogrammed computations
+These meta-instructions relate to parallel processing , protection of separate computations , programdebugging , AND the sharing among users of memory segments AND other COMPUTING objects , the names of whichare hierarchically structured 
+
+CA660301 JB March 3, 1978  2:25 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1186 83  5.099552565032349 BM25
+
+
+Recursive Solution of a Class Of Combinatorial Problems: An Example
+Combinatorial problems requiring the selectionof n elements from a set of m elements may be solved by a recursion process analogous to that forcomputing binomial coefficients 
+
+CA651009 JB March 6, 1978  6:40 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0096 84  5.094761733638693 BM25
+
+
+On Computing Radiation Integrals
+On COMPUTING Radiation Integrals 
+
+CA590205 JB March 22, 1978  8:16 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1765 85  5.005553810175627 BM25
+
+
+Expenditures, Sources of Funds, and Utilizationof Digital Computers for Research and Instruction in Higher Education: 1964-65 with Projections for 1968-69
+COMPUTING centers , research , instruction , utilization , expenditures , support , sources of funds , higher education , post secondary education , colleges , universities 
+
+CA680405 JB February 23, 1978  11:07 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0069 86  4.994168350223857 BM25
+
+
+Statistical Programs for the IBM 650-Part I
+A collection is given of brief descriptionsof statistical programs now in use in university COMPUTING centers which have IBM 650 's 
+
+CA590804 JB March 22, 1978  6:07 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1363 87  4.963257812957609 BM25
+
+
+A General Method of Systematic Interval Computationfor Numerical Integration of Initial Value Problems
+A procedure is given for continuously computingand monitoring the step size to be used by a self-starting , p-th order numerical integration methodto solve an initial value problem 
+
+CA661004 JB March 2, 1978  4:05 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2808 88  4.920550475079457 BM25
+
+
+The Lemniscate Constants
+The lemniscate constants , AND indeed someof the methods used for actually COMPUTING them , have played an enormous part in the development ofmathematics 
+
+CA750103 JB January 12, 1978  10:51 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2020 89  4.897608949344219 BM25
+
+
+The Allocation of Computer Resources-Is Pricing the Answer?
+The widespread use of complex third generation COMPUTING systems has led to a much broader concern about the means by which the resources of these systemsare allocated among the user community In thispaper the manner in which one would like to allocate COMPUTING resourcesis considered , AND then the extent to which a pricing mechanism fits this mold is discussed 
+
+CA700801 JB February 10, 1978  4:13 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3077 90  4.83724643974125 BM25
+
+
+Can Programming Be Liberated from the von NeumannStyle?  A Functional Style and Its Algebra of Programs
+A new class of COMPUTING systemsuses the functional programming style both in its programming language AND in its state transitionrules Functional programming , algebra of programs , combiningforms , functional forms , programming languages , von Neumann computers , von Neumann languages , models ofcomputing systems , applicative COMPUTING systems , applicative state transition systems , program transformation , program correctness , program termination , metacomposition 
+
+CA780801 DH February 7, 1979  3:13 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1571 91  4.8001976803084325 BM25
+
+
+A User-Oriented Time-Shared Online System
+The systemrepresents an attempt to provide research workers of the Institute with the ability to interact directlywith a highly sophisticated digital COMPUTING complex in the most direct AND simple fashion possible 
+
+CA670702 JB February 28, 1978  9:08 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1645 92  4.8001976803084325 BM25
+
+
+A Note on Computing Approximations to the Exponential Function
+A Note on COMPUTING Approximations to the Exponential Function 
+
+CA670110JB February 28, 1978  4:25 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1031 93  4.775780081339507 BM25
+
+
+A Note on Starting the Newton-Raphson Method
+Determination of a suitable initial estimatefor a root of an equation f ( x ) = 0 by means of COMPUTING the roots of a sequence of related equations is described 
+
+CA640716 JB March 9, 1978  7:44 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0103 94  4.77259693350431 BM25
+
+
+COPE (Console Operator Proficiency Examination)*
+Because of this , dependence ofthose in COMPUTING on the skill AND experience of operators is increasing 
+
+CA601213 JB March 20, 1978  6:23 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-1262 95  4.75494757081544 BM25
+
+
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+The statements should be particularly effective for use with COMPUTING devices capable ofattaining some degree of compute-compute overlap 
+
+CA650509 JB March 7, 1978  2:17 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2656 96  4.701840364423676 BM25
+
+
+Scalar- and Planar- Valued Curve Fitting Using Splines Under Tension
+The defining equations are presented here , together with an efficient method for determining the necessaryparameters AND COMPUTING the resultant spline 
+
+CA740414 JB January 18, 1978  9:23 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2527 97  4.55943965528368 BM25
+
+
+Implementation of High Level Language Machine
+COMPUTING machines which directly executethe statements of a high level language have been proposed in the past 
+
+CA730401 JB January 24, 1978  10:21 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-2147 98  4.541192068738862 BM25
+
+
+Using Computers in Higher Education:Past Recommendations, Status, and Needs
+A pleais made for continuing studies on status AND goals for COMPUTING in higher education , improvement of degreeprograms , AND a national testing laboratory for educational technology 
+
+CA711102 JB February 2, 1978  11:44 AM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-3166 99  4.482736996851609 BM25
+
+
+Computing Standard Deviations: Accuracy
+COMPUTING Standard Deviations : Accuracy Four ALGORITHMS for the numerical computationof the standard deviation of ( unweighted ) sampled dataare analyzed Two of the ALGORITHMS are well-known in the statisticaland computational literature ; the other two are new algorithmsspecifically intended for automatic computation `` Each of the four ALGORITHMS is analyzed for the conditionsunder which it will be accurate We conclude that all fouralgorithms will provide accurate answers for many problems , but twoof the ALGORITHMS , one new , one old , are substantially more accurateon difficult problems than are the other two 
+
+CA790907 DB January 16, 1980  4:23 PM
+
+
+--------------------------------------------------------------
+23 Q0 CACM-0755 100  4.441004771897601 BM25
+
+
+An Exponential Method of Numerical Integrationof Ordinary Differential Equations
+Thus this formula may be used with a large step size to decrease thetotal COMPUTING time for a solution significantly , particularly in those engineering problems where high accuracy is not needed 
+
+CA630843 JB March 13, 1978 7:52 PM
+
+

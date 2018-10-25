@@ -1,0 +1,66 @@
+MRR for the System TFIDF is 0.5019304645487361
+
+RR for query id  1 is 0.02702702702702703
+RR for query id  10 is 0.25
+RR for query id  11 is 0.3333333333333333
+RR for query id  12 is 0.5
+RR for query id  13 is 0.25
+RR for query id  14 is 1.0
+RR for query id  15 is 0.5
+RR for query id  16 is 0.25
+RR for query id  17 is 0.2
+RR for query id  18 is 0.14285714285714285
+RR for query id  19 is 1.0
+RR for query id  2 is 0.14285714285714285
+RR for query id  20 is 0.1
+RR for query id  21 is 0.3333333333333333
+RR for query id  22 is 0.034482758620689655
+RR for query id  23 is 1.0
+RR for query id  24 is 1.0
+RR for query id  25 is 1.0
+RR for query id  26 is 0.14285714285714285
+RR for query id  27 is 1.0
+RR for query id  28 is 0.5
+RR for query id  29 is 1.0
+RR for query id  3 is 0.020833333333333332
+RR for query id  30 is 0.25
+RR for query id  31 is 1.0
+RR for query id  32 is 0.2
+RR for query id  33 is 0.14285714285714285
+34.txt RR cannot be found
+35.txt RR cannot be found
+RR for query id  36 is 0.5
+RR for query id  37 is 1.0
+RR for query id  38 is 0.25
+RR for query id  39 is 1.0
+RR for query id  4 is 0.5
+RR for query id  40 is 0.125
+41.txt RR cannot be found
+RR for query id  42 is 0.3333333333333333
+RR for query id  43 is 1.0
+RR for query id  44 is 1.0
+RR for query id  45 is 0.3333333333333333
+46.txt RR cannot be found
+47.txt RR cannot be found
+RR for query id  48 is 1.0
+RR for query id  49 is 0.024390243902439025
+RR for query id  5 is 0.5
+50.txt RR cannot be found
+51.txt RR cannot be found
+52.txt RR cannot be found
+53.txt RR cannot be found
+54.txt RR cannot be found
+55.txt RR cannot be found
+56.txt RR cannot be found
+RR for query id  57 is 0.3333333333333333
+RR for query id  58 is 1.0
+RR for query id  59 is 0.5
+RR for query id  6 is 0.125
+RR for query id  60 is 1.0
+RR for query id  61 is 1.0
+RR for query id  62 is 0.05555555555555555
+RR for query id  63 is 0.3333333333333333
+RR for query id  64 is 0.16666666666666666
+RR for query id  7 is 1.0
+RR for query id  8 is 0.2
+RR for query id  9 is 0.5
